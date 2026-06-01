@@ -7,11 +7,11 @@
     "city": "Jakarta",
     "flag": "🇮🇩",
     "soon": true,
-    "bwfUrl": "https://bwfbadminton.com/?s=Indonesia+Open"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5001/indonesia-open/"
   },
   {
     "slug": "singapore-open",
-    "date": "JUN 09",
+    "date": "JUN 10",
     "name": "Singapore Open",
     "grade": "Super 750",
     "city": "Singapore",
@@ -20,33 +20,33 @@
     "bwfUrl": "https://bwfbadminton.com/?s=Singapore+Open"
   },
   {
-    "slug": "australian-open",
-    "date": "JUN 23",
-    "name": "Australian Open",
-    "grade": "Super 500",
-    "city": "Sydney",
-    "flag": "🇦🇺",
-    "soon": false,
-    "bwfUrl": "https://bwfbadminton.com/?s=Australian+Open"
-  },
-  {
     "slug": "canada-open",
-    "date": "JUN 30",
+    "date": "JUL 01",
     "name": "Canada Open",
-    "grade": "Super 500",
+    "grade": "Super 300",
     "city": "Calgary",
     "flag": "🇨🇦",
     "soon": false,
     "bwfUrl": "https://bwfbadminton.com/?s=Canada+Open"
   },
   {
-    "slug": "us-open",
-    "date": "JUL 07",
+    "slug": "u-s-open",
+    "date": "JUL 08",
     "name": "U.S. Open",
     "grade": "Super 300",
     "city": "Fort Worth",
     "flag": "🇺🇸",
     "soon": false,
     "bwfUrl": "https://bwfbadminton.com/?s=U.S.+Open"
+  },
+  {
+    "slug": "japan-open",
+    "date": "JUL 22",
+    "name": "Japan Open",
+    "grade": "Super 750",
+    "city": "Tokyo",
+    "flag": "🇯🇵",
+    "soon": false,
+    "bwfUrl": "https://bwfbadminton.com/?s=Japan+Open"
   }
 ]
