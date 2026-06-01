@@ -1,7 +1,6 @@
 import { Fragment, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { BC_DATA } from "../data/broadcast.js";
-import heroStreet from "../assets/hero/hero-street.jpg";
 
 function useCountdown(targetIso) {
   const [now, setNow] = useState(() => Date.now());
@@ -24,10 +23,16 @@ export function Hero() {
 
   return (
     <section style={{ position: "relative", borderBottom: "1px solid var(--bc-line)", overflow: "hidden" }}>
-      <img
-        className="bc-hero-img"
-        src={heroStreet}
-        alt="Indian street badminton scene under a blossoming tree"
+      <video
+        className="bc-hero-video"
+        src="/hero/hero.mp4"
+        poster="/hero/hero-poster.jpg"
+        autoPlay
+        loop
+        muted
+        playsInline
+        preload="metadata"
+        aria-label="Indian street badminton scene under a blossoming tree"
         style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 58%" }}
       />
       <div style={{ position: "absolute", inset: 0, background: "linear-gradient(0deg, rgba(0,0,0,0.58) 0%, rgba(0,0,0,0.2) 16%, transparent 36%)" }} />
