@@ -18,7 +18,9 @@ const JOBS: Record<string, () => Promise<void>> = {
 // tokens and is scheduled separately, once a day).
 // `matches` is intentionally NOT in ALL — the home UI doesn't render match
 // data anymore (no real live source). The job stays available for future use.
-const ALL = ["news", "rankings", "schedule"];
+// `schedule` is also out of ALL — Gemini hallucinates dates from Wikipedia
+// even with strict prompting. Run manually after fact-checking the result.
+const ALL = ["news", "rankings"];
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);

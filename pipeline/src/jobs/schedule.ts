@@ -5,6 +5,7 @@ import { fetchAll, bundleForPrompt } from "../fetch.ts";
 import { geminiJSON } from "../gemini.ts";
 import { SCHEDULE_SOURCES } from "../sources.ts";
 import { SchedulePayload, scheduleResponseSchema } from "../schemas.ts";
+import { bwfUrlFor } from "../bwf-urls.ts";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 const DATA_DIR = resolve(__dirname, "../../../public/data");
@@ -23,7 +24,7 @@ If fewer than 5 upcoming events exist in the source, return fewer entries. Don't
    - "city": host city
    - "flag": single emoji flag of the host country (🇮🇳 🇮🇩 🇺🇸 🇨🇳 🇯🇵 🇩🇰 🇲🇾 🇰🇷 🇹🇭 🇫🇷 🇪🇸 🇩🇪 🇬🇧 🇨🇦 🇸🇬 etc.)
    - "soon": true only for the first/next upcoming tournament, false for the rest
-   - "bwfUrl": use the canonical BWF World Tour calendar URL **verbatim**: "https://bwfworldtour.bwfbadminton.com/calendar/". Do NOT invent per-event URLs like /tournament/<id>/ — BWF tournament URLs require IDs you don't have, and search URLs like ?s=... 404 inside Cloudflare. The calendar page is the single working canonical link.
+   - "bwfUrl": you can omit this field — the pipeline will fill it from a canonical slug → URL table. If you do provide one, set it to "https://bwfworldtour.bwfbadminton.com/calendar/" (the table will override).
 
 2. "nextEvent": more detail on that first tournament. Field rules:
    - "name", "grade", "city", "venue" (e.g. "Istora Senayan"), "dates" ("Jun 2 – Jun 7, 2026")
@@ -68,6 +69,9 @@ export async function runSchedule(): Promise<void> {
     // Ensure exactly one entry is flagged `soon` — the earliest future one.
     filtered.sort((a, b) => indexOfDate(a.date) - indexOfDate(b.date));
     filtered.forEach((e, i) => { e.soon = i === 0; });
+    // Override Gemini-guessed bwfUrl with our canonical lookup table.
+    // Falls back to the BWF calendar URL when the slug isn't in the table.
+    filtered.forEach((e) => { e.bwfUrl = bwfUrlFor(e.slug); });
     await writeFile(resolve(DATA_DIR, "schedule.json"), JSON.stringify(filtered, null, 2) + "\n", "utf8");
     console.log(`[schedule] wrote ${filtered.length} upcoming entries`);
   }

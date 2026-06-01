@@ -7,46 +7,46 @@
     "city": "Jakarta",
     "flag": "🇮🇩",
     "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5528/polytron-indonesia-open-2026/results/"
   },
   {
-    "slug": "singapore-open",
-    "date": "JUN 10",
-    "name": "Singapore Open",
-    "grade": "Super 750",
-    "city": "Singapore",
-    "flag": "🇸🇬",
+    "slug": "australian-open",
+    "date": "JUN 16",
+    "name": "Australian Open",
+    "grade": "Super 500",
+    "city": "Sydney",
+    "flag": "🇦🇺",
     "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5215/sathio-group-australian-badminton-open-2026/results/"
   },
   {
-    "slug": "canada-open",
-    "date": "JUL 01",
-    "name": "Canada Open",
-    "grade": "Super 300",
-    "city": "Calgary",
-    "flag": "🇨🇦",
-    "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
-  },
-  {
-    "slug": "u-s-open",
-    "date": "JUL 08",
+    "slug": "us-open",
+    "date": "JUN 30",
     "name": "U.S. Open",
     "grade": "Super 300",
     "city": "Fort Worth",
     "flag": "🇺🇸",
     "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-us-open-2026/results/"
+  },
+  {
+    "slug": "canada-open",
+    "date": "JUL 07",
+    "name": "Canada Open",
+    "grade": "Super 300",
+    "city": "Calgary",
+    "flag": "🇨🇦",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5271/yonex-canada-open-2026/results/"
   },
   {
     "slug": "japan-open",
-    "date": "JUL 22",
+    "date": "JUL 21",
     "name": "Japan Open",
     "grade": "Super 750",
     "city": "Tokyo",
     "flag": "🇯🇵",
     "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5213/daihatsu-japan-open-2026/results/"
   }
 ]
