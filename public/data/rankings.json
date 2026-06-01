@@ -1,0 +1,8 @@
+[
+  { "disc": "Men's Doubles", "name": "Satwik & Chirag", "rank": 3, "move": "up", "pts": "92,540" },
+  { "disc": "Men's Singles", "name": "Lakshya Sen", "rank": 12, "move": "up", "pts": "61,318" },
+  { "disc": "Women's Singles", "name": "PV Sindhu", "rank": 15, "move": "down", "pts": "54,902" },
+  { "disc": "Women's Doubles", "name": "Treesa & Gayatri", "rank": 16, "move": "up", "pts": "48,110" },
+  { "disc": "Men's Singles", "name": "HS Prannoy", "rank": 24, "move": "down", "pts": "39,760" },
+  { "disc": "Women's Singles", "name": "Malvika Bansod", "rank": 31, "move": "up", "pts": "31,205" }
+]

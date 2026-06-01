@@ -1,0 +1,76 @@
+import { Fragment, useEffect, useState } from "react";
+import { Link } from "react-router-dom";
+import { BC_DATA } from "../data/broadcast.js";
+import heroStreet from "../assets/hero/hero-street.jpg";
+
+function useCountdown(targetIso) {
+  const [now, setNow] = useState(() => Date.now());
+  useEffect(() => {
+    const id = setInterval(() => setNow(Date.now()), 1000);
+    return () => clearInterval(id);
+  }, []);
+  let diff = Math.max(0, new Date(targetIso).getTime() - now);
+  const d = Math.floor(diff / 86400000); diff -= d * 86400000;
+  const h = Math.floor(diff / 3600000); diff -= h * 3600000;
+  const m = Math.floor(diff / 60000); diff -= m * 60000;
+  const sec = Math.floor(diff / 1000);
+  const p = (n) => String(n).padStart(2, "0");
+  return [[p(d), "DAYS"], [p(h), "HRS"], [p(m), "MIN"], [p(sec), "SEC"]];
+}
+
+export function Hero() {
+  const D = BC_DATA;
+  const cd = useCountdown(D.nextEvent.startsAt);
+
+  return (
+    <section style={{ position: "relative", borderBottom: "1px solid var(--bc-line)", overflow: "hidden" }}>
+      <img
+        className="bc-hero-img"
+        src={heroStreet}
+        alt="Indian street badminton scene under a blossoming tree"
+        style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", objectPosition: "center 58%" }}
+      />
+      <div style={{ position: "absolute", inset: 0, background: "linear-gradient(0deg, rgba(0,0,0,0.58) 0%, rgba(0,0,0,0.2) 16%, transparent 36%)" }} />
+
+      <div className="bc-hero-wrap" style={{ position: "relative", maxWidth: 1320, margin: "0 auto", height: "100vh", display: "flex", flexDirection: "column", justifyContent: "flex-end", padding: "0 0 58px" }}>
+        <div style={{ maxWidth: 640 }}>
+          <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 22, flexWrap: "wrap" }}>
+            <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 12, letterSpacing: "0.16em", color: "var(--bc-bg)", background: "var(--bc-accent2)", padding: "5px 11px", borderRadius: 3 }}>NEXT UP · SUPER 1000</span>
+            <span style={{ fontFamily: "var(--bc-sans)", fontSize: 13, color: "var(--bc-text)", letterSpacing: "0.06em", opacity: 0.9, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>{D.nextEvent.city.toUpperCase()} · {D.nextEvent.venue.toUpperCase()}</span>
+          </div>
+          <h1 style={{ fontFamily: "var(--bc-cond)", fontWeight: 800, fontSize: "clamp(54px, 7.4vw, 104px)", lineHeight: 0.84, letterSpacing: "0.005em", margin: "0 0 24px", textTransform: "uppercase", textShadow: "0 2px 36px rgba(0,0,0,0.55)" }}>
+            Indonesia<br />
+            <span style={{ color: "var(--bc-accent)" }}>Open</span>{" "}
+            <span style={{ WebkitTextStroke: "1.5px var(--bc-text)", color: "transparent", opacity: 0.9 }}>2026</span>
+          </h1>
+
+          <div style={{ display: "flex", alignItems: "center", gap: 18, marginBottom: 30, flexWrap: "wrap" }}>
+            <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 14, color: "var(--bc-text)", letterSpacing: "0.04em", opacity: 0.92, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>{D.nextEvent.dates}</span>
+            <span style={{ width: 5, height: 5, borderRadius: "50%", background: "var(--bc-text)", opacity: 0.5 }} />
+            <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
+              <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 11, letterSpacing: "0.16em", color: "var(--bc-text)", opacity: 0.7 }}>STARTS IN</span>
+              <span className="bc-num" style={{ fontFamily: "var(--bc-cond)", fontWeight: 800, fontSize: 24, letterSpacing: "0.03em", color: "var(--bc-text)", textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>
+                {cd.map(([v, l], i) => (
+                  <Fragment key={l}>
+                    {i > 0 && <span style={{ opacity: 0.35, margin: "0 7px" }}>:</span>}
+                    {v}<span style={{ fontSize: 12, opacity: 0.65, marginLeft: 1 }}>{l[0].toLowerCase()}</span>
+                  </Fragment>
+                ))}
+              </span>
+            </div>
+          </div>
+
+          <div style={{ display: "flex", gap: 12, alignItems: "center", flexWrap: "wrap" }}>
+            <Link to="/tournaments/indonesia-open" className="bc-btn bc-accentbtn" style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 15, color: "var(--bc-bg)", background: "var(--bc-accent)", border: "none", padding: "15px 26px", borderRadius: 7, textDecoration: "none" }}>India's schedule →</Link>
+            <button className="bc-btn" style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 15, color: "var(--bc-text)", background: "color-mix(in srgb, var(--bc-bg) 45%, transparent)", border: "1.5px solid var(--bc-line)", padding: "15px 24px", borderRadius: 7, backdropFilter: "blur(4px)" }}>⏰ Remind me</button>
+          </div>
+        </div>
+      </div>
+
+      <div style={{ position: "absolute", bottom: 24, left: "50%", transform: "translateX(-50%)", zIndex: 3, display: "flex", flexDirection: "column", alignItems: "center", gap: 5 }}>
+        <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 10, letterSpacing: "0.24em", color: "#fff", opacity: 0.82, textShadow: "0 1px 8px rgba(0,0,0,0.6)" }}>SCROLL</span>
+        <span className="bc-scrollcue" style={{ fontFamily: "var(--bc-sans)", fontSize: 18, lineHeight: 0.6, color: "#fff", opacity: 0.82, textShadow: "0 1px 8px rgba(0,0,0,0.6)" }}>⌄</span>
+      </div>
+    </section>
+  );
+}

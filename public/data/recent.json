@@ -1,0 +1,6 @@
+[
+  { "disc": "MD Final", "event": "Singapore Open", "a": "Satwik / Chirag",  "ac": "IND", "b": "Liang / Wang", "bc": "CHN", "s": "21–18, 21–16",      "win": "a", "when": "Yesterday" },
+  { "disc": "WD QF",    "event": "Singapore Open", "a": "Treesa / Gayatri", "ac": "IND", "b": "Baek / Lee",   "bc": "KOR", "s": "21–17, 19–21, 21–15","win": "a", "when": "Yesterday" },
+  { "disc": "MS SF",    "event": "Singapore Open", "a": "HS Prannoy",       "ac": "IND", "b": "Shi Yu Qi",    "bc": "CHN", "s": "18–21, 16–21",      "win": "b", "when": "2d ago" },
+  { "disc": "MS QF",    "event": "Thailand Open",  "a": "Lakshya Sen",      "ac": "IND", "b": "Lee Zii Jia",  "bc": "MAS", "s": "21–19, 21–17",      "win": "a", "when": "3d ago" }
+]
