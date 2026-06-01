@@ -31,7 +31,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run pipeline -- all
 
+      # Commit any partial success — if news fails (transient Gemini 503) but
+      # schedule succeeds, we still want the schedule update on the site.
       - name: Commit if changed
+        if: always()
         run: |
           git config user.name "smash-bot"
           git config user.email "bot@users.noreply.github.com"
