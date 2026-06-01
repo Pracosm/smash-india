@@ -1,3 +1,4 @@
 # Cloudflare Pages SPA fallback — every non-asset path falls through to
 # index.html so React Router can resolve the route client-side.
 # Note: /data/* JSON files are served directly because they exist on disk.
+/*    /index.html   200
