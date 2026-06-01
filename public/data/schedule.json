@@ -7,7 +7,7 @@
     "city": "Jakarta",
     "flag": "🇮🇩",
     "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5001/indonesia-open/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
     "slug": "singapore-open",
@@ -17,7 +17,7 @@
     "city": "Singapore",
     "flag": "🇸🇬",
     "soon": false,
-    "bwfUrl": "https://bwfbadminton.com/?s=Singapore+Open"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
     "slug": "canada-open",
@@ -27,7 +27,7 @@
     "city": "Calgary",
     "flag": "🇨🇦",
     "soon": false,
-    "bwfUrl": "https://bwfbadminton.com/?s=Canada+Open"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
     "slug": "u-s-open",
@@ -37,7 +37,7 @@
     "city": "Fort Worth",
     "flag": "🇺🇸",
     "soon": false,
-    "bwfUrl": "https://bwfbadminton.com/?s=U.S.+Open"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
     "slug": "japan-open",
@@ -47,6 +47,6 @@
     "city": "Tokyo",
     "flag": "🇯🇵",
     "soon": false,
-    "bwfUrl": "https://bwfbadminton.com/?s=Japan+Open"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   }
 ]

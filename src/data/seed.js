@@ -59,11 +59,11 @@ export const SEED_RANKINGS = [
 ];
 
 export const SEED_SCHEDULE = [
-  { slug: "indonesia-open",      date: "JUN 02", name: "Indonesia Open",      grade: "Super 1000", city: "Jakarta",        venue: "Istora Senayan",        dates: "Jun 2 – Jun 7, 2026",   country: "Indonesia",     flag: "🇮🇩", soon: true,  indiaInDraw: 9,  bwfUrl: "https://bwfbadminton.com/?s=Indonesia+Open" },
-  { slug: "us-open",             date: "JUN 10", name: "US Open",             grade: "Super 300",  city: "Council Bluffs", venue: "Mid-America Center",    dates: "Jun 10 – Jun 15, 2026", country: "United States", flag: "🇺🇸", soon: false, indiaInDraw: 4,  bwfUrl: "https://bwfbadminton.com/?s=US+Open" },
-  { slug: "canada-open",         date: "JUN 24", name: "Canada Open",         grade: "Super 500",  city: "Calgary",        venue: "Markin MacPhail Centre",dates: "Jun 24 – Jun 29, 2026", country: "Canada",        flag: "🇨🇦", soon: false, indiaInDraw: 6,  bwfUrl: "https://bwfbadminton.com/?s=Canada+Open" },
-  { slug: "japan-open",          date: "JUL 15", name: "Japan Open",          grade: "Super 750",  city: "Tokyo",          venue: "Tokyo Metropolitan Gym",dates: "Jul 15 – Jul 20, 2026", country: "Japan",         flag: "🇯🇵", soon: false, indiaInDraw: 8,  bwfUrl: "https://bwfbadminton.com/?s=Japan+Open" },
-  { slug: "world-championships", date: "AUG 24", name: "World Championships", grade: "BWF Worlds", city: "Paris",          venue: "Adidas Arena",          dates: "Aug 24 – Aug 30, 2026", country: "France",        flag: "🇫🇷", soon: false, indiaInDraw: 12, bwfUrl: "https://bwfbadminton.com/?s=BWF+World+Championships" },
+  { slug: "indonesia-open",      date: "JUN 02", name: "Indonesia Open",      grade: "Super 1000", city: "Jakarta",        venue: "Istora Senayan",        dates: "Jun 2 – Jun 7, 2026",   country: "Indonesia",     flag: "🇮🇩", soon: true,  indiaInDraw: 9,  bwfUrl: "https://bwfworldtour.bwfbadminton.com/calendar/" },
+  { slug: "us-open",             date: "JUN 10", name: "US Open",             grade: "Super 300",  city: "Council Bluffs", venue: "Mid-America Center",    dates: "Jun 10 – Jun 15, 2026", country: "United States", flag: "🇺🇸", soon: false, indiaInDraw: 4,  bwfUrl: "https://bwfworldtour.bwfbadminton.com/calendar/" },
+  { slug: "canada-open",         date: "JUN 24", name: "Canada Open",         grade: "Super 500",  city: "Calgary",        venue: "Markin MacPhail Centre",dates: "Jun 24 – Jun 29, 2026", country: "Canada",        flag: "🇨🇦", soon: false, indiaInDraw: 6,  bwfUrl: "https://bwfworldtour.bwfbadminton.com/calendar/" },
+  { slug: "japan-open",          date: "JUL 15", name: "Japan Open",          grade: "Super 750",  city: "Tokyo",          venue: "Tokyo Metropolitan Gym",dates: "Jul 15 – Jul 20, 2026", country: "Japan",         flag: "🇯🇵", soon: false, indiaInDraw: 8,  bwfUrl: "https://bwfworldtour.bwfbadminton.com/calendar/" },
+  { slug: "world-championships", date: "AUG 24", name: "World Championships", grade: "BWF Worlds", city: "Paris",          venue: "Adidas Arena",          dates: "Aug 24 – Aug 30, 2026", country: "France",        flag: "🇫🇷", soon: false, indiaInDraw: 12, bwfUrl: "https://bwfworldtour.bwfbadminton.com/calendar/" },
 ];
 
 export const SEED_NEXT_EVENT = {

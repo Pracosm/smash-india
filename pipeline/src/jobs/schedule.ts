@@ -23,7 +23,7 @@ If fewer than 5 upcoming events exist in the source, return fewer entries. Don't
    - "city": host city
    - "flag": single emoji flag of the host country (🇮🇳 🇮🇩 🇺🇸 🇨🇳 🇯🇵 🇩🇰 🇲🇾 🇰🇷 🇹🇭 🇫🇷 🇪🇸 🇩🇪 🇬🇧 🇨🇦 🇸🇬 etc.)
    - "soon": true only for the first/next upcoming tournament, false for the rest
-   - "bwfUrl": a URL to the BWF page for the event. PREFER a real bwfbadminton.com tournament URL if one is mentioned in the source (e.g. "https://bwfworldtour.bwfbadminton.com/tournament/<id>/<slug>/"). If you don't have a verified URL, fall back to a search URL: "https://bwfbadminton.com/?s=<tournament+name+with+plus+signs>". The fallback must be a valid URL.
+   - "bwfUrl": use the canonical BWF World Tour calendar URL **verbatim**: "https://bwfworldtour.bwfbadminton.com/calendar/". Do NOT invent per-event URLs like /tournament/<id>/ — BWF tournament URLs require IDs you don't have, and search URLs like ?s=... 404 inside Cloudflare. The calendar page is the single working canonical link.
 
 2. "nextEvent": more detail on that first tournament. Field rules:
    - "name", "grade", "city", "venue" (e.g. "Istora Senayan"), "dates" ("Jun 2 – Jun 7, 2026")
