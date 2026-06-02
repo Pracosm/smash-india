@@ -41,6 +41,7 @@ export const ScheduleEntry = z.object({
   city: z.string().min(2).max(60),
   flag: z.string().min(1).max(8),
   soon: z.boolean(),
+  featured: z.boolean().optional(),         // gets the rich hand-curated page
   bwfUrl: z.string().url().max(300).optional(),  // outbound to live BWF page
 });
 

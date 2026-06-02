@@ -1,0 +1,56 @@
+{
+  "slug": "indonesia-open",
+  "name": "Indonesia Open",
+  "edition": "2026",
+  "fullName": "POLYTRON Indonesia Open 2026",
+  "grade": "BWF World Tour · Super 1000",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "flag": "🇮🇩",
+  "venue": {
+    "name": "Istora Senayan",
+    "capacity": 7166,
+    "city": "Jakarta",
+    "blurb": "The cathedral of Indonesian badminton — built in 1961, refreshed in 2018, home to the Indonesia Open since 1982. Few arenas turn the crowd into a 13th player like this one."
+  },
+  "dates": "Jun 2 – Jun 7, 2026",
+  "startsAt": "2026-06-02T09:00:00+07:00",
+  "endsAt":   "2026-06-07T17:30:00+07:00",
+  "prizeMoneyUsd": 1450000,
+  "drawSize": 32,
+  "disciplines": 5,
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5528/polytron-indonesia-open-2026/results/",
+  "broadcasters": [
+    { "label": "Sony Sports Network", "region": "TV · India" },
+    { "label": "JioHotstar",          "region": "Streaming · India" },
+    { "label": "BWF TV",              "region": "Streaming · global" }
+  ],
+  "stakes": "India's biggest week of the summer — a Super 1000, a defending men's doubles champion, and Sindhu's first real test since the rebuild began.",
+  "summary": "**Satwik–Chirag** arrive at Istora having won the Singapore Open three days ago — the form pair on the world tour, world #3, and the only Indian pair to have ever won this event (2023). A back-to-back would be career-defining.\n\n**Lakshya Sen** is seeded inside the top eight in singles, and the draw has handed him Kunlavut Vitidsarn in round one — a rematch of last year's bruising All England encounter. **HS Prannoy** opens against Anders Antonsen, the defending champion. **PV Sindhu** plays her first Super 1000 since the injury layoff, against Wang Zhi Yi — the same opponent who knocked her out at the Asian Games.\n\nNine Indian entries across five disciplines. Istora's crowd is the loudest in badminton, and it almost always falls in love with the underdog. That usually works in India's favour.",
+  "indiaContingent": [
+    { "playerSlug": "satwik-chirag",  "name": "Satwik & Chirag",                "discipline": "Men's Doubles",   "seed": 3,    "rank": 3,  "draw": "R32 vs Astrup / Rasmussen (DEN)",       "note": "2023 champions, defending form pair on tour" },
+    { "playerSlug": "lakshya-sen",    "name": "Lakshya Sen",                    "discipline": "Men's Singles",   "seed": 8,    "rank": 12, "draw": "R32 vs Kunlavut Vitidsarn (THA)",       "note": "Rematch of last year's All England QF" },
+    { "playerSlug": "hs-prannoy",     "name": "HS Prannoy",                     "discipline": "Men's Singles",   "seed": null, "rank": 24, "draw": "R32 vs Anders Antonsen (DEN)",          "note": "Tough opener — Antonsen is the defending champion" },
+    { "playerSlug": "pv-sindhu",      "name": "PV Sindhu",                      "discipline": "Women's Singles", "seed": null, "rank": 15, "draw": "R32 vs Wang Zhi Yi (CHN)",              "note": "First Super 1000 of the rebuild" },
+    { "playerSlug": "malvika-bansod", "name": "Malvika Bansod",                 "discipline": "Women's Singles", "seed": null, "rank": 31, "draw": "R32 vs Akane Yamaguchi (JPN)",          "note": "Toughest possible opener" },
+    { "playerSlug": "treesa-gayatri", "name": "Treesa & Gayatri",               "discipline": "Women's Doubles", "seed": null, "rank": 16, "draw": "R32 vs Kim / Kong (KOR)",               "note": "Career-best form heading in" },
+    { "playerSlug": null,             "name": "Dhruv Kapila / Tanisha Crasto",  "discipline": "Mixed Doubles",   "seed": null, "rank": 26, "draw": "R32 vs Zheng / Huang (CHN)",            "note": "Drawn into the world #1 pair early" },
+    { "playerSlug": null,             "name": "Ashwini Ponnappa / Tanisha Crasto", "discipline": "Women's Doubles", "seed": null, "rank": 32, "draw": "R32 — TBD",                          "note": "Ashwini's experience anchoring the new pairing" },
+    { "playerSlug": null,             "name": "Krishna Prasad / Vishnuvardhan", "discipline": "Men's Doubles",   "seed": null, "rank": 39, "draw": "R32 — TBD",                            "note": "India's second-ranked MD pair" }
+  ],
+  "indiaHistory": [
+    { "year": 2023, "result": "🏆 Satwik–Chirag — Men's Doubles champions" },
+    { "year": 2022, "result": "🥈 Satwik–Chirag — Men's Doubles finalists" },
+    { "year": 2018, "result": "🥈 PV Sindhu — Women's Singles finalist" },
+    { "year": 2014, "result": "🥈 Kidambi Srikanth — Men's Singles finalist" },
+    { "year": 2012, "result": "🏆 Saina Nehwal — Women's Singles champion" },
+    { "year": 2010, "result": "🏆 Saina Nehwal — Women's Singles champion" }
+  ],
+  "recentChampions": [
+    { "year": 2025, "ms": "Anders Antonsen (DEN)",    "ws": "An Se-young (KOR)",         "md": "Kim Won-ho / Seo Seung-jae (KOR)",        "wd": "Liu Shengshu / Tan Ning (CHN)",   "xd": "Thom Gicquel / Delphine Delrue (FRA)" },
+    { "year": 2024, "ms": "Shi Yuqi (CHN)",            "ws": "An Se-young (KOR)",         "md": "Liang Weikeng / Wang Chang (CHN)",        "wd": "Jiang Zhenbang / Wei Yaxin (CHN)","xd": "Zheng Siwei / Huang Yaqiong (CHN)" },
+    { "year": 2023, "ms": "Chen Long (CHN)",           "ws": "An Se-young (KOR)",         "md": "Satwik Rankireddy / Chirag Shetty (IND)", "wd": "Baek Ha-na / Lee So-hee (KOR)",   "xd": "Zheng Siwei / Huang Yaqiong (CHN)" },
+    { "year": 2022, "ms": "Viktor Axelsen (DEN)",      "ws": "Wang Zhi Yi (CHN)",         "md": "Liu Yuchen / Ou Xuanyi (CHN)",            "wd": "Chen Qingchen / Jia Yifan (CHN)", "xd": "Zheng Siwei / Huang Yaqiong (CHN)" },
+    { "year": 2021, "ms": "Viktor Axelsen (DEN)",      "ws": "An Se-young (KOR)",         "md": "M. Gideon / K. Sukamuljo (INA)",          "wd": "N. Matsuyama / C. Shida (JPN)",   "xd": "D. Puavaranukroh / S. Taerattanachai (THA)" }
+  ]
+}

@@ -71,7 +71,7 @@ export const SEED_RANKINGS = [
 ];
 
 export const SEED_SCHEDULE = [
-  { slug: "indonesia-open",  date: "JUN 02", name: "Indonesia Open",   grade: "Super 1000", city: "Jakarta",    venue: "Istora Senayan",        dates: "Jun 2 – Jun 7, 2026",   country: "Indonesia",     flag: "🇮🇩", soon: true,  indiaInDraw: 9, bwfUrl: "https://bwfworldtour.bwfbadminton.com/tournament/5528/polytron-indonesia-open-2026/results/" },
+  { slug: "indonesia-open",  date: "JUN 02", name: "Indonesia Open",   grade: "Super 1000", city: "Jakarta",    venue: "Istora Senayan",        dates: "Jun 2 – Jun 7, 2026",   country: "Indonesia",     flag: "🇮🇩", soon: true,  featured: true, indiaInDraw: 9, bwfUrl: "https://bwfworldtour.bwfbadminton.com/tournament/5528/polytron-indonesia-open-2026/results/" },
   { slug: "australian-open", date: "JUN 09", name: "Australian Open",  grade: "Super 500",  city: "Sydney",     venue: "Quaycentre",            dates: "Jun 9 – Jun 14, 2026",  country: "Australia",     flag: "🇦🇺", soon: false, indiaInDraw: 5, bwfUrl: "https://bwfworldtour.bwfbadminton.com/tournament/5215/sathio-group-australian-badminton-open-2026/results/" },
   { slug: "macau-open",      date: "JUN 16", name: "Macau Open",       grade: "Super 300",  city: "Macau",      venue: "Macau East Asian Games Dome", dates: "Jun 16 – Jun 21, 2026", country: "Macau",   flag: "🇲🇴", soon: false, indiaInDraw: 4, bwfUrl: "https://bwfworldtour.bwfbadminton.com/tournament/5214/sands-china-ltd-macau-open-2026/results/" },
   { slug: "us-open",         date: "JUN 23", name: "U.S. Open",        grade: "Super 300",  city: "Fort Worth", venue: "Fort Worth Convention Center", dates: "Jun 23 – Jun 28, 2026", country: "United States", flag: "🇺🇸", soon: false, indiaInDraw: 4, bwfUrl: "https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-us-open-2026/results/" },
@@ -122,3 +122,24 @@ export const PHOTO_CREDITS = [
   { player: "HS Prannoy",       by: "Nardisoero",              license: "CC BY-SA 4.0" },
   { player: "Malvika Bansod",   by: "BBC World Service India", license: "CC BY-SA 4.0" },
 ];
+
+// Hand-curated launch dossier for the featured event (Indonesia Open 2026).
+// Lives in public/data/featured-event.json — this is the first-paint seed.
+export const SEED_FEATURED_EVENT = {
+  slug: "indonesia-open",
+  name: "Indonesia Open",
+  edition: "2026",
+  fullName: "POLYTRON Indonesia Open 2026",
+  grade: "BWF World Tour · Super 1000",
+  city: "Jakarta",
+  country: "Indonesia",
+  flag: "🇮🇩",
+  dates: "Jun 2 – Jun 7, 2026",
+  startsAt: "2026-06-02T09:00:00+07:00",
+  endsAt:   "2026-06-07T17:30:00+07:00",
+  bwfUrl: "https://bwfworldtour.bwfbadminton.com/tournament/5528/polytron-indonesia-open-2026/results/",
+  prizeMoneyUsd: 1450000,
+  drawSize: 32,
+  disciplines: 5,
+  venue: { name: "Istora Senayan", capacity: 7166, city: "Jakarta" },
+};

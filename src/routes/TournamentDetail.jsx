@@ -2,6 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import { PageHead } from "../components/PageHead.jsx";
 import { usePolledJson } from "../hooks/usePolledJson.js";
 import { SEED_SCHEDULE, SEED_NEXT_EVENT } from "../data/seed.js";
+import { IndonesiaOpenPage } from "./IndonesiaOpenPage.jsx";
 
 export function TournamentDetail() {
   const { slug } = useParams();
@@ -9,6 +10,10 @@ export function TournamentDetail() {
   const { data: nextEvent } = usePolledJson("/data/next-event.json", { seed: SEED_NEXT_EVENT });
 
   const event = (schedule || []).find((e) => e.slug === slug);
+
+  // Featured events get a fully hand-curated page (data lives in
+  // /data/featured-event.json). Falls back to the generic layout below.
+  if (event?.featured) return <IndonesiaOpenPage />;
 
   if (!event) {
     return (
