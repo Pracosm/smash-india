@@ -254,7 +254,7 @@ export const Article = z.object({
   slug: z.string().min(4).max(80),
   kicker: z.string().min(2).max(40),        // Daily Brief | Feature | Preview | Match Report | Opinion
   title: z.string().min(8).max(140),
-  dek: z.string().min(20).max(280),         // 1–2 sentence subtitle
+  dek: z.string().min(20).max(420),         // 1–2 sentence subtitle
   body: z.string().min(300).max(4000),      // markdown 300–500 words
   heroPlayerSlug: z.string().max(60).optional(),  // links to public/data/players.json
   publishedAt: z.string().min(10).max(40),  // ISO with offset

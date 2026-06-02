@@ -31,6 +31,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run pipeline -- all
 
+      # Re-write articles.json so every current news headline has a matching
+      # full editorial. Without this, clicking a fresh-scraped headline lands
+      # on a stub page (synthesised from summary). Runs regardless of upstream
+      # failures so a transient news 503 doesn't lose article coverage.
+      - name: Backfill articles for current news
+        if: always()
+        working-directory: pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run pipeline -- articles-all || echo "articles-all failed — keeping last-good articles.json"
+
       # Commit any partial success — if news fails (transient Gemini 503) but
       # schedule succeeds, we still want the schedule update on the site.
       - name: Commit if changed
