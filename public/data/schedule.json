@@ -11,7 +11,7 @@
   },
   {
     "slug": "australian-open",
-    "date": "JUN 16",
+    "date": "JUN 09",
     "name": "Australian Open",
     "grade": "Super 500",
     "city": "Sydney",
@@ -20,8 +20,18 @@
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5215/sathio-group-australian-badminton-open-2026/results/"
   },
   {
+    "slug": "macau-open",
+    "date": "JUN 16",
+    "name": "Macau Open",
+    "grade": "Super 300",
+    "city": "Macau",
+    "flag": "🇲🇴",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5214/sands-china-ltd-macau-open-2026/results/"
+  },
+  {
     "slug": "us-open",
-    "date": "JUN 30",
+    "date": "JUN 23",
     "name": "U.S. Open",
     "grade": "Super 300",
     "city": "Fort Worth",
@@ -31,7 +41,7 @@
   },
   {
     "slug": "canada-open",
-    "date": "JUL 07",
+    "date": "JUN 30",
     "name": "Canada Open",
     "grade": "Super 300",
     "city": "Calgary",
@@ -41,7 +51,7 @@
   },
   {
     "slug": "japan-open",
-    "date": "JUL 21",
+    "date": "JUL 14",
     "name": "Japan Open",
     "grade": "Super 750",
     "city": "Tokyo",
