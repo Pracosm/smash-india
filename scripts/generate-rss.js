@@ -13,7 +13,7 @@ const __dirname = fileURLToPath(new URL(".", import.meta.url));
 const ROOT = resolve(__dirname, "..");
 
 // Update this when the site moves to a custom domain.
-const SITE_URL = "https://smash-india.shardulnandedkar05.workers.dev";
+const SITE_URL = "https://smash-india.pages.dev";
 const SITE_TITLE = "SMASH India";
 const SITE_DESCRIPTION = "Indian-angle stories on world badminton — match reports, previews, opinions. AI-written, human-curated, refreshed every six hours.";
 
