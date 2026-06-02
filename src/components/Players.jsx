@@ -1,15 +1,16 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { BC_DATA } from "../data/broadcast.js";
 import { BcHead, BcForm } from "./primitives.jsx";
 
 export function Players() {
   const [followed, setFollowed] = useState({});
+  const navigate = useNavigate();
 
   return (
     <section style={{ borderBottom: "1px solid var(--bc-line)" }}>
       <div style={{ maxWidth: 1320, margin: "0 auto", padding: "34px 0 28px" }}>
-        <BcHead cta="All players" onCta={() => (window.location.href = "/rankings")}>India's headliners</BcHead>
+        <BcHead cta="All players" onCta={() => navigate("/players")}>India's headliners</BcHead>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(190px, 1fr))", gap: 14 }}>
           {BC_DATA.featured.map((p) => {
             const on = !!followed[p.name];

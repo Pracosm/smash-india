@@ -5,7 +5,9 @@ import { Footer } from "./components/Footer.jsx";
 import { Home } from "./routes/Home.jsx";
 import { NewsIndex } from "./routes/NewsIndex.jsx";
 import { Article } from "./routes/Article.jsx";
+import { Tournaments } from "./routes/Tournaments.jsx";
 import { TournamentDetail } from "./routes/TournamentDetail.jsx";
+import { PlayersIndex } from "./routes/PlayersIndex.jsx";
 import { PlayerProfile } from "./routes/PlayerProfile.jsx";
 import { Rankings } from "./routes/Rankings.jsx";
 import { NotFound } from "./routes/NotFound.jsx";
@@ -59,7 +61,9 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/news" element={<NewsIndex />} />
           <Route path="/news/:slug" element={<Article />} />
+          <Route path="/tournaments" element={<Tournaments />} />
           <Route path="/tournaments/:slug" element={<TournamentDetail />} />
+          <Route path="/players" element={<PlayersIndex />} />
           <Route path="/players/:slug" element={<PlayerProfile />} />
           <Route path="/rankings" element={<Rankings />} />
           <Route path="*" element={<NotFound />} />

@@ -2,15 +2,13 @@ import { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { BcLogo } from "./primitives.jsx";
 
-// `match` says when this pill is "active". Items without a dedicated page
-// link to home, but are NOT active on home — only on detail routes that
-// belong to them (/tournaments/:slug, /players/:slug). Avoids 3-way highlight.
+// `match` says when this pill is "active".
 const PAGES = [
-  { label: "Live",        to: "/",          match: (p) => p === "/" },
-  { label: "Tournaments", to: "/",          match: (p) => p.startsWith("/tournaments") },
-  { label: "Players",     to: "/",          match: (p) => p.startsWith("/players") },
-  { label: "Rankings",    to: "/rankings",  match: (p) => p === "/rankings" },
-  { label: "News",        to: "/news",      match: (p) => p.startsWith("/news") },
+  { label: "Home",        to: "/",            match: (p) => p === "/" },
+  { label: "Tournaments", to: "/tournaments", match: (p) => p.startsWith("/tournaments") },
+  { label: "Players",     to: "/players",     match: (p) => p.startsWith("/players") },
+  { label: "Rankings",    to: "/rankings",    match: (p) => p === "/rankings" },
+  { label: "News",        to: "/news",        match: (p) => p.startsWith("/news") },
 ];
 
 export function Nav() {

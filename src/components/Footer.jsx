@@ -3,8 +3,8 @@ import { BcLogo } from "./primitives.jsx";
 
 const LINKS = [
   { label: "Newsroom", to: "/news" },
-  { label: "Players",  to: "/" },
-  { label: "Tournaments", to: "/" },
+  { label: "Players",  to: "/players" },
+  { label: "Tournaments", to: "/tournaments" },
   { label: "Rankings", to: "/rankings" },
 ];
 
