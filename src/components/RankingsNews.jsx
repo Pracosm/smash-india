@@ -10,7 +10,7 @@ export function RankingsNews() {
         <div>
           <BcHead cta="Full table" onCta={() => navigate("/rankings")}>India in the world rankings</BcHead>
           <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-            {BC_DATA.rankings.map((r, i) => {
+            {BC_DATA.rankings.slice(0, 6).map((r, i) => {
               const pct = Math.max(22, 100 - i * 14);
               return (
                 <div key={i} className="bc-card" style={{ background: "var(--bc-panel)", border: "1px solid var(--bc-line)", borderRadius: 10, padding: "12px 16px", position: "relative", overflow: "hidden" }}>

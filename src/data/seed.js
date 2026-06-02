@@ -50,12 +50,24 @@ export const SEED_FRESH_RESULT = {
 };
 
 export const SEED_RANKINGS = [
-  { disc: "Men's Doubles",   name: "Satwik & Chirag",  rank: 3,  move: "up",   pts: "92,540" },
-  { disc: "Men's Singles",   name: "Lakshya Sen",      rank: 12, move: "up",   pts: "61,318" },
-  { disc: "Women's Singles", name: "PV Sindhu",        rank: 15, move: "down", pts: "54,902" },
-  { disc: "Women's Doubles", name: "Treesa & Gayatri", rank: 16, move: "up",   pts: "48,110" },
-  { disc: "Men's Singles",   name: "HS Prannoy",       rank: 24, move: "down", pts: "39,760" },
-  { disc: "Women's Singles", name: "Malvika Bansod",   rank: 31, move: "up",   pts: "31,205" },
+  { disc: "Men's Doubles",   name: "Satwik & Chirag",                    rank: 3,  move: "up",   pts: "92,540" },
+  { disc: "Men's Singles",   name: "Lakshya Sen",                        rank: 12, move: "up",   pts: "61,318" },
+  { disc: "Women's Singles", name: "PV Sindhu",                          rank: 15, move: "down", pts: "54,902" },
+  { disc: "Women's Doubles", name: "Treesa & Gayatri",                   rank: 16, move: "up",   pts: "48,110" },
+  { disc: "Men's Singles",   name: "HS Prannoy",                         rank: 24, move: "down", pts: "39,760" },
+  { disc: "Mixed Doubles",   name: "Dhruv Kapila / Tanisha Crasto",      rank: 26, move: "up",   pts: "37,210" },
+  { disc: "Women's Singles", name: "Malvika Bansod",                     rank: 31, move: "up",   pts: "31,205" },
+  { disc: "Women's Doubles", name: "Ashwini Ponnappa / Tanisha Crasto",  rank: 32, move: "same", pts: "30,840" },
+  { disc: "Men's Singles",   name: "Kidambi Srikanth",                   rank: 33, move: "down", pts: "30,512" },
+  { disc: "Men's Singles",   name: "Priyanshu Rajawat",                  rank: 36, move: "up",   pts: "28,440" },
+  { disc: "Women's Singles", name: "Aakarshi Kashyap",                   rank: 38, move: "up",   pts: "27,180" },
+  { disc: "Men's Doubles",   name: "Krishna Prasad / Vishnuvardhan",     rank: 39, move: "up",   pts: "26,920" },
+  { disc: "Men's Singles",   name: "Mithun Manjunath",                   rank: 42, move: "same", pts: "25,310" },
+  { disc: "Women's Singles", name: "Anupama Upadhyaya",                  rank: 44, move: "up",   pts: "24,605" },
+  { disc: "Men's Singles",   name: "Kiran George",                       rank: 46, move: "down", pts: "23,890" },
+  { disc: "Women's Doubles", name: "Aadya Variyath / Priya Konjengbam",  rank: 47, move: "up",   pts: "23,455" },
+  { disc: "Mixed Doubles",   name: "Rohan Kapoor / N Sikki Reddy",       rank: 48, move: "down", pts: "23,100" },
+  { disc: "Women's Singles", name: "Anmol Kharb",                        rank: 49, move: "up",   pts: "22,810" },
 ];
 
 export const SEED_SCHEDULE = [

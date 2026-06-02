@@ -63,7 +63,7 @@ export const NewsPayload = z.object({
 });
 
 export const RankingsPayload = z.object({
-  rankings: z.array(RankingEntry).min(3).max(12),
+  rankings: z.array(RankingEntry).min(3).max(30),
 });
 
 export const SchedulePayload = z.object({
@@ -159,7 +159,7 @@ export const newsResponseSchema = {
 export const rankingsResponseSchema = {
   type: "object",
   properties: {
-    rankings: { type: "array", items: rankingEntrySchema, minItems: 3, maxItems: 12 },
+    rankings: { type: "array", items: rankingEntrySchema, minItems: 3, maxItems: 30 },
   },
   required: ["rankings"],
 };
