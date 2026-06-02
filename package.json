@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node scripts/generate-rss.js",
+    "rss": "node scripts/generate-rss.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
