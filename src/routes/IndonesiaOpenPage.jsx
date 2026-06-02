@@ -145,7 +145,7 @@ export function IndonesiaOpenPage() {
                 const photo = player && PLAYER_PHOTOS[player.photo];
                 const photo2 = player?.photo2 && PLAYER_PHOTOS[player.photo2];
                 const inner = (
-                  <div className="bc-card" style={{ background: "var(--bc-panel)", border: "1px solid var(--bc-line)", borderRadius: 12, padding: "14px 16px", display: "grid", gridTemplateColumns: "auto 1fr auto", gap: 16, alignItems: "center" }}>
+                  <div className="bc-card bc-contingent-row" style={{ background: "var(--bc-panel)", border: "1px solid var(--bc-line)", borderRadius: 12, padding: "14px 16px", display: "grid", gridTemplateColumns: "auto 1fr auto", gap: 16, alignItems: "center" }}>
                     <div style={{ width: 56, height: 56, borderRadius: 8, overflow: "hidden", background: "var(--bc-bg)", display: "flex", flexShrink: 0 }}>
                       {photo2 ? (
                         <>
@@ -172,7 +172,7 @@ export function IndonesiaOpenPage() {
                       {c.note && <div style={{ fontFamily: "var(--bc-body)", fontSize: 12, color: "var(--bc-sub)", marginTop: 4, fontStyle: "italic" }}>{c.note}</div>}
                     </div>
                     {c.playerSlug && (
-                      <span className="bc-cta" style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 12, color: "var(--bc-sub)" }}>Profile →</span>
+                      <span className="bc-cta bc-contingent-chev" style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 12, color: "var(--bc-sub)" }}>Profile →</span>
                     )}
                   </div>
                 );

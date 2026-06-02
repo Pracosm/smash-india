@@ -49,6 +49,97 @@ body::-webkit-scrollbar-thumb {
   .bc-grid-rn { grid-template-columns: 1fr !important; gap: 34px !important; }
 }
 
+/* ─── Mobile ≤ 768px ────────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  /* Cut container padding from 40px → 14px so content uses the full width */
+  .smash-bc > header > div,
+  .smash-bc > section > div,
+  .smash-bc > footer > div {
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+  }
+
+  /* Hero — keep the video, drop the bottom space so the CTAs land above the fold */
+  .bc-hero-wrap { padding-bottom: 36px !important; }
+  .bc-hero-wrap > div { max-width: 100% !important; }
+
+  /* Nav — hide the desktop nav cluster; the Nav component renders a hamburger drawer instead */
+  .bc-nav-desktop { display: none !important; }
+  .bc-nav-hamburger { display: flex !important; }
+
+  /* FeaturedBanner — stack the 3-col into a vertical card */
+  .bc-featured-grid { grid-template-columns: 1fr !important; gap: 14px !important; text-align: left !important; }
+  .bc-featured-grid > * { justify-self: start !important; }
+
+  /* PlayerProfile — collapse the 320px photo + content grid */
+  .bc-profile-grid { grid-template-columns: 1fr !important; gap: 20px !important; }
+
+  /* IndonesiaOpenPage — contingent rows: photo + content + chevron → drop chevron, allow content to wrap */
+  .bc-contingent-row { grid-template-columns: 56px 1fr !important; gap: 12px !important; padding: 10px 12px !important; }
+  .bc-contingent-row > .bc-contingent-chev { display: none !important; }
+
+  /* Tables (Rankings, recent champions, etc.) — allow horizontal scroll instead of squashing */
+  .bc-scroll-x { overflow-x: auto !important; -webkit-overflow-scrolling: touch; }
+  .bc-scroll-x > table { min-width: 560px; }
+
+  /* Big display headings — pull down clamped minimums on small viewports */
+  h1, h2 { word-wrap: break-word; overflow-wrap: break-word; }
+
+  /* Buttons — ensure they have enough touch target */
+  .bc-btn { padding: 12px 18px !important; font-size: 14px !important; }
+
+  /* Footer — already wraps; tighten gap */
+  .bc-footer { row-gap: 10px !important; }
+}
+
+/* ─── Phone-narrow ≤ 480px ──────────────────────────────────────────────── */
+@media (max-width: 480px) {
+  .smash-bc > header > div,
+  .smash-bc > section > div,
+  .smash-bc > footer > div {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  /* News index hero card etc. — drop visual padding inside cards a hair */
+  .bc-card { padding: 14px !important; }
+}
+
+/* ─── Hamburger menu (Nav.jsx) ──────────────────────────────────────────── */
+.bc-nav-hamburger { display: none; }
+.bc-nav-burger-btn {
+  background: transparent; border: 1.5px solid var(--bc-line);
+  border-radius: 8px; padding: 8px 10px; cursor: pointer;
+  display: flex; flex-direction: column; gap: 4px;
+}
+.bc-nav-burger-btn span {
+  display: block; width: 20px; height: 2px; background: var(--bc-text);
+  border-radius: 1px; transition: transform .2s, opacity .2s;
+}
+.bc-nav-drawer {
+  position: fixed; top: 70px; left: 0; right: 0;
+  background: color-mix(in srgb, var(--bc-bg) 96%, transparent);
+  backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--bc-line);
+  padding: 14px;
+  display: flex; flex-direction: column; gap: 6px;
+  transform: translateY(-8px); opacity: 0; pointer-events: none;
+  transition: opacity .25s, transform .25s;
+}
+.bc-nav-drawer.open { transform: translateY(0); opacity: 1; pointer-events: auto; }
+.bc-nav-drawer a {
+  display: block; padding: 12px 16px; border-radius: 10px;
+  text-decoration: none; font-family: var(--bc-sans); font-weight: 600;
+  font-size: 15px; color: var(--bc-text);
+}
+.bc-nav-drawer a.active { background: var(--bc-accent2); color: var(--bc-bg); }
+.bc-nav-drawer .bc-nav-drawer-cta {
+  margin-top: 6px; padding: 13px 16px; border-radius: 10px; border: none;
+  background: var(--bc-accent); color: var(--bc-bg);
+  font-family: var(--bc-sans); font-weight: 700; font-size: 14px;
+  cursor: pointer;
+}
+
 @keyframes bc-pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.3; }

@@ -52,7 +52,7 @@ export function FeaturedBanner() {
       borderTop: "1px solid var(--bc-line)",
     }}>
       <Link to={`/tournaments/${event.slug}`} style={{ textDecoration: "none", color: "inherit", display: "block" }}>
-        <div className="bc-featured" style={{
+        <div className="bc-featured bc-featured-grid" style={{
           maxWidth: 1320, margin: "0 auto",
           display: "grid", gridTemplateColumns: "auto 1fr auto", alignItems: "center", gap: 32,
           padding: "20px 0",

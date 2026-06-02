@@ -49,7 +49,7 @@ export function PlayerProfile() {
       />
 
       <section style={{ paddingTop: 36, paddingBottom: 56, borderBottom: "1px solid var(--bc-line)" }}>
-        <div style={{ maxWidth: 1320, margin: "0 auto", display: "grid", gridTemplateColumns: "320px 1fr", gap: 36, alignItems: "start" }}>
+        <div className="bc-profile-grid" style={{ maxWidth: 1320, margin: "0 auto", display: "grid", gridTemplateColumns: "320px 1fr", gap: 36, alignItems: "start" }}>
 
           <div style={{ borderRadius: 12, overflow: "hidden", border: "1px solid var(--bc-line)", background: "var(--bc-panel)", aspectRatio: "3/4", display: "flex" }}>
             {photo2 ? (

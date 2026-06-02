@@ -14,6 +14,7 @@ const PAGES = [
 export function Nav() {
   const [follow, setFollow] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
   const { pathname } = useLocation();
 
   // Transparent only at the top of the home page; opaque + nav-visible everywhere else.
@@ -26,6 +27,9 @@ export function Nav() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  // Close the drawer on route change.
+  useEffect(() => { setMenuOpen(false); }, [pathname]);
 
   return (
     <header style={{
@@ -42,7 +46,9 @@ export function Nav() {
           <span style={{ fontFamily: "var(--bc-cond)", fontWeight: 800, fontSize: 30, letterSpacing: "0.01em", textShadow: shown ? "none" : "0 1px 12px rgba(0,0,0,0.5)" }}>SMASH</span>
           <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 10, letterSpacing: "0.22em", color: "var(--bc-accent2)", marginTop: 4 }}>INDIA</span>
         </Link>
-        <div style={{
+
+        {/* Desktop cluster — hidden ≤768px via .bc-nav-desktop */}
+        <div className="bc-nav-desktop" style={{
           display: "flex", alignItems: "center", gap: 24,
           opacity: shown ? 1 : 0,
           pointerEvents: shown ? "auto" : "none",
@@ -73,6 +79,45 @@ export function Nav() {
             }}>{follow ? "✓ Following India" : "★ Follow India"}</button>
           </div>
         </div>
+
+        {/* Mobile hamburger — shown only ≤768px via .bc-nav-hamburger */}
+        <div className="bc-nav-hamburger" style={{
+          alignItems: "center",
+          opacity: shown ? 1 : 0,
+          pointerEvents: shown ? "auto" : "none",
+          transition: "opacity .35s",
+        }}>
+          <button
+            type="button"
+            aria-label={menuOpen ? "Close menu" : "Open menu"}
+            aria-expanded={menuOpen}
+            onClick={() => setMenuOpen((o) => !o)}
+            className="bc-nav-burger-btn"
+          >
+            <span style={menuOpen ? { transform: "translateY(6px) rotate(45deg)" } : undefined} />
+            <span style={menuOpen ? { opacity: 0 } : undefined} />
+            <span style={menuOpen ? { transform: "translateY(-6px) rotate(-45deg)" } : undefined} />
+          </button>
+        </div>
+      </div>
+
+      {/* Mobile drawer — only renders the panel, CSS handles show/hide via .open */}
+      <div className={`bc-nav-drawer${menuOpen ? " open" : ""}`}>
+        {PAGES.map((p) => {
+          const active = p.match(pathname);
+          return (
+            <Link key={p.label} to={p.to} className={active ? "active" : ""}>
+              {p.label}
+            </Link>
+          );
+        })}
+        <button
+          type="button"
+          onClick={() => { setFollow((f) => !f); setMenuOpen(false); }}
+          className="bc-nav-drawer-cta"
+        >
+          {follow ? "✓ Following India" : "★ Follow India"}
+        </button>
       </div>
     </header>
   );
