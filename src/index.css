@@ -68,8 +68,13 @@ body::-webkit-scrollbar-thumb {
   .bc-nav-hamburger { display: flex !important; }
 
   /* FeaturedBanner — stack the 3-col into a vertical card */
-  .bc-featured-grid { grid-template-columns: 1fr !important; gap: 14px !important; text-align: left !important; }
-  .bc-featured-grid > * { justify-self: start !important; }
+  .bc-featured-grid { grid-template-columns: 1fr !important; gap: 14px !important; text-align: left !important; padding: 18px 0 22px !important; }
+  .bc-featured-grid > * { justify-self: stretch !important; align-items: flex-start !important; }
+  /* Middle column has a left border + 28px indent in desktop — kill on mobile so the content lines up with row 1 */
+  .bc-featured-grid > div:nth-child(2) { border-left: none !important; padding-left: 0 !important; }
+  /* Right column was align-items: flex-end (desktop's right-edge); flip to left-aligned when stacked */
+  .bc-featured-grid > div:nth-child(3) { align-items: flex-start !important; }
+  .bc-featured-grid > div:nth-child(3) > .bc-btn { align-self: flex-start !important; }
 
   /* PlayerProfile — collapse the 320px photo + content grid */
   .bc-profile-grid { grid-template-columns: 1fr !important; gap: 20px !important; }
