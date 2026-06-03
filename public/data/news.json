@@ -1,52 +1,62 @@
 [
   {
-    "slug": "satwik-chirag-win-singapore-open-title-with-furious-rallies",
-    "kicker": "Match Report",
-    "title": "Satwik-Chirag Win Singapore Open Title with Furious Rallies",
-    "time": "3d ago",
-    "read": "3 min",
-    "importance_score": 10,
-    "indian_angle": "India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, secured a prestigious Super 750 title, showcasing their world-class form and dominance.",
-    "summary": "Satwiksairaj Rankireddy and Chirag Shetty clinched the Singapore Open title after a series of furious rallies, delivering a powerful performance that culminated in celebratory dances, marking a significant win for the Indian duo."
-  },
-  {
-    "slug": "india-invites-bids-to-host-bwf-world-championships-2026",
-    "kicker": "Domestic",
-    "title": "India Invites Bids to Host BWF World Championships 2026",
-    "time": "1d ago",
-    "read": "2 min",
-    "importance_score": 9,
-    "indian_angle": "India is actively pursuing the opportunity to host the prestigious BWF World Championships in New Delhi, highlighting the nation's growing stature in global badminton.",
-    "summary": "The Badminton Association of India has issued an Expression of Interest for the BWF World Championships 2026, signaling its strong intent to bring the major international tournament to New Delhi from August 17-23."
-  },
-  {
-    "slug": "prakash-padukone-advocates-new-format-for-badminton",
-    "kicker": "Opinion",
-    "title": "Prakash Padukone Advocates New Format for Badminton",
-    "time": "1d ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "Indian badminton legend Prakash Padukone shares his perspective on potential changes to the sport's scoring system, offering valuable insights for the future of the game.",
-    "summary": "Badminton legend Prakash Padukone has suggested that the sport should consider introducing a new format without disrupting the existing system, drawing parallels to cricket's various formats to enhance appeal."
-  },
-  {
-    "slug": "satwik-chirag-singapore-open-triumph-comeback-psychology",
-    "kicker": "Feature",
-    "title": "Satwik-Chirag Singapore Open Triumph: Comeback Psychology",
-    "time": "1d ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "This feature delves into the mental fortitude and strategic approach that led India's star men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, to their Singapore Open title.",
-    "summary": "A detailed look into the psychological resilience of Satwiksairaj Rankireddy and Chirag Shetty during their Singapore Open victory, revealing how they maintained composure and trusted their strategy to stage a successful comeback."
-  },
-  {
-    "slug": "sindhu-arjun-hariharan-advance-to-round-2-at-indonesia-open",
+    "slug": "satwik-chirag-retire-indonesia-open-first-round",
     "kicker": "Result",
-    "title": "Sindhu, Arjun-Hariharan Advance to Round 2 at Indonesia Open",
-    "time": "1d ago",
+    "title": "Satwik-Chirag Retire from Indonesia Open First Round Due to Shoulder Niggle",
+    "time": "3h ago",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "PV Sindhu and the men's doubles pair Arjun M.R. and Hariharan are keeping India's hopes alive by securing wins in their opening matches at the Indonesia Open.",
-    "summary": "India's PV Sindhu in women's singles and the men's doubles pair of Arjun M.R. and Hariharan have successfully progressed to the second round of the Indonesia Open, continuing their campaign in the Super 1000 event."
+    "indian_angle": "India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, had to withdraw from the Indonesia Open due to an injury concern.",
+    "summary": "India's star men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, retired from their first-round match at the Indonesia Open 2026, with Satwik pointing to a right shoulder niggle that has bothered him previously."
+  },
+  {
+    "slug": "sindhu-arjun-hariharan-advance-indonesia-open",
+    "kicker": "Result",
+    "title": "Sindhu, Arjun-Hariharan Make Round 2 at Indonesia Open",
+    "time": "Yesterday",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "Indian shuttlers PV Sindhu and the men's doubles pair Arjun-Hariharan successfully progressed to the second round of the Indonesia Open.",
+    "summary": "PV Sindhu and the men's doubles duo of Arjun M.R. and Hariharan Amsakar secured their spots in the second round of the ongoing Indonesia Open."
+  },
+  {
+    "slug": "prakash-padukone-new-badminton-format",
+    "kicker": "Opinion",
+    "title": "Prakash Padukone Suggests New Badminton Format Without Disrupting Existing System",
+    "time": "Yesterday",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "Indian badminton legend Prakash Padukone offers his perspective on evolving the sport's format to attract more viewers, drawing parallels with cricket.",
+    "summary": "Badminton icon Prakash Padukone advocates for the introduction of new formats in badminton, similar to T20 cricket, to enhance audience engagement without altering the established traditional game structure."
+  },
+  {
+    "slug": "the-four-eyes-that-keep-satwik-chirag-on-track",
+    "kicker": "Feature",
+    "title": "The Four Eyes That Guide Satwik & Chirag's Success",
+    "time": "2d ago",
+    "read": "4 min",
+    "importance_score": 7,
+    "indian_angle": "This feature provides an inside look into the coaching and strategic support system behind India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty.",
+    "summary": "An in-depth article delves into the crucial roles played by their coaches and support staff, metaphorically referred to as 'four eyes,' in keeping Satwiksairaj Rankireddy and Chirag Shetty focused and performing at their peak."
+  },
+  {
+    "slug": "singapore-champ-satwik-celebration-for-niece",
+    "kicker": "Feature",
+    "title": "Singapore Champ Satwik: 'Celebration for Niece. We Feel My Father is Reborn'",
+    "time": "3d ago",
+    "read": "3 min",
+    "importance_score": 8,
+    "indian_angle": "Indian champion Satwiksairaj Rankireddy shares a deeply personal and emotional reason behind his recent Singapore Open victory.",
+    "summary": "Satwiksairaj Rankireddy, fresh off his Singapore Open triumph, revealed that his victory was a dedication to his newborn niece, expressing a profound sentiment that his late father was 'reborn' through her."
+  },
+  {
+    "slug": "satwik-chirag-win-singapore-open-title",
+    "kicker": "Match Report",
+    "title": "Satwik-Chirag Win Singapore Open with Furious Rallies and Celebratory Dances",
+    "time": "3d ago",
+    "read": "4 min",
+    "importance_score": 10,
+    "indian_angle": "India's premier men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, clinched a prestigious Super 750 title at the Singapore Open.",
+    "summary": "Satwiksairaj Rankireddy and Chirag Shetty secured the Singapore Open title after a display of furious rallies, powerful 'Yorker-smashes,' and their signature celebratory dances, defeating world champions Seo Seung-jae and Kang Min-hyuk."
   }
 ]
