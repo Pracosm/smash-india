@@ -25,13 +25,13 @@ export const MATCH_SOURCES: Source[] = [
   { url: "https://www.hindustantimes.com/feeds/rss/sports/badminton/rssfeed.xml", kind: "rss", label: "Hindustan Times — badminton" },
 ];
 
-// Rankings — BWF maintains one page per discipline. Gemini filters to Indian players.
+// Rankings — Wikipedia maintains a single page with current ranking tables for
+// all five disciplines, refreshed in step with BWF's official rankings.
+// We previously scraped bwfbadminton.com/rankings/2/... but those paths now
+// 404 and the rest of bwfbadminton.com is Cloudflare-blocked to bots, so
+// Wikipedia is the most reliable public source.
 export const RANKINGS_SOURCES: Source[] = [
-  { url: "https://bwfbadminton.com/rankings/2/bwf-world-rankings/6/mens-singles",   kind: "html", label: "BWF MS" },
-  { url: "https://bwfbadminton.com/rankings/2/bwf-world-rankings/7/womens-singles", kind: "html", label: "BWF WS" },
-  { url: "https://bwfbadminton.com/rankings/2/bwf-world-rankings/8/mens-doubles",   kind: "html", label: "BWF MD" },
-  { url: "https://bwfbadminton.com/rankings/2/bwf-world-rankings/9/womens-doubles", kind: "html", label: "BWF WD" },
-  { url: "https://bwfbadminton.com/rankings/2/bwf-world-rankings/10/mixed-doubles", kind: "html", label: "BWF XD" },
+  { url: "https://en.wikipedia.org/wiki/BWF_World_Ranking", kind: "html", label: "Wikipedia BWF World Ranking" },
 ];
 
 // Schedule — Wikipedia maintains a year-by-year BWF World Tour page that lists

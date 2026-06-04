@@ -25,7 +25,9 @@ export async function runRankings(): Promise<void> {
   const fetched = await fetchAll(RANKINGS_SOURCES);
   if (fetched.length === 0) throw new Error("No rankings sources reachable");
 
-  const prompt = `Extract Indian players from the BWF ranking tables below.\n\n${bundleForPrompt(fetched, 8000)}`;
+  // Wikipedia's single page bundles five discipline tables, so we need a
+  // generous per-source slice — 8000 chars only covered Men's Singles.
+  const prompt = `Extract Indian players from the BWF ranking tables below.\n\n${bundleForPrompt(fetched, 40000)}`;
   console.log(`[rankings] asking Gemini (${fetched.length} sources, ${prompt.length} chars)…`);
   const raw = await geminiJSON<unknown>({ systemInstruction: SYSTEM, prompt, responseSchema: rankingsResponseSchema });
   const parsed = RankingsPayload.parse(raw);

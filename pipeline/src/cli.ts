@@ -45,7 +45,9 @@ async function main(): Promise<void> {
   }
   if (failed > 0) {
     console.error(`${failed}/${names.length} job(s) failed — last-good JSON left in place`);
-    process.exit(1);
+    // Only fail the run when every job failed. Partial success still commits
+    // the jobs that worked, so a single dead source shouldn't email the owner.
+    if (failed === names.length) process.exit(1);
   }
 }
 
