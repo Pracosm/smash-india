@@ -1,9 +1,9 @@
 {
-  "tag": "RESULT",
+  "tag": "CHAMPIONS",
   "event": "Singapore Open",
-  "discipline": "Men's Singles",
-  "winner": "Opponent of Lakshya Sen",
-  "loser": "Lakshya Sen",
-  "score": "19-21, 21-15, 15-21",
-  "when": "6d ago"
+  "discipline": "Men's Doubles",
+  "winner": "Satwik-Chirag",
+  "loser": "Seo-Kim",
+  "score": "21-18, 21-16",
+  "when": "4d ago"
 }
