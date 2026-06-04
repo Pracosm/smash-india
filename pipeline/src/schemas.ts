@@ -291,3 +291,81 @@ export const articlesResponseSchema = {
   },
   required: ["articles"],
 };
+
+// ─── Player profile updates (dynamic fields only) ───────────────────────────
+
+export const PlayerUpdate = z.object({
+  slug: z.string().min(2).max(60),
+  rank: z.number().int().min(1).max(500),
+  form: z.array(z.enum(["W", "L"])).min(1).max(5),
+  note: z.string().min(3).max(60),
+  hot: z.boolean().optional(),
+});
+
+export const PlayerUpdatesPayload = z.object({
+  updates: z.array(PlayerUpdate).min(1).max(20),
+});
+
+const playerUpdateSchema = {
+  type: "object",
+  properties: {
+    slug: { type: "string" },
+    rank: { type: "integer" },
+    form: { type: "array", items: { type: "string", enum: ["W", "L"] }, maxItems: 5 },
+    note: { type: "string" },
+    hot: { type: "boolean" },
+  },
+  required: ["slug", "rank", "form", "note"],
+};
+
+export const playerUpdatesResponseSchema = {
+  type: "object",
+  properties: {
+    updates: { type: "array", items: playerUpdateSchema, minItems: 1, maxItems: 20 },
+  },
+  required: ["updates"],
+};
+
+// ─── Featured-event dynamic refresh ─────────────────────────────────────────
+// We only refresh storyline + draw matchups + per-player rank/note. Venue,
+// recent champions, and India history are hand-curated and stay frozen.
+
+export const ContingentUpdate = z.object({
+  playerSlug: z.string().min(2).max(60).nullable().optional(),
+  name: z.string().min(2).max(80),
+  discipline: z.string().min(3).max(40),
+  seed: z.number().int().min(1).max(64).nullable().optional(),
+  rank: z.number().int().min(1).max(500).nullable().optional(),
+  draw: z.string().min(3).max(120),
+  note: z.string().max(160).optional(),
+});
+
+export const FeaturedRefresh = z.object({
+  summary: z.string().min(60).max(2000),
+  stakes: z.string().min(20).max(400),
+  indiaContingent: z.array(ContingentUpdate).min(1).max(20),
+});
+
+const contingentUpdateSchema = {
+  type: "object",
+  properties: {
+    playerSlug: { type: "string" },
+    name: { type: "string" },
+    discipline: { type: "string" },
+    seed: { type: "integer" },
+    rank: { type: "integer" },
+    draw: { type: "string" },
+    note: { type: "string" },
+  },
+  required: ["name", "discipline", "draw"],
+};
+
+export const featuredRefreshResponseSchema = {
+  type: "object",
+  properties: {
+    summary: { type: "string" },
+    stakes: { type: "string" },
+    indiaContingent: { type: "array", items: contingentUpdateSchema, minItems: 1, maxItems: 20 },
+  },
+  required: ["summary", "stakes", "indiaContingent"],
+};

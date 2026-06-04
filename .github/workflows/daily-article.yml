@@ -1,4 +1,4 @@
-name: Daily article
+name: Daily refresh
 
 on:
   schedule:
@@ -31,14 +31,26 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run pipeline -- article
 
+      # Heavier-cadence data — tournament schedule, player profiles, featured
+      # event storyline. Lives here (not on the 6h cron) because it changes
+      # tournament-by-tournament, not hour-by-hour, and to stay within
+      # Gemini's free-tier daily request budget.
+      - name: Refresh schedule + profiles + featured
+        if: always()
+        working-directory: pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run pipeline -- daily || echo "daily refresh failed — keeping last-good JSON"
+
       - name: Commit if changed
+        if: always()
         run: |
           git config user.name "smash-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add public/data/articles.json
+          git add public/data/*.json
           if git diff --cached --quiet; then
-            echo "No article changes."
+            echo "No data changes."
           else
-            git commit -m "articles: refresh $(date -u +%Y-%m-%d)"
+            git commit -m "data: daily refresh $(date -u +%Y-%m-%d)"
             git push
           fi

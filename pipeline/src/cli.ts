@@ -3,6 +3,8 @@ import { runNews } from "./jobs/news.ts";
 import { runRankings } from "./jobs/rankings.ts";
 import { runSchedule } from "./jobs/schedule.ts";
 import { runMatches } from "./jobs/matches.ts";
+import { runProfiles } from "./jobs/profiles.ts";
+import { runFeatured } from "./jobs/featured.ts";
 import { runArticle, runArticleBackfill } from "./jobs/article.ts";
 
 const JOBS: Record<string, () => Promise<void>> = {
@@ -10,22 +12,29 @@ const JOBS: Record<string, () => Promise<void>> = {
   rankings: runRankings,
   schedule: runSchedule,
   matches: runMatches,
+  profiles: runProfiles,
+  featured: runFeatured,
   article: runArticle,
   "articles-all": runArticleBackfill,
 };
 
-// `all` runs the scrape jobs but NOT the article job (which costs more LLM
-// tokens and is scheduled separately, once a day).
-// `matches` is intentionally NOT in ALL — the home UI doesn't render match
-// data anymore (no real live source). The job stays available for future use.
-// `schedule` is also out of ALL — Gemini hallucinates dates from Wikipedia
-// even with strict prompting. Run manually after fact-checking the result.
+// Job groupings — the workflow scheduler runs ALL every 6 hours and DAILY
+// once per day. The split exists so we stay under Gemini's free-tier daily
+// quota: 6 × 4 calls/day for ALL + 4 calls/day for DAILY = 16/day, under 20.
+//
+// `all` covers the time-sensitive feeds. `matches` is intentionally NOT in
+// ALL — the home UI doesn't render match data anymore (no real live source).
+// `daily` covers data that changes on a tournament cadence (days, not hours):
+// the calendar, player form/ranks/notes, and the featured-event storyline.
+// Order in `daily` matters — profiles + featured read rankings.json, so
+// `rankings` must run first if you invoke `daily` standalone.
 const ALL = ["news", "rankings"];
+const DAILY = ["rankings", "schedule", "profiles", "featured"];
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
   const which = args[0] ?? "all";
-  const names = which === "all" ? ALL : [which];
+  const names = which === "all" ? ALL : which === "daily" ? DAILY : [which];
 
   let failed = 0;
   for (const name of names) {
