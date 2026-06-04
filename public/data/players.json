@@ -11,7 +11,7 @@
       "L",
       "W"
     ],
-    "note": "Singapore Super 750 champions",
+    "note": "Singapore champions, Rankireddy injured",
     "hot": true,
     "photo": "satwik.jpg",
     "pos": "center 25%",
@@ -26,16 +26,15 @@
     "rank": 10,
     "form": [
       "L",
-      "W",
       "L",
       "W",
+      "L",
       "W"
     ],
-    "note": "Career-high world No. 10",
+    "note": "Early Singapore Open exit",
     "photo": "lakshya.jpg",
     "pos": "center 20%",
-    "bio": "Lakshya Sen — All England finalist, Paris Olympics fourth-place. Quick on his feet, aggressive on the net. Carrying India's hopes in men's singles after the Lakshya–Prannoy generation handover.",
-    "hot": true
+    "bio": "Lakshya Sen — All England finalist, Paris Olympics fourth-place. Quick on his feet, aggressive on the net. Carrying India's hopes in men's singles after the Lakshya–Prannoy generation handover."
   },
   {
     "slug": "pv-sindhu",
@@ -49,7 +48,7 @@
       "L",
       "W"
     ],
-    "note": "Back in world's top 10",
+    "note": "Lost to World No. 1 in Indonesia",
     "photo": "sindhu.jpg",
     "pos": "center 22%",
     "bio": "Pusarla Venkata Sindhu — two-time Olympic medallist, World Championship gold (2019). After an injury-disrupted 2025, she's quietly rebuilding her engine for the 2028 Olympic cycle."
@@ -81,9 +80,9 @@
     "form": [
       "L",
       "W",
-      "W",
       "L",
-      "L"
+      "W",
+      "W"
     ],
     "note": "Mixed results in Singapore",
     "photo": "prannoy.jpg",

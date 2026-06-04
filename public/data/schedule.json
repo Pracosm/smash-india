@@ -1,23 +1,12 @@
 [
   {
-    "slug": "indonesia-open",
-    "date": "JUN 02",
-    "name": "Indonesia Open",
-    "grade": "Super 1000",
-    "city": "Jakarta",
-    "flag": "🇮🇩",
-    "soon": true,
-    "featured": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5528/polytron-indonesia-open-2026/results/"
-  },
-  {
     "slug": "australian-open",
     "date": "JUN 09",
     "name": "Australian Open",
     "grade": "Super 500",
     "city": "Sydney",
     "flag": "🇦🇺",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5215/sathio-group-australian-badminton-open-2026/results/"
   },
   {
@@ -35,7 +24,7 @@
     "date": "JUN 23",
     "name": "U.S. Open",
     "grade": "Super 300",
-    "city": "Fort Worth",
+    "city": "Fullerton",
     "flag": "🇺🇸",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-us-open-2026/results/"
@@ -45,7 +34,7 @@
     "date": "JUN 30",
     "name": "Canada Open",
     "grade": "Super 300",
-    "city": "Calgary",
+    "city": "Markham",
     "flag": "🇨🇦",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5271/yonex-canada-open-2026/results/"

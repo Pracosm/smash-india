@@ -1,12 +1,12 @@
 {
-  "name": "Malaysia Open",
-  "grade": "Super 1000",
-  "city": "Kuala Lumpur",
-  "venue": "Axiata Arena",
-  "dates": "Jun 2 – Jun 7, 2026",
-  "startsAt": "2026-06-02T09:00:00+08:00",
-  "indiaInDraw": 8,
+  "name": "Australian Open",
+  "grade": "Super 500",
+  "city": "Sydney",
+  "venue": "State Sports Centre",
+  "dates": "Jun 9 – Jun 14, 2026",
+  "startsAt": "2026-06-09T09:00:00+10:00",
+  "indiaInDraw": 10,
   "disciplines": 5,
-  "blurb": "The Malaysia Open, a prestigious Super 1000 event, kicks off the next leg of the tour. Indian shuttlers will aim for a strong start to accumulate crucial ranking points against the world's elite.",
-  "broadcaster": "Sony Sports · JioHotstar"
+  "blurb": "India's top shuttlers will aim for crucial ranking points and a strong performance in Sydney. Expect fierce competition as they push for podium finishes.",
+  "broadcaster": "Sony Sports · JioCinema"
 }
