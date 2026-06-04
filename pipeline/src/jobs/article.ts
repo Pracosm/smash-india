@@ -54,9 +54,10 @@ function pruneOld(items: ExistingArticle[]): ExistingArticle[] {
   });
 }
 
-// Backfill mode — write one full editorial for every current news item.
-// Used to seed the newsroom with real content (vs the AI placeholders from the
-// daily run). Replaces articles.json entirely.
+// Backfill mode — write one full editorial for every current news item, so
+// clicking any headline lands on a real article (not a stub synthesised from
+// the summary). Merges the freshly-written articles into the existing rolling
+// archive so older pieces don't get wiped on the next 6h cycle.
 const BACKFILL_SYSTEM = `You are the staff writer for an Indian-badminton-only news site. The user gives you a list of news headlines. For EACH headline, write one editorial (300–500 words). Voice: warm, knowledgeable, like The Athletic — never breathless or jingoistic.
 
 Hard rules:
@@ -79,31 +80,57 @@ export async function runArticleBackfill(): Promise<void> {
   const news = await readJsonSafe<Array<{ slug: string; title: string; kicker: string; summary?: string; indian_angle?: string }>>("news.json", []);
   if (!Array.isArray(news) || news.length === 0) throw new Error("news.json is empty — run news job first.");
 
-  const players = await readJsonSafe<unknown[]>("players.json", []);
+  const [players, existing] = await Promise.all([
+    readJsonSafe<unknown[]>("players.json", []),
+    readJsonSafe<ExistingArticle[]>("articles.json", []),
+  ]);
 
-  const prompt = `Today is ${today}. Write one full editorial for each news item below — ${news.length} articles total, in the same order.
+  // Skip headlines that already have a fresh-enough article on disk. Saves
+  // Gemini tokens and avoids needlessly rewriting prose that hasn't aged.
+  const REFRESH_AFTER_HOURS = 18;
+  const freshCutoff = Date.now() - REFRESH_AFTER_HOURS * 3600 * 1000;
+  const haveFresh = new Set(
+    existing
+      .filter((a) => Number.isFinite(new Date(a.publishedAt).getTime()) && new Date(a.publishedAt).getTime() > freshCutoff)
+      .map((a) => a.slug)
+  );
+  const needWriting = news.filter((n) => !haveFresh.has(slugify(n.slug, { lower: true, strict: true })));
+
+  if (needWriting.length === 0) {
+    console.log(`[articles-all] all ${news.length} headlines have a fresh article (<${REFRESH_AFTER_HOURS}h old) — nothing to write`);
+    return;
+  }
+
+  const prompt = `Today is ${today}. Write one full editorial for each news item below — ${needWriting.length} articles total, in the same order.
 
 ### News items
-${JSON.stringify(news, null, 2)}
+${JSON.stringify(needWriting, null, 2)}
 
 ### Known Indian players (use these slugs verbatim for heroPlayerSlug + tags)
 ${JSON.stringify(players, null, 2)}`;
 
-  console.log(`[articles-all] asking Gemini to write ${news.length} articles (${prompt.length} chars)…`);
+  console.log(`[articles-all] asking Gemini to write ${needWriting.length} of ${news.length} articles (${prompt.length} chars)…`);
   const raw = await geminiJSON<unknown>({ systemInstruction: BACKFILL_SYSTEM, prompt, responseSchema: articlesResponseSchema });
   const parsed = ArticlesPayload.parse(raw);
 
   if (parsed.articles.length === 0) throw new Error("Gemini returned 0 articles");
 
-  // Normalise slugs against news input order (Gemini sometimes rephrases).
-  const articles: ExistingArticle[] = parsed.articles.map((a, i) => {
-    const inputSlug = news[i]?.slug;
+  // Normalise slugs against the news items we asked Gemini to write about.
+  const fresh: ExistingArticle[] = parsed.articles.map((a, i) => {
+    const inputSlug = needWriting[i]?.slug;
     const slug = inputSlug ? slugify(inputSlug, { lower: true, strict: true }) : slugify(a.slug || a.title, { lower: true, strict: true });
     return { ...a, slug, publishedAt: a.publishedAt || todayIso };
   });
 
-  await writeFile(resolve(DATA_DIR, "articles.json"), JSON.stringify(articles, null, 2) + "\n", "utf8");
-  console.log(`[articles-all] wrote ${articles.length} articles (replaced articles.json)`);
+  // Merge: fresh articles take precedence over same-slug older ones; everything
+  // else inside the rolling window is preserved. Older items past ROLL_DAYS
+  // are dropped (the daily `article` job uses the same window).
+  const freshSlugs = new Set(fresh.map((a) => a.slug));
+  const carried = pruneOld(existing).filter((a) => !freshSlugs.has(a.slug));
+  const merged = [...fresh, ...carried];
+
+  await writeFile(resolve(DATA_DIR, "articles.json"), JSON.stringify(merged, null, 2) + "\n", "utf8");
+  console.log(`[articles-all] wrote ${fresh.length} new article(s); ${merged.length} total in rolling ${ROLL_DAYS}-day window`);
 }
 
 export async function runArticle(): Promise<void> {
