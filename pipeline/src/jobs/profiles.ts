@@ -43,11 +43,26 @@ Output an "updates" array. Each entry must include the player's slug verbatim (f
 - "note": 3–8 word context tag for the home card ("Singapore champions", "Career-high ranking", "Rebuilding the engine", "5 SF in 7 events"). Punchy, present-tense, no marketing fluff.
 - "hot": true ONLY for a player who has just won a Super 500+ title or hit a career-high ranking in the past ~2 weeks. Default false / omit otherwise. At most TWO players should be hot at any time.
 
+Also output a "recent" array — the actual matches you mined to derive the form values above. **Every W/L you put in the form must have a corresponding entry in "recent"** if (and only if) the journalism gave you the opponent + score. Same source, same conclusion — keep them consistent.
+
+Each "recent" entry:
+- "disc": badminton discipline + round, must start with one of "MS"/"WS"/"MD"/"WD"/"XD". Examples: "MS R32", "MD QF", "WS SF", "MD Final". If the source doesn't say the round, "MS R32" is the safest default for an early-tournament loss; "MD Final" for a title win.
+- "event": short tournament name ("Indonesia Open", "Singapore Open").
+- "a": the Indian player or pair, short form ("Lakshya Sen", "Satwik / Chirag", "Treesa / Gayatri", "PV Sindhu").
+- "ac": "IND" (always — entries must include an Indian).
+- "b": opponent player or pair, short form ("An Se Young", "Liang / Wang", "Anders Antonsen", "Weng Hong Yang").
+- "bc": opponent's 3-letter country code (KOR, CHN, DEN, MAS, JPN, THA, IDN, USA, etc.).
+- "s": full score, en-dashes between games ("21–18, 21–16", or "19–21, 21–15, 15–21" for a three-gamer).
+- "win": "a" if the Indian won, "b" if the opponent won.
+- "when": relative phrase ("Today", "Yesterday", "2d ago", "6d ago").
+
 Hard rules:
-- One entry per input player, slug exactly as given. No invented players.
+- One updates entry per input player, slug exactly as given. No invented players.
 - Form is newest-first. A loss yesterday + a win two weeks ago → ["L", "W"], not ["W", "L"].
-- For doubles pairs ("Satwik & Chirag", "Treesa & Gayatri"), the form is the pair's combined recent results.
-- If a player isn't mentioned at all in the sources and isn't in the rankings block, copy their previous rank/form/note from the input roster verbatim. An honest carryover beats invented data.`;
+- For doubles pairs ("Satwik & Chirag", "Treesa & Gayatri"), the form is the pair's combined recent results, and "recent" entries use "Satwik / Chirag" / "Treesa / Gayatri" form for "a".
+- If a player isn't mentioned at all in the sources and isn't in the rankings block, copy their previous rank/form/note from the input roster verbatim. An honest carryover beats invented data.
+- NEVER invent a score, opponent, or round. If the journalism only says "Lakshya lost in the round of 32" without naming the opponent, do NOT add a recent entry for it.
+- Cap "recent" at ~12 entries total, sorted newest first.`;
 
 async function readJsonSafe<T>(file: string, fallback: T): Promise<T> {
   try {
@@ -133,4 +148,15 @@ ${bundleForPrompt(fetched, 9000)}`;
 
   await writeFile(resolve(DATA_DIR, "players.json"), JSON.stringify(merged_out, null, 2) + "\n", "utf8");
   console.log(`[profiles] wrote ${merged_out.length} players (${touched} refreshed, ${carried} carried)`);
+
+  // Same Gemini call also gave us structured recent results — write those
+  // to recent.json so the player-profile route can render scores alongside
+  // the W/L stripes. An empty result means Gemini couldn't confidently
+  // structure any match; leave last-good in place rather than wiping it.
+  if (Array.isArray(parsed.recent) && parsed.recent.length > 0) {
+    await writeFile(resolve(DATA_DIR, "recent.json"), JSON.stringify(parsed.recent, null, 2) + "\n", "utf8");
+    console.log(`[profiles] wrote ${parsed.recent.length} recent matches`);
+  } else {
+    console.log("[profiles] no structured recent matches — keeping last-good recent.json");
+  }
 }

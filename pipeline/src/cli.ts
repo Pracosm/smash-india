@@ -20,17 +20,18 @@ const JOBS: Record<string, () => Promise<void>> = {
 
 // Job groupings — the workflow scheduler runs ALL every 6 hours and DAILY
 // once per day. The split exists so we stay under Gemini's free-tier daily
-// quota: 3 calls × 4 cycles for ALL + 6 calls × 1 for DAILY = 18 calls/day,
+// quota: 3 calls × 4 cycles for ALL + 5 calls × 1 for DAILY = 17 calls/day,
 // under the 20-call cap.
 //
 // `all` covers the time-sensitive feeds. `daily` covers data that changes
-// on a tournament cadence (days, not hours): the calendar, player form,
-// recent-results table (for player profiles), and the featured-event
-// storyline. Order in `daily` matters — profiles + featured + matches all
-// read rankings.json or each other's outputs, so the sequence below is
-// the safe one to invoke standalone.
+// on a tournament cadence (days, not hours): the calendar, player form +
+// recent match scores (one call — see profiles.ts), and the featured-event
+// storyline. Order matters — profiles + featured read rankings.json, so
+// `rankings` must run first. `matches` is intentionally NOT here because
+// the `profiles` job now emits recent.json in the same call that produces
+// players.json, keeping form (W/L) and scores derived from one extraction.
 const ALL = ["news", "rankings"];
-const DAILY = ["rankings", "schedule", "matches", "profiles", "featured"];
+const DAILY = ["rankings", "schedule", "profiles", "featured"];
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);

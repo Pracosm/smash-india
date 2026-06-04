@@ -304,6 +304,10 @@ export const PlayerUpdate = z.object({
 
 export const PlayerUpdatesPayload = z.object({
   updates: z.array(PlayerUpdate).min(1).max(20),
+  // Gemini reads the same journalism we use to derive `form` (W/L), so it
+  // already knows the opponents, events, and scores. Returning them in the
+  // same call keeps form and the visible recent-results list in sync.
+  recent: z.array(RecentMatch).max(20).optional(),
 });
 
 const playerUpdateSchema = {
@@ -322,6 +326,7 @@ export const playerUpdatesResponseSchema = {
   type: "object",
   properties: {
     updates: { type: "array", items: playerUpdateSchema, minItems: 1, maxItems: 20 },
+    recent: { type: "array", items: recentMatchSchema, maxItems: 20 },
   },
   required: ["updates"],
 };
