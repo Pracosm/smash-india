@@ -8,7 +8,11 @@ import { ArticlesPayload, articlesResponseSchema } from "../schemas.ts";
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 const DATA_DIR = resolve(__dirname, "../../../public/data");
 
-const ROLL_DAYS = 30;
+// How long we keep an article visible on the site before pruning. At ~5
+// unique headlines/day a year of archive is ~1.8k items / ~5 MB JSON —
+// still cheap to ship to the client. Bump higher if you want a true forever
+// archive; the only cost is the polled JSON getting larger.
+const ROLL_DAYS = 365;
 
 const SYSTEM = `You are the staff writer for an Indian-badminton-only news site. Each day you publish 1–2 editorial pieces (300–500 words each) that frame the day's badminton story through an Indian lens. Voice: warm, knowledgeable, like The Athletic — never breathless or jingoistic.
 
