@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
-import { PageHead } from "../components/PageHead.jsx";
 import { usePolledJson } from "../hooks/usePolledJson.js";
 import {
   SEED_FEATURED_EVENT, SEED_PLAYERS, SEED_NEWS, PLAYER_PHOTOS,
@@ -111,7 +110,7 @@ export function IndonesiaOpenPage() {
       <section style={{ paddingTop: 36, paddingBottom: 36, borderBottom: "1px solid var(--bc-line)" }}>
         <div style={{ maxWidth: 1320, margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(170px, 1fr))", gap: 14 }}>
           <Fact label="Prize money"   value={event.prizeMoneyUsd ? `$${(event.prizeMoneyUsd/1_000_000).toFixed(2)}M` : "TBA"} sub="USD total" />
-          <Fact label="Grade"         value="Super 1000" sub="BWF World Tour" />
+          <Fact label="Grade"         value={event.grade ?? "—"} sub="BWF World Tour" />
           <Fact label="Draw size"     value={`${event.drawSize ?? 32}`} sub="per discipline" />
           <Fact label="Disciplines"   value={`${event.disciplines ?? 5}`} sub="MS · WS · MD · WD · XD" />
           <Fact label="India in draw" value={`${event.indiaContingent?.length ?? 0}`} sub="across disciplines" />

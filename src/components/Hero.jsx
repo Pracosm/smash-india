@@ -1,6 +1,7 @@
 import { Fragment, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { BC_DATA } from "../data/broadcast.js";
+import { usePolledJson } from "../hooks/usePolledJson.js";
+import { SEED_NEXT_EVENT } from "../data/seed.js";
 
 function useCountdown(targetIso) {
   const [now, setNow] = useState(() => Date.now());
@@ -19,9 +20,31 @@ function useCountdown(targetIso) {
   return { parts: [[p(d), "DAYS"], [p(h), "HRS"], [p(m), "MIN"], [p(sec), "SEC"]], inPast };
 }
 
+// Tournament names on BWF World Tour follow "<place> <type> [<year>]" — e.g.
+// "Indonesia Open", "All England Open", "World Championships", "Korea Masters".
+// We render the last word of the name in accent colour and the year in a
+// stroked outline; everything else goes on a first line above. Works for
+// every BWF event we serve without per-tournament tweaks.
+function splitTitle(name, year) {
+  const words = String(name ?? "").trim().split(/\s+/);
+  if (words.length === 0) return { firstLine: "", accentWord: "", year };
+  if (words.length === 1) return { firstLine: "", accentWord: words[0], year };
+  return { firstLine: words.slice(0, -1).join(" "), accentWord: words[words.length - 1], year };
+}
+
+function slugify(s) {
+  return String(s ?? "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
 export function Hero() {
-  const D = BC_DATA;
-  const cd = useCountdown(D.nextEvent.startsAt);
+  const { data } = usePolledJson("/data/next-event.json", { seed: SEED_NEXT_EVENT });
+  const event = data && typeof data === "object" && data.name ? data : SEED_NEXT_EVENT;
+  const cd = useCountdown(event.startsAt);
+  const year = Number.isFinite(new Date(event.startsAt).getTime())
+    ? new Date(event.startsAt).getFullYear()
+    : new Date().getFullYear();
+  const { firstLine, accentWord } = splitTitle(event.name, year);
+  const slug = slugify(event.name);
 
   return (
     <section style={{ position: "relative", borderBottom: "1px solid var(--bc-line)", overflow: "hidden" }}>
@@ -42,17 +65,21 @@ export function Hero() {
       <div className="bc-hero-wrap" style={{ position: "relative", maxWidth: 1320, margin: "0 auto", height: "100vh", display: "flex", flexDirection: "column", justifyContent: "flex-end", padding: "0 0 58px" }}>
         <div style={{ maxWidth: 640 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 22, flexWrap: "wrap" }}>
-            <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 12, letterSpacing: "0.16em", color: "var(--bc-bg)", background: "var(--bc-accent2)", padding: "5px 11px", borderRadius: 3 }}>NEXT UP · SUPER 1000</span>
-            <span style={{ fontFamily: "var(--bc-sans)", fontSize: 13, color: "var(--bc-text)", letterSpacing: "0.06em", opacity: 0.9, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>{D.nextEvent.city.toUpperCase()} · {D.nextEvent.venue.toUpperCase()}</span>
+            <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 12, letterSpacing: "0.16em", color: "var(--bc-bg)", background: "var(--bc-accent2)", padding: "5px 11px", borderRadius: 3 }}>
+              {cd.inPast ? "● LIVE" : "NEXT UP"} · {(event.grade ?? "BWF World Tour").toUpperCase()}
+            </span>
+            <span style={{ fontFamily: "var(--bc-sans)", fontSize: 13, color: "var(--bc-text)", letterSpacing: "0.06em", opacity: 0.9, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>
+              {(event.city ?? "").toUpperCase()}{event.venue ? ` · ${event.venue.toUpperCase()}` : ""}
+            </span>
           </div>
           <h1 style={{ fontFamily: "var(--bc-cond)", fontWeight: 800, fontSize: "clamp(54px, 7.4vw, 104px)", lineHeight: 0.84, letterSpacing: "0.005em", margin: "0 0 24px", textTransform: "uppercase", textShadow: "0 2px 36px rgba(0,0,0,0.55)" }}>
-            Indonesia<br />
-            <span style={{ color: "var(--bc-accent)" }}>Open</span>{" "}
-            <span style={{ WebkitTextStroke: "1.5px var(--bc-text)", color: "transparent", opacity: 0.9 }}>2026</span>
+            {firstLine && <>{firstLine}<br /></>}
+            <span style={{ color: "var(--bc-accent)" }}>{accentWord}</span>{" "}
+            <span style={{ WebkitTextStroke: "1.5px var(--bc-text)", color: "transparent", opacity: 0.9 }}>{year}</span>
           </h1>
 
           <div style={{ display: "flex", alignItems: "center", gap: 18, marginBottom: 30, flexWrap: "wrap" }}>
-            <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 14, color: "var(--bc-text)", letterSpacing: "0.04em", opacity: 0.92, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>{D.nextEvent.dates}</span>
+            <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 14, color: "var(--bc-text)", letterSpacing: "0.04em", opacity: 0.92, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>{event.dates}</span>
             <span style={{ width: 5, height: 5, borderRadius: "50%", background: "var(--bc-text)", opacity: 0.5 }} />
             {cd.inPast ? (
               <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 11, letterSpacing: "0.16em", color: "var(--bc-accent)", opacity: 0.95, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>● LIVE NOW</span>
@@ -72,7 +99,7 @@ export function Hero() {
           </div>
 
           <div style={{ display: "flex", gap: 12, alignItems: "center", flexWrap: "wrap" }}>
-            <Link to="/tournaments/indonesia-open" className="bc-btn bc-accentbtn" style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 15, color: "var(--bc-bg)", background: "var(--bc-accent)", border: "none", padding: "15px 26px", borderRadius: 7, textDecoration: "none" }}>India's schedule →</Link>
+            <Link to={`/tournaments/${slug}`} className="bc-btn bc-accentbtn" style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 15, color: "var(--bc-bg)", background: "var(--bc-accent)", border: "none", padding: "15px 26px", borderRadius: 7, textDecoration: "none" }}>India's schedule →</Link>
             <button className="bc-btn" style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 15, color: "var(--bc-text)", background: "color-mix(in srgb, var(--bc-bg) 45%, transparent)", border: "1.5px solid var(--bc-line)", padding: "15px 24px", borderRadius: 7, backdropFilter: "blur(4px)" }}>⏰ Remind me</button>
           </div>
         </div>

@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 import { fetchAll, bundleForPrompt } from "../fetch.ts";
 import { geminiJSON } from "../gemini.ts";
 import { NEWS_SOURCES, MATCH_SOURCES } from "../sources.ts";
+import { bwfUrlFor } from "../bwf-urls.ts";
 import { FeaturedRefresh, featuredRefreshResponseSchema } from "../schemas.ts";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
@@ -22,14 +23,86 @@ interface FeaturedEvent {
   grade?: string;
   city?: string;
   country?: string;
+  flag?: string;
   dates?: string;
   startsAt?: string;
   endsAt?: string;
   drawSize?: number;
+  disciplines?: number;
+  bwfUrl?: string;
+  venue?: { name?: string; capacity?: number; city?: string; blurb?: string };
+  broadcasters?: Array<{ label: string; region: string }>;
+  recentChampions?: unknown[];
+  indiaHistory?: unknown[];
   summary?: string;
   stakes?: string;
   indiaContingent?: Array<Record<string, unknown>>;
   [k: string]: unknown;
+}
+
+interface NextEvent {
+  name?: string;
+  grade?: string;
+  city?: string;
+  venue?: string;
+  dates?: string;
+  startsAt?: string;
+  broadcaster?: string;
+}
+
+interface ScheduleEntry {
+  slug?: string;
+  name?: string;
+  flag?: string;
+  grade?: string;
+  city?: string;
+  soon?: boolean;
+  bwfUrl?: string;
+}
+
+function slugify(s: string | undefined): string {
+  return String(s ?? "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+// Build a fresh featured-event scaffold from the next-event + schedule feeds.
+// Used when the editor's current featured event has ended and nothing newer
+// has been hand-curated. Hand-curated fields (venue blurb, recentChampions,
+// indiaHistory) are left blank for the editor to refill at leisure — the
+// daily refresh fills in summary / stakes / India contingent.
+function buildScaffold(next: NextEvent, schedule: ScheduleEntry[]): FeaturedEvent | null {
+  if (!next?.name || !next.startsAt) return null;
+  const startsAt = new Date(next.startsAt);
+  if (!Number.isFinite(startsAt.getTime())) return null;
+  const slug = slugify(next.name);
+  const scheduleEntry = schedule.find((e) => e.slug === slug) ?? schedule.find((e) => e.soon);
+  const year = startsAt.getFullYear();
+  // Best-guess endsAt — most BWF events are 6 days; the editor will overwrite
+  // this when they reach the rich page anyway.
+  const endsAt = new Date(startsAt.getTime() + 6 * 86_400_000);
+
+  return {
+    slug,
+    name: next.name,
+    edition: String(year),
+    fullName: next.name,
+    grade: next.grade ?? scheduleEntry?.grade ?? "BWF World Tour",
+    city: next.city,
+    country: undefined,
+    flag: scheduleEntry?.flag,
+    dates: next.dates,
+    startsAt: next.startsAt,
+    endsAt: endsAt.toISOString(),
+    drawSize: 32,
+    disciplines: 5,
+    bwfUrl: scheduleEntry?.bwfUrl ?? bwfUrlFor(slug),
+    venue: { name: next.venue, blurb: "" },
+    broadcasters: next.broadcaster ? [{ label: next.broadcaster, region: "India" }] : [],
+    recentChampions: [],
+    indiaHistory: [],
+    stakes: "",
+    summary: "",
+    indiaContingent: [],
+  };
 }
 
 interface PlayerRow {
@@ -77,23 +150,33 @@ async function readJsonSafe<T>(file: string, fallback: T): Promise<T> {
 }
 
 export async function runFeatured(): Promise<void> {
-  const existing = await readJsonSafe<FeaturedEvent | null>("featured-event.json", null);
-  if (!existing || !existing.slug) {
-    console.log("[featured] no featured-event.json on disk — skipping (editor must seed it).");
-    return;
-  }
-  // If the event is plainly over, refreshing it would just churn stale content.
-  // The editor is expected to swap featured-event.json to the next event.
-  const endsAt = existing.endsAt ? new Date(existing.endsAt).getTime() : NaN;
-  if (Number.isFinite(endsAt) && endsAt < Date.now() - 36 * 3600 * 1000) {
-    console.log(`[featured] ${existing.slug} ended on ${existing.endsAt} — skipping refresh; editor should swap to the next event.`);
-    return;
-  }
-
-  const [players, rankings] = await Promise.all([
+  const [existingRaw, players, rankings, nextEvent, schedule] = await Promise.all([
+    readJsonSafe<FeaturedEvent | null>("featured-event.json", null),
     readJsonSafe<PlayerRow[]>("players.json", []),
     readJsonSafe<RankingRow[]>("rankings.json", []),
+    readJsonSafe<NextEvent>("next-event.json", {}),
+    readJsonSafe<ScheduleEntry[]>("schedule.json", []),
   ]);
+
+  // Auto-rotate when the current featured event has ended (or there is none).
+  // We pull the new scaffold from next-event.json + schedule.json — both are
+  // refreshed earlier in the same daily pipeline, so the cadence works out.
+  let existing = existingRaw;
+  const endsAt = existing?.endsAt ? new Date(existing.endsAt).getTime() : NaN;
+  const eventOver = Number.isFinite(endsAt) && endsAt < Date.now() - 36 * 3600 * 1000;
+  if (!existing || !existing.slug || eventOver) {
+    const scaffold = buildScaffold(nextEvent, schedule);
+    if (!scaffold) {
+      console.log("[featured] no current event and next-event.json is empty — nothing to refresh.");
+      return;
+    }
+    const reason = !existing || !existing.slug ? "no existing event" : `${existing.slug} ended on ${existing.endsAt}`;
+    console.log(`[featured] auto-rotating featured event (${reason}) → ${scaffold.slug} (${scaffold.name}).`);
+    existing = scaffold;
+    // Persist the scaffold before the refresh so a Gemini failure here still
+    // leaves the site pointed at the right tournament.
+    await writeFile(resolve(DATA_DIR, "featured-event.json"), JSON.stringify(existing, null, 2) + "\n", "utf8");
+  }
 
   console.log(`[featured] refreshing "${existing.name}" — fetching ${NEWS_SOURCES.length + MATCH_SOURCES.length} sources…`);
   const merged = [...NEWS_SOURCES, ...MATCH_SOURCES];
