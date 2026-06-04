@@ -1,8 +1,110 @@
 [
-  { "slug": "satwik-chirag",  "name": "Satwik & Chirag",  "role": "Men's Doubles",   "rank": 3,  "form": ["W", "W", "W", "W", "L"], "note": "Singapore champions",   "hot": true, "photo": "satwik.jpg",  "pos": "center 25%", "photo2": "chirag.jpg", "pos2": "center 25%", "bio": "Satwiksairaj Rankireddy and Chirag Shetty — India's first-ever men's doubles pair to break into the BWF top 5. Singapore Open 2025 champions, Asian Games gold medallists, and the form pair on tour heading into Indonesia." },
-  { "slug": "lakshya-sen",    "name": "Lakshya Sen",      "role": "Men's Singles",   "rank": 12, "form": ["W", "L", "W", "W", "W"], "note": "5 SF in 7 events",       "photo": "lakshya.jpg", "pos": "center 20%", "bio": "Lakshya Sen — All England finalist, Paris Olympics fourth-place. Quick on his feet, aggressive on the net. Carrying India's hopes in men's singles after the Lakshya–Prannoy generation handover." },
-  { "slug": "pv-sindhu",      "name": "PV Sindhu",        "role": "Women's Singles", "rank": 15, "form": ["L", "W", "W", "L", "W"], "note": "Rebuilding the engine",  "photo": "sindhu.jpg",  "pos": "center 22%", "bio": "Pusarla Venkata Sindhu — two-time Olympic medallist, World Championship gold (2019). After an injury-disrupted 2025, she's quietly rebuilding her engine for the 2028 Olympic cycle." },
-  { "slug": "treesa-gayatri", "name": "Treesa & Gayatri", "role": "Women's Doubles", "rank": 16, "form": ["W", "W", "L", "W", "W"], "note": "Career-high ranking",    "photo": "treesa.jpg",  "pos": "center 18%", "photo2": "gayatri.jpg", "pos2": "center 22%", "bio": "Treesa Jolly and Gayatri Gopichand — India's most promising women's doubles pair in a decade. Career-high ranking and a string of deep runs at Super 500+ events." },
-  { "slug": "hs-prannoy",     "name": "HS Prannoy",       "role": "Men's Singles",   "rank": 24, "form": ["W", "L", "L", "W", "L"], "note": "The veteran fighter",    "photo": "prannoy.jpg", "pos": "center 22%", "bio": "Haseena Sunil Prannoy Kumar — Indian Open 2023 champion, World Championship bronze (2023). Known for grinding out three-game thrillers; the elder statesman in India's singles room." },
-  { "slug": "malvika-bansod", "name": "Malvika Bansod",   "role": "Women's Singles", "rank": 31, "form": ["W", "W", "L", "W", "W"], "note": "Climbing the ladder",    "photo": "malvika.jpg", "pos": "center 28%", "bio": "Malvika Bansod — left-handed, deceptive, climbing the rankings ladder steadily. Won her maiden senior international title in 2022 and has been chipping away at the world top 30 since." }
+  {
+    "slug": "satwik-chirag",
+    "name": "Satwik & Chirag",
+    "role": "Men's Doubles",
+    "rank": 4,
+    "form": [
+      "W",
+      "W",
+      "W",
+      "L",
+      "W"
+    ],
+    "note": "Singapore Super 750 champions",
+    "hot": true,
+    "photo": "satwik.jpg",
+    "pos": "center 25%",
+    "photo2": "chirag.jpg",
+    "pos2": "center 25%",
+    "bio": "Satwiksairaj Rankireddy and Chirag Shetty — India's first-ever men's doubles pair to break into the BWF top 5. Singapore Open 2025 champions, Asian Games gold medallists, and the form pair on tour heading into Indonesia."
+  },
+  {
+    "slug": "lakshya-sen",
+    "name": "Lakshya Sen",
+    "role": "Men's Singles",
+    "rank": 10,
+    "form": [
+      "L",
+      "W",
+      "L",
+      "W",
+      "W"
+    ],
+    "note": "Career-high world No. 10",
+    "photo": "lakshya.jpg",
+    "pos": "center 20%",
+    "bio": "Lakshya Sen — All England finalist, Paris Olympics fourth-place. Quick on his feet, aggressive on the net. Carrying India's hopes in men's singles after the Lakshya–Prannoy generation handover.",
+    "hot": true
+  },
+  {
+    "slug": "pv-sindhu",
+    "name": "PV Sindhu",
+    "role": "Women's Singles",
+    "rank": 10,
+    "form": [
+      "L",
+      "W",
+      "W",
+      "L",
+      "W"
+    ],
+    "note": "Back in world's top 10",
+    "photo": "sindhu.jpg",
+    "pos": "center 22%",
+    "bio": "Pusarla Venkata Sindhu — two-time Olympic medallist, World Championship gold (2019). After an injury-disrupted 2025, she's quietly rebuilding her engine for the 2028 Olympic cycle."
+  },
+  {
+    "slug": "treesa-gayatri",
+    "name": "Treesa & Gayatri",
+    "role": "Women's Doubles",
+    "rank": 16,
+    "form": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+    ],
+    "note": "Career-high ranking",
+    "photo": "treesa.jpg",
+    "pos": "center 18%",
+    "photo2": "gayatri.jpg",
+    "pos2": "center 22%",
+    "bio": "Treesa Jolly and Gayatri Gopichand — India's most promising women's doubles pair in a decade. Career-high ranking and a string of deep runs at Super 500+ events."
+  },
+  {
+    "slug": "hs-prannoy",
+    "name": "HS Prannoy",
+    "role": "Men's Singles",
+    "rank": 24,
+    "form": [
+      "L",
+      "W",
+      "W",
+      "L",
+      "L"
+    ],
+    "note": "Mixed results in Singapore",
+    "photo": "prannoy.jpg",
+    "pos": "center 22%",
+    "bio": "Haseena Sunil Prannoy Kumar — Indian Open 2023 champion, World Championship bronze (2023). Known for grinding out three-game thrillers; the elder statesman in India's singles room."
+  },
+  {
+    "slug": "malvika-bansod",
+    "name": "Malvika Bansod",
+    "role": "Women's Singles",
+    "rank": 31,
+    "form": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+    ],
+    "note": "Bouncing back from injury",
+    "photo": "malvika.jpg",
+    "pos": "center 28%",
+    "bio": "Malvika Bansod — left-handed, deceptive, climbing the rankings ladder steadily. Won her maiden senior international title in 2022 and has been chipping away at the world top 30 since."
+  }
 ]
