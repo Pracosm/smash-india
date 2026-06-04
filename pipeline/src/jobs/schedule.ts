@@ -43,7 +43,20 @@ export async function runSchedule(): Promise<void> {
   const now = new Date();
   const nowYear = now.getUTCFullYear();
   const nowMonth = now.getUTCMonth(); // 0-indexed
-  const prompt = `TODAY IS ${today}. The current month is ${MONTHS[nowMonth]} ${nowYear}. Extract the next 5 upcoming BWF tournaments from the calendar text below — every event you return must have a start date on or after today. Tournaments earlier in ${nowYear} have already happened; do not include them.\n\n${bundleForPrompt(fetched, 10000)}`;
+  // The Wikipedia year page is ~40k chars after html-to-text; the schedule
+  // rows for the back half of the year sit at chars 15k+ on average. A small
+  // slice only shows Gemini Jan/Feb — which is precisely the past data we
+  // want to avoid — so we pass the whole page.
+  const monthsRemaining = MONTHS.slice(nowMonth).join(", ");
+  const prompt = `TODAY IS ${today}. The current month is ${MONTHS[nowMonth]} ${nowYear}.
+
+You may ONLY return tournaments scheduled in: ${monthsRemaining} ${nowYear} (or in ${nowYear + 1} if the source covers it).
+
+Every event in months PRIOR to ${MONTHS[nowMonth]} ${nowYear} has already finished. Even though the Wikipedia article lists them first, you must SKIP them. Repeat: skip every event whose start date is before ${today}.
+
+If you cannot find at least 5 future tournaments in the source, return however many you can find — don't pad with past events.
+
+${bundleForPrompt(fetched, 60000)}`;
   console.log(`[schedule] asking Gemini (${fetched.length} sources, ${prompt.length} chars)…`);
   const raw = await geminiJSON<unknown>({ systemInstruction: SYSTEM, prompt, responseSchema: scheduleResponseSchema });
   const parsed = SchedulePayload.parse(raw);
