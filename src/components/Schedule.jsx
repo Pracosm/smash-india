@@ -1,15 +1,18 @@
 import { Link } from "react-router-dom";
-import { BC_DATA } from "../data/broadcast.js";
+import { usePolledJson } from "../hooks/usePolledJson.js";
+import { SEED_SCHEDULE } from "../data/seed.js";
 import { BcHead } from "./primitives.jsx";
 
 export function Schedule() {
+  const { data } = usePolledJson("/data/schedule.json", { seed: SEED_SCHEDULE });
+  const schedule = Array.isArray(data) && data.length > 0 ? data : SEED_SCHEDULE;
   return (
     <section style={{ background: "var(--bc-panel)", borderBottom: "1px solid var(--bc-line)" }}>
       <div style={{ maxWidth: 1320, margin: "0 auto", padding: "34px 0 40px" }}>
         <BcHead>Season ahead</BcHead>
         <div style={{ position: "relative", display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: 0, marginTop: 6 }}>
           <div style={{ position: "absolute", left: 8, right: 8, top: 7, height: 2, background: "var(--bc-line)" }} />
-          {BC_DATA.schedule.map((e) => (
+          {schedule.map((e) => (
             <div key={e.slug ?? e.name} style={{ position: "relative", paddingTop: 28, paddingRight: 18 }}>
               <span style={{
                 position: "absolute", top: 0, left: 0, width: 16, height: 16, borderRadius: "50%",

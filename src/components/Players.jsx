@@ -1,18 +1,32 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { BC_DATA } from "../data/broadcast.js";
+import { usePolledJson } from "../hooks/usePolledJson.js";
+import { SEED_PLAYERS, PLAYER_PHOTOS, PHOTO_CREDITS } from "../data/seed.js";
 import { BcHead, BcForm } from "./primitives.jsx";
+
+// Resolve raw photo filenames (as written by the pipeline into players.json)
+// into the imported asset URLs Vite emits at build time. Identical to the
+// pattern used by FeaturedBanner.
+function withPhotos(list) {
+  return (Array.isArray(list) ? list : []).map((p) => ({
+    ...p,
+    photo: PLAYER_PHOTOS[p.photo] ?? p.photo,
+    photo2: p.photo2 ? PLAYER_PHOTOS[p.photo2] ?? p.photo2 : undefined,
+  }));
+}
 
 export function Players() {
   const [followed, setFollowed] = useState({});
   const navigate = useNavigate();
+  const { data } = usePolledJson("/data/players.json", { seed: SEED_PLAYERS });
+  const players = withPhotos(Array.isArray(data) && data.length > 0 ? data : SEED_PLAYERS);
 
   return (
     <section style={{ borderBottom: "1px solid var(--bc-line)" }}>
       <div style={{ maxWidth: 1320, margin: "0 auto", padding: "34px 0 28px" }}>
         <BcHead cta="All players" onCta={() => navigate("/players")}>India's headliners</BcHead>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(190px, 1fr))", gap: 14 }}>
-          {BC_DATA.featured.map((p) => {
+          {players.map((p) => {
             const on = !!followed[p.name];
             const toggle = (e) => {
               e.preventDefault();
@@ -69,10 +83,10 @@ export function Players() {
           })}
         </div>
 
-        {BC_DATA.photoCredits && (
+        {PHOTO_CREDITS && (
           <div style={{ marginTop: 18, fontFamily: "var(--bc-body)", fontSize: 10, lineHeight: 1.6, color: "var(--bc-sub)", opacity: 0.7, letterSpacing: "0.01em" }}>
             Photos:{" "}
-            {BC_DATA.photoCredits.map((c, i) => (
+            {PHOTO_CREDITS.map((c, i) => (
               <span key={c.player}>
                 {i > 0 && " · "}
                 {c.player} — {c.by} ({c.license})

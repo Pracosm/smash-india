@@ -23,7 +23,8 @@ Style rules:
 - importance_score 1–10 (10 = title win, 1 = minor preview)
 - indian_angle is one sentence on why an Indian fan cares
 - in "freshResult.tag", use one of: CHAMPIONS, FINALISTS, SEMIFINALISTS, QUARTERFINALISTS, RESULT
-- if there is no real Indian fresh result in the sources, return the most recent Indian match outcome you can see, even if a loss.`;
+- if there is no real Indian fresh result in the sources, return the most recent Indian match outcome you can see, even if a loss.
+- "freshResult.winner" and "loser" MUST be real player or pair names from the source text — never a placeholder like "Opponent", "TBD", "Unknown", or "—". If the opposition isn't named in the source, pick a different match where both names are known.`;
 
 export async function runNews(): Promise<void> {
   const today = new Date().toISOString().slice(0, 10);

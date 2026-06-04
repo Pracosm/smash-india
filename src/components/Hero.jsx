@@ -8,13 +8,15 @@ function useCountdown(targetIso) {
     const id = setInterval(() => setNow(Date.now()), 1000);
     return () => clearInterval(id);
   }, []);
-  let diff = Math.max(0, new Date(targetIso).getTime() - now);
+  const target = new Date(targetIso).getTime();
+  const inPast = !Number.isFinite(target) || target - now <= 0;
+  let diff = Math.max(0, target - now);
   const d = Math.floor(diff / 86400000); diff -= d * 86400000;
   const h = Math.floor(diff / 3600000); diff -= h * 3600000;
   const m = Math.floor(diff / 60000); diff -= m * 60000;
   const sec = Math.floor(diff / 1000);
   const p = (n) => String(n).padStart(2, "0");
-  return [[p(d), "DAYS"], [p(h), "HRS"], [p(m), "MIN"], [p(sec), "SEC"]];
+  return { parts: [[p(d), "DAYS"], [p(h), "HRS"], [p(m), "MIN"], [p(sec), "SEC"]], inPast };
 }
 
 export function Hero() {
@@ -52,17 +54,21 @@ export function Hero() {
           <div style={{ display: "flex", alignItems: "center", gap: 18, marginBottom: 30, flexWrap: "wrap" }}>
             <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 14, color: "var(--bc-text)", letterSpacing: "0.04em", opacity: 0.92, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>{D.nextEvent.dates}</span>
             <span style={{ width: 5, height: 5, borderRadius: "50%", background: "var(--bc-text)", opacity: 0.5 }} />
-            <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
-              <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 11, letterSpacing: "0.16em", color: "var(--bc-text)", opacity: 0.7 }}>STARTS IN</span>
-              <span className="bc-num" style={{ fontFamily: "var(--bc-cond)", fontWeight: 800, fontSize: 24, letterSpacing: "0.03em", color: "var(--bc-text)", textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>
-                {cd.map(([v, l], i) => (
-                  <Fragment key={l}>
-                    {i > 0 && <span style={{ opacity: 0.35, margin: "0 7px" }}>:</span>}
-                    {v}<span style={{ fontSize: 12, opacity: 0.65, marginLeft: 1 }}>{l[0].toLowerCase()}</span>
-                  </Fragment>
-                ))}
-              </span>
-            </div>
+            {cd.inPast ? (
+              <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 11, letterSpacing: "0.16em", color: "var(--bc-accent)", opacity: 0.95, textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>● LIVE NOW</span>
+            ) : (
+              <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
+                <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 11, letterSpacing: "0.16em", color: "var(--bc-text)", opacity: 0.7 }}>STARTS IN</span>
+                <span className="bc-num" style={{ fontFamily: "var(--bc-cond)", fontWeight: 800, fontSize: 24, letterSpacing: "0.03em", color: "var(--bc-text)", textShadow: "0 1px 12px rgba(0,0,0,0.6)" }}>
+                  {cd.parts.map(([v, l], i) => (
+                    <Fragment key={l}>
+                      {i > 0 && <span style={{ opacity: 0.35, margin: "0 7px" }}>:</span>}
+                      {v}<span style={{ fontSize: 12, opacity: 0.65, marginLeft: 1 }}>{l[0].toLowerCase()}</span>
+                    </Fragment>
+                  ))}
+                </span>
+              </div>
+            )}
           </div>
 
           <div style={{ display: "flex", gap: 12, alignItems: "center", flexWrap: "wrap" }}>

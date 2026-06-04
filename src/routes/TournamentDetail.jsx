@@ -1,19 +1,21 @@
 import { useParams, Link } from "react-router-dom";
 import { PageHead } from "../components/PageHead.jsx";
 import { usePolledJson } from "../hooks/usePolledJson.js";
-import { SEED_SCHEDULE, SEED_NEXT_EVENT } from "../data/seed.js";
+import { SEED_SCHEDULE, SEED_NEXT_EVENT, SEED_FEATURED_EVENT } from "../data/seed.js";
 import { IndonesiaOpenPage } from "./IndonesiaOpenPage.jsx";
 
 export function TournamentDetail() {
   const { slug } = useParams();
   const { data: schedule } = usePolledJson("/data/schedule.json", { seed: SEED_SCHEDULE });
   const { data: nextEvent } = usePolledJson("/data/next-event.json", { seed: SEED_NEXT_EVENT });
+  const { data: featured } = usePolledJson("/data/featured-event.json", { seed: SEED_FEATURED_EVENT });
 
   const event = (schedule || []).find((e) => e.slug === slug);
 
-  // Featured events get a fully hand-curated page (data lives in
-  // /data/featured-event.json). Falls back to the generic layout below.
-  if (event?.featured) return <IndonesiaOpenPage />;
+  // The featured/in-progress event gets the hand-curated rich page even when
+  // it's no longer in the upcoming-schedule feed (an event in flight has
+  // already rolled off `schedule.json` but we still want the hub page to work).
+  if ((featured && featured.slug === slug) || event?.featured) return <IndonesiaOpenPage />;
 
   if (!event) {
     return (

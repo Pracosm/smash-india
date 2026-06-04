@@ -1,7 +1,20 @@
-import { BC_DATA } from "../data/broadcast.js";
+import { usePolledJson } from "../hooks/usePolledJson.js";
+import { SEED_FRESH_RESULT } from "../data/seed.js";
+
+// Defensive sanity check on Gemini's extraction. If the pipeline returns
+// a placeholder ("Opponent", "Opponent of X", "TBD", "Unknown"), or the
+// same name on both sides, fall back to the seed so the strap never reads
+// "Opponent of X beat X 21–18, 21–16".
+const PLACEHOLDER = /(^|\b)(opponent|tbd|unknown|n\/?a)\b/i;
 
 export function FreshResult() {
-  const r = BC_DATA.freshResult;
+  const { data } = usePolledJson("/data/fresh-result.json", { seed: SEED_FRESH_RESULT });
+  const winner = data?.winner?.trim() ?? "";
+  const loser = data?.loser?.trim() ?? "";
+  const usable = data && typeof data === "object" && data.tag &&
+    !PLACEHOLDER.test(winner) && !PLACEHOLDER.test(loser) &&
+    winner.toLowerCase() !== loser.toLowerCase();
+  const r = usable ? data : SEED_FRESH_RESULT;
   return (
     <section style={{ background: "linear-gradient(90deg, var(--bc-accent2) 0%, color-mix(in srgb, var(--bc-accent2) 55%, var(--bc-bg)) 100%)", color: "var(--bc-bg)" }}>
       <div className="bc-fresh" style={{ maxWidth: 1320, margin: "0 auto", display: "flex", alignItems: "center", gap: 24, padding: "16px 0" }}>
