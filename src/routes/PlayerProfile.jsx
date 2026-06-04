@@ -8,9 +8,10 @@ import {
 
 export function PlayerProfile() {
   const { slug } = useParams();
-  const { data: players } = usePolledJson("/data/players.json", { intervalMs: 300_000, seed: SEED_PLAYERS });
-  const { data: news } = usePolledJson("/data/news.json", { intervalMs: 120_000, seed: SEED_NEWS });
-  const { data: rankings } = usePolledJson("/data/rankings.json", { intervalMs: 300_000, seed: SEED_RANKINGS });
+  const { data: players } = usePolledJson("/data/players.json", { seed: SEED_PLAYERS });
+  const { data: news } = usePolledJson("/data/news.json", { seed: SEED_NEWS });
+  const { data: rankings } = usePolledJson("/data/rankings.json", { seed: SEED_RANKINGS });
+  const { data: recent } = usePolledJson("/data/recent.json", { seed: SEED_RECENT });
 
   const player = (players || []).find((p) => p.slug === slug);
 
@@ -35,9 +36,16 @@ export function PlayerProfile() {
     return player.name.toLowerCase().split(/[&/]+/).some((part) => text.includes(part.trim()));
   });
 
-  // Recent results filtered by player name.
+  // Recent results filtered by player name. Doubles pairs ("Satwik & Chirag")
+  // are also matched on either partner's surname so a "Satwik / Chirag" entry
+  // from recent.json still surfaces on the pair's profile.
   const lcName = player.name.toLowerCase();
-  const recentForPlayer = (SEED_RECENT || []).filter((m) => m.a.toLowerCase().includes(lcName) || m.b.toLowerCase().includes(lcName));
+  const lcParts = lcName.split(/[&/]+/).map((s) => s.trim()).filter(Boolean);
+  const recentForPlayer = (Array.isArray(recent) && recent.length > 0 ? recent : SEED_RECENT ?? [])
+    .filter((m) => {
+      const a = m.a.toLowerCase(), b = m.b.toLowerCase();
+      return lcParts.some((p) => a.includes(p) || b.includes(p));
+    });
 
   return (
     <>
@@ -99,9 +107,15 @@ export function PlayerProfile() {
                     <BcFlag code={m.ac} /> {m.a} <span style={{ color: "var(--bc-sub)", margin: "0 6px" }}>vs</span> <BcFlag code={m.bc} /> {m.b}
                   </span>
                   <span className="bc-num" style={{ fontFamily: "var(--bc-sans)", fontWeight: 600, fontSize: 13, color: "var(--bc-text)" }}>{m.s}</span>
-                  <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 11, color: (m.win === "a" && lcName === m.a.toLowerCase()) || (m.win === "b" && lcName === m.b.toLowerCase()) ? "var(--bc-accent2)" : "var(--bc-accent)" }}>
-                    {(m.win === "a" && lcName === m.a.toLowerCase()) || (m.win === "b" && lcName === m.b.toLowerCase()) ? "WON" : "LOST"}
-                  </span>
+                  {(() => {
+                    const aIsThem = lcParts.some((p) => m.a.toLowerCase().includes(p));
+                    const playerWon = (m.win === "a" && aIsThem) || (m.win === "b" && !aIsThem);
+                    return (
+                      <span style={{ fontFamily: "var(--bc-sans)", fontWeight: 700, fontSize: 11, color: playerWon ? "var(--bc-accent2)" : "var(--bc-accent)" }}>
+                        {playerWon ? "WON" : "LOST"}
+                      </span>
+                    );
+                  })()}
                 </div>
               ))}
             </div>
