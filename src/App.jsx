@@ -11,6 +11,8 @@ import { PlayersIndex } from "./routes/PlayersIndex.jsx";
 import { PlayerProfile } from "./routes/PlayerProfile.jsx";
 import { Rankings } from "./routes/Rankings.jsx";
 import { NotFound } from "./routes/NotFound.jsx";
+import { useIsMobile } from "./hooks/useIsMobile.js";
+import { MobileApp } from "./mobile/MobileApp.jsx";
 
 // Sunset palette — the prototype's chosen default: pink accent on dusky-teal night.
 const MOOD = {
@@ -41,11 +43,7 @@ function ScrollToTop() {
   return null;
 }
 
-export default function App() {
-  useEffect(() => {
-    document.body.style.background = MOOD.bg;
-  }, []);
-
+function DesktopShell() {
   const textureBg = [
     "repeating-linear-gradient(0deg, rgba(255,255,255,0.035) 0 1px, transparent 1px 4px)",
     "radial-gradient(130% 120% at 50% 0%, transparent 55%, rgba(0,0,0,0.55) 100%)",
@@ -53,23 +51,40 @@ export default function App() {
   const textureSize = ["100% 4px", "100% 100%"].join(", ");
 
   return (
+    <>
+      <Nav />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/news" element={<NewsIndex />} />
+        <Route path="/news/:slug" element={<Article />} />
+        <Route path="/tournaments" element={<Tournaments />} />
+        <Route path="/tournaments/:slug" element={<TournamentDetail />} />
+        <Route path="/players" element={<PlayersIndex />} />
+        <Route path="/players/:slug" element={<PlayerProfile />} />
+        <Route path="/rankings" element={<Rankings />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+      <Footer />
+      <div className="bc-texture" style={{ backgroundImage: textureBg, backgroundSize: textureSize, opacity: 0.85 }} />
+    </>
+  );
+}
+
+function AppShell() {
+  const isMobile = useIsMobile();
+  return isMobile ? <MobileApp /> : <DesktopShell />;
+}
+
+export default function App() {
+  useEffect(() => {
+    document.body.style.background = MOOD.bg;
+  }, []);
+
+  return (
     <BrowserRouter>
       <ScrollToTop />
       <div className="smash-bc" style={{ ...VARS, background: "var(--bc-bg)", color: "var(--bc-text)", minHeight: "100vh", position: "relative", fontFamily: "var(--bc-body)" }}>
-        <Nav />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/news" element={<NewsIndex />} />
-          <Route path="/news/:slug" element={<Article />} />
-          <Route path="/tournaments" element={<Tournaments />} />
-          <Route path="/tournaments/:slug" element={<TournamentDetail />} />
-          <Route path="/players" element={<PlayersIndex />} />
-          <Route path="/players/:slug" element={<PlayerProfile />} />
-          <Route path="/rankings" element={<Rankings />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
-        <Footer />
-        <div className="bc-texture" style={{ backgroundImage: textureBg, backgroundSize: textureSize, opacity: 0.85 }} />
+        <AppShell />
       </div>
     </BrowserRouter>
   );
