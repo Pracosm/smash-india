@@ -1,52 +1,47 @@
 [
   {
-    "slug": "india-opts-out-of-uganda-para-badminton-international",
-    "kicker": "Domestic",
-    "title": "India Opts Out of Uganda Para Badminton International",
+    "slug": "india-opts-out-uganda-para-badminton-international-2026",
+    "kicker": "News",
+    "title": "India Opts Out of Uganda Para Badminton International 2026",
     "time": "1d ago",
     "read": "2 min",
-    "importance_score": 3,
-    "indian_angle": "BAI's decision affects Indian para-badminton players, indicating strategic choices for national participation.",
-    "summary": "The Badminton Association of India announced that Indian players will not participate in the upcoming Uganda Para Badminton International 2026."
+    "importance_score": 6,
+    "indian_angle": "This news directly impacts Indian para-badminton players and their international participation."
   },
   {
-    "slug": "tan-kim-hers-strategy-for-hari-arjun-pair",
+    "slug": "bai-mandates-accreditation-fees-self-funded-support-staff",
+    "kicker": "News",
+    "title": "BAI Mandates Accreditation Fees for Self-Funded Support Staff",
+    "time": "1d ago",
+    "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "This new policy from BAI directly affects Indian support staff and coaches attending international tournaments."
+  },
+  {
+    "slug": "coach-tan-kim-her-pairs-hari-arjun-after-satwik-chirag",
     "kicker": "Feature",
-    "title": "Tan Kim Her's Strategy for Hari-Arjun Pair",
+    "title": "Coach Tan Kim Her Pairs Hari-Arjun After Satwik-Chirag Success",
     "time": "2d ago",
     "read": "4 min",
-    "importance_score": 6,
-    "indian_angle": "This article details how a key coach is developing India's next generation of men's doubles pairs.",
-    "summary": "Doubles coach Tan Kim Her explains his approach to forming the new Hariharan-Arjun pair, following the success of Satwik-Chirag."
+    "importance_score": 7,
+    "indian_angle": "This article highlights the strategic coaching decisions for India's doubles pairs, following the success of Satwik-Chirag."
   },
   {
-    "slug": "pv-sindhu-needs-self-belief-to-beat-an-se-young",
+    "slug": "pv-sindhu-needs-more-self-belief-overcome-an-se-young",
     "kicker": "Opinion",
-    "title": "PV Sindhu's Challenge Against An Se-young",
+    "title": "PV Sindhu Needs More Self-Belief to Overcome An Se-young",
     "time": "2d ago",
     "read": "5 min",
     "importance_score": 7,
-    "indian_angle": "This piece analyzes what India's top female shuttler, PV Sindhu, needs to overcome a major rival.",
-    "summary": "An analysis of PV Sindhu's mental game and strategy required to defeat formidable opponent An Se-young."
+    "indian_angle": "This opinion piece analyzes the mental game of India's star shuttler, PV Sindhu, against a formidable opponent."
   },
   {
-    "slug": "ayush-shetty-defeats-weng-hong-yang",
+    "slug": "ayush-shetty-defeats-world-no-15-weng-hong-yang",
     "kicker": "Match Report",
-    "title": "Ayush Shetty Defeats Weng Hong Yang",
+    "title": "Ayush Shetty Defeats World No 15 Weng Hong Yang",
     "time": "3d ago",
     "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Ayush Shetty secured a significant victory against a higher-ranked Chinese opponent.",
-    "summary": "Ayush Shetty delivered a strong performance, denying Chinese World No. 15 Weng Hong Yang any respite in their recent match."
-  },
-  {
-    "slug": "sindhu-arjun-hariharan-advance-at-indonesia-open",
-    "kicker": "Result",
-    "title": "Sindhu, Arjun-Hariharan Advance at Indonesia Open",
-    "time": "4d ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "India's PV Sindhu and the new men's doubles pair Arjun-Hariharan successfully progressed to the second round of the Indonesia Open.",
-    "summary": "PV Sindhu and the men's doubles pair Arjun-Hariharan secured their spots in Round 2 of the Indonesia Open."
+    "importance_score": 8,
+    "indian_angle": "This report celebrates a significant victory for young Indian shuttler Ayush Shetty over a higher-ranked Chinese opponent."
   }
 ]
