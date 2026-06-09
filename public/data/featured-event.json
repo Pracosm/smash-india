@@ -1,180 +1,92 @@
 {
-  "slug": "indonesia-open",
-  "name": "Indonesia Open",
+  "slug": "australian-open",
+  "name": "Australian Open",
   "edition": "2026",
-  "fullName": "POLYTRON Indonesia Open 2026",
-  "grade": "BWF World Tour · Super 1000",
-  "city": "Jakarta",
-  "country": "Indonesia",
-  "flag": "🇮🇩",
-  "venue": {
-    "name": "Istora Senayan",
-    "capacity": 7166,
-    "city": "Jakarta",
-    "blurb": "The cathedral of Indonesian badminton — built in 1961, refreshed in 2018, home to the Indonesia Open since 1982. Few arenas turn the crowd into a 13th player like this one."
-  },
-  "dates": "Jun 2 – Jun 7, 2026",
-  "startsAt": "2026-06-02T09:00:00+07:00",
-  "endsAt": "2026-06-07T17:30:00+07:00",
-  "prizeMoneyUsd": 1450000,
+  "fullName": "Australian Open",
+  "grade": "Super 500",
+  "city": "Sydney",
+  "flag": "🇦🇺",
+  "dates": "Jun 9 – Jun 14, 2026",
+  "startsAt": "2026-06-09T09:00:00+10:00",
+  "endsAt": "2026-06-14T23:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5528/polytron-indonesia-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5215/sathio-group-australian-badminton-open-2026/results/",
+  "venue": {
+    "name": "State Sports Centre",
+    "blurb": ""
+  },
   "broadcasters": [
     {
-      "label": "Sony Sports Network",
-      "region": "TV · India"
-    },
-    {
-      "label": "JioHotstar",
-      "region": "Streaming · India"
-    },
-    {
-      "label": "BWF TV",
-      "region": "Streaming · global"
+      "label": "Sony Sports · JioCinema",
+      "region": "India"
     }
   ],
-  "stakes": "This Super 1000 event is a crucial proving ground for India's top shuttlers, offering vital ranking points and a chance to assert dominance against the world's elite as the season progresses.",
-  "summary": "India's badminton contingent arrived at the POLYTRON Indonesia Open 2026 with a mix of high hopes and challenging draws. Men's Doubles third seeds Satwiksairaj Rankireddy & Chirag Shetty lead the charge, fresh off their Singapore Open triumph, looking to defend their 2023 Indonesia Open title and continue their dominant form. Their R32 clash against Denmark's Astrup and Rasmussen is a stern test right out of the gate.\n\nIn Men's Singles, eighth seed Lakshya Sen faces a formidable opponent in Thailand's Kunlavut Vitidsarn, a rematch of last year's All England quarter-final. Sen will be keen to bounce back after a frustrating Singapore Open exit where he received a yellow card. Meanwhile, HS Prannoy also has a tough opener against defending champion Anders Antonsen from Denmark. On the women's side, PV Sindhu successfully navigated her opening round, advancing to the Round of 16, a positive step in her \"rebuild\" at this Super 1000 event.\n\nOther Indian hopefuls include Women's Doubles pair Treesa Jolly & Gayatri Gopichand, who are in career-best form but face a strong Korean duo in Kim and Kong. Mixed Doubles pair Dhruv Kapila & Tanisha Crasto drew the world No. 1 Chinese pair Zheng and Huang, while Malvika Bansod has arguably the toughest opener against Japan's Akane Yamaguchi. The depth of the draw at a Super 1000 event means every match is a battle, and India's shuttlers will need to be at their absolute best to make a deep run.",
+  "recentChampions": [],
+  "indiaHistory": [],
+  "stakes": "This week in Sydney is a vital opportunity for India's top shuttlers to build crucial momentum, find consistency, and for emerging talents to make a significant statement on the international stage.",
+  "summary": "India arrives at the Australian Open Super 500 with a mix of high hopes and challenges. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty are undoubtedly the brightest stars, fresh off their Singapore Open victory and a strong run to the Thailand Open finals. Their aggressive, coordinated play makes them formidable contenders.\n\nIn singles, PV Sindhu and Lakshya Sen are looking to build momentum. Sindhu has shown flashes of her old brilliance, navigating tough early rounds, but consistency against top-tier opponents remains her key focus. Lakshya, despite moments of captivating play, has faced mixed results, including a yellow card incident in Singapore, highlighting a need for greater composure on court. Veteran HS Prannoy continues to battle, having secured a significant win over World No. 5 Christie recently, but also experiencing early exits.\n\nThe contingent also features promising talents like Ayush Shetty, who has been making waves with strong performances against higher-ranked players, and Saneeth Dayanand, who successfully navigated the qualifying rounds to enter the main draw. Women's Doubles pair Treesa Jolly and Gayatri Gopichand will aim to make their mark, while Malvika Bansod, returning from an ACL injury, will be eager to continue her comeback trail. This Super 500 event offers a crucial platform for India's shuttlers to consolidate their positions and test their mettle against a competitive international field.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "seed": 3,
       "rank": 4,
-      "draw": "R32 vs Astrup / Rasmussen (DEN)",
-      "note": "2023 champions, defending form pair on tour"
+      "draw": "R32 — TBD",
+      "note": "Coming off Singapore Open victory"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "seed": 8,
       "rank": 10,
-      "draw": "R32 vs Kunlavut Vitidsarn (THA)",
-      "note": "Rematch of last year's All England QF"
+      "draw": "R32 — TBD",
+      "note": "Seeking consistency after mixed results"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R16 — TBD",
-      "note": "First Super 1000 of the rebuild"
+      "draw": "R32 — TBD",
+      "note": "Aiming to regain top form"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
-      "draw": "R32 vs Kim / Kong (KOR)",
-      "note": "Career-best form heading in"
+      "draw": "R32 — TBD",
+      "note": "Emerging doubles pair"
+    },
+    {
+      "name": "Ayush Shetty",
+      "discipline": "Men's Singles",
+      "rank": 20,
+      "draw": "R32 — TBD",
+      "note": "Rising talent with recent strong performances"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 vs Anders Antonsen (DEN)",
-      "note": "Tough opener — Antonsen is the defending champion"
-    },
-    {
-      "name": "Dhruv Kapila / Tanisha Crasto",
-      "discipline": "Mixed Doubles",
-      "rank": 26,
-      "draw": "R32 vs Zheng / Huang (CHN)",
-      "note": "Drawn into the world #1 pair early"
+      "draw": "R32 — TBD",
+      "note": "Veteran looking for deep run"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 vs Akane Yamaguchi (JPN)",
-      "note": "Toughest possible opener"
-    },
-    {
-      "name": "Ashwini Ponnappa / Tanisha Crasto",
-      "discipline": "Women's Doubles",
-      "rank": 32,
       "draw": "R32 — TBD",
-      "note": "Ashwini's experience anchoring the new pairing"
+      "note": "Returning from injury, building momentum"
     },
     {
-      "name": "Krishna Prasad / Vishnuvardhan",
-      "discipline": "Men's Doubles",
-      "rank": 39,
+      "name": "Saneeth Dayanand",
+      "discipline": "Men's Singles",
       "draw": "R32 — TBD",
-      "note": "India's second-ranked MD pair"
-    }
-  ],
-  "indiaHistory": [
-    {
-      "year": 2023,
-      "result": "🏆 Satwik–Chirag — Men's Doubles champions"
-    },
-    {
-      "year": 2022,
-      "result": "🥈 Satwik–Chirag — Men's Doubles finalists"
-    },
-    {
-      "year": 2018,
-      "result": "🥈 PV Sindhu — Women's Singles finalist"
-    },
-    {
-      "year": 2014,
-      "result": "🥈 Kidambi Srikanth — Men's Singles finalist"
-    },
-    {
-      "year": 2012,
-      "result": "🏆 Saina Nehwal — Women's Singles champion"
-    },
-    {
-      "year": 2010,
-      "result": "🏆 Saina Nehwal — Women's Singles champion"
-    }
-  ],
-  "recentChampions": [
-    {
-      "year": 2025,
-      "ms": "Anders Antonsen (DEN)",
-      "ws": "An Se-young (KOR)",
-      "md": "Kim Won-ho / Seo Seung-jae (KOR)",
-      "wd": "Liu Shengshu / Tan Ning (CHN)",
-      "xd": "Thom Gicquel / Delphine Delrue (FRA)"
-    },
-    {
-      "year": 2024,
-      "ms": "Shi Yuqi (CHN)",
-      "ws": "An Se-young (KOR)",
-      "md": "Liang Weikeng / Wang Chang (CHN)",
-      "wd": "Jiang Zhenbang / Wei Yaxin (CHN)",
-      "xd": "Zheng Siwei / Huang Yaqiong (CHN)"
-    },
-    {
-      "year": 2023,
-      "ms": "Chen Long (CHN)",
-      "ws": "An Se-young (KOR)",
-      "md": "Satwik Rankireddy / Chirag Shetty (IND)",
-      "wd": "Baek Ha-na / Lee So-hee (KOR)",
-      "xd": "Zheng Siwei / Huang Yaqiong (CHN)"
-    },
-    {
-      "year": 2022,
-      "ms": "Viktor Axelsen (DEN)",
-      "ws": "Wang Zhi Yi (CHN)",
-      "md": "Liu Yuchen / Ou Xuanyi (CHN)",
-      "wd": "Chen Qingchen / Jia Yifan (CHN)",
-      "xd": "Zheng Siwei / Huang Yaqiong (CHN)"
-    },
-    {
-      "year": 2021,
-      "ms": "Viktor Axelsen (DEN)",
-      "ws": "An Se-young (KOR)",
-      "md": "M. Gideon / K. Sukamuljo (INA)",
-      "wd": "N. Matsuyama / C. Shida (JPN)",
-      "xd": "D. Puavaranukroh / S. Taerattanachai (THA)"
+      "note": "Qualified for main draw"
     }
   ]
 }

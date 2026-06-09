@@ -20,11 +20,11 @@
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5214/sands-china-ltd-macau-open-2026/results/"
   },
   {
-    "slug": "us-open",
+    "slug": "u.s.-open",
     "date": "JUN 23",
     "name": "U.S. Open",
     "grade": "Super 300",
-    "city": "Fullerton, California",
+    "city": "Fullerton",
     "flag": "🇺🇸",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-us-open-2026/results/"
@@ -34,7 +34,7 @@
     "date": "JUN 30",
     "name": "Canada Open",
     "grade": "Super 300",
-    "city": "Markham, Canada",
+    "city": "Markham",
     "flag": "🇨🇦",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5271/yonex-canada-open-2026/results/"
