@@ -1,12 +1,12 @@
 {
-  "name": "Australian Open",
-  "grade": "Super 500",
-  "city": "Sydney",
-  "venue": "State Sports Centre",
-  "dates": "Jun 9 – Jun 14, 2026",
-  "startsAt": "2026-06-09T09:00:00+10:00",
-  "indiaInDraw": 10,
+  "name": "Macau Open",
+  "grade": "Super 300",
+  "city": "Macau",
+  "venue": "Macau East Asian Games Dome",
+  "dates": "Jun 16 – Jun 21, 2026",
+  "startsAt": "2026-06-16T09:00:00+08:00",
+  "indiaInDraw": 8,
   "disciplines": 5,
-  "blurb": "Indian shuttlers will aim for strong performances at the Australian Open, a Super 500 event, to boost their BWF World Tour rankings. Key players like Lakshya Sen and PV Sindhu will be looking to make deep runs and challenge for titles.",
-  "broadcaster": "Sony Sports · JioCinema"
+  "blurb": "Indian shuttlers will aim for crucial ranking points and a strong performance at the Macau Open, a Super 300 event. This tournament offers a chance for emerging talents to make their mark on the international stage.",
+  "broadcaster": "Sony Sports · JioHotstar"
 }
