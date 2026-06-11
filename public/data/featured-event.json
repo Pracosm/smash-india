@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week in Sydney is a vital opportunity for India's shuttlers to build momentum, secure crucial ranking points, and test their mettle against top international competition.",
-  "summary": "India's badminton contingent arrives in Sydney for the Australian Open, a Super 500 event, with a mix of established stars and promising talents. Leading the charge are the formidable men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open victory. They'll be looking to maintain their red-hot form and assert their dominance on the circuit as top seeds.\n\nIn the singles categories, both Lakshya Sen and PV Sindhu, ranked 10th in their respective disciplines, are aiming for deep runs. Sen has shown flashes of brilliance but seeks greater consistency after some mixed results, while Sindhu continues her quest to regain her peak form, navigating the demanding BWF tour. Keep an eye on rising men's singles talent Ayush Shetty, who recently impressed with a win over World No. 15 Weng Hong Yang, and the emerging women's doubles duo of Treesa Jolly and Gayatri Gopichand.\n\nVeteran HS Prannoy will be keen to make a significant impact, and Malvika Bansod continues her comeback journey, building momentum after returning from injury. With the draws yet to be fully revealed, anticipation is high for how India's shuttlers will fare against the world's best, offering a crucial opportunity for many to solidify their rankings and build confidence as the season progresses.",
+  "stakes": "This Australian Open is a crucial mid-season test for India's badminton contingent to build momentum, secure valuable ranking points, and make a statement on the international stage.",
+  "summary": "India's campaign at the Australian Open Super 500 is off to a promising start, with star shuttler PV Sindhu leading the charge. Sindhu has powered her way into the quarterfinals, where she is set to face Chinese Taipei's Chen Su Yu. This deep run is a welcome sign for the former World Champion, who has been working to regain her top form and consistency on the tour.\n\nHowever, specific updates for other key Indian contenders remain scarce as the tournament progresses. Men's Doubles top seeds Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open victory, will be looking to assert their dominance. Men's Singles talents like Lakshya Sen, Ayush Shetty, and veteran HS Prannoy are also in the fray, aiming for significant breakthroughs. Emerging Women's Doubles pair Treesa Jolly and Gayatri Gopichand, along with Malvika Bansod, returning from injury, will be eager to make their mark in Sydney.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -37,20 +37,20 @@
       "note": "Coming off Singapore Open victory"
     },
     {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
+      "discipline": "Women's Singles",
+      "rank": 10,
+      "draw": "Quarterfinals vs Chen Su Yu (TPE)",
+      "note": "Aiming for a deep run"
+    },
+    {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 10,
       "draw": "R32 — TBD",
       "note": "Seeking consistency after mixed results"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Aiming to regain top form"
     },
     {
       "playerSlug": "treesa-gayatri",
