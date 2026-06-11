@@ -1,52 +1,62 @@
 [
   {
-    "slug": "is-tanvi-sharmas-game-developing-more-like-saina-nehwals",
+    "slug": "tanvi-sharma-game-saina-nehwal-pv-sindhu",
     "kicker": "Feature",
-    "title": "Is Tanvi Sharma's game developing more like Saina Nehwal's?",
+    "title": "Is Tanvi Sharma's game developing more like Saina Nehwal's than PV Sindhu's?",
     "time": "3h ago",
     "read": "4 min",
     "importance_score": 6,
-    "indian_angle": "This article analyzes the playing style of young Indian talent Tanvi Sharma, comparing her to two legendary Indian badminton players.",
-    "summary": "An in-depth look at the emerging game of Tanvi Sharma, drawing comparisons to the tactical approaches of Saina Nehwal and PV Sindhu, and discussing her potential trajectory in Indian badminton."
+    "indian_angle": "This article discusses the playing style of young Indian talent Tanvi Sharma and compares it to Indian badminton legends Saina Nehwal and PV Sindhu.",
+    "summary": "A look into the evolving game of rising Indian shuttler Tanvi Sharma, drawing parallels with the aggressive yet defensive style of Saina Nehwal, rather than PV Sindhu's attacking prowess."
   },
   {
-    "slug": "bai-announces-coaches-development-program-guwahati-raipur",
-    "kicker": "Domestic",
-    "title": "BAI announces Coaches Development Program in Guwahati & Raipur",
-    "time": "3d ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "The Badminton Association of India is launching a grassroots coaches development program in two key Indian cities to nurture future talent.",
-    "summary": "The Badminton Association of India has issued a circular for a Coaches Development Program at the grassroots level, scheduled for Guwahati and Raipur from June 12-21, 2026, aimed at strengthening coaching foundations across the country."
-  },
-  {
-    "slug": "indian-shuttlers-share-fifa-world-cup-2026-team-preferences",
+    "slug": "indian-badminton-stars-world-cup-2026-training-locations",
     "kicker": "Feature",
-    "title": "Indian shuttlers share FIFA World Cup 2026 team preferences",
+    "title": "Indian Badminton Stars Eye Global Training Hubs for World Cup 2026 Prep",
     "time": "4d ago",
     "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "This story highlights the international training plans of top Indian shuttlers like Chirag, Prannoy, Ayush, and Sindhu as they prepare for the 2026 World Cup.",
+    "summary": "Top Indian badminton players, including Chirag, Prannoy, Ayush, and Sindhu, are considering various global locations like Argentina, Spain, Portugal, and Germany for their training ahead of the 2026 World Cup."
+  },
+  {
+    "slug": "bai-launches-grassroot-coaches-development-program-guwahati-raipur",
+    "kicker": "Domestic",
+    "title": "BAI Launches Grassroot Coaches Development Program in Guwahati & Raipur",
+    "time": "3d ago",
+    "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "Top Indian badminton players like Chirag, Prannoy, Ayush, and Sindhu reveal their favorite teams for the upcoming FIFA World Cup 2026.",
-    "summary": "A lighthearted feature where Indian badminton stars such as Chirag Shetty, HS Prannoy, Ayush Shetty, and PV Sindhu discuss which nations they will be supporting in the FIFA World Cup 2026."
+    "indian_angle": "The Badminton Association of India is initiating a crucial program to develop coaches at the grassroot level in key national centers, strengthening the future of Indian badminton.",
+    "summary": "The Badminton Association of India has announced a Coaches Development Program for grassroot level coaches, to be held at National Centres of Excellence in Guwahati and Raipur from June 12-21, 2026."
   },
   {
-    "slug": "coach-tan-kim-hers-strategy-for-hari-arjun-doubles-pairing",
-    "kicker": "Feature",
-    "title": "Coach Tan Kim Her's strategy for Hari-Arjun doubles pairing",
-    "time": "7d ago",
-    "read": "4 min",
-    "importance_score": 6,
-    "indian_angle": "This article details how renowned doubles coach Tan Kim Her strategically paired Indian players Hariharan and Arjun, following his success with Satwik-Chirag.",
-    "summary": "An insight into the coaching philosophy of Tan Kim Her, focusing on his decision to pair Hariharan Amsakarunan and Arjun M.R. in men's doubles, aiming to replicate the success seen with Satwiksairaj Rankireddy and Chirag Shetty."
+    "slug": "india-submits-eoi-to-host-bwf-world-championships-2026",
+    "kicker": "Domestic",
+    "title": "India Submits Expression of Interest to Host BWF World Championships 2026",
+    "time": "9d ago",
+    "read": "2 min",
+    "importance_score": 8,
+    "indian_angle": "India has formally expressed interest in hosting the prestigious BWF World Championships in 2026, a significant step for the nation's badminton profile.",
+    "summary": "The Badminton Association of India has submitted an Expression of Interest to host the BWF World Championships in 2026, signaling India's ambition to bring top-tier international badminton events home."
   },
   {
-    "slug": "ayush-shetty-challenges-world-no-15-weng-hong-yang",
+    "slug": "ayush-shetty-defeats-world-no-15-weng-hong-yang",
     "kicker": "Match Report",
-    "title": "Ayush Shetty challenges World No 15 Weng Hong Yang",
+    "title": "Ayush Shetty Delivers No Respite to World No 15 Weng Hong Yang",
     "time": "8d ago",
     "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "Young Indian shuttler Ayush Shetty put up a strong fight against Chinese World No. 15 Weng Hong Yang, showcasing his potential on the international stage.",
-    "summary": "Indian shuttler Ayush Shetty delivered a challenging performance against China's World No. 15 Weng Hong Yang, demonstrating his growing prowess in a competitive international match."
+    "importance_score": 7,
+    "indian_angle": "Young Indian shuttler Ayush Shetty secured a notable victory against Chinese World No 15 Weng Hong Yang, showcasing his potential on the international stage.",
+    "summary": "Indian shuttler Ayush Shetty delivered a strong performance, giving no respite to Chinese World No 15 Weng Hong Yang in a recent match, marking a significant win for the young talent."
+  },
+  {
+    "slug": "sindhu-arjun-hariharan-advance-round-2-indonesia-open",
+    "kicker": "Result",
+    "title": "Sindhu, Arjun-Hariharan Advance to Round 2 at Indonesia Open",
+    "time": "9d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "PV Sindhu and the men's doubles pair of Arjun and Hariharan successfully progressed to the second round of the Indonesia Open.",
+    "summary": "India's PV Sindhu and the men's doubles duo of Arjun and Hariharan secured their spots in the second round of the Indonesia Open."
   }
 ]
