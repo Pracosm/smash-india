@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event offers crucial ranking points and a vital opportunity for India's shuttlers to gain momentum and confidence on the international circuit.",
-  "summary": "India's badminton contingent arrives at the Australian Open, a Super 500 event, looking to build on recent performances and make a significant impact. Top-seeded Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open triumph, lead the charge, aiming to continue their dominant run. Their recent form suggests they are strong contenders for the title.\n\nIn the singles categories, PV Sindhu, currently World No. 10, is keen to make a deep run, with recent discussions focusing on her game development and self-belief. Lakshya Sen, also World No. 10, seeks greater consistency after a mixed bag of results, including a yellow card incident at the Singapore Open. Veteran HS Prannoy, World No. 24, showed glimpses of his best form with a crucial win over Jonatan Christie recently. Rising talents like Ayush Shetty, World No. 20, and Malvika Bansod, who is steadily returning from injury, will be eager to prove their mettle on this stage. The emerging Women's Doubles pair of Treesa Jolly and Gayatri Gopichand, World No. 16, also represent a strong Indian challenge.",
+  "stakes": "This week was a crucial test of form and depth for India's badminton contingent, offering valuable ranking points and a chance to build confidence on the demanding BWF Tour.",
+  "summary": "India's campaign at the Australian Open, a Super 500 event, concluded with PV Sindhu's valiant run to the semifinals. Sindhu, who had displayed dominant form in earlier rounds—including a swift quarterfinal victory—ultimately fell to Akane Yamaguchi. Her exit marked the end of India's challenge in Sydney, underscoring the tough competition at this level.\n\nThe tournament saw India's top men's doubles pair, Satwik & Chirag, enter fresh off their Singapore Open triumph, though their specific results in Australia were not highlighted. Young talents like Ayush Shetty, who recently upset a World No. 15, and the promising women's doubles duo of Treesa & Gayatri were also part of the contingent. Seasoned shuttlers Lakshya Sen and HS Prannoy aimed for deep runs, while Malvika Bansod continued her determined comeback from injury, seeking to build crucial momentum.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "seed": 1,
       "rank": 4,
-      "draw": "R32 — TBD",
+      "draw": "Campaign ended",
       "note": "Coming off Singapore Open victory"
     },
     {
@@ -41,15 +41,15 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Aiming for a deep run"
+      "draw": "Semifinals vs Akane Yamaguchi (JPN)",
+      "note": "Reached semifinals"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 10,
-      "draw": "R32 — TBD",
+      "draw": "Campaign ended",
       "note": "Seeking consistency after mixed results"
     },
     {
@@ -57,14 +57,14 @@
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
-      "draw": "R32 — TBD",
+      "draw": "Campaign ended",
       "note": "Emerging doubles pair"
     },
     {
       "name": "Ayush Shetty",
       "discipline": "Men's Singles",
       "rank": 20,
-      "draw": "R32 — TBD",
+      "draw": "Campaign ended",
       "note": "Rising talent with recent strong performances"
     },
     {
@@ -72,7 +72,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
+      "draw": "Campaign ended",
       "note": "Veteran looking for deep run"
     },
     {
@@ -80,13 +80,13 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
+      "draw": "Campaign ended",
       "note": "Returning from injury, building momentum"
     },
     {
       "name": "Saneeth Dayanand",
       "discipline": "Men's Singles",
-      "draw": "R32 — TBD",
+      "draw": "Campaign ended",
       "note": "Qualified for main draw"
     }
   ]
