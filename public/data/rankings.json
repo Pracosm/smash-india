@@ -7,13 +7,6 @@
     "pts": "89,311"
   },
   {
-    "disc": "Men's Singles",
-    "name": "Lakshya Sen",
-    "rank": 10,
-    "move": "same",
-    "pts": "69,373"
-  },
-  {
     "disc": "Women's Singles",
     "name": "P. V. Sindhu",
     "rank": 10,
@@ -22,9 +15,9 @@
   },
   {
     "disc": "Men's Singles",
-    "name": "Ayush Shetty",
-    "rank": 20,
+    "name": "Lakshya Sen",
+    "rank": 11,
     "move": "same",
-    "pts": "51,729"
+    "pts": "69,373"
   }
 ]

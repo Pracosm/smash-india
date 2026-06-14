@@ -1,62 +1,52 @@
 [
   {
-    "slug": "thomas-cup-squad-reassembles-asian-games-treesa-gayatri",
-    "kicker": "Team News",
-    "title": "Thomas Cup Squad Reassembles for Asian Games, Treesa-Gayatri Return",
-    "time": "1h ago",
+    "slug": "indian-asian-games-badminton-squad-reassembles-treesa-gayatri",
+    "kicker": "Preview",
+    "title": "Indian Asian Games Badminton Squad Reassembles, Treesa-Gayatri Return",
+    "time": "Yesterday",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "This report details the finalization of India's badminton team for the upcoming Asian Games, highlighting the return of key players like Treesa Jolly and Gayatri Gopichand.",
-    "summary": "The Indian badminton squad, including members of the Thomas Cup team, has reassembled for preparations for the 20th Asian Games 2026, with the notable return of the women's doubles pair Treesa Jolly and Gayatri Gopichand."
+    "indian_angle": "Indian fans will be keen to know the composition of the national badminton squad for the upcoming Asian Games.",
+    "summary": "The Indian badminton squad for the Asian Games, including the returning Treesa-Gayatri, has reassembled following the Thomas Cup."
   },
   {
-    "slug": "sindhu-australian-open-semifinal-loss-title-wait-prolongs",
-    "kicker": "Match Report",
-    "title": "Sindhu's Title Wait Continues After Australian Open Semifinal Loss",
-    "time": "1h ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "PV Sindhu, a prominent Indian shuttler, exited the Australian Open in the semifinals, extending her wait for a title.",
-    "summary": "India's PV Sindhu was defeated in the semifinals of the Australian Open, ending her campaign and prolonging her quest for a BWF World Tour Super 500 title."
-  },
-  {
-    "slug": "indian-badminton-team-finalized-for-20th-asian-games-2026",
-    "kicker": "Team News",
-    "title": "Indian Badminton Team Finalized for 20th Asian Games 2026",
-    "time": "2d ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "The Badminton Association of India has finalized the national team that will represent India at the prestigious 20th Asian Games in 2026.",
-    "summary": "The Badminton Association of India announced the final roster for the Indian badminton contingent participating in the 20th Asian Games 2026, following selection trials and assessments."
-  },
-  {
-    "slug": "tanvi-sharma-game-saina-nehwal-pv-sindhu-comparison",
+    "slug": "tanvi-sharmas-game-compared-to-saina-nehwal-pv-sindhu",
     "kicker": "Feature",
     "title": "Tanvi Sharma's Game: More Saina Nehwal Than PV Sindhu?",
-    "time": "2d ago",
-    "read": "4 min",
-    "importance_score": 5,
-    "indian_angle": "This article analyzes the playing style of young Indian talent Tanvi Sharma, comparing her development to two of India's badminton legends, Saina Nehwal and PV Sindhu.",
-    "summary": "A feature article delves into the evolving game of rising Indian shuttler Tanvi Sharma, drawing comparisons between her style and those of former champions Saina Nehwal and PV Sindhu."
-  },
-  {
-    "slug": "grassroot-coaches-development-program-kicks-off-guwahati-raipur",
-    "kicker": "Domestic",
-    "title": "Grassroot Coaches Development Program Kicks Off in Guwahati & Raipur",
-    "time": "5d ago",
-    "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "This program is a significant initiative by BAI to develop badminton coaches at the grassroot level in India, specifically in Guwahati and Raipur.",
-    "summary": "The Badminton Association of India has launched a Coaches Development Program focusing on grassroot level training, with sessions scheduled from June 12th to 21st in National Centres of Excellence in Guwahati and Raipur."
-  },
-  {
-    "slug": "vv-natu-memorial-all-india-senior-ranking-tournament-underway-pune",
-    "kicker": "Domestic",
-    "title": "V.V. Natu Memorial All India Senior Ranking Tournament Underway in Pune",
-    "time": "1w ago",
+    "time": "3d ago",
     "read": "3 min",
     "importance_score": 5,
-    "indian_angle": "This major domestic ranking tournament in Pune provides a crucial platform for Indian senior players to compete and improve their national rankings.",
-    "summary": "The Yonex-Sunrise V.V. Natu Memorial All India Senior Ranking Badminton Tournament is currently being held in Pune from June 7th to 14th, attracting top Indian shuttlers."
+    "indian_angle": "This article offers an intriguing comparison of young Indian talent Tanvi Sharma's playing style to two of India's greatest badminton icons.",
+    "summary": "An analysis delves into whether rising Indian shuttler Tanvi Sharma's playing style more closely resembles Saina Nehwal's aggressive approach or PV Sindhu's defensive prowess."
+  },
+  {
+    "slug": "coach-tan-kim-her-paired-hari-arjun-after-satwik-chirag",
+    "kicker": "Feature",
+    "title": "Coach Tan Kim Her's Strategy: Pairing Hari-Arjun After Satwik-Chirag Success",
+    "time": "10d ago",
+    "read": "4 min",
+    "importance_score": 6,
+    "indian_angle": "Indian badminton enthusiasts will be interested in the strategic decisions behind forming new successful doubles pairs by their national coach.",
+    "summary": "An in-depth look at how doubles coach Tan Kim Her strategically formed the Indian pair of Hari-Arjun, drawing lessons from the successful partnership of Satwik-Chirag."
+  },
+  {
+    "slug": "pv-sindhu-needs-more-self-belief-to-beat-an-se-young",
+    "kicker": "Opinion",
+    "title": "PV Sindhu Needs More Self-Belief To Overcome An Se-young",
+    "time": "10d ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This opinion piece critically examines what India's top female shuttler PV Sindhu needs to do to consistently defeat her formidable opponent An Se-young.",
+    "summary": "An article discusses the mental aspect of PV Sindhu's game, suggesting that increased self-belief is crucial for her to consistently defeat world-class opponent An Se-young."
+  },
+  {
+    "slug": "ayush-shetty-defeats-chinese-world-no-15-weng-hong-yang",
+    "kicker": "Result",
+    "title": "Ayush Shetty Dominates World No. 15 Weng Hong Yang",
+    "time": "11d ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "This highlights a significant victory for young Indian talent Ayush Shetty over a highly-ranked Chinese opponent, showcasing his potential.",
+    "summary": "Indian shuttler Ayush Shetty delivered a commanding performance, leaving no room for Chinese World No. 15 Weng Hong Yang to gain momentum."
   }
 ]
