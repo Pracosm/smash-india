@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week was a crucial test of form and depth for India's badminton contingent, offering valuable ranking points and a chance to build confidence on the demanding BWF Tour.",
-  "summary": "India's campaign at the Australian Open, a Super 500 event, concluded with PV Sindhu's valiant run to the semifinals. Sindhu, who had displayed dominant form in earlier rounds—including a swift quarterfinal victory—ultimately fell to Akane Yamaguchi. Her exit marked the end of India's challenge in Sydney, underscoring the tough competition at this level.\n\nThe tournament saw India's top men's doubles pair, Satwik & Chirag, enter fresh off their Singapore Open triumph, though their specific results in Australia were not highlighted. Young talents like Ayush Shetty, who recently upset a World No. 15, and the promising women's doubles duo of Treesa & Gayatri were also part of the contingent. Seasoned shuttlers Lakshya Sen and HS Prannoy aimed for deep runs, while Malvika Bansod continued her determined comeback from injury, seeking to build crucial momentum.",
+  "stakes": "This week at the Australian Open was a crucial opportunity for India's shuttlers to gain momentum and valuable ranking points on the BWF Tour.",
+  "summary": "India's campaign at the Australian Open Super 500 has drawn to a close, with the tournament wrapping up today. While many of the nation's top shuttlers saw their runs end earlier than hoped, the spotlight shone brightly on **PV Sindhu**, who advanced to the semifinals in the Women's Singles. Her deep run underscores her continued fight at the elite level, even as she navigates a challenging season.\n\nMen's Doubles top seeds **Satwiksairaj Rankireddy and Chirag Shetty**, fresh off their Singapore Open triumph, faced an early exit—a surprising turn for the in-form pair. Similarly, Men's Singles hopefuls Lakshya Sen, HS Prannoy, and rising talent Ayush Shetty, alongside Women's Doubles pair Treesa Jolly and Gayatri Gopichand, also concluded their campaigns without reaching the final stages. The event offered valuable match practice and ranking points, but for most, it was a test of resilience rather than a podium finish.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -34,23 +34,23 @@
       "seed": 1,
       "rank": 4,
       "draw": "Campaign ended",
-      "note": "Coming off Singapore Open victory"
+      "note": "Top seeds, early exit"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "Semifinals vs Akane Yamaguchi (JPN)",
+      "draw": "Campaign ended (Semifinalist)",
       "note": "Reached semifinals"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 10,
+      "rank": 11,
       "draw": "Campaign ended",
-      "note": "Seeking consistency after mixed results"
+      "note": "Seeking consistency"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -65,7 +65,7 @@
       "discipline": "Men's Singles",
       "rank": 20,
       "draw": "Campaign ended",
-      "note": "Rising talent with recent strong performances"
+      "note": "Rising talent"
     },
     {
       "playerSlug": "hs-prannoy",
@@ -81,7 +81,7 @@
       "discipline": "Women's Singles",
       "rank": 31,
       "draw": "Campaign ended",
-      "note": "Returning from injury, building momentum"
+      "note": "Returning from injury"
     },
     {
       "name": "Saneeth Dayanand",
