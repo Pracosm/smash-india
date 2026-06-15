@@ -24,25 +24,24 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week at the Australian Open was a crucial opportunity for India's shuttlers to gain momentum and valuable ranking points on the BWF Tour.",
-  "summary": "India's campaign at the Australian Open Super 500 has drawn to a close, with the tournament wrapping up today. While many of the nation's top shuttlers saw their runs end earlier than hoped, the spotlight shone brightly on **PV Sindhu**, who advanced to the semifinals in the Women's Singles. Her deep run underscores her continued fight at the elite level, even as she navigates a challenging season.\n\nMen's Doubles top seeds **Satwiksairaj Rankireddy and Chirag Shetty**, fresh off their Singapore Open triumph, faced an early exit—a surprising turn for the in-form pair. Similarly, Men's Singles hopefuls Lakshya Sen, HS Prannoy, and rising talent Ayush Shetty, alongside Women's Doubles pair Treesa Jolly and Gayatri Gopichand, also concluded their campaigns without reaching the final stages. The event offered valuable match practice and ranking points, but for most, it was a test of resilience rather than a podium finish.",
+  "stakes": "With the Australian Open now behind them, the Indian contingent's immediate focus shifts to leveraging recent form and addressing areas for improvement as they eye upcoming major tournaments and the broader season goals.",
+  "summary": "The Australian Open 2026 has now concluded, marking another Super 500 event in the busy BWF calendar. While specific results for the Indian contingent at this tournament were not widely reported in the recent journalism, the focus shifts to their broader season trajectories. India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, are coming off a high, having recently clinched the Singapore Open Super 750 title. Their consistent performance continues to be a beacon for Indian badminton.\\n\\nIn the singles categories, PV Sindhu is persistently working towards regaining her peak form, with recent outings showing glimpses of her potential. Lakshya Sen and HS Prannoy are battling for consistency on the demanding international circuit, each seeking deep runs in tournaments to solidify their rankings. Emerging talents like Ayush Shetty and the women's doubles pair of Treesa Jolly and Gayatri Gopichand are gaining valuable experience, constantly pushing to make their mark against top-tier competition. Malvika Bansod, returning from injury, is also steadily building her rhythm.\\n\\nAs the season progresses, every tournament offers crucial ranking points and opportunities for these shuttlers to fine-tune their strategies and build momentum. The Australian Open, regardless of specific outcomes, serves as another stepping stone in their journey, providing competitive exposure against the world's best.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "seed": 1,
       "rank": 4,
       "draw": "Campaign ended",
-      "note": "Top seeds, early exit"
+      "note": "Recent Super 750 champions"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "Campaign ended (Semifinalist)",
-      "note": "Reached semifinals"
+      "draw": "Campaign ended",
+      "note": "Seeking return to top form"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -50,7 +49,7 @@
       "discipline": "Men's Singles",
       "rank": 11,
       "draw": "Campaign ended",
-      "note": "Seeking consistency"
+      "note": "Battling for consistency"
     },
     {
       "playerSlug": "treesa-gayatri",
