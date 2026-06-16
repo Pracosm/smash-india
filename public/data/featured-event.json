@@ -1,92 +1,79 @@
 {
-  "slug": "australian-open",
-  "name": "Australian Open",
+  "slug": "macau-open",
+  "name": "Macau Open",
   "edition": "2026",
-  "fullName": "Australian Open",
-  "grade": "Super 500",
-  "city": "Sydney",
-  "flag": "🇦🇺",
-  "dates": "Jun 9 – Jun 14, 2026",
-  "startsAt": "2026-06-09T09:00:00+10:00",
-  "endsAt": "2026-06-14T23:00:00.000Z",
+  "fullName": "Macau Open",
+  "grade": "Super 300",
+  "city": "Macau",
+  "flag": "🇲🇴",
+  "dates": "Jun 16 – Jun 21, 2026",
+  "startsAt": "2026-06-16T00:00:00+08:00",
+  "endsAt": "2026-06-21T16:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5215/sathio-group-australian-badminton-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5214/sands-china-ltd-macau-open-2026/results/",
   "venue": {
-    "name": "State Sports Centre",
+    "name": "Macau East Asian Games Dome",
     "blurb": ""
   },
   "broadcasters": [
     {
-      "label": "Sony Sports · JioCinema",
+      "label": "Sony Sports · JioHotstar",
       "region": "India"
     }
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "With the Australian Open now behind them, the Indian contingent's immediate focus shifts to leveraging recent form and addressing areas for improvement as they eye upcoming major tournaments and the broader season goals.",
-  "summary": "The Australian Open 2026 has now concluded, marking another Super 500 event in the busy BWF calendar. While specific results for the Indian contingent at this tournament were not widely reported in the recent journalism, the focus shifts to their broader season trajectories. India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, are coming off a high, having recently clinched the Singapore Open Super 750 title. Their consistent performance continues to be a beacon for Indian badminton.\\n\\nIn the singles categories, PV Sindhu is persistently working towards regaining her peak form, with recent outings showing glimpses of her potential. Lakshya Sen and HS Prannoy are battling for consistency on the demanding international circuit, each seeking deep runs in tournaments to solidify their rankings. Emerging talents like Ayush Shetty and the women's doubles pair of Treesa Jolly and Gayatri Gopichand are gaining valuable experience, constantly pushing to make their mark against top-tier competition. Malvika Bansod, returning from injury, is also steadily building her rhythm.\\n\\nAs the season progresses, every tournament offers crucial ranking points and opportunities for these shuttlers to fine-tune their strategies and build momentum. The Australian Open, regardless of specific outcomes, serves as another stepping stone in their journey, providing competitive exposure against the world's best.",
+  "stakes": "This Super 300 event offers India's shuttlers a crucial opportunity to accumulate ranking points, build confidence, and fine-tune their strategies on the BWF Tour.",
+  "summary": "India's badminton contingent arrives at the Macau Open, a Super 300 event, with a mix of high-flying form and a quest for consistency. Men's Doubles sensations Satwiksairaj Rankireddy and Chirag Shetty are undoubtedly the headline act, fresh off their triumphant Singapore Open Super 750 victory. Their recent performance against world champions Seo-Kim signals they are in peak condition and will be looking to extend their winning streak here.\n\nMeanwhile, PV Sindhu, Lakshya Sen, and HS Prannoy have all been actively competing in recent top-tier tournaments like the Singapore and Indonesia Opens. While they've shown flashes of brilliance—Prannoy notably turning the tables on World No. 5 Jonathan Christie—they'll be aiming for deeper runs and more consistent performances at this level. Women's Doubles pair Treesa Jolly and Gayatri Gopichand, recently named in the Asian Games squad, will also be keen to build momentum.\n\nRounding out the singles challenge, Malvika Bansod, who has been diligently working on her recovery and comeback, will see the Macau Open as a valuable opportunity to climb the rankings and regain her competitive edge. With the draws yet to be announced, all Indian shuttlers face an unknown opponent in the opening round, setting the stage for an intriguing week of badminton.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "rank": 4,
-      "draw": "Campaign ended",
-      "note": "Recent Super 750 champions"
+      "draw": "R32 — TBD",
+      "note": "Fresh off Singapore Open Super 750 title"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "Campaign ended",
-      "note": "Seeking return to top form"
+      "draw": "R32 — TBD",
+      "note": "Seeking deeper runs after recent Super 1000s"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 11,
-      "draw": "Campaign ended",
-      "note": "Battling for consistency"
+      "draw": "R32 — TBD",
+      "note": "Aiming for consistency after recent Tour events"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
-      "draw": "Campaign ended",
-      "note": "Emerging doubles pair"
-    },
-    {
-      "name": "Ayush Shetty",
-      "discipline": "Men's Singles",
-      "rank": 20,
-      "draw": "Campaign ended",
-      "note": "Rising talent"
+      "draw": "R32 — TBD",
+      "note": "Building momentum after Asian Games squad selection"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "Campaign ended",
-      "note": "Veteran looking for deep run"
+      "draw": "R32 — TBD",
+      "note": "Looking to build on recent strong performances"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "Campaign ended",
-      "note": "Returning from injury"
-    },
-    {
-      "name": "Saneeth Dayanand",
-      "discipline": "Men's Singles",
-      "draw": "Campaign ended",
-      "note": "Qualified for main draw"
+      "draw": "R32 — TBD",
+      "note": "Continuing comeback trail after injury recovery"
     }
   ]
 }
