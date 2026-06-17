@@ -1,22 +1,12 @@
 [
   {
-    "slug": "macau-open",
-    "date": "JUN 16",
-    "name": "Macau Open",
-    "grade": "Super 300",
-    "city": "Macau",
-    "flag": "🇲🇴",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5214/sands-china-ltd-macau-open-2026/results/"
-  },
-  {
     "slug": "us-open",
     "date": "JUN 23",
     "name": "U.S. Open",
     "grade": "Super 300",
     "city": "Fullerton",
     "flag": "🇺🇸",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-us-open-2026/results/"
   },
   {
@@ -48,5 +38,15 @@
     "flag": "🇨🇳",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5622/victor-china-open-2026/results/"
+  },
+  {
+    "slug": "taipei-open",
+    "date": "JUL 28",
+    "name": "Taipei Open",
+    "grade": "Super 300",
+    "city": "Taipei",
+    "flag": "🇹🇼",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5514/yonex-taipei-open-2026/results/"
   }
 ]
