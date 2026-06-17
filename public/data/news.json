@@ -1,52 +1,62 @@
 [
   {
-    "slug": "advisory-unauthorized-suchitras-double-trouble-league",
-    "kicker": "Domestic",
-    "title": "Advisory on Unauthorized \"Suchitra's Double Trouble League\"",
-    "time": "Today",
-    "read": "3 min",
-    "importance_score": 3,
-    "indian_angle": "This advisory directly impacts the organization and legitimacy of domestic badminton leagues in India.",
-    "summary": "The Badminton Association of India (BAI) has issued an advisory regarding an unauthorized league, \"Suchitra’s Double Trouble League\", to inform players and officials."
-  },
-  {
-    "slug": "dates-changed-for-two-ranking-tournaments",
-    "kicker": "Domestic",
-    "title": "Dates Changed for Two Ranking Tournaments",
-    "time": "Yesterday",
-    "read": "2 min",
-    "importance_score": 2,
-    "indian_angle": "Indian players participating in domestic ranking tournaments need to be aware of these schedule changes.",
-    "summary": "The Badminton Association of India (BAI) has announced a change of dates for two upcoming domestic ranking tournaments."
-  },
-  {
-    "slug": "expression-of-interest-for-professional-badminton-league",
-    "kicker": "Domestic",
-    "title": "Expression of Interest for Professional Badminton League",
-    "time": "2d ago",
-    "read": "4 min",
-    "importance_score": 4,
-    "indian_angle": "This signifies a potential new professional league in India, offering more opportunities for Indian players.",
-    "summary": "The Badminton Association of India (BAI) has invited Expressions of Interest for the establishment of a Professional Badminton League."
-  },
-  {
     "slug": "thomas-cup-squad-reassembles-asian-games-treesa-gayatri-return",
     "kicker": "Feature",
-    "title": "Thomas Cup Squad Reassembles for Asian Games; Treesa-Gayatri Return",
-    "time": "2d ago",
-    "read": "5 min",
-    "importance_score": 7,
-    "indian_angle": "The reassembly of the successful Thomas Cup squad, with key players returning, is crucial for India's medal hopes at the Asian Games.",
-    "summary": "India's Thomas Cup winning squad is reassembling for preparations for the Asian Games, with the return of Treesa Jolly and Gayatri Gopichand."
-  },
-  {
-    "slug": "indian-badminton-team-finalized-for-asian-games-2026",
-    "kicker": "Feature",
-    "title": "Indian Badminton Team Finalized for Asian Games 2026",
-    "time": "5d ago",
+    "title": "Thomas Cup Squad Reassembles for Asian Games, Treesa-Gayatri Return",
+    "time": "4d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "The finalization of the team determines which Indian athletes will represent the nation at the prestigious Asian Games.",
-    "summary": "The Badminton Association of India has announced the finalized team for the 20th Asian Games 2026, confirming India's representatives."
+    "indian_angle": "This story highlights the Indian national badminton squad's preparation for the Asian Games, including the return of key players Treesa and Gayatri.",
+    "summary": "The Indian Thomas Cup squad is reassembling to prepare for the upcoming Asian Games, with the notable return of Treesa Jolly and Gayatri Gopichand to the team."
+  },
+  {
+    "slug": "tanvi-sharmas-game-developing-like-saina-nehwals-pv-sindhus",
+    "kicker": "Opinion",
+    "title": "Is Tanvi Sharma's Game Developing More Like Saina Nehwal's?",
+    "time": "6d ago",
+    "read": "4 min",
+    "importance_score": 5,
+    "indian_angle": "This article provides an analytical comparison of young Indian shuttler Tanvi Sharma's playing style to two of India's badminton legends, Saina Nehwal and PV Sindhu.",
+    "summary": "An analysis delves into the playing style of rising Indian badminton star Tanvi Sharma, drawing comparisons to the tactical approaches of Saina Nehwal rather than PV Sindhu."
+  },
+  {
+    "slug": "ayush-shetty-defeats-chinese-world-no-15-weng-hong-yang",
+    "kicker": "Result",
+    "title": "Ayush Shetty Defeats Chinese World No 15 Weng Hong Yang",
+    "time": "14d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This reports on a significant victory for Indian shuttler Ayush Shetty over a highly-ranked Chinese opponent, showcasing his potential.",
+    "summary": "Indian shuttler Ayush Shetty delivered a strong performance, securing a notable victory against China's World No. 15 Weng Hong Yang."
+  },
+  {
+    "slug": "sindhu-arjun-hariharan-advance-round-2-indonesia-open",
+    "kicker": "Result",
+    "title": "Sindhu, Arjun-Hariharan Advance to Round 2 at Indonesia Open",
+    "time": "15d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This news covers the progress of prominent Indian players, PV Sindhu and the men's doubles pair Arjun and Hariharan, in a major international tournament.",
+    "summary": "PV Sindhu and the Indian men's doubles pair of Arjun M.R. and Hariharan Amsakarunan successfully moved into the second round of the Indonesia Open."
+  },
+  {
+    "slug": "the-four-eyes-that-keep-satwik-chirag-on-the-right-track",
+    "kicker": "Feature",
+    "title": "The Four Eyes Guiding Satwik & Chirag's Success",
+    "time": "16d ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This feature offers an inside look at the coaching and support system behind India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty.",
+    "summary": "An insightful feature explores the crucial role of the coaching and support staff, affectionately termed 'The Four Eyes,' in maintaining the top form and success of Indian doubles stars Satwik and Chirag."
+  },
+  {
+    "slug": "satwik-chirag-win-singapore-open-with-furious-rallies",
+    "kicker": "Match Report",
+    "title": "Satwik-Chirag Win Singapore Open with Furious Rallies and Celebratory Dances",
+    "time": "17d ago",
+    "read": "3 min",
+    "importance_score": 10,
+    "indian_angle": "This reports on a major title victory for India's star men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, at a prestigious international tournament.",
+    "summary": "India's premier men's doubles duo, Satwiksairaj Rankireddy and Chirag Shetty, clinched the Singapore Open title after a display of furious rallies and memorable celebratory dances."
   }
 ]
