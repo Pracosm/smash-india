@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week in Macau is a vital opportunity for India's shuttlers to secure valuable ranking points and build crucial momentum on the BWF Tour.",
-  "summary": "The Macau Open, a Super 300 event, kicks off with a strong Indian contingent looking to make their mark. Leading the charge are the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, fresh off their triumphant Singapore Open Super 750 title. Their recent form suggests they are in prime condition to contend for another trophy.\n\nIn the singles categories, PV Sindhu continues her quest for deeper runs, having shown flashes of her best game with wins in Singapore and Indonesia. Lakshya Sen and HS Prannoy, however, experienced mixed fortunes in recent Tour events; Sen notably received a yellow card during a tough loss in Singapore, highlighting the need for greater consistency. Women's doubles pair Treesa Jolly and Gayatri Gopichand are building momentum following their selection for the Asian Games squad, while Malvika Bansod continues her commendable comeback trail, with recent reports indicating positive progress in her recovery. The draw for the main rounds is still awaited, leaving the path ahead for these shuttlers TBD.\n\nThis tournament presents a crucial opportunity for India's top shuttlers to consolidate their rankings and build confidence ahead of major upcoming events. For the younger players and those on the comeback trail, it's a chance to gain valuable experience and push for significant results on the international stage.",
+  "stakes": "This Super 300 event offers India's shuttlers a vital opportunity to fine-tune their game, gather ranking points, and build confidence on the international circuit.",
+  "summary": "India's badminton contingent steps onto the courts at the Macau Open, a Super 300 event, looking to build momentum and secure crucial ranking points. While specific draw matchups for many of the top Indian stars are yet to be fully detailed, the focus remains on consistent performances. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open Super 750 title, will be keen to maintain their red-hot form.\n\nPV Sindhu and Lakshya Sen, both prominent names, are seeking deeper runs to solidify their positions and gain confidence ahead of bigger tournaments. Meanwhile, the Women's Doubles pair of Treesa Jolly and Gayatri Gopichand are continuing their upward trajectory, having recently been selected for the Asian Games squad. Though not part of the pre-existing contingent for this update, young Indian shuttlers Anmol Kharb, Rakshitha Ramraj, and Shriyanshi Valishetty have already made a mark, advancing to the Round of 16, showcasing the depth of talent emerging from the country.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -36,20 +36,20 @@
       "note": "Fresh off Singapore Open Super 750 title"
     },
     {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 10,
+      "draw": "R32 — TBD",
+      "note": "Aiming for consistency after recent Tour events"
+    },
+    {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
       "draw": "R32 — TBD",
       "note": "Seeking deeper runs after recent Super 1000s"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 11,
-      "draw": "R32 — TBD",
-      "note": "Aiming for consistency after recent Tour events"
     },
     {
       "playerSlug": "treesa-gayatri",
