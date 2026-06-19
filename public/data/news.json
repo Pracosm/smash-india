@@ -1,52 +1,62 @@
 [
   {
-    "slug": "india-finalizes-badminton-squad-for-20th-asian-games-2026",
-    "kicker": "Ranking",
-    "title": "India Finalizes Badminton Squad for 20th Asian Games 2026",
-    "time": "7d ago",
-    "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "This news confirms the official Indian badminton contingent for a prestigious continental event, crucial for fans following national representation.",
-    "summary": "The Badminton Association of India has announced the finalized team for the upcoming 20th Asian Games, setting the stage for India's challenge in the continental showpiece."
-  },
-  {
-    "slug": "thomas-cup-stars-reassemble-asian-games-treesa-gayatri-return",
-    "kicker": "Preview",
-    "title": "Thomas Cup Stars Reassemble for Asian Games; Treesa-Gayatri Return",
-    "time": "5d ago",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "The return of key players like Treesa Jolly and Gayatri Gopichand from the successful Thomas Cup squad boosts India's medal hopes at the Asian Games.",
-    "summary": "India's Thomas Cup heroes are back together, with Treesa Jolly and Gayatri Gopichand rejoining the squad as preparations intensify for the Asian Games, aiming for strong performances."
-  },
-  {
-    "slug": "tanvi-sharmas-game-developing-like-saina-nehwals-or-pv-sindhus",
-    "kicker": "Feature",
-    "title": "Tanvi Sharma: A Look at Her Game, Echoing Saina or Sindhu?",
-    "time": "7d ago",
-    "read": "5 min",
-    "importance_score": 6,
-    "indian_angle": "This article provides an insightful comparison of young Indian talent Tanvi Sharma's playing style to two of India's greatest badminton icons, Saina Nehwal and PV Sindhu.",
-    "summary": "An analysis delves into the playing style of rising Indian shuttler Tanvi Sharma, drawing comparisons to the tactical approaches of former champions Saina Nehwal and PV Sindhu."
-  },
-  {
-    "slug": "bai-announces-grassroot-coaches-development-program-guwahati-raipur",
+    "slug": "advisory-unauthorized-league-badminton-premier-league",
     "kicker": "Domestic",
-    "title": "BAI Announces Grassroot Coaches Development Program in Guwahati & Raipur",
-    "time": "Yesterday",
+    "title": "BAI Issues Advisory on Unauthorized Badminton Premier League Season 2",
+    "time": "1d ago",
     "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "This program is vital for nurturing future Indian badminton talent by improving coaching standards at the foundational level across the country.",
-    "summary": "The Badminton Association of India has issued a circular for a Coaches Development Program focusing on grassroot level training, scheduled for July in Guwahati and Raipur."
+    "indian_angle": "The Badminton Association of India has issued an advisory regarding an unauthorized league, highlighting domestic governance.",
+    "summary": "The Badminton Association of India (BAI) has released an advisory concerning the \"Passion Sphere presents Badminton Premier League – Season 2,\" stating it is an unauthorized event."
   },
   {
-    "slug": "chennai-to-host-yonex-sunrise-all-india-senior-ranking-tournament",
-    "kicker": "Preview",
-    "title": "Chennai to Host Yonex-Sunrise All India Senior Ranking Tournament",
-    "time": "Yesterday",
+    "slug": "grassroot-coaches-development-program-guwahati-raipur",
+    "kicker": "Domestic",
+    "title": "Grassroot Coaches Development Program Circular for Guwahati and Raipur",
+    "time": "2d ago",
+    "read": "3 min",
+    "importance_score": 3,
+    "indian_angle": "This circular details a coaches development program in India, crucial for nurturing future Indian badminton talent.",
+    "summary": "BAI has issued a circular for a Grassroot Level Coaches Development Program to be held at NCE Guwahati and Raipur from July 15-24, 2026."
+  },
+  {
+    "slug": "yonex-sunrise-all-india-senior-ranking-chennai",
+    "kicker": "Domestic",
+    "title": "Yonex-Sunrise All India Senior Ranking Tournament in Chennai Announced",
+    "time": "2d ago",
     "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "This upcoming tournament in Chennai is a crucial event for Indian senior players to improve their national rankings and showcase their skills.",
-    "summary": "Chennai will be the venue for the Yonex-Sunrise All India Senior Ranking Badminton Tournament from July 16-23, a key event for national players."
+    "indian_angle": "This circular announces a significant All India Senior Ranking Badminton Tournament, a key event for Indian players to improve national standings.",
+    "summary": "The BAI has released a circular for the Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026, scheduled to take place in Chennai, Tamil Nadu, from July 16-23, 2026."
+  },
+  {
+    "slug": "thomas-cup-squad-reassembles-asian-games-treesa-gayatri-return",
+    "kicker": "Feature",
+    "title": "Thomas Cup Squad Reassembles for Asian Games; Treesa-Gayatri Return",
+    "time": "6d ago",
+    "read": "4 min",
+    "importance_score": 7,
+    "indian_angle": "The reassembly of the Thomas Cup squad and the return of Treesa-Gayatri are key developments for India's Asian Games badminton contingent.",
+    "summary": "The Indian Thomas Cup squad is reassembling for the upcoming Asian Games, with the notable return of the women's doubles pair Treesa Jolly and Gayatri Gopichand."
+  },
+  {
+    "slug": "tanvi-sharma-game-saina-nehwal-pv-sindhu",
+    "kicker": "Feature",
+    "title": "Tanvi Sharma's Game Compared to Saina Nehwal and PV Sindhu",
+    "time": "8d ago",
+    "read": "5 min",
+    "importance_score": 6,
+    "indian_angle": "This article provides an in-depth analysis of young Indian talent Tanvi Sharma, comparing her playing style to national legends.",
+    "summary": "An analysis explores whether young Indian shuttler Tanvi Sharma's game development more closely resembles that of Saina Nehwal or PV Sindhu."
+  },
+  {
+    "slug": "doubles-coach-tan-kim-her-paired-hari-arjun",
+    "kicker": "Feature",
+    "title": "Coach Tan Kim Her's Role in Pairing Hariharan and Arjun",
+    "time": "15d ago",
+    "read": "5 min",
+    "importance_score": 6,
+    "indian_angle": "This feature highlights the strategic coaching by Tan Kim Her in forming another promising Indian men's doubles pair, Hariharan and Arjun.",
+    "summary": "The article details how doubles coach Tan Kim Her was instrumental in pairing Hariharan Amsakarunan and Arjun M.R., following his success with Satwiksairaj Rankireddy and Chirag Shetty."
   }
 ]
