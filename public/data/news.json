@@ -1,52 +1,62 @@
 [
   {
-    "slug": "ashmita-chaliha-reaches-macau-open-semifinals-anmol-kharb-exits",
-    "kicker": "Match Report",
-    "title": "Ashmita Chaliha Reaches Macau Open Semifinals",
-    "time": "Today",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "Ashmita Chaliha's strong performance secures an Indian presence in the Macau Open semifinals, marking a significant international achievement.",
-    "summary": "Indian shuttler Ashmita Chaliha advanced to the Macau Open semifinals by defeating world No.99 Kim 21-16 21-18, continuing her impressive run after an injury layoff."
-  },
-  {
-    "slug": "bai-warns-against-unauthorized-badminton-premier-league-season-2",
+    "slug": "bai-issues-advisory-unauthorized-badminton-premier-league",
     "kicker": "Domestic",
-    "title": "BAI Warns Against Unauthorized Badminton Premier League Season 2",
+    "title": "BAI Issues Advisory on Unauthorized Badminton Premier League",
     "time": "1d ago",
-    "read": "1 min",
+    "read": "2 min",
     "importance_score": 3,
-    "indian_angle": "The BAI's advisory highlights its efforts to regulate and protect the integrity of domestic badminton leagues in India, directly impacting players and organizers.",
-    "summary": "The Badminton Association of India (BAI) has issued an advisory regarding an unauthorized event, 'Passion Sphere presents Badminton Premier League – Season 2,' cautioning against participation in unapproved leagues."
+    "indian_angle": "The Badminton Association of India is warning players and fans about an unsanctioned domestic league.",
+    "summary": "The Badminton Association of India has released an advisory regarding the \"Passion Sphere presents Badminton Premier League – Season 2,\" cautioning against participation in unauthorized tournaments."
   },
   {
-    "slug": "yonex-sunrise-all-india-senior-ranking-tournament-set-for-chennai",
+    "slug": "all-india-senior-ranking-tournament-scheduled-chennai",
     "kicker": "Domestic",
-    "title": "Yonex-Sunrise All India Senior Ranking Tournament Set for Chennai",
+    "title": "All India Senior Ranking Tournament Scheduled for Chennai",
     "time": "2d ago",
-    "read": "1 min",
+    "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "This circular announces a significant domestic ranking tournament in Chennai, crucial for Indian players' national standings and development.",
-    "summary": "The Badminton Association of India has issued a circular for the Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026, scheduled to take place in Chennai, Tamil Nadu, from July 16th to 23rd."
+    "indian_angle": "This circular announces a major national ranking tournament for senior Indian badminton players.",
+    "summary": "The Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026 is scheduled to take place in Chennai, Tamil Nadu, from July 16 to 23, 2026."
   },
   {
-    "slug": "india-finalizes-badminton-squad-asian-games-2026-treesa-gayatri-back",
-    "kicker": "Event",
-    "title": "India's Asian Games 2026 Badminton Squad Finalized, Treesa-Gayatri Back",
+    "slug": "thomas-cup-squad-reassembles-asian-games-treesa-gayatri-return",
+    "kicker": "Preview",
+    "title": "Thomas Cup Squad Reassembles for Asian Games, Treesa-Gayatri Return",
     "time": "6d ago",
     "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "The finalization of India's badminton squad for the prestigious Asian Games 2026, including the return of Treesa Jolly and Gayatri Gopichand, is a major development for Indian fans.",
-    "summary": "India's badminton contingent for the 20th Asian Games 2026 has been finalized, with the Thomas Cup squad reassembling and the notable return of the women's doubles pair Treesa Jolly and Gayatri Gopichand."
+    "importance_score": 7,
+    "indian_angle": "Key Indian players from the Thomas Cup squad, including Treesa Jolly and Gayatri Gopichand, are preparing for the Asian Games.",
+    "summary": "The Indian badminton squad, including players from the Thomas Cup, is reassembling for the Asian Games, with Treesa Jolly and Gayatri Gopichand making a return."
   },
   {
-    "slug": "is-tanvi-sharmas-game-like-saina-nehwal-or-pv-sindhu",
+    "slug": "indian-badminton-team-finalized-20th-asian-games",
+    "kicker": "Preview",
+    "title": "Indian Badminton Team Finalized for 20th Asian Games",
+    "time": "8d ago",
+    "read": "3 min",
+    "importance_score": 8,
+    "indian_angle": "The final roster of Indian badminton players for the prestigious Asian Games 2026 has been confirmed.",
+    "summary": "The Badminton Association of India has finalized the team selection for the 20th Asian Games 2026."
+  },
+  {
+    "slug": "tanvi-sharmas-game-compared-saina-nehwal-pv-sindhu",
     "kicker": "Feature",
-    "title": "Is Tanvi Sharma's Game Like Saina Nehwal or PV Sindhu?",
+    "title": "Tanvi Sharma's Game Compared to Saina Nehwal and PV Sindhu",
     "time": "8d ago",
     "read": "4 min",
     "importance_score": 6,
-    "indian_angle": "This feature explores the playing style of promising Indian talent Tanvi Sharma, drawing comparisons to national icons Saina Nehwal and PV Sindhu, offering insight into her potential trajectory.",
-    "summary": "An analysis delves into whether young Indian shuttler Tanvi Sharma's evolving game more closely resembles the aggressive style of Saina Nehwal or the powerful play of PV Sindhu, sparking debate among fans."
+    "indian_angle": "This article analyzes the playing style of young Indian talent Tanvi Sharma in comparison to legends Saina Nehwal and PV Sindhu.",
+    "summary": "An analysis explores whether young Indian shuttler Tanvi Sharma's game development more closely resembles Saina Nehwal's aggressive style or PV Sindhu's powerful play."
+  },
+  {
+    "slug": "eoi-invited-professional-badminton-league",
+    "kicker": "Domestic",
+    "title": "EOI Invited for Professional Badminton League",
+    "time": "5d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This Expression of Interest could lead to the formation of a new professional badminton league in India.",
+    "summary": "The Badminton Association of India has invited Expressions of Interest for a Professional Badminton League."
   }
 ]
