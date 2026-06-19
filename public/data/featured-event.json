@@ -24,13 +24,14 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 300 event offers India's shuttlers a vital opportunity to fine-tune their game, gather ranking points, and build confidence on the international circuit.",
-  "summary": "India's badminton contingent steps onto the courts at the Macau Open, a Super 300 event, looking to build momentum and secure crucial ranking points. While specific draw matchups for many of the top Indian stars are yet to be fully detailed, the focus remains on consistent performances. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open Super 750 title, will be keen to maintain their red-hot form.\n\nPV Sindhu and Lakshya Sen, both prominent names, are seeking deeper runs to solidify their positions and gain confidence ahead of bigger tournaments. Meanwhile, the Women's Doubles pair of Treesa Jolly and Gayatri Gopichand are continuing their upward trajectory, having recently been selected for the Asian Games squad. Though not part of the pre-existing contingent for this update, young Indian shuttlers Anmol Kharb, Rakshitha Ramraj, and Shriyanshi Valishetty have already made a mark, advancing to the Round of 16, showcasing the depth of talent emerging from the country.",
+  "stakes": "This week offers India's shuttlers a vital opportunity to gain ranking points and build confidence on the BWF Tour, especially for those aiming to solidify their positions ahead of major upcoming events.",
+  "summary": "India's top badminton stars are navigating the Macau Open, a Super 300 event, this week, though specific results for many of the big names remain under wraps as the tournament progresses towards its later stages. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open Super 750 title, are undoubtedly the highest-ranked Indian entry and will be looking to continue their dominant run. Their presence always elevates the stakes, even at a Super 300.\n\nIn the singles categories, Lakshya Sen and PV Sindhu—both ranked in the world's top 10—are aiming for deep runs to build crucial momentum. Sindhu, in particular, has been seeking more consistent performances after a series of Super 1000 events, while Sen is focused on maintaining his form. HS Prannoy, another seasoned campaigner, is also in the fray, hoping to capitalize on any opportunities to advance.\n\nThe women's doubles duo of Treesa Jolly and Gayatri Gopichand, recently selected for the Asian Games squad, will be keen to prove their mettle and gain valuable experience against international competition. Malvika Bansod, continuing her comeback from injury, will be looking to make her mark and climb the rankings. While the headlines from Macau have highlighted the progress of other Indian shuttlers, the main contingent will be quietly working towards making a significant impact.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
+      "seed": 1,
       "rank": 4,
       "draw": "R32 — TBD",
       "note": "Fresh off Singapore Open Super 750 title"
