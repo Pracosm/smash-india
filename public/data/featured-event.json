@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week offers India's shuttlers a vital opportunity to gain ranking points and build confidence on the BWF Tour, especially for those aiming to solidify their positions ahead of major upcoming events.",
-  "summary": "India's top badminton stars are navigating the Macau Open, a Super 300 event, this week, though specific results for many of the big names remain under wraps as the tournament progresses towards its later stages. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open Super 750 title, are undoubtedly the highest-ranked Indian entry and will be looking to continue their dominant run. Their presence always elevates the stakes, even at a Super 300.\n\nIn the singles categories, Lakshya Sen and PV Sindhu—both ranked in the world's top 10—are aiming for deep runs to build crucial momentum. Sindhu, in particular, has been seeking more consistent performances after a series of Super 1000 events, while Sen is focused on maintaining his form. HS Prannoy, another seasoned campaigner, is also in the fray, hoping to capitalize on any opportunities to advance.\n\nThe women's doubles duo of Treesa Jolly and Gayatri Gopichand, recently selected for the Asian Games squad, will be keen to prove their mettle and gain valuable experience against international competition. Malvika Bansod, continuing her comeback from injury, will be looking to make her mark and climb the rankings. While the headlines from Macau have highlighted the progress of other Indian shuttlers, the main contingent will be quietly working towards making a significant impact.",
+  "stakes": "For India's shuttlers, the Macau Open is a vital Super 300 proving ground to consolidate rankings, build momentum, and sharpen their game ahead of bigger challenges later in the season.",
+  "summary": "India's badminton contingent arrives at the Macau Open, a Super 300 event, with a mix of high hopes and recent form to consider. While the draw for many top Indian shuttlers is yet to be revealed, the focus remains on their individual campaigns. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open Super 750 title, will undoubtedly be looking to maintain their dominant run. Their top seeding here underscores their current standing as one of the world's elite pairs.\n\nIn the singles categories, PV Sindhu and Lakshya Sen continue their quest for consistent deep runs. Sindhu recently showed grit in Singapore and made it to Round 2 in Indonesia, indicating a steady return to form after a period of injury. Sen, despite a yellow card incident in Singapore, is aiming to build momentum. HS Prannoy, always a threat, is confident of a strong comeback, having recently overcome World No. 5 Christie. Meanwhile, the promising Women's Doubles pair of Treesa Jolly and Gayatri Gopichand, recently confirmed for the Asian Games squad, will be keen to build on that selection.\n\nMalvika Bansod, continuing her comeback trail from injury, will also be looking to make her mark. The Macau Open presents a valuable opportunity for these shuttlers to fine-tune their game, gain crucial ranking points, and build confidence as the season progresses, especially with the Asian Games on the horizon.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -37,20 +37,20 @@
       "note": "Fresh off Singapore Open Super 750 title"
     },
     {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Aiming for consistency after recent Tour events"
-    },
-    {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
       "draw": "R32 — TBD",
       "note": "Seeking deeper runs after recent Super 1000s"
+    },
+    {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 14,
+      "draw": "R32 — TBD",
+      "note": "Aiming for consistency after recent Tour events"
     },
     {
       "playerSlug": "treesa-gayatri",
