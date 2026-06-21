@@ -1,52 +1,62 @@
 [
   {
-    "slug": "all-india-senior-ranking-tournament-announced-for-chennai",
-    "kicker": "Domestic",
-    "title": "All India Senior Ranking Tournament Announced for Chennai",
-    "time": "4d ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "This announces a key domestic tournament, providing Indian players with opportunities to compete and improve their national rankings.",
-    "summary": "The Badminton Association of India has issued a circular for the Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026, scheduled to take place in Chennai from July 16th to 23rd."
-  },
-  {
-    "slug": "bai-warns-against-unauthorized-badminton-premier-league",
-    "kicker": "Domestic",
-    "title": "BAI Warns Against Unauthorized Badminton Premier League Season 2",
-    "time": "3d ago",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "This advisory from BAI directly impacts Indian players and fans by clarifying which leagues are officially sanctioned and which are not.",
-    "summary": "The Badminton Association of India has issued an advisory against the \"Passion Sphere presents Badminton Premier League – Season 2\", stating it is an unauthorized event."
-  },
-  {
-    "slug": "hs-prannoy-aims-for-strong-comeback-after-tough-2023",
+    "slug": "pv-sindhu-first-steps-road-to-stardom",
     "kicker": "Feature",
-    "title": "HS Prannoy Aims for Strong Comeback After Tough 2023 Season",
-    "time": "2d ago",
+    "title": "PV Sindhu's Early Steps to Stardom in Macau",
+    "time": "Today",
+    "read": "4 min",
+    "importance_score": 6,
+    "indian_angle": "This story focuses on the formative years of India's premier female shuttler, PV Sindhu, and her journey to becoming a global star.",
+    "summary": "A look back at PV Sindhu's initial journey in badminton, tracing her first steps towards stardom in Macau, a significant location in her early career."
+  },
+  {
+    "slug": "thomas-cup-squad-reassembles-asian-games-treesa-gayatri-return",
+    "kicker": "Domestic",
+    "title": "Thomas Cup Squad Reunites for Asian Games; Treesa-Gayatri Back",
+    "time": "8d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Fans will be keen to follow HS Prannoy's journey as he aims to regain his top form and contribute to India's badminton success.",
-    "summary": "HS Prannoy expresses confidence in making a strong comeback after a challenging 2023, focusing on improving his game and mentoring the next generation of Indian players."
+    "indian_angle": "The article details the reassembly of India's successful Thomas Cup squad for the upcoming Asian Games, highlighting the return of key players Treesa Jolly and Gayatri Gopichand.",
+    "summary": "India's badminton squad, including members of the victorious Thomas Cup team, is reassembling for the Asian Games, with the notable return of the women's doubles pair Treesa Jolly and Gayatri Gopichand."
   },
   {
-    "slug": "pv-sindhus-early-career-roots-in-macau-explored",
+    "slug": "tanvi-sharma-game-saina-nehwal-pv-sindhu-comparison",
     "kicker": "Feature",
-    "title": "PV Sindhu's Early Career Roots in Macau Explored",
-    "time": "19h ago",
-    "read": "5 min",
-    "importance_score": 6,
-    "indian_angle": "This feature provides insight into the formative years of one of India's most celebrated badminton stars, PV Sindhu.",
-    "summary": "An article delves into PV Sindhu's initial steps towards stardom, tracing her early career development in Macau."
+    "title": "Tanvi Sharma's Game: More Like Saina Nehwal or PV Sindhu?",
+    "time": "10d ago",
+    "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "This piece analyzes the playing style of young Indian talent Tanvi Sharma, drawing comparisons to legendary Indian shuttlers Saina Nehwal and PV Sindhu.",
+    "summary": "An analytical look into the development of rising Indian badminton player Tanvi Sharma's game, comparing her style and potential trajectory to that of Indian legends Saina Nehwal and PV Sindhu."
   },
   {
-    "slug": "indias-asian-games-badminton-squad-reassembles-treesa-gayatri-return",
-    "kicker": "Preview",
-    "title": "India's Asian Games Badminton Squad Reassembles, Treesa-Gayatri Return",
-    "time": "8d ago",
+    "slug": "indian-shuttlers-fifa-world-cup-team-preferences",
+    "kicker": "Feature",
+    "title": "Indian Shuttlers Reveal FIFA World Cup Team Preferences",
+    "time": "14d ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "This fun article reveals which national football teams top Indian badminton players like Chirag Shetty, HS Prannoy, Ayush Shetty, and PV Sindhu are supporting in the FIFA World Cup.",
+    "summary": "Top Indian badminton players, including Chirag Shetty, HS Prannoy, Ayush Shetty, and PV Sindhu, share their favourite teams for the ongoing FIFA World Cup 2026."
+  },
+  {
+    "slug": "doubles-coach-tan-kim-her-hari-arjun-after-satwik-chirag",
+    "kicker": "Feature",
+    "title": "Tan Kim Her's Strategy: Pairing Hari-Arjun After Satwik-Chirag",
+    "time": "17d ago",
     "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "This updates Indian fans on the national team's preparations for the prestigious Asian Games, featuring key players like Treesa and Gayatri.",
-    "summary": "The Indian badminton squad for the Asian Games, including PV Sindhu, Lakshya Sen, Unnati Hooda, and the doubles pair Satwik-Chirag, has reassembled, with Treesa Jolly and Gayatri Gopichand returning to the fold."
+    "importance_score": 6,
+    "indian_angle": "The article delves into the coaching philosophy of Tan Kim Her, specifically how he fostered the new Indian doubles pair of Hariharan and Arjun, following the success of Satwiksairaj Rankireddy and Chirag Shetty.",
+    "summary": "Doubles coach Tan Kim Her's strategic approach to building Indian doubles pairs is explored, focusing on his role in creating the Hariharan-Arjun partnership after the successful formation of Satwiksairaj Rankireddy and Chirag Shetty."
+  },
+  {
+    "slug": "pv-sindhu-needs-self-belief-to-overcome-an-se-young",
+    "kicker": "Opinion",
+    "title": "PV Sindhu Needs More Self-Belief to Overcome An Se-young",
+    "time": "17d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "This opinion piece critically examines what PV Sindhu needs to improve mentally to consistently challenge and defeat her formidable opponent, An Se-young.",
+    "summary": "An analysis suggesting that PV Sindhu's path to defeating the dominant An Se-young lies in cultivating greater self-belief and mental fortitude on court."
   }
 ]
