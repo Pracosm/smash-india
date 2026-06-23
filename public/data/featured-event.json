@@ -1,19 +1,19 @@
 {
-  "slug": "macau-open",
-  "name": "Macau Open",
+  "slug": "u-s-open",
+  "name": "U.S. Open",
   "edition": "2026",
-  "fullName": "Macau Open",
+  "fullName": "U.S. Open",
   "grade": "Super 300",
-  "city": "Macau",
-  "flag": "🇲🇴",
-  "dates": "Jun 16 – Jun 21, 2026",
-  "startsAt": "2026-06-16T00:00:00+08:00",
-  "endsAt": "2026-06-21T16:00:00.000Z",
+  "city": "Fullerton",
+  "flag": "🇺🇸",
+  "dates": "Jun 23 – Jun 28, 2026",
+  "startsAt": "2026-06-23T09:00:00-07:00",
+  "endsAt": "2026-06-29T16:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5214/sands-china-ltd-macau-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-us-open-2026/results/",
   "venue": {
-    "name": "Macau East Asian Games Dome",
+    "name": "Titan Gym",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,57 +24,7 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week in Macau was a crucial opportunity for India's shuttlers to consolidate rankings and build confidence ahead of a packed season, including the upcoming BWF World Championships on home soil.",
-  "summary": "India's badminton contingent arrived at the Macau Open with a blend of high expectations and crucial developmental goals, though specific details on their individual performances at this Super 300 event remain elusive in the latest reports. Men's doubles World No. 4 pair Satwiksairaj Rankireddy and Chirag Shetty, seeded first, were undoubtedly looking to extend their scintillating form after recently clinching the Singapore Open Super 750 title—a significant momentum boost for the duo.\n\nFor PV Sindhu, ranked 10th, Macau holds a special, almost nostalgic significance, marking early steps in her illustrious career as she continues her quest for deeper runs and consistent form. Lakshya Sen, currently World No. 14, was also aiming for a strong showing, though recent journalism highlights his participation in the US Open Super 300, suggesting a demanding schedule. HS Prannoy, ranked 24th, had shown flashes of brilliance, including a noteworthy win over World No. 5 Jonatan Christie at the Singapore Open, indicating he was in good touch. Women's doubles pair Treesa Jolly and Gayatri Gopichand, ranked 16th, were also in the mix, building on their recent Asian Games squad selection, while Malvika Bansod continued her comeback trail.\n\nWith the Macau Open now concluded, the absence of immediate updates on individual Indian performances leaves a gap in the narrative for this specific tournament. However, the broader context of their recent form and upcoming major events, like the BWF World Championships in New Delhi, underscores the importance of every tournament in their journey to peak performance.",
-  "indiaContingent": [
-    {
-      "playerSlug": "satwik-chirag",
-      "name": "Satwik & Chirag",
-      "discipline": "Men's Doubles",
-      "seed": 1,
-      "rank": 4,
-      "draw": "R32 — TBD",
-      "note": "Fresh off Singapore Open Super 750 title"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Macau holds special significance as she seeks deeper runs"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 14,
-      "draw": "R32 — TBD",
-      "note": "Aiming for consistency after recent Tour events"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 16,
-      "draw": "R32 — TBD",
-      "note": "Building momentum after Asian Games squad selection"
-    },
-    {
-      "playerSlug": "hs-prannoy",
-      "name": "HS Prannoy",
-      "discipline": "Men's Singles",
-      "rank": 24,
-      "draw": "R32 — TBD",
-      "note": "Looking to build on recent strong performances"
-    },
-    {
-      "playerSlug": "malvika-bansod",
-      "name": "Malvika Bansod",
-      "discipline": "Women's Singles",
-      "rank": 31,
-      "draw": "R32 — TBD",
-      "note": "Continuing comeback trail after injury recovery"
-    }
-  ]
+  "stakes": "",
+  "summary": "",
+  "indiaContingent": []
 }
