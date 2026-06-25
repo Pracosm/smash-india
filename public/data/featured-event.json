@@ -24,7 +24,26 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "",
-  "summary": "",
-  "indiaContingent": []
+  "stakes": "For the Indian shuttlers competing, this Super 300 event offers a vital opportunity to accumulate ranking points and build confidence on the international circuit.",
+  "summary": "The U.S. Open, a Super 300 event, has kicked off in Fullerton, and the Indian contingent has made a promising start. On the opening day, young talents Tanvi Sharma and Devika Sihag, alongside the experienced Kidambi Srikanth, all secured straight-game victories to advance to the second round. This early success sets a positive tone for the Indian challenge.\n\nNotably absent from the early reports are some of India's top-ranked stars like Satwiksairaj Rankireddy & Chirag Shetty, PV Sindhu, and Lakshya Sen. Their absence suggests this Super 300 tournament might be a platform for India's emerging shuttlers to gain crucial ranking points and international exposure, or for established players like Srikanth to find form. The focus appears to be on building momentum and testing the depth of the squad.",
+  "indiaContingent": [
+    {
+      "name": "Kidambi Srikanth",
+      "discipline": "Men's Singles",
+      "draw": "R16 — TBD",
+      "note": "Advanced with straight-game win"
+    },
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "draw": "R16 — TBD",
+      "note": "Advanced with straight-game win"
+    },
+    {
+      "name": "Devika Sihag",
+      "discipline": "Women's Singles",
+      "draw": "R16 — TBD",
+      "note": "Advanced with straight-game win"
+    }
+  ]
 }
