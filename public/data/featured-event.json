@@ -24,14 +24,26 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week is a crucial test for Rounak Chouhan to continue his dream run and for India to potentially unearth a new star on the Super 300 circuit.",
-  "summary": "India's campaign at the U.S. Open has seen a significant breakthrough with unranked Rounak Chouhan making waves in the Men's Singles draw. Chouhan, a self-proclaimed Cristiano Ronaldo fan, pulled off a stunning upset by defeating World No. 6 Chou Tien Chen, demonstrating remarkable grit and skill. This victory has propelled him into the quarterfinals, where he is set to face Israel's Misha Zilberman.\n\nChouhan's unexpected run is the highlight for the Indian contingent, especially as other prominent Indian shuttlers were not mentioned in recent reports regarding their progress in the tournament. His performance underscores the depth of emerging talent within Indian badminton, offering a glimpse of future potential on the international stage.",
+  "stakes": "This week offers a crucial opportunity for Indian shuttlers to secure valuable ranking points and build momentum on the international stage.",
+  "summary": "India's campaign at the U.S. Open Super 300 event is reaching a thrilling crescendo, with three of its shuttlers—Rounak Chouhan, Devika Sihag, and Kidambi Srikanth—powering their way into the semifinals. This strong showing underscores the depth of talent emerging from the Indian contingent, especially as the tournament enters its decisive stages. Rounak Chouhan has been a revelation, delivering one of the tournament's most memorable upsets by stunning the formidable World No. 6 Chou Tien Chen on his impressive journey to the last four. Not to be outdone, Devika Sihag also made headlines with a remarkable performance, taking down the third seed, Riko Gunji, a victory that highlights her burgeoning potential. Veteran Kidambi Srikanth, a familiar face on the big stage, has navigated his draw with characteristic composure, ensuring a formidable Indian presence across the singles categories. As these three prepare for their semifinal clashes, the focus will be on converting this promising run into podium finishes, aiming to cap off a successful week in Fullerton with titles.",
   "indiaContingent": [
+    {
+      "name": "Kidambi Srikanth",
+      "discipline": "Men's Singles",
+      "draw": "Semifinals — TBD",
+      "note": "Marched into last four"
+    },
     {
       "name": "Rounak Chouhan",
       "discipline": "Men's Singles",
-      "draw": "Quarterfinals vs Misha Zilberman (ISR)",
+      "draw": "Semifinals — TBD",
       "note": "Stunned World No. 6 Chou Tien Chen"
+    },
+    {
+      "name": "Devika Sihag",
+      "discipline": "Women's Singles",
+      "draw": "Semifinals — TBD",
+      "note": "Upset third seed Riko Gunji"
     }
   ]
 }
