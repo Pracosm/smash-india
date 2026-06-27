@@ -1,9 +1,9 @@
 {
-  "tag": "RESULT",
-  "event": "US Open",
-  "discipline": "Men's Singles",
-  "winner": "Rounak Chouhan",
-  "loser": "Chou Tien Chen",
-  "score": "Score not reported",
-  "when": "Yesterday"
+  "tag": "QUARTERFINALISTS",
+  "event": "US Open Badminton",
+  "discipline": "Women's Singles",
+  "winner": "Devika Sihag",
+  "loser": "Riko Gunji",
+  "score": "Score not available",
+  "when": "Today"
 }
