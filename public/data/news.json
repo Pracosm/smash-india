@@ -1,52 +1,62 @@
 [
   {
-    "slug": "kidambi-srikanth-falters-us-open-final",
+    "slug": "kidambi-srikanth-falters-last-step-us-open",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Reaches US Open Final, Finishes Runner-Up",
-    "time": "10h ago",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "time": "Earlier today",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "Indian shuttler Kidambi Srikanth's journey to the US Open final is a significant achievement for Indian badminton.",
-    "summary": "Kidambi Srikanth battled his way to the US Open final but ultimately fell short, finishing as the runner-up."
+    "indian_angle": "India's Kidambi Srikanth reached the final of the US Open, showcasing his strong form.",
+    "summary": "Indian shuttler Kidambi Srikanth was defeated in the final of the US Open, concluding his impressive run as a finalist."
+  },
+  {
+    "slug": "kidambi-srikanth-us-open-final-sportsmanship",
+    "kicker": "Feature",
+    "title": "Srikanth's Sportsmanship Highlighted During US Open Final Run",
+    "time": "Yesterday",
+    "read": "4 min",
+    "importance_score": 6,
+    "indian_angle": "This story highlights Indian shuttler Kidambi Srikanth's sportsmanship during his impressive run to the US Open final.",
+    "summary": "An article recalling a moment of exceptional sportsmanship from Kidambi Srikanth during his journey to the US Open final, where he overturned a point given to him."
   },
   {
     "slug": "rounak-chouhan-defeats-world-no-6-us-open",
     "kicker": "Result",
-    "title": "Rounak Chouhan Upsets World No 6 Chou Tien Chen at US Open",
+    "title": "Rounak Chouhan Upsets World No 6 at US Open",
     "time": "3d ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "Young Indian talent Rounak Chouhan secured a major upset victory over a top-ranked player at an international event.",
-    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by defeating World No 6 Chou Tien Chen."
-  },
-  {
-    "slug": "indian-asian-games-badminton-squad-announced",
-    "kicker": "Preview",
-    "title": "Indian Asian Games Badminton Squad Announced, Treesa-Gayatri Return",
-    "time": "16d ago",
     "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "This report details the composition of India's national badminton squad for the upcoming prestigious Asian Games.",
-    "summary": "The Indian badminton squad for the Asian Games has been announced, featuring the return of the women's doubles pair Treesa Jolly and Gayatri Gopichand."
-  },
-  {
-    "slug": "satwik-chirag-win-singapore-open-champions",
-    "kicker": "Match Report",
-    "title": "Satwik-Chirag Crowned Singapore Open Champions After Dominant Display",
-    "time": "29d ago",
-    "read": "4 min",
-    "importance_score": 10,
-    "indian_angle": "India's premier men's doubles pair secured a significant Super 750 title, showcasing their world-class form.",
-    "summary": "Satwiksairaj Rankireddy and Chirag Shetty delivered a spectacular performance to win the Singapore Open, delighting fans with their aggressive play and celebrations."
-  },
-  {
-    "slug": "tanisha-dhruv-beat-watanabe-taguchi-singapore",
-    "kicker": "Result",
-    "title": "Tanisha-Dhruv Secure Impressive Win Over Watanabe-Taguchi at Singapore Open",
-    "time": "32d ago",
-    "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "The Indian mixed doubles pair achieved a notable upset against a strong Japanese duo at a major tournament.",
-    "summary": "Indian mixed doubles pair Tanisha Crasto and Dhruv Kapila pulled off an impressive victory against the formidable Japanese duo of Yuta Watanabe and Maya Taguchi at the Singapore Open."
+    "indian_angle": "Indian shuttler Rounak Chouhan delivered a significant upset by beating World No 6 Chou Tien Chen at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, achieved a notable victory by defeating World No 6 Chou Tien Chen at the US Open."
+  },
+  {
+    "slug": "thomas-cup-squad-reassembles-asian-games",
+    "kicker": "Preview",
+    "title": "Asian Games Squad Reassembles, Treesa-Gayatri Return",
+    "time": "2w ago",
+    "read": "4 min",
+    "importance_score": 7,
+    "indian_angle": "The Indian badminton squad for the upcoming Asian Games, featuring key players like PV Sindhu and Satwik-Chirag, has reassembled.",
+    "summary": "The Indian Thomas Cup squad has reassembled in preparation for the Asian Games, marking the return of Treesa and Gayatri to the team alongside other prominent players."
+  },
+  {
+    "slug": "satwik-chirag-win-singapore-open-title",
+    "kicker": "Match Report",
+    "title": "Satwik-Chirag Crowned Singapore Open Champions",
+    "time": "4w ago",
+    "read": "5 min",
+    "importance_score": 10,
+    "indian_angle": "India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, secured a prestigious Super 750 title at the Singapore Open.",
+    "summary": "The formidable Indian men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty clinched the Singapore Open title after a display of furious rallies and celebratory dances."
+  },
+  {
+    "slug": "tanvi-sharma-game-compared-nehwal-sindhu",
+    "kicker": "Feature",
+    "title": "Tanvi Sharma's Game: Nehwal or Sindhu Style?",
+    "time": "2w ago",
+    "read": "5 min",
+    "importance_score": 5,
+    "indian_angle": "This article analyzes the game development of promising Indian shuttler Tanvi Sharma, comparing her style to legends Saina Nehwal and PV Sindhu.",
+    "summary": "An in-depth analysis explores whether rising Indian badminton talent Tanvi Sharma's playing style is more akin to Saina Nehwal's or PV Sindhu's."
   }
 ]
