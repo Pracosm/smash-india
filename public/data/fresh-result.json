@@ -1,9 +1,9 @@
 {
-  "tag": "RESULT",
-  "event": "US Open",
+  "tag": "FINALISTS",
+  "event": "US Open Badminton",
   "discipline": "Men's Singles",
-  "winner": "Rounak Chouhan",
-  "loser": "Chou Tien Chen",
-  "score": "Score not reported",
-  "when": "2d ago"
+  "winner": "Su Li-yang",
+  "loser": "Kidambi Srikanth",
+  "score": "15-21, 21-16, 9-21",
+  "when": "3h ago"
 }
