@@ -1,62 +1,52 @@
 [
   {
-    "slug": "kidambi-srikanth-us-open-final-loss",
+    "slug": "kidambi-srikanth-falters-last-step-us-open",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Loses US Open Final",
-    "time": "Today",
-    "read": "2 min",
-    "importance_score": 9,
-    "indian_angle": "India's Kidambi Srikanth reached the final of the US Open, showcasing his return to form on the international stage.",
-    "summary": "Kidambi Srikanth's impressive run at the US Open came to an end in the final, where he was defeated by Su Li Yang."
-  },
-  {
-    "slug": "rounak-chouhan-defeats-world-no-6-us-open",
-    "kicker": "Match Report",
-    "title": "Rounak Chouhan Stuns World No 6 Chou Tien Chen at US Open",
-    "time": "3d ago",
+    "title": "Kidambi Srikanth Falters at Last Step in US Open Final",
+    "time": "Yesterday",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a significant upset by defeating World No 6 Chou Tien Chen at the US Open.",
-    "summary": "Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, made headlines at the US Open by beating higher-ranked Chou Tien Chen in a thrilling encounter."
+    "indian_angle": "Kidambi Srikanth, a prominent Indian shuttler, reached the final of the US Open, showcasing his return to form.",
+    "summary": "Kidambi Srikanth's impressive run at the US Open ended in the final, where he lost to Su Li Yang."
   },
   {
-    "slug": "bai-advisory-unauthorized-badminton-leagues",
+    "slug": "rounak-chouhan-upsets-world-no-6-chou-tien-chen-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Upsets World No 6 Chou Tien Chen at US Open",
+    "time": "4d ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a significant upset by defeating World No. 6 Chou Tien Chen at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a major upset by beating World No. 6 Chou Tien Chen at the US Open."
+  },
+  {
+    "slug": "bai-warns-against-unauthorized-badminton-leagues",
     "kicker": "Domestic",
     "title": "BAI Warns Against Unauthorized Badminton Leagues and Tournaments",
-    "time": "5d ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "The Badminton Association of India has issued a stern advisory regarding unsanctioned badminton leagues and tournaments, urging players and officials to exercise caution.",
-    "summary": "The BAI has released an advisory warning players, coaches, and officials about participating in or promoting unauthorized badminton events, emphasizing the importance of official sanctioning."
-  },
-  {
-    "slug": "bai-selection-criteria-asia-junior-championships",
-    "kicker": "Domestic",
-    "title": "BAI Announces Selection Criteria for Asia U17 & U15 Junior Championships",
-    "time": "5d ago",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "The Badminton Association of India has published the detailed selection criteria for the upcoming Badminton Asia U17 & U15 Junior Championships 2026, outlining the path for young Indian talents.",
-    "summary": "Indian junior shuttlers aspiring for the Badminton Asia U17 & U15 Junior Championships now have clear guidelines following the release of the selection criteria and addendums by the BAI."
-  },
-  {
-    "slug": "bai-circular-yonex-sunrise-all-india-senior-ranking-chennai",
-    "kicker": "Domestic",
-    "title": "Yonex-Sunrise All India Senior Ranking Tournament in Chennai Announced",
-    "time": "12d ago",
+    "time": "6d ago",
     "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "The Badminton Association of India has circulated details for the Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026, set to take place in Chennai.",
-    "summary": "Chennai will host the Yonex-Sunrise All India Senior Ranking Badminton Tournament from July 16th to 23rd, 2026, as per the latest circular from the BAI, attracting top national talent."
+    "importance_score": 5,
+    "indian_angle": "Badminton Association of India (BAI) has issued a warning against unauthorized badminton leagues and tournaments, aiming to regulate the sport's domestic landscape.",
+    "summary": "The Badminton Association of India released an advisory cautioning players and officials against participating in unauthorized badminton leagues and tournaments, emphasizing official sanctioning."
   },
   {
-    "slug": "india-invites-eoi-bwf-world-championships-2026",
-    "kicker": "Domestic",
-    "title": "India Invites Expression of Interest to Host BWF World Championships 2026",
+    "slug": "asian-games-badminton-squad-reassembles-treesa-gayatri-return",
+    "kicker": "Preview",
+    "title": "Asian Games Badminton Squad Reassembles, Treesa-Gayatri Return",
+    "time": "2w ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "The Indian badminton squad for the Asian Games, including the return of Treesa Jolly and Gayatri Gopichand, has reassembled for preparations.",
+    "summary": "India's badminton contingent for the upcoming Asian Games has reconvened, with the notable inclusion of the Treesa Jolly-Gayatri Gopichand women's doubles pair."
+  },
+  {
+    "slug": "india-submits-eoi-to-host-bwf-world-championships-2026",
+    "kicker": "Feature",
+    "title": "India Submits EOI to Host BWF World Championships 2026",
     "time": "4w ago",
     "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "India has formally invited Expressions of Interest to potentially host the prestigious BWF World Championships in 2026, a significant move for Indian badminton.",
-    "summary": "The Badminton Association of India has released an Expression of Interest for cities interested in hosting the BWF World Championships 2026, signaling India's ambition to bring the global event home."
+    "importance_score": 9,
+    "indian_angle": "India has expressed interest in hosting the prestigious BWF World Championships in 2026, a significant step for Indian badminton.",
+    "summary": "The Badminton Association of India has issued an Expression of Interest to host the BWF World Championships in 2026, signaling India's ambition in global badminton."
   }
 ]
