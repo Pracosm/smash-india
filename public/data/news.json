@@ -1,52 +1,62 @@
 [
   {
-    "slug": "kidambi-srikanth-falters-at-last-step-in-us-open",
+    "slug": "rithvik-eyes-top-50-after-valence-alpes-title-win",
+    "kicker": "Feature",
+    "title": "Rithvik Eyes Top 50 After Valence Alpes Title Win",
+    "time": "Tomorrow",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "Young Indian shuttler Rithvik is making strides, winning an international title and aiming for the world's top 50.",
+    "summary": "Young Indian shuttler Rithvik attributes his recent Valence Alpes International title win to an improved net game and aims to break into the world's top 50."
+  },
+  {
+    "slug": "kidambi-srikanth-finishes-runner-up-at-us-open",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Falls in US Open Final",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
     "time": "Yesterday",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "Indian star Kidambi Srikanth reached the final of the US Open, showcasing his continued form on the international circuit.",
-    "summary": "Kidambi Srikanth's impressive run at the US Open came to an end in the final, where he was defeated by Su Li Yang."
+    "indian_angle": "Indian star Kidambi Srikanth showed strong form by reaching the US Open final, a significant achievement for Indian badminton.",
+    "summary": "Kidambi Srikanth reached the final of the US Open but was unable to secure the title, finishing as runner-up."
   },
   {
-    "slug": "kidambi-srikanth-us-open-final-overturned-point",
+    "slug": "srikanths-sportsmanship-highlighted-at-us-open-final",
     "kicker": "Feature",
-    "title": "Srikanth's Sportsmanship Shines in US Open Semifinal",
+    "title": "Srikanth's Sportsmanship Highlighted at US Open Final",
     "time": "2d ago",
-    "read": "4 min",
-    "importance_score": 6,
-    "indian_angle": "This story highlights Indian shuttler Kidambi Srikanth's integrity and sportsmanship during his US Open semifinal match.",
-    "summary": "A look back at a remarkable moment in Kidambi Srikanth's US Open semifinal where he voluntarily overturned a point awarded to him, demonstrating exemplary sportsmanship."
-  },
-  {
-    "slug": "rounak-chouhan-defeats-world-no-6-at-us-open",
-    "kicker": "Match Report",
-    "title": "Rounak Chouhan Stuns World No 6 Chou Tien Chen at US Open",
-    "time": "4d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Rounak Chouhan delivered a major upset by defeating World No. 6 Chou Tien Chen at the US Open.",
-    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a sensation at the US Open by beating the much higher-ranked Chou Tien Chen."
+    "indian_angle": "This article highlights Kidambi Srikanth's exceptional sportsmanship during his US Open final run, reflecting positively on Indian athletes.",
+    "summary": "A feature on Kidambi Srikanth's sportsmanship during the US Open final, where he notably overturned a point given to him."
   },
   {
-    "slug": "thomas-cup-squad-reassembles-for-asian-games",
-    "kicker": "Preview",
-    "title": "Asian Games Squad Reunites, Treesa-Gayatri Return",
-    "time": "17d ago",
-    "read": "4 min",
+    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Upsets World No 6 at US Open",
+    "time": "4d ago",
+    "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "India's top badminton players, including the Thomas Cup heroes and Treesa-Gayatri, are reassembling to prepare for the upcoming Asian Games.",
-    "summary": "The Indian badminton squad for the Asian Games, featuring key players like PV Sindhu, Lakshya Sen, and the returning Treesa-Gayatri, has begun preparations."
+    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a major upset by defeating World No 6 Chou Tien Chen at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan, a Cristiano Ronaldo fan, caused a stir at the US Open by defeating World No 6 Chou Tien Chen."
   },
   {
-    "slug": "tanvi-sharma-game-saina-nehwal-pv-sindhu-comparison",
-    "kicker": "Opinion",
-    "title": "Tanvi Sharma's Game: Saina or Sindhu Style?",
-    "time": "19d ago",
-    "read": "5 min",
-    "importance_score": 5,
-    "indian_angle": "This article analyzes the playing style of promising young Indian shuttler Tanvi Sharma, comparing her to legends Saina Nehwal and PV Sindhu.",
-    "summary": "An in-depth look at the evolving game of young Indian talent Tanvi Sharma, drawing comparisons to the tactical approaches of Saina Nehwal and PV Sindhu."
+    "slug": "pv-sindhus-early-career-steps-in-macau-recalled",
+    "kicker": "Feature",
+    "title": "PV Sindhu's Early Career Steps in Macau Recalled",
+    "time": "9d ago",
+    "read": "4 min",
+    "importance_score": 6,
+    "indian_angle": "This feature explores the early career of Indian badminton icon PV Sindhu, tracing her initial steps towards global stardom.",
+    "summary": "A look back at PV Sindhu's nascent career, recalling her first steps on the road to stardom in Macau."
+  },
+  {
+    "slug": "indian-thomas-cup-squad-reunites-for-asian-games",
+    "kicker": "Preview",
+    "title": "Indian Thomas Cup Squad Reunites for Asian Games",
+    "time": "17d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "The core of India's victorious Thomas Cup squad, including Treesa Jolly and Gayatri Gopichand, is reassembling for the upcoming Asian Games.",
+    "summary": "India's Thomas Cup squad is reassembling for the Asian Games, with the return of Treesa Jolly and Gayatri Gopichand."
   }
 ]
