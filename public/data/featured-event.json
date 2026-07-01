@@ -1,19 +1,19 @@
 {
-  "slug": "u-s-open",
-  "name": "U.S. Open",
+  "slug": "japan-open",
+  "name": "Japan Open",
   "edition": "2026",
-  "fullName": "U.S. Open",
-  "grade": "Super 300",
-  "city": "Fullerton",
-  "flag": "🇺🇸",
-  "dates": "Jun 23 – Jun 28, 2026",
-  "startsAt": "2026-06-23T09:00:00-07:00",
-  "endsAt": "2026-06-29T16:00:00.000Z",
+  "fullName": "Japan Open",
+  "grade": "Super 750",
+  "city": "Tokyo",
+  "flag": "🇯🇵",
+  "dates": "Jul 14 – Jul 19, 2026",
+  "startsAt": "2026-07-14T09:00:00+09:00",
+  "endsAt": "2026-07-20T00:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5272/yonex-us-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5213/daihatsu-japan-open-2026/results/",
   "venue": {
-    "name": "Titan Gym",
+    "name": "Tokyo Metropolitan Gymnasium",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,26 +24,86 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This U.S. Open proved a significant confidence booster for India, showcasing both a veteran's resurgence and the exciting potential of its next generation on the international stage.",
-  "summary": "India's contingent at the U.S. Open, a Super 300 event, concluded with a mix of promising breakthroughs and a strong return to form for a veteran. Kidambi Srikanth led the charge, reaching his first final of the season—a vital step in rebuilding momentum after a challenging period. While he ultimately faltered at the last hurdle, his deep run signals a positive trajectory for the former World No. 1.\n\nThe tournament also shone a spotlight on India's burgeoning young talent. Rounak Chouhan delivered a stunning performance, notably upsetting World No. 6 Chou Tien Chen on his way to the semifinals. Joining him in the last four was Devika Sihag, who also made waves by taking down the third seed. These impressive runs from Chouhan and Sihag underscore the depth and potential within the Indian badminton ecosystem, offering a glimpse into the future of the sport for the nation.",
+  "stakes": "This Super 750 event offers crucial ranking points and a vital platform for India's top shuttlers to solidify their form and build momentum ahead of the season's major championships.",
+  "summary": "India arrives at the Japan Open, a Super 750 event, with a mix of established stars and promising talents eager to make their mark. Leading the charge are the formidable men's doubles duo, Satwiksairaj Rankireddy and Chirag Shetty, who are fresh off a dominant Singapore Open title run where they defeated the reigning world champions. Their red-hot form makes them strong contenders and a major focus for the Indian contingent.\n\nIn singles, P.V. Sindhu continues her journey back to peak form, seeking consistency and confidence on the demanding BWF Tour. Meanwhile, Lakshya Sen will be looking to build momentum after a somewhat turbulent Singapore Open outing. H.S. Prannoy, who recently secured a significant win over World No. 5 Jonatan Christie, aims to carry that positive energy forward. The women's doubles pair of Treesa Jolly and Gayatri Gopichand also return, crucial for India's Asian Games aspirations.\n\nBeyond the familiar names, several other Indian shuttlers have shown flashes of brilliance. Kidambi Srikanth reached the US Open final, demonstrating his enduring class, while young Rounak Chouhan pulled off a stunning upset against a top-10 player at the same event. Men's singles player Rithvik recently clinched the Valence Alpes International title, and the mixed doubles pair of Tanisha Crasto and Dhruv Kapila impressed at the Singapore Open. The draw for the Japan Open is yet to be announced, but the Indian squad will be bracing for tough challenges in Tokyo.",
   "indiaContingent": [
+    {
+      "playerSlug": "satwik-chirag",
+      "name": "Satwik & Chirag",
+      "discipline": "Men's Doubles",
+      "rank": 4,
+      "draw": "R32 — TBD",
+      "note": "Fresh off Singapore Open title"
+    },
+    {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
+      "discipline": "Women's Singles",
+      "rank": 10,
+      "draw": "R32 — TBD",
+      "note": "Seeking return to top form"
+    },
+    {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 14,
+      "draw": "R32 — TBD",
+      "note": "Aiming for consistent run"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 16,
+      "draw": "R32 — TBD",
+      "note": "Key pair for Asian Games"
+    },
+    {
+      "playerSlug": "hs-prannoy",
+      "name": "HS Prannoy",
+      "discipline": "Men's Singles",
+      "rank": 24,
+      "draw": "R32 — TBD",
+      "note": "Looking to build on recent wins"
+    },
+    {
+      "playerSlug": "malvika-bansod",
+      "name": "Malvika Bansod",
+      "discipline": "Women's Singles",
+      "rank": 31,
+      "draw": "R32 — TBD",
+      "note": "Rising talent on the circuit"
+    },
+    {
+      "name": "Achutaditya & Arjun",
+      "discipline": "Men's Doubles",
+      "draw": "R32 — TBD",
+      "note": "Gaining experience on Tour"
+    },
     {
       "name": "Kidambi Srikanth",
       "discipline": "Men's Singles",
-      "draw": "Finals — Lost",
-      "note": "First final of the season"
+      "draw": "R32 — TBD",
+      "note": "US Open finalist"
+    },
+    {
+      "name": "Rithvik",
+      "discipline": "Men's Singles",
+      "draw": "R32 — TBD",
+      "note": "Recent Valence Alpes champion"
     },
     {
       "name": "Rounak Chouhan",
       "discipline": "Men's Singles",
-      "draw": "Semifinals — Lost",
-      "note": "Stunned World No. 6 Chou Tien Chen"
+      "draw": "R32 — TBD",
+      "note": "Giant-killer from US Open"
     },
     {
-      "name": "Devika Sihag",
-      "discipline": "Women's Singles",
-      "draw": "Semifinals — Lost",
-      "note": "Upset third seed Riko Gunji"
+      "name": "Tanisha & Dhruv",
+      "discipline": "Mixed Doubles",
+      "draw": "R32 — TBD",
+      "note": "Promising mixed doubles pair"
     }
   ]
 }

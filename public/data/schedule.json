@@ -1,22 +1,12 @@
 [
   {
-    "slug": "canada-open",
-    "date": "JUN 30",
-    "name": "Canada Open",
-    "grade": "Super 300",
-    "city": "Markham",
-    "flag": "🇨🇦",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5271/yonex-canada-open-2026/results/"
-  },
-  {
     "slug": "japan-open",
     "date": "JUL 14",
     "name": "Japan Open",
     "grade": "Super 750",
     "city": "Tokyo",
     "flag": "🇯🇵",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5213/daihatsu-japan-open-2026/results/"
   },
   {
@@ -48,5 +38,15 @@
     "flag": "🇰🇷",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5596/victor-korea-masters-2026/results/"
+  },
+  {
+    "slug": "china-masters",
+    "date": "SEP 01",
+    "name": "China Masters",
+    "grade": "Super 750",
+    "city": "Shenzhen",
+    "flag": "🇨🇳",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5625/china-masters-2026/results/"
   }
 ]
