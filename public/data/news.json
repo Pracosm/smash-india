@@ -1,62 +1,52 @@
 [
   {
-    "slug": "kidambi-srikanth-reaches-us-open-final",
-    "kicker": "Result",
-    "title": "Kidambi Srikanth Reaches US Open Final",
-    "time": "2d ago",
+    "slug": "rithvik-credits-net-game-improvement-for-recent-success",
+    "kicker": "Feature",
+    "title": "Rithvik Credits Net Game Improvement for Recent Success",
+    "time": "3h ago",
     "read": "2 min",
-    "importance_score": 8,
-    "indian_angle": "India's former World No. 1 Kidambi Srikanth showed strong form by reaching the final of a Super 300 tournament.",
-    "summary": "Kidambi Srikanth reached the final of the US Open but was unable to secure the title, faltering at the last step."
+    "importance_score": 6,
+    "indian_angle": "Young Indian shuttler Rithvik, who won the Valence Alpes International title, is aiming for the world's top 50.",
+    "summary": "Young Indian shuttler Rithvik credits his improved net game for his recent success, including the Valence Alpes International title, and aims to break into the world's top 50."
   },
   {
     "slug": "achutaditya-arjun-canada-open-first-round-exit",
     "kicker": "Match Report",
     "title": "Achutaditya and Arjun Exit Canada Open in First Round",
-    "time": "3h ago",
+    "time": "7h ago",
     "read": "1 min",
     "importance_score": 3,
-    "indian_angle": "The Indian men's doubles pair faced a tough challenge and exited the Canada Open in their opening match.",
-    "summary": "The Indian men's doubles duo of Achutaditya and Arjun lost to the fifth-seeded home pair Kevin Lee and Ty Alexander Lindeman in straight games at the Canada Open."
+    "indian_angle": "The Indian men's doubles pair of Achutaditya and Arjun faced an early exit from the Canada Open.",
+    "summary": "Indian men's doubles pair Achutaditya and Arjun were defeated by fifth-seeded Kevin Lee and Ty Alexander Lindeman in the first round of the Canada Open."
   },
   {
-    "slug": "rithvik-credits-net-game-for-recent-success",
-    "kicker": "Feature",
-    "title": "Rithvik Credits Net Game for Recent Success",
-    "time": "14h ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "Young Indian shuttler Rithvik discusses the technical improvements that led to his recent Valence Alpes International title.",
-    "summary": "Young Indian shuttler Rithvik, who recently claimed the Valence Alpes International title, attributes his success to significant improvements in his net game."
-  },
-  {
-    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
+    "slug": "kidambi-srikanth-finishes-runner-up-at-us-open",
     "kicker": "Match Report",
-    "title": "Rounak Chouhan Upsets World No 6 at US Open",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "time": "2d ago",
+    "read": "2 min",
+    "importance_score": 8,
+    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of the US Open, showcasing strong form.",
+    "summary": "Kidambi Srikanth's impressive run at the US Open concluded with a loss in the final, where he faltered at the last step."
+  },
+  {
+    "slug": "srikanths-sportsmanship-in-us-open-final-run-highlighted",
+    "kicker": "Feature",
+    "title": "Srikanth's Sportsmanship in US Open Final Run Highlighted",
+    "time": "3d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "This story highlights Indian shuttler Kidambi Srikanth's exceptional sportsmanship during his journey to the US Open final.",
+    "summary": "A notable moment of sportsmanship by Kidambi Srikanth during his US Open final campaign is recounted, where he famously overturned a point given to him."
+  },
+  {
+    "slug": "rounak-chouhan-stuns-world-no-6-at-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Stuns World No. 6 at US Open",
     "time": "5d ago",
     "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "Indian shuttler Rounak Chouhan secured a major upset by defeating a top-ranked player at the US Open.",
-    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by defeating World No 6 Chou Tien Chen."
-  },
-  {
-    "slug": "asian-games-squad-announced-treesa-gayatri-return",
-    "kicker": "Preview",
-    "title": "Asian Games Squad Announced, Treesa-Gayatri Return",
-    "time": "18d ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "The Indian badminton squad for the upcoming Asian Games has been announced, featuring the return of key doubles pair Treesa Jolly and Gayatri Gopichand.",
-    "summary": "The Thomas Cup squad is reassembling for the Asian Games, with PV Sindhu, Lakshya Sen, Unnati Hooda, Satwiksairaj Rankireddy, and Chirag Shetty named, alongside the return of Treesa Jolly and Gayatri Gopichand."
-  },
-  {
-    "slug": "lakshya-sen-yellow-card-racquet-throwing-singapore-open",
-    "kicker": "Match Report",
-    "title": "Lakshya Sen Receives Yellow Card in Singapore Open Loss",
-    "time": "1m ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "Indian shuttler Lakshya Sen's match at the Singapore Open included a notable incident where he received a yellow card.",
-    "summary": "Lakshya Sen suffered a 19-21, 21-15, 15-21 loss at the Singapore Open, during which he was issued a yellow card for throwing his racquet."
+    "indian_angle": "Indian shuttler Rounak Chouhan achieved a major upset by defeating the World No. 6 at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by defeating the World No. 6 Chou Tien Chen."
   }
 ]
