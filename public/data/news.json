@@ -1,62 +1,52 @@
 [
   {
-    "slug": "rithvik-credits-net-game-for-recent-success",
-    "kicker": "Feature",
-    "title": "Rithvik Credits Net Game for Recent Success",
-    "time": "Today",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "Young Indian shuttler Rithvik, who recently won the Valence Alpes International, attributes his improved performance to a stronger net game.",
-    "summary": "Indian shuttler Rithvik, fresh off his Valence Alpes International title, believes his enhanced net play is key to his recent success and aims for a top 50 world ranking."
-  },
-  {
-    "slug": "bai-implements-new-3x15-scoring-system-for-junior-domestic-tournaments",
-    "kicker": "Domestic",
-    "title": "BAI Implements New 3x15 Scoring System for Junior Domestic Tournaments",
-    "time": "1d ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "This new scoring system will directly impact young Indian badminton players in domestic ranking tournaments and national championships.",
-    "summary": "Badminton Association of India (BAI) announced the implementation of a 3x15 scoring system for U-13, U-15, and U-17 categories in domestic ranking tournaments and national championships."
-  },
-  {
-    "slug": "srikanth-finishes-runner-up-at-us-open",
+    "slug": "kidambi-srikanth-falters-us-open-final",
     "kicker": "Match Report",
-    "title": "Srikanth Finishes Runner-Up at US Open",
-    "time": "2d ago",
-    "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of the US Open, showcasing strong form before finishing as runner-up.",
-    "summary": "Kidambi Srikanth's impressive run at the US Open concluded with a runner-up finish after a hard-fought final against Su Li Yang."
-  },
-  {
-    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
-    "kicker": "Result",
-    "title": "Rounak Chouhan Upsets World No 6 at US Open",
-    "time": "5d ago",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "time": "3d ago",
     "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a major upset by defeating World No. 6 Chou Tien Chen at the US Open.",
-    "summary": "Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, stunned the badminton world by beating the sixth-ranked player, Chou Tien Chen, at the US Open Super 300."
+    "importance_score": 8,
+    "indian_angle": "Indian star Kidambi Srikanth reached a Super 300 final, showcasing his continued form on the international circuit.",
+    "summary": "Kidambi Srikanth's impressive run at the US Open concluded with a loss in the final, marking a strong performance for the Indian shuttler."
   },
   {
-    "slug": "bai-releases-addendum-for-junior-asia-championships-selection",
+    "slug": "rounak-chouhan-upsets-world-no-6-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Stuns World No. 6 Chou Tien Chen at US Open",
+    "time": "6d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "Young Indian shuttler Rounak Chouhan delivered a significant upset by defeating a top-ranked player, highlighting emerging talent.",
+    "summary": "Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by beating World No. 6 Chou Tien Chen."
+  },
+  {
+    "slug": "bai-implements-3x15-scoring-domestic-juniors",
     "kicker": "Domestic",
-    "title": "BAI Releases Addendum for Junior Asia Championships Selection",
-    "time": "7d ago",
+    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
+    "time": "2d ago",
     "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "The Badminton Association of India issued further addendum to the selection criteria for the upcoming Badminton Asia U17 & U15 Junior Championships 2026, guiding aspiring Indian juniors.",
-    "summary": "The Badminton Association of India has released an addendum to the selection criteria for the 2026 Badminton Asia U17 & U15 Junior Championships, providing updated guidelines for junior players."
+    "indian_angle": "This new scoring system aims to develop younger Indian players (U-13, U-15, U-17) by introducing a different match dynamic in domestic events.",
+    "summary": "Badminton Association of India has announced the implementation of a 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and National Championships."
   },
   {
-    "slug": "bai-warns-against-unauthorized-badminton-events",
-    "kicker": "Domestic",
-    "title": "BAI Warns Against Unauthorized Badminton Events",
-    "time": "7d ago",
+    "slug": "asian-games-squad-features-thomas-cup-core-treesa-gayatri-return",
+    "kicker": "Ranking",
+    "title": "Asian Games Squad Features Thomas Cup Core, Treesa-Gayatri Return",
+    "time": "3w ago",
     "read": "3 min",
-    "importance_score": 4,
-    "indian_angle": "BAI has issued an advisory to players and officials regarding participation in unauthorized badminton leagues and tournaments, emphasizing official sanctioning.",
-    "summary": "The Badminton Association of India (BAI) has released an advisory warning players, coaches, and officials against participating in unsanctioned badminton leagues and tournaments."
+    "importance_score": 6,
+    "indian_angle": "India's strong Thomas Cup contingent forms the core of the Asian Games squad, with the return of Treesa Jolly and Gayatri Gopichand boosting medal hopes.",
+    "summary": "The Thomas Cup winning squad members are reassembling for the Asian Games, with Treesa Jolly and Gayatri Gopichand making their return to the team."
+  },
+  {
+    "slug": "india-invites-eoi-for-world-championships-2026",
+    "kicker": "Feature",
+    "title": "India Invites Expressions of Interest to Host World Championships 2026",
+    "time": "1m ago",
+    "read": "3 min",
+    "importance_score": 9,
+    "indian_angle": "India is preparing to host the prestigious BWF World Championships in 2026, a significant milestone for Indian badminton.",
+    "summary": "The Badminton Association of India has issued an Expression of Interest for the upcoming BWF World Championships 2026, indicating India's readiness to host the global event."
   }
 ]
