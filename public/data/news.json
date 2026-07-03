@@ -1,52 +1,62 @@
 [
   {
-    "slug": "new-3x15-scoring-system-domestic-tournaments",
+    "slug": "bai-implements-3x15-scoring-system-domestic-junior-tournaments",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System to Debut in Domestic Tournaments",
+    "title": "BAI Implements 3x15 Scoring System for Domestic Junior Tournaments",
+    "time": "3d ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "This new scoring system will be implemented across all domestic ranking tournaments and national championships for junior categories in India.",
+    "summary": "The Badminton Association of India has announced the implementation of a new 3x15 scoring system for domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups."
+  },
+  {
+    "slug": "indias-new-3x15-scoring-system-debut-ernakulam-tournament",
+    "kicker": "Domestic",
+    "title": "India's New 3x15 Scoring System to Debut at Ernakulam Tournament",
     "time": "1d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "This new scoring format will be implemented across all domestic ranking tournaments and national championships for junior categories in India.",
-    "summary": "Badminton India has announced the implementation of a new 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 categories, set to debut at Ernakulam."
+    "indian_angle": "The new 3x15 scoring system, set to revolutionize junior domestic badminton in India, will officially debut at a tournament in Ernakulam.",
+    "summary": "India's domestic badminton circuit will adopt a new 3x15 scoring system across all tournaments, with its first official implementation scheduled for an event in Ernakulam."
   },
   {
-    "slug": "kidambi-srikanth-finishes-runner-up-us-open",
+    "slug": "kidambi-srikanth-finishes-runner-up-us-open-mens-singles-final",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open Men's Singles Final",
     "time": "4d ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of the US Open, showcasing strong form on the international stage.",
-    "summary": "Kidambi Srikanth's impressive run at the US Open came to an end in the final, where he faltered at the last step against Su Li Yang."
-  },
-  {
-    "slug": "rounak-chouhan-stuns-world-no-6-us-open",
-    "kicker": "Match Report",
-    "title": "Rounak Chouhan Stuns World No 6 Chou Tien Chen at US Open",
-    "time": "1w ago",
     "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Rounak Chouhan created a significant upset by defeating World No 6 Chou Tien Chen at the US Open.",
-    "summary": "Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open Super 300 by defeating the higher-ranked Chou Tien Chen."
+    "importance_score": 8,
+    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of the US Open but was unable to secure the title, finishing as runner-up.",
+    "summary": "Kidambi Srikanth's impressive run at the US Open concluded with a loss in the final, where he faltered at the last hurdle against Su Li Yang."
   },
   {
-    "slug": "thomas-cup-squad-reassembles-asian-games",
-    "kicker": "Feature",
-    "title": "Thomas Cup Squad Members Rejoin for Asian Games Preparations",
+    "slug": "indian-shuttler-rounak-chouhan-upsets-world-no-6-us-open",
+    "kicker": "Match Report",
+    "title": "Indian Shuttler Rounak Chouhan Upsets World No. 6 at US Open",
+    "time": "1w ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "Young Indian shuttler Rounak Chouhan caused a major upset at the US Open by defeating the World No. 6, Chou Tien Chen.",
+    "summary": "Indian badminton player Rounak Chouhan made headlines at the US Open Super 300 by stunning World No. 6 Chou Tien Chen."
+  },
+  {
+    "slug": "asian-games-squad-reassembles-treesa-gayatri-return-indian-team",
+    "kicker": "Preview",
+    "title": "Asian Games Squad Reassembles; Treesa-Gayatri Return to Indian Team",
     "time": "3w ago",
     "read": "4 min",
-    "importance_score": 6,
-    "indian_angle": "Key members of India's successful Thomas Cup squad, including Treesa Jolly and Gayatri Gopichand, are reassembling to prepare for the upcoming Asian Games.",
-    "summary": "India's Thomas Cup winning squad members have reconvened for the Asian Games, with the return of the women's doubles pair Treesa Jolly and Gayatri Gopichand highlighting the preparations."
+    "importance_score": 8,
+    "indian_angle": "The Indian badminton squad, including the returning Treesa Jolly and Gayatri Gopichand, is reassembling to prepare for the upcoming Asian Games.",
+    "summary": "The Indian badminton contingent that competed in the Thomas Cup is reconvening for preparations ahead of the Asian Games, with the notable return of the women's doubles pair Treesa Jolly and Gayatri Gopichand."
   },
   {
-    "slug": "yonex-sunrise-all-india-senior-ranking-tournament-chennai",
-    "kicker": "Domestic",
-    "title": "Yonex-Sunrise All India Senior Ranking Tournament Announced for Chennai",
-    "time": "2w ago",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "The upcoming Yonex-Sunrise All India Senior Ranking Badminton Tournament in Chennai is a key event for top Indian shuttlers to compete domestically.",
-    "summary": "The Badminton Association of India has announced the Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026, scheduled to take place in Chennai, Tamil Nadu, from July 16th to 23rd, 2026."
+    "slug": "satwik-chirag-crowned-singapore-open-mens-doubles-champions",
+    "kicker": "Match Report",
+    "title": "Satwik-Chirag Crowned Singapore Open Men's Doubles Champions",
+    "time": "1m ago",
+    "read": "4 min",
+    "importance_score": 10,
+    "indian_angle": "India's star men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, secured a prestigious title at the Singapore Open.",
+    "summary": "Satwiksairaj Rankireddy and Chirag Shetty clinched the Singapore Open men's doubles title after a display of furious rallies, powerful smashes, and celebratory dances."
   }
 ]
