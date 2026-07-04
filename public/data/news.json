@@ -1,52 +1,62 @@
 [
   {
-    "slug": "badmintons-new-3x15-scoring-system-for-domestic-tournaments",
+    "slug": "badmintons-3x15-scoring-system-to-debut-in-domestic-tournaments",
     "kicker": "Domestic",
-    "title": "Badminton's New 3x15 Scoring System for Domestic Tournaments",
-    "time": "3d ago",
+    "title": "Badminton's 3x15 Scoring System to Debut in Domestic Tournaments",
+    "time": "2d ago",
     "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "This new scoring system will be implemented across all domestic ranking tournaments and national championships in India for junior categories.",
-    "summary": "Badminton Association of India (BAI) announces the implementation of a 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and national championships, set to debut at Ernakulam."
+    "indian_angle": "This new scoring system will be implemented across all domestic ranking tournaments and National Championships for U-13, U-15, and U-17 categories in India, starting at Ernakulam.",
+    "summary": "India's domestic badminton circuit will adopt a new 3x15 scoring system for junior categories, aiming to enhance competitive play and strategy."
   },
   {
-    "slug": "kidambi-srikanth-finishes-as-runner-up-at-us-open",
-    "kicker": "Match Report",
-    "title": "Kidambi Srikanth Finishes as Runner-Up at US Open",
-    "time": "4d ago",
+    "slug": "kidambi-srikanth-finishes-runner-up-at-us-open",
+    "kicker": "Result",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "time": "5d ago",
     "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of the US Open, showcasing strong form on the international stage.",
-    "summary": "Kidambi Srikanth reached the final of the US Open but was unable to secure the title, faltering at the last step against Su Li Yang."
+    "importance_score": 9,
+    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of the US Open, showcasing strong form before ultimately faltering at the last step against Su Li Yang.",
+    "summary": "Indian star Kidambi Srikanth's impressive run at the US Open concluded with a loss in the final, marking a significant performance in the Super 300 event."
   },
   {
-    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
-    "kicker": "Match Report",
-    "title": "Rounak Chouhan Upsets World No 6 at US Open",
-    "time": "1w ago",
+    "slug": "rounak-chouhan-upsets-world-no-6-chou-tien-chen-at-us-open",
+    "kicker": "Result",
+    "title": "Rounak Chouhan Upsets World No 6 Chou Tien Chen at US Open",
+    "time": "8d ago",
+    "read": "2 min",
+    "importance_score": 8,
+    "indian_angle": "Young Indian shuttler Rounak Chouhan delivered a stunning upset by defeating World No 6 Chou Tien Chen at the US Open, highlighting his potential.",
+    "summary": "Rounak Chouhan, an emerging Indian talent, made headlines at the US Open by beating a top-ranked opponent, signaling a promising future."
+  },
+  {
+    "slug": "bai-issues-addendum-for-asia-u17-u15-junior-championships-selection",
+    "kicker": "Domestic",
+    "title": "BAI Issues Addendum for Asia U17 & U15 Junior Championships Selection",
+    "time": "10d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "Badminton Association of India (BAI) has released further criteria for selecting Indian players for the upcoming Badminton Asia U17 & U15 Junior Championships 2026.",
+    "summary": "New guidelines have been issued by BAI to clarify the selection process for India's junior squad participating in the continental championships."
+  },
+  {
+    "slug": "bai-warns-against-unauthorized-badminton-leagues-and-tournaments",
+    "kicker": "Domestic",
+    "title": "BAI Warns Against Unauthorized Badminton Leagues and Tournaments",
+    "time": "10d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a notable victory by defeating World No 6 Chou Tien Chen at the US Open.",
-    "summary": "Indian shuttler and Cristiano Ronaldo fan, Rounak Chouhan, caused a major upset at the US Open Super 300 by defeating the World No 6 Chou Tien Chen."
+    "indian_angle": "The Badminton Association of India (BAI) has issued an advisory cautioning players and officials against participating in unauthorized badminton leagues and tournaments.",
+    "summary": "BAI has released a stern advisory to protect the integrity of the sport and its players from unapproved events, including specific warnings about the Badminton Premier League."
   },
   {
-    "slug": "thomas-cup-squad-members-reassemble-for-asian-games",
-    "kicker": "Team News",
-    "title": "Thomas Cup Squad Members Reassemble for Asian Games",
-    "time": "3w ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "The core of India's successful Thomas Cup squad, including Treesa-Gayatri, is regrouping to represent the nation at the upcoming Asian Games.",
-    "summary": "Members of India's Thomas Cup squad are reassembling for the Asian Games, with Treesa Jolly and Gayatri Gopichand returning to the lineup, signaling strong preparations for the continental event."
-  },
-  {
-    "slug": "satwik-chirag-crowned-singapore-open-champions",
-    "kicker": "Match Report",
-    "title": "Satwik-Chirag Crowned Singapore Open Champions",
-    "time": "5w ago",
-    "read": "4 min",
-    "importance_score": 10,
-    "indian_angle": "India's star men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, secured a prestigious BWF Super 750 title at the Singapore Open.",
-    "summary": "Satwiksairaj Rankireddy and Chirag Shetty clinched the Singapore Open title after a series of furious rallies and spectacular play, marking another significant achievement for the Indian duo."
+    "slug": "yonex-sunrise-all-india-senior-ranking-tournament-scheduled-for-chennai",
+    "kicker": "Domestic",
+    "title": "Yonex-Sunrise All India Senior Ranking Tournament Scheduled for Chennai",
+    "time": "17d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026 is set to take place in Chennai, Tamil Nadu, from July 16th to 23rd, 2026.",
+    "summary": "Chennai will host a key national ranking tournament next month, providing Indian senior players an opportunity to improve their standings."
   }
 ]
