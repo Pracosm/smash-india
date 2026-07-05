@@ -1,52 +1,62 @@
 [
   {
-    "slug": "new-3x15-scoring-system-for-domestic-badminton-debuts-ernakulam",
+    "slug": "badmintons-3x15-scoring-domestic-tournaments-debut-ernakulam",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System for Domestic Badminton Debuts in Ernakulam",
-    "time": "2d ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "This story is crucial for Indian badminton fans as it announces a significant rule change for all domestic tournaments, starting in Ernakulam.",
-    "summary": "The new 3x15 scoring system for all domestic badminton tournaments in India is set to debut at an event in Ernakulam."
+    "title": "BAI Implements 3x15 Scoring System for Domestic Tournaments",
+    "time": "3d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This change by BAI will impact all junior domestic ranking tournaments and national championships in India.",
+    "summary": "The Badminton Association of India has announced the implementation of a new 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and national championships, set to debut in Ernakulam."
   },
   {
-    "slug": "kidambi-srikanth-finishes-runner-up-at-us-open",
-    "kicker": "Result",
+    "slug": "kidambi-srikanth-falters-last-step-us-open",
+    "kicker": "Match Report",
     "title": "Kidambi Srikanth Finishes as Runner-Up at US Open",
-    "time": "5d ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "Indian fans will be interested in Kidambi Srikanth's performance, as he reached the final of a Super 300 event.",
-    "summary": "Kidambi Srikanth, a prominent Indian shuttler, reached the final of the US Open but was unable to secure the title."
-  },
-  {
-    "slug": "srikanths-sportsmanship-highlighted-us-open-final-run",
-    "kicker": "Feature",
-    "title": "Srikanth's Sportsmanship Highlighted in US Open Final Run",
     "time": "6d ago",
     "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "This feature celebrates the integrity and sportsmanship of Indian star Kidambi Srikanth during his impressive run at the US Open.",
-    "summary": "An article detailing a moment of exemplary sportsmanship by Kidambi Srikanth during his journey to the US Open final, where he overturned a point given to him."
+    "importance_score": 8,
+    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of the US Open, showcasing strong form on the international stage.",
+    "summary": "Kidambi Srikanth's impressive run at the US Open concluded with a loss in the final to Su Li Yang, where he finished as the runner-up."
   },
   {
-    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
-    "kicker": "Result",
-    "title": "Rounak Chouhan Upsets World No 6 at US Open",
-    "time": "8d ago",
+    "slug": "rounak-chouhan-defeats-world-no-6-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Upsets World No. 6 Chou Tien Chen at US Open",
+    "time": "9d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "This highlights a significant achievement by an Indian shuttler, Rounak Chouhan, defeating a top-ranked international player.",
-    "summary": "Indian shuttler Rounak Chouhan, a known Cristiano Ronaldo fan, achieved a notable victory by defeating the World No 6, Chou Tien Chen, at the US Open."
+    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a significant upset by defeating a top-ranked player at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a major upset at the US Open Super 300 by defeating World No. 6 Chou Tien Chen."
   },
   {
-    "slug": "indias-asian-games-badminton-squad-reunites",
+    "slug": "bai-addendum-selection-criteria-badminton-asia-u17-u15-junior-championships",
+    "kicker": "Domestic",
+    "title": "BAI Updates Selection Criteria for Asia U17 & U15 Junior Championships",
+    "time": "11d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This update from BAI directly affects aspiring young Indian shuttlers aiming to represent the country at the Asian Junior Championships.",
+    "summary": "The Badminton Association of India has issued a further addendum to the selection criteria for the upcoming Badminton Asia U17 & U15 Junior Championships 2026."
+  },
+  {
+    "slug": "chennai-to-host-yonex-sunrise-all-india-senior-ranking-tournament",
     "kicker": "Preview",
-    "title": "India's Asian Games Badminton Squad Reunites",
-    "time": "21d ago",
-    "read": "4 min",
+    "title": "Chennai to Host Yonex-Sunrise All India Senior Ranking Tournament",
+    "time": "18d ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "This tournament is a key domestic event for senior Indian badminton players to improve their national rankings.",
+    "summary": "The Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026 is scheduled to take place in Chennai, Tamil Nadu, from July 16th to 23rd."
+  },
+  {
+    "slug": "thomas-cup-squad-reassembles-asian-games-treesa-gayatri-return",
+    "kicker": "Preview",
+    "title": "Thomas Cup Squad Members Reassemble for Asian Games",
+    "time": "22d ago",
+    "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Indian fans will be keen to know about the national squad preparing for the upcoming Asian Games, a major multi-sport event.",
-    "summary": "The Indian Thomas Cup squad has reassembled for the Asian Games, with Treesa and Gayatri returning, alongside other key players like PV Sindhu, Lakshya, Unnati, and Satwik-Chirag."
+    "indian_angle": "Key Indian players, including the return of Treesa Jolly and Gayatri Gopichand, are preparing for the upcoming Asian Games.",
+    "summary": "Members of India's Thomas Cup winning squad are reassembling to prepare for the Asian Games, with the notable return of the women's doubles pair Treesa Jolly and Gayatri Gopichand."
   }
 ]
