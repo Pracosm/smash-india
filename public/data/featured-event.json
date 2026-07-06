@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event in Tokyo offers India's shuttlers a vital opportunity to consolidate recent gains, find crucial consistency, and make a significant statement on the BWF World Tour.",
-  "summary": "India arrives in Tokyo for the Japan Open, a Super 750 event, with a mixed bag of recent performances but a clear hunger for deep runs. The undeniable highlight comes from the men's doubles duo, **Satwiksairaj Rankireddy & Chirag Shetty**, who are fresh off a spectacular Singapore Open title, where they defeated the reigning world champions. Their form suggests they are strong contenders to go all the way here.\n\nIn men's singles, **Lakshya Sen** and **HS Prannoy** will be looking for redemption after early exits at the Singapore Open, with Sen even copping a yellow card in his loss. Meanwhile, **Kidambi Srikanth** showed promising form by reaching the US Open final, and young **Rounak Chouhan** made waves by taking down the World No. 6 at the same event—signs of growing depth in the singles ranks. **PV Sindhu** continues her journey back to peak form, having made the second round at the Indonesia Open, and will be eager to push further.\n\nThe women's doubles pair of **Treesa Jolly & Gayatri Gopichand** remain a key focus as they build towards the Asian Games, while the mixed doubles pair **Tanisha Crasto & Dhruv Kapila** have shown flashes of brilliance, including a win over a top Japanese pair in Singapore. With the draw yet to be revealed, anticipation builds for who will face tough openers and who might find a clearer path to the later stages in this crucial tournament.",
+  "stakes": "This week, Indian shuttlers aim to translate recent individual successes and lessons into a collective strong showing, solidifying their presence on the global Super 750 stage.",
+  "summary": "India's badminton contingent heads to the Japan Open Super 750 with a mix of high hopes and recent challenges. Men's Doubles sensation **Satwiksairaj Rankireddy & Chirag Shetty** arrive fresh off their Singapore Open triumph, signaling strong form and a desire to maintain their top-tier status. Their consistent performance makes them key contenders, having recently celebrated a significant win.\n\nIn singles, **PV Sindhu** is looking to find her rhythm after an early exit at the Indonesia Open, with recent discussions focusing on her self-belief against top opponents. **Lakshya Sen** will be aiming for a clean slate after a yellow card incident at the Singapore Open, while **Kidambi Srikanth** and **Rounak Chouhan** carry momentum from strong US Open performances—Srikanth as a finalist and Chouhan as a giant-killer who defeated a World No. 6. The young Women's Doubles pair of **Treesa Jolly & Gayatri Gopichand** are also part of the Asian Games squad, indicating their growing importance.\n\nThe Japan Open offers a crucial platform for these Indian shuttlers to build confidence and secure valuable ranking points as the season progresses. With several players showing flashes of brilliance and others seeking a breakthrough, the tournament promises an engaging week for Indian badminton fans.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "rank": 4,
       "draw": "R32 — TBD",
-      "note": "Fresh off Singapore Open title"
+      "note": "Singapore Open champions, aiming for consistency"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -41,15 +41,15 @@
       "discipline": "Women's Singles",
       "rank": 10,
       "draw": "R32 — TBD",
-      "note": "Made R2 at Indonesia Open"
+      "note": "Seeking form after Indonesia Open R2 exit"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 10,
+      "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Lost at Singapore Open with a yellow card"
+      "note": "Singapore Open yellow card, looking for redemption"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -57,7 +57,7 @@
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Key pair for Asian Games"
+      "note": "Asian Games squad member, building momentum"
     },
     {
       "playerSlug": "hs-prannoy",
@@ -65,7 +65,7 @@
       "discipline": "Men's Singles",
       "rank": 24,
       "draw": "R32 — TBD",
-      "note": "Lost to Loh Kean Yew at Singapore Open"
+      "note": "Aiming for deep run after Singapore Open"
     },
     {
       "playerSlug": "malvika-bansod",
@@ -73,19 +73,19 @@
       "discipline": "Women's Singles",
       "rank": 31,
       "draw": "R32 — TBD",
-      "note": "Rising talent on the circuit"
+      "note": "Young talent, gaining valuable Super 750 experience"
     },
     {
       "name": "Kidambi Srikanth",
       "discipline": "Men's Singles",
       "draw": "R32 — TBD",
-      "note": "US Open finalist, showing strong form"
+      "note": "US Open finalist, finding rhythm again"
     },
     {
       "name": "Rounak Chouhan",
       "discipline": "Men's Singles",
       "draw": "R32 — TBD",
-      "note": "US Open giant-killer, beating World No. 6"
+      "note": "US Open giant-killer, confident after big win"
     },
     {
       "name": "Rithvik",
@@ -97,13 +97,13 @@
       "name": "Tanisha & Dhruv",
       "discipline": "Mixed Doubles",
       "draw": "R32 — TBD",
-      "note": "Beat top Japanese pair at Singapore Open"
+      "note": "Singapore Open upsetters, challenging top pairs"
     },
     {
       "name": "Achutaditya & Arjun",
       "discipline": "Men's Doubles",
       "draw": "R32 — TBD",
-      "note": "Gaining experience on Tour"
+      "note": "Young doubles pair, building Tour experience"
     }
   ]
 }
