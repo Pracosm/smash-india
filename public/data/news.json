@@ -1,62 +1,62 @@
 [
   {
-    "slug": "bai-president-addresses-india-open-monkey-incident",
+    "slug": "bai-circular-form-1-badminton-sportspersons",
     "kicker": "Domestic",
-    "title": "BAI President Addresses India Open 'Monkey' Incident",
+    "title": "BAI Issues Circular for Form-1 for Sportspersons",
+    "time": "Today",
+    "read": "1 min",
+    "importance_score": 3,
+    "indian_angle": "This circular directly impacts Indian badminton players by outlining the procedure for official documentation.",
+    "summary": "The Badminton Association of India has released a new circular detailing the process for issuing Form-1 to badminton sportspersons."
+  },
+  {
+    "slug": "bai-prez-himanta-biswa-sarma-monkeys-india-open",
+    "kicker": "Domestic",
+    "title": "BAI President Sarma Comments on Monkeys at India Open",
     "time": "Today",
     "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "The President of the Badminton Association of India, Himanta Biswa Sarma, commented on the unusual presence of monkeys during matches at the India Open.",
-    "summary": "BAI President Himanta Biswa Sarma made a light-hearted remark regarding the presence of monkeys at the India Open, asking 'What is the problem if monkeys come to watch a game?'."
+    "importance_score": 4,
+    "indian_angle": "The comments from the BAI President relate to an incident at a major Indian badminton event, the India Open.",
+    "summary": "BAI President Himanta Biswa Sarma addressed an unusual incident involving monkeys at the India Open 2026, questioning the concern."
   },
   {
-    "slug": "indian-shuttlers-develop-independent-court-thinking",
+    "slug": "indian-shuttlers-learn-to-think-on-feet-without-coach",
     "kicker": "Opinion",
-    "title": "Indian Shuttlers Urged to Develop Independent Court Thinking",
-    "time": "1d ago",
+    "title": "Indian Shuttlers Need More Self-Reliance, Says Expert",
+    "time": "Yesterday",
     "read": "4 min",
     "importance_score": 5,
-    "indian_angle": "This opinion piece highlights the crucial need for Indian badminton players to cultivate self-reliance and strategic thinking on court, reducing their dependence on coaches.",
-    "summary": "An article emphasizes that Indian shuttlers should learn to think on their feet and secure victories without constant coaching, fostering greater independence in their game."
+    "indian_angle": "This opinion piece discusses a crucial aspect of player development for Indian badminton talent, emphasizing independent decision-making during matches.",
+    "summary": "An article suggests that Indian badminton players should cultivate the ability to make independent decisions on court and perform effectively without constant guidance from coaches."
   },
   {
-    "slug": "new-3x15-scoring-system-indian-junior-domestic-tournaments",
+    "slug": "badmintons-3x15-scoring-domestic-tournaments-debut-ernakulam",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System for Indian Junior Domestic Tournaments",
+    "title": "New 3x15 Scoring System for Indian Domestic Tournaments",
     "time": "3d ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "The Badminton Association of India is implementing a new 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 categories.",
-    "summary": "The BAI has announced the implementation of a 3x15 scoring system for domestic ranking tournaments and national championships for junior categories, set to debut in Ernakulam."
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This new scoring system will be implemented across all domestic badminton tournaments in India, affecting many players.",
+    "summary": "The 3x15 scoring system is set to be introduced in all domestic badminton tournaments in India, with its first appearance scheduled for Ernakulam."
   },
   {
-    "slug": "kidambi-srikanth-us-open-finalist",
+    "slug": "kidambi-srikanth-falters-last-step-us-open",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Reaches US Open Final, Finishes Runner-Up",
-    "time": "1w ago",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "time": "7d ago",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "Indian shuttler Kidambi Srikanth made a strong run to the final of the US Open before ultimately finishing as the runner-up.",
-    "summary": "Kidambi Srikanth's campaign at the US Open concluded with a loss in the final match, preventing him from claiming the title."
+    "indian_angle": "Indian star Kidambi Srikanth reached the final of a Super 300 event, showcasing his continued presence at the top level.",
+    "summary": "Indian shuttler Kidambi Srikanth was defeated in the final of the US Open, concluding his strong run as a runner-up."
   },
   {
-    "slug": "rounak-chouhan-stuns-world-no-6-us-open",
-    "kicker": "Result",
-    "title": "Indian Shuttler Rounak Chouhan Stuns World No 6 at US Open",
-    "time": "1w ago",
-    "read": "2 min",
+    "slug": "rounak-chouhan-defeats-world-no-6-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Stuns World No. 6 at US Open",
+    "time": "10d ago",
+    "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Rounak Chouhan delivered a significant upset by defeating World No. 6 Chou Tien Chen at the US Open.",
-    "summary": "Rounak Chouhan, an Indian shuttler, made headlines at the US Open by impressively beating the highly-ranked Chou Tien Chen."
-  },
-  {
-    "slug": "india-seeks-host-bwf-world-championships-2026",
-    "kicker": "Domestic",
-    "title": "India Seeks to Host BWF World Championships 2026",
-    "time": "1m ago",
-    "read": "2 min",
-    "importance_score": 8,
-    "indian_angle": "The Badminton Association of India has issued an Expression of Interest to potentially host the prestigious BWF World Championships in 2026.",
-    "summary": "BAI has invited Expressions of Interest for organizing the BWF World Championships 2026, indicating India's ambition to host a major global badminton event."
+    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a significant upset by defeating a top-ranked international player at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan pulled off a major upset at the US Open Super 300, beating the World No. 6 Chou Tien Chen."
   }
 ]
