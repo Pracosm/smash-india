@@ -1,62 +1,62 @@
 [
   {
-    "slug": "bai-circular-form-1-badminton-sportspersons",
+    "slug": "bai-issues-form-1-circular-for-indian-badminton-players",
     "kicker": "Domestic",
-    "title": "BAI Issues Circular for Form-1 for Sportspersons",
-    "time": "Today",
-    "read": "1 min",
+    "title": "BAI Issues Form-1 Circular for Indian Badminton Players",
+    "time": "1d ago",
+    "read": "2 min",
     "importance_score": 3,
-    "indian_angle": "This circular directly impacts Indian badminton players by outlining the procedure for official documentation.",
-    "summary": "The Badminton Association of India has released a new circular detailing the process for issuing Form-1 to badminton sportspersons."
+    "indian_angle": "This circular directly affects Indian badminton players requiring Form-1 for administrative purposes.",
+    "summary": "The Badminton Association of India has issued a circular regarding the issuance of Form-1 for sportspersons."
   },
   {
-    "slug": "bai-prez-himanta-biswa-sarma-monkeys-india-open",
-    "kicker": "Domestic",
-    "title": "BAI President Sarma Comments on Monkeys at India Open",
-    "time": "Today",
+    "slug": "bai-president-sarma-on-monkeys-at-india-open",
+    "kicker": "Feature",
+    "title": "BAI President Sarma on Monkeys at India Open",
+    "time": "1d ago",
     "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "The comments from the BAI President relate to an incident at a major Indian badminton event, the India Open.",
-    "summary": "BAI President Himanta Biswa Sarma addressed an unusual incident involving monkeys at the India Open 2026, questioning the concern."
+    "indian_angle": "The statement comes from the President of the Badminton Association of India regarding a domestic event.",
+    "summary": "BAI President Himanta Biswa Sarma made a comment regarding monkeys attending matches at the India Open."
   },
   {
-    "slug": "indian-shuttlers-learn-to-think-on-feet-without-coach",
+    "slug": "indian-shuttlers-need-to-develop-independent-play",
     "kicker": "Opinion",
-    "title": "Indian Shuttlers Need More Self-Reliance, Says Expert",
-    "time": "Yesterday",
-    "read": "4 min",
+    "title": "Indian Shuttlers Need to Develop Independent Play",
+    "time": "2d ago",
+    "read": "3 min",
     "importance_score": 5,
-    "indian_angle": "This opinion piece discusses a crucial aspect of player development for Indian badminton talent, emphasizing independent decision-making during matches.",
-    "summary": "An article suggests that Indian badminton players should cultivate the ability to make independent decisions on court and perform effectively without constant guidance from coaches."
+    "indian_angle": "This article provides an opinion on the development and performance strategy for Indian badminton players.",
+    "summary": "An opinion piece suggests Indian badminton players should cultivate self-reliance and win matches without constant coaching presence."
   },
   {
-    "slug": "badmintons-3x15-scoring-domestic-tournaments-debut-ernakulam",
+    "slug": "new-3x15-scoring-system-for-domestic-tournaments",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System for Indian Domestic Tournaments",
-    "time": "3d ago",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "This new scoring system will be implemented across all domestic badminton tournaments in India, affecting many players.",
-    "summary": "The 3x15 scoring system is set to be introduced in all domestic badminton tournaments in India, with its first appearance scheduled for Ernakulam."
+    "title": "New 3x15 Scoring System for Domestic Tournaments",
+    "time": "5d ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This is a significant rule change specifically for domestic badminton tournaments and national championships in India.",
+    "summary": "The 3x15 scoring system will be implemented across all domestic ranking tournaments and National Championships for U-13, U-15 & U-17 categories, debuting in Ernakulam."
   },
   {
-    "slug": "kidambi-srikanth-falters-last-step-us-open",
+    "slug": "kidambi-srikanth-finishes-runner-up-at-us-open",
     "kicker": "Match Report",
     "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
-    "time": "7d ago",
+    "time": "8d ago",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "Indian star Kidambi Srikanth reached the final of a Super 300 event, showcasing his continued presence at the top level.",
-    "summary": "Indian shuttler Kidambi Srikanth was defeated in the final of the US Open, concluding his strong run as a runner-up."
+    "indian_angle": "A prominent Indian male singles player reached the final of an international Super 300 tournament.",
+    "summary": "Indian shuttler Kidambi Srikanth reached the final of the US Open but was unable to secure the title."
   },
   {
-    "slug": "rounak-chouhan-defeats-world-no-6-us-open",
-    "kicker": "Match Report",
-    "title": "Rounak Chouhan Stuns World No. 6 at US Open",
-    "time": "10d ago",
+    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
+    "kicker": "Result",
+    "title": "Rounak Chouhan Upsets World No 6 at US Open",
+    "time": "11d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Rounak Chouhan achieved a significant upset by defeating a top-ranked international player at the US Open.",
-    "summary": "Indian shuttler Rounak Chouhan pulled off a major upset at the US Open Super 300, beating the World No. 6 Chou Tien Chen."
+    "indian_angle": "An Indian player achieved a significant upset victory against a top-ranked international opponent at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan caused an upset by defeating the World No 6 player at the US Open."
   }
 ]
