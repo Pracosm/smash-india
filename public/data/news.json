@@ -1,62 +1,52 @@
 [
   {
-    "slug": "bai-prez-himanta-biswa-sarma-on-monkeys-at-india-open",
+    "slug": "bai-prez-himanta-biswa-sarma-on-monkeys",
     "kicker": "Opinion",
     "title": "BAI Prez Himanta Biswa Sarma on Monkeys at India Open",
-    "time": "Yesterday",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "The head of Indian badminton makes a unique statement regarding an incident at a major tournament in India.",
-    "summary": "BAI President Himanta Biswa Sarma humorously addressed an incident where monkeys were present during the India Open, questioning the issue if they came to watch the game."
-  },
-  {
-    "slug": "dates-changed-for-sub-junior-national-ranking-tournaments",
-    "kicker": "Domestic",
-    "title": "Dates Changed for Sub-Junior National Ranking Tournaments",
-    "time": "1d ago",
-    "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "This announcement directly impacts the schedule and participation of many young Indian badminton players across the country.",
-    "summary": "The Badminton Association of India (BAI) has announced changes to the dates of the Yonex-Sunrise All India Sub-Junior National Ranking Badminton Tournaments in Jaipur (U-15 & U-17) and Patna (U-13)."
-  },
-  {
-    "slug": "indian-shuttlers-should-learn-to-think-on-their-feet",
-    "kicker": "Opinion",
-    "title": "Indian Shuttlers Should Learn to Think on Their Feet",
     "time": "2d ago",
-    "read": "4 min",
+    "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "This article discusses the crucial aspect of Indian players developing self-reliance and strategic thinking on court.",
-    "summary": "An opinion piece emphasizes the need for Indian badminton players to cultivate independent decision-making skills during matches, reducing their dependence on coaches."
+    "indian_angle": "The President of the Badminton Association of India made a notable comment regarding spectator issues at an Indian event.",
+    "summary": "BAI President Himanta Biswa Sarma addressed concerns about monkeys at the India Open, stating there's no issue if they come to watch."
   },
   {
-    "slug": "badmintons-3x15-scoring-for-all-domestic-tournaments",
+    "slug": "bai-circular-issuance-form-1-badminton-sportspersons",
     "kicker": "Domestic",
-    "title": "Badminton's 3x15 Scoring for All Domestic Tournaments to Debut",
-    "time": "5d ago",
+    "title": "BAI Issues Circular for Form-1 for Badminton Sportspersons",
+    "time": "2d ago",
     "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "This new scoring system will significantly impact junior categories in Indian domestic badminton, potentially shaping future talent.",
-    "summary": "The Badminton Association of India (BAI) has announced the implementation of a 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups, set to debut at Ernakulam."
+    "importance_score": 5,
+    "indian_angle": "This administrative circular is crucial for Indian badminton players to obtain necessary documentation for participation.",
+    "summary": "The Badminton Association of India has released a circular detailing the procedure for issuing Form-1 to badminton sportspersons."
   },
   {
-    "slug": "kidambi-srikanth-falters-at-last-step-in-us-open-final",
-    "kicker": "Match Report",
-    "title": "Kidambi Srikanth Falters at Last Step in US Open Final",
-    "time": "8d ago",
+    "slug": "indian-shuttlers-learn-to-think-on-their-feet",
+    "kicker": "Opinion",
+    "title": "Indian Shuttlers Must Learn to Win Without a Coach",
+    "time": "3d ago",
     "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "India's Kidambi Srikanth reached a significant final at the US Open, showcasing his continued competitive form on the international stage.",
-    "summary": "Indian shuttler Kidambi Srikanth's impressive run at the US Open came to an end in the final, where he was unable to clinch the title."
+    "importance_score": 6,
+    "indian_angle": "This piece offers critical advice for Indian players on developing self-reliance in matches, a key aspect of their professional growth.",
+    "summary": "An opinion piece suggests Indian badminton players need to develop independent thinking and win matches without constant coaching presence."
   },
   {
-    "slug": "shuttler-rounak-chouhan-defeats-world-no-6-at-us-open",
-    "kicker": "Match Report",
-    "title": "Shuttler Rounak Chouhan Defeats World No 6 at US Open",
-    "time": "11d ago",
+    "slug": "badmintons-3x15-scoring-domestic-tournaments-debut-ernakulam",
+    "kicker": "Domestic",
+    "title": "New 3x15 Scoring System to Debut in Domestic Tournaments",
+    "time": "6d ago",
     "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "Young Indian talent Rounak Chouhan secured a major upset victory over a top-ranked player at an international event.",
-    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by defeating World No. 6 Chou Tien Chen."
+    "importance_score": 8,
+    "indian_angle": "This significant rule change will impact all domestic badminton tournaments and national championships in India.",
+    "summary": "The 3x15 scoring system will be implemented across all domestic ranking tournaments and National Championships for U-13, U-15, and U-17 categories, starting at Ernakulam."
+  },
+  {
+    "slug": "kidambi-srikanth-falters-last-step-us-open",
+    "kicker": "Match Report",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "time": "9d ago",
+    "read": "3 min",
+    "importance_score": 8,
+    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of a Super 300 event, showcasing his continued competitive form on the international circuit.",
+    "summary": "Kidambi Srikanth's strong run at the US Open concluded with a loss in the final, where he finished as the runner-up."
   }
 ]
