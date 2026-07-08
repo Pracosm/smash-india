@@ -1,52 +1,62 @@
 [
   {
-    "slug": "bai-prez-himanta-biswa-sarma-on-monkeys",
+    "slug": "bai-prez-himanta-biswa-sarma-india-open-incident",
     "kicker": "Opinion",
-    "title": "BAI Prez Himanta Biswa Sarma on Monkeys at India Open",
-    "time": "2d ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "The President of the Badminton Association of India made a notable comment regarding spectator issues at an Indian event.",
-    "summary": "BAI President Himanta Biswa Sarma addressed concerns about monkeys at the India Open, stating there's no issue if they come to watch."
-  },
-  {
-    "slug": "bai-circular-issuance-form-1-badminton-sportspersons",
-    "kicker": "Domestic",
-    "title": "BAI Issues Circular for Form-1 for Badminton Sportspersons",
+    "title": "BAI President Sarma Comments on India Open 'Monkey Incident'",
     "time": "2d ago",
     "read": "3 min",
     "importance_score": 5,
-    "indian_angle": "This administrative circular is crucial for Indian badminton players to obtain necessary documentation for participation.",
-    "summary": "The Badminton Association of India has released a circular detailing the procedure for issuing Form-1 to badminton sportspersons."
+    "indian_angle": "The statement from the BAI President addresses an unusual incident at a major Indian badminton event, reflecting on the unique challenges and atmosphere.",
+    "summary": "BAI President Himanta Biswa Sarma responded to an incident during the India Open, humorously questioning concerns about monkeys watching a game, highlighting the unique local environment."
   },
   {
-    "slug": "indian-shuttlers-learn-to-think-on-their-feet",
+    "slug": "junior-national-ranking-tournament-dates-changed",
+    "kicker": "Domestic",
+    "title": "Junior National Ranking Tournaments in Jaipur, Patna Rescheduled",
+    "time": "2d ago",
+    "read": "2 min",
+    "importance_score": 3,
+    "indian_angle": "This directly impacts young Indian badminton players and their families planning to participate in crucial national ranking tournaments.",
+    "summary": "The Badminton Association of India announced changes to the dates for the Yonex-Sunrise All India Sub-Junior National Ranking Badminton Tournaments in Jaipur (U-15 & U-17) and Patna (U-13)."
+  },
+  {
+    "slug": "indian-shuttlers-urged-to-develop-independent-thinking",
     "kicker": "Opinion",
-    "title": "Indian Shuttlers Must Learn to Win Without a Coach",
+    "title": "Indian Shuttlers Must Learn to Win Without Constant Coaching",
     "time": "3d ago",
     "read": "4 min",
-    "importance_score": 6,
-    "indian_angle": "This piece offers critical advice for Indian players on developing self-reliance in matches, a key aspect of their professional growth.",
-    "summary": "An opinion piece suggests Indian badminton players need to develop independent thinking and win matches without constant coaching presence."
+    "importance_score": 4,
+    "indian_angle": "This opinion piece encourages Indian players to develop self-reliance and tactical thinking, a crucial aspect for success on the international circuit.",
+    "summary": "An article suggests that Indian badminton players need to cultivate independent decision-making skills on court to succeed, especially when coaches are not present."
   },
   {
-    "slug": "badmintons-3x15-scoring-domestic-tournaments-debut-ernakulam",
+    "slug": "new-3x15-scoring-system-implemented-domestically",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System to Debut in Domestic Tournaments",
-    "time": "6d ago",
+    "title": "BAI Implements 3x15 Scoring System for Domestic Junior Tournaments",
+    "time": "8d ago",
     "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "This significant rule change will impact all domestic badminton tournaments and national championships in India.",
-    "summary": "The 3x15 scoring system will be implemented across all domestic ranking tournaments and National Championships for U-13, U-15, and U-17 categories, starting at Ernakulam."
+    "importance_score": 6,
+    "indian_angle": "This significant rule change in domestic junior tournaments will alter game dynamics and player strategies for young Indian talent.",
+    "summary": "The Badminton Association of India has implemented a new 3x15 scoring system for all domestic ranking tournaments and national championships across U-13, U-15, and U-17 age groups."
   },
   {
-    "slug": "kidambi-srikanth-falters-last-step-us-open",
-    "kicker": "Match Report",
-    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "slug": "kidambi-srikanth-runner-up-us-open",
+    "kicker": "Result",
+    "title": "Kidambi Srikanth Reaches US Open Final, Finishes as Runner-Up",
     "time": "9d ago",
-    "read": "3 min",
+    "read": "4 min",
     "importance_score": 8,
-    "indian_angle": "Indian shuttler Kidambi Srikanth reached the final of a Super 300 event, showcasing his continued competitive form on the international circuit.",
-    "summary": "Kidambi Srikanth's strong run at the US Open concluded with a loss in the final, where he finished as the runner-up."
+    "indian_angle": "A strong performance by a prominent Indian male shuttler reaching an international final is a significant achievement and a boost for Indian badminton.",
+    "summary": "Veteran Indian shuttler Kidambi Srikanth advanced to the final of the US Open but was unable to secure the title, finishing as the runner-up."
+  },
+  {
+    "slug": "rounak-chouhan-upsets-world-no-6-us-open",
+    "kicker": "Result",
+    "title": "Rounak Chouhan Stuns World No. 6 Chou Tien Chen at US Open",
+    "time": "12d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "This impressive upset by a young Indian player against a top-ranked opponent signals rising talent and potential in Indian men's singles.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a major upset at the US Open by defeating World No. 6 Chou Tien Chen."
   }
 ]
