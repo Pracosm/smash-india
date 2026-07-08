@@ -24,13 +24,14 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event is a crucial opportunity for India's shuttlers to consolidate their positions, regain lost form, and build confidence ahead of major upcoming tournaments.",
-  "summary": "India arrives at the Japan Open with a mixed bag of recent performances, setting the stage for a compelling week in Tokyo. Leading the charge are the formidable men's doubles duo, Satwiksairaj Rankireddy and Chirag Shetty, who are fresh off a commanding victory at the Singapore Open. Their current form suggests they are strong contenders to go deep into the tournament, aiming for consistency at this Super 750 event.\n\nHowever, the singles contingent faces a more challenging path. PV Sindhu, despite making it to Round 2 at the Indonesia Open, has openly acknowledged her struggles against top opponents like An Se-young, highlighting a need for renewed self-belief. Lakshya Sen also had a tough outing at the Singapore Open, receiving a yellow card for racquet abuse during his loss—a moment he'll be keen to put behind him with a strong showing here. On the brighter side, Kidambi Srikanth reached the US Open final, demonstrating a resurgence in form, while Rounak Chouhan made headlines by defeating a World No. 6 at the same event, bringing a surge of confidence.\n\nThe women's doubles pair of Treesa Jolly and Gayatri Gopichand, recently named to the Asian Games squad, will be looking to build momentum and gain crucial experience against elite competition. With no specific draws announced yet, the Indian contingent will be preparing for any challenge, hoping to leverage recent successes and overcome recent setbacks to make a significant impact in Japan.",
+  "stakes": "This Super 750 event is a pivotal opportunity for India's top shuttlers to gain crucial ranking points and build momentum as the season progresses.",
+  "summary": "India arrives in Tokyo for the Japan Open, a crucial Super 750 event, with a mixed bag of recent performances and high hopes. Leading the charge are the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, fresh off their triumphant Singapore Open victory. Their consistent form makes them strong contenders and a beacon for the Indian contingent.\n\nIn singles, PV Sindhu will be looking to bounce back after an early exit at the Indonesia Open, aiming to find her rhythm and build confidence. Lakshya Sen, despite a yellow card incident at the Singapore Open, has shown flashes of brilliance and will be eager for a deep run. Meanwhile, Kidambi Srikanth and Rounak Chouhan carry momentum from their US Open campaigns, with Chouhan notably defeating a World No. 6. This tournament offers a vital platform for India's shuttlers to consolidate their positions and challenge the global elite.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
+      "seed": 4,
       "rank": 4,
       "draw": "R32 — TBD",
       "note": "Singapore Open champions, aiming for consistency"
@@ -47,7 +48,7 @@
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 14,
+      "rank": 10,
       "draw": "R32 — TBD",
       "note": "Singapore Open yellow card, looking for redemption"
     },
