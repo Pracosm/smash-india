@@ -1,62 +1,62 @@
 [
   {
-    "slug": "bai-circular-form-1-issuance-badminton-sportspersons",
-    "kicker": "Domestic",
-    "title": "BAI Issues Form-1 Circular for Badminton Sportspersons",
+    "slug": "bai-prez-sarma-monkeys-india-open",
+    "kicker": "Opinion",
+    "title": "BAI Prez Sarma on 'Monkeys' at India Open",
     "time": "3d ago",
-    "read": "1 min",
-    "importance_score": 3,
-    "indian_angle": "This circular from BAI directly impacts Indian badminton players requiring Form-1 for various purposes.",
-    "summary": "The Badminton Association of India (BAI) has released a circular regarding the issuance of Form-1 for badminton sportspersons."
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The President of Badminton Association of India comments on an unusual incident at a major Indian tournament.",
+    "summary": "BAI President Himanta Biswa Sarma made a notable comment regarding the presence of monkeys during the India Open, sparking discussion."
   },
   {
-    "slug": "sub-junior-national-ranking-tournament-dates-changed",
+    "slug": "sub-junior-national-ranking-tournament-dates-revised",
     "kicker": "Domestic",
-    "title": "Yonex-Sunrise Sub-Junior National Ranking Tournament Dates Revised",
-    "time": "3d ago",
-    "read": "1 min",
-    "importance_score": 3,
-    "indian_angle": "The change in dates for these national ranking tournaments directly affects young Indian badminton talents.",
-    "summary": "The dates for the Yonex-Sunrise All India Sub-Junior National Ranking Badminton Tournaments in Jaipur and Patna have been rescheduled."
-  },
-  {
-    "slug": "bai-president-himanta-biswa-sarma-monkeys-india-open",
-    "kicker": "Domestic",
-    "title": "BAI President Sarma on Monkeys at India Open: \"What is the problem?\"",
+    "title": "Sub-Junior National Ranking Tournament Dates Revised",
     "time": "3d ago",
     "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "The statement from BAI President Himanta Biswa Sarma addresses an unusual incident at a major Indian badminton event.",
-    "summary": "BAI President Himanta Biswa Sarma commented on the presence of monkeys at the India Open, asking \"What is the problem if monkeys come to watch a game?\"."
+    "indian_angle": "Important updates for young Indian badminton players participating in national ranking tournaments in Jaipur and Patna.",
+    "summary": "The dates for the Yonex-Sunrise All India Sub-Junior National Ranking Badminton Tournaments (U-13, U-15, U-17) in Jaipur and Patna have been changed."
   },
   {
-    "slug": "indian-shuttlers-need-to-think-independently",
+    "slug": "indian-shuttlers-urged-develop-independent-thinking",
     "kicker": "Opinion",
-    "title": "Indian Shuttlers Urged to Develop Independent Thinking, Win Without Coach",
+    "title": "Indian Shuttlers Urged to Develop Independent Thinking",
     "time": "4d ago",
-    "read": "3 min",
+    "read": "4 min",
     "importance_score": 6,
-    "indian_angle": "This opinion piece discusses a crucial aspect of player development for Indian shuttlers, advocating for self-reliance on court.",
-    "summary": "An article suggests that Indian shuttlers should learn to think on their feet and win matches without constant coaching presence, highlighting the need for independent decision-making."
+    "indian_angle": "An article discusses the need for Indian badminton players to cultivate self-reliance and win matches without constant coaching presence.",
+    "summary": "A recent piece suggests that Indian shuttlers need to improve their ability to adapt and win matches independently, even without a coach present, to excel on the international circuit."
   },
   {
-    "slug": "3x15-scoring-system-junior-domestic-tournaments",
+    "slug": "3x15-scoring-system-adopted-domestic-badminton",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System Adopted for Junior Domestic Tournaments",
-    "time": "9d ago",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "This new scoring system will be implemented across various junior domestic ranking tournaments and national championships in India.",
-    "summary": "The 3x15 scoring system will be implemented in domestic ranking tournaments and national championships for U-13, U-15, and U-17 age groups."
+    "title": "3x15 Scoring System Adopted for Domestic Badminton",
+    "time": "1w ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "This new scoring system will be implemented across all domestic ranking tournaments and national championships in India for junior categories.",
+    "summary": "Badminton Association of India has implemented the 3x15 scoring system for all domestic ranking tournaments and national championships for U-13, U-15, and U-17 age groups, debuting in Ernakulam."
   },
   {
     "slug": "kidambi-srikanth-runner-up-us-open",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Reaches US Open Final, Falls to Su Li Yang",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
     "time": "10d ago",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "Former World No. 1 Kidambi Srikanth's deep run to the final of an international tournament is a significant achievement for Indian badminton.",
-    "summary": "Indian shuttler Kidambi Srikanth reached the final of the US Open but was defeated by Su Li Yang in the last step."
+    "indian_angle": "Former World No. 1 Kidambi Srikanth reached the final of the US Open, showcasing strong form for India.",
+    "summary": "Indian shuttler Kidambi Srikanth reached the final of the US Open but was unable to secure the title, finishing as the runner-up."
+  },
+  {
+    "slug": "rounak-chouhan-upsets-world-no-6-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Upsets World No. 6 at US Open",
+    "time": "13d ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "Indian shuttler Rounak Chouhan achieved a major upset by defeating World No. 6 Chou Tien Chen at the US Open.",
+    "summary": "Rounak Chouhan, a Cristiano Ronaldo fan, caused a stir at the US Open Super 300 by defeating the higher-ranked Chou Tien Chen."
   }
 ]
