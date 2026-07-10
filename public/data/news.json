@@ -1,62 +1,62 @@
 [
   {
-    "slug": "bai-prez-himanta-biswa-sarma-on-monkeys-at-india-open",
-    "kicker": "Feature",
-    "title": "BAI President Sarma Addresses Monkey Incident at India Open",
+    "slug": "bai-prez-himanta-biswa-sarma-india-open-incident",
+    "kicker": "Opinion",
+    "title": "BAI Prez Himanta Biswa Sarma on India Open Incident",
     "time": "4d ago",
     "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "The President of Badminton Association of India (BAI) comments on an incident at a major Indian tournament.",
-    "summary": "BAI President Himanta Biswa Sarma made a statement regarding the presence of monkeys during the India Open, questioning the concern."
-  },
-  {
-    "slug": "bai-circular-form-1-badminton-sportspersons",
-    "kicker": "Domestic",
-    "title": "BAI Issues Circular for Form-1 Issuance to Sportspersons",
-    "time": "4d ago",
-    "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "This circular directly affects Indian badminton players requiring Form-1 for various official purposes.",
-    "summary": "The Badminton Association of India has released a circular detailing the procedure for the issuance of Form-1 for badminton sportspersons."
+    "indian_angle": "The statement comes from the President of the Badminton Association of India regarding an incident at the India Open.",
+    "summary": "BAI President Himanta Biswa Sarma commented on an unusual incident at the India Open, asking 'What is the problem if monkeys come to watch a game?'."
   },
   {
-    "slug": "sub-junior-national-ranking-tournament-dates-rescheduled",
-    "kicker": "Domestic",
-    "title": "Sub-Junior National Ranking Tournament Dates Rescheduled for Jaipur and Patna",
-    "time": "4d ago",
-    "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "This announcement impacts numerous young Indian badminton players participating in key national ranking tournaments.",
-    "summary": "The dates for the Yonex-Sunrise All India Sub-Junior National Ranking Badminton Tournaments in Jaipur (U-15 & U-17) and Patna (U-13) have been changed."
-  },
-  {
-    "slug": "indian-shuttlers-learn-to-win-without-coach",
-    "kicker": "Opinion",
-    "title": "Indian Shuttlers Urged to Develop Independent Thinking on Court",
+    "slug": "indian-shuttlers-urged-to-develop-independent-thinking",
+    "kicker": "Feature",
+    "title": "Indian Shuttlers Should Learn to Think on Their Feet Without a Coach",
     "time": "5d ago",
     "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "This opinion piece directly discusses the development and self-reliance of Indian badminton players.",
-    "summary": "An article suggests that Indian shuttlers need to improve their ability to adapt and win matches without constant guidance from a coach during play."
+    "importance_score": 6,
+    "indian_angle": "This article provides crucial advice for Indian shuttlers to improve their game by fostering self-reliance during matches.",
+    "summary": "An opinion piece suggests that Indian shuttlers need to cultivate independent thinking and decision-making on court, rather than relying solely on coaches, to achieve greater success."
   },
   {
-    "slug": "3x15-scoring-system-for-domestic-badminton",
+    "slug": "3x15-scoring-system-domestic-tournaments-debut-ernakulam",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System to Debut in Indian Domestic Tournaments",
-    "time": "7d ago",
+    "title": "Badminton's 3x15 Scoring System to Debut in Domestic Tournaments",
+    "time": "8d ago",
     "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "This significant rule change will be implemented across all domestic ranking tournaments and national championships in India.",
-    "summary": "The 3x15 scoring system will be introduced in all domestic ranking tournaments and national championships for U-13, U-15, and U-17 categories, starting in Ernakulam."
+    "importance_score": 7,
+    "indian_angle": "The Badminton Association of India is implementing a new 3x15 scoring system across all domestic ranking tournaments and national championships for U-13, U-15, and U-17 categories, starting in Ernakulam.",
+    "summary": "The Badminton Association of India announced the implementation of a 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups, with its debut set for Ernakulam."
   },
   {
-    "slug": "kidambi-srikanth-us-open-finalist",
-    "kicker": "Result",
-    "title": "Kidambi Srikanth Reaches US Open Final, Finishes as Runner-Up",
-    "time": "11d ago",
+    "slug": "kidambi-srikanth-reaches-us-open-final",
+    "kicker": "Match Report",
+    "title": "Kidambi Srikanth Reaches US Open Final, Shows Sportsmanship",
+    "time": "12d ago",
+    "read": "4 min",
+    "importance_score": 8,
+    "indian_angle": "Indian shuttler Kidambi Srikanth advanced to the US Open final, with a notable moment of sportsmanship highlighted where he overturned a point given to him.",
+    "summary": "Kidambi Srikanth made it to the US Open final, with a report detailing his journey and a specific instance where he displayed exemplary sportsmanship by correcting a point awarded in his favor."
+  },
+  {
+    "slug": "rounak-chouhan-upsets-world-no-6-us-open",
+    "kicker": "Match Report",
+    "title": "Ronaldo Fan Rounak Chouhan Defeats World No 6 at US Open",
+    "time": "14d ago",
     "read": "3 min",
-    "importance_score": 9,
-    "indian_angle": "A prominent Indian shuttler, Kidambi Srikanth, made a strong run to the final of the US Open.",
-    "summary": "Indian shuttler Kidambi Srikanth reached the final of the US Open before losing in the last step, securing a runner-up finish."
+    "importance_score": 7,
+    "indian_angle": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a major upset by defeating World No 6 Chou Tien Chen at the US Open Super 300 tournament.",
+    "summary": "Rounak Chouhan, an Indian shuttler, achieved a significant victory at the US Open Super 300, stunning the World No 6 Chou Tien Chen in a notable performance."
+  },
+  {
+    "slug": "asian-games-squad-reassembles-treesa-gayatri-return",
+    "kicker": "Preview",
+    "title": "Thomas Cup Squad Reassembles for Asian Games: Treesa-Gayatri Return",
+    "time": "27d ago",
+    "read": "4 min",
+    "importance_score": 7,
+    "indian_angle": "The Indian badminton squad, including the return of Treesa Jolly and Gayatri Gopichand, is reassembling from the Thomas Cup for preparations for the upcoming Asian Games.",
+    "summary": "The Indian badminton team, featuring players like PV Sindhu, Lakshya Sen, Unnati Hooda, Satwiksairaj Rankireddy, and Chirag Shetty, along with the return of Treesa Jolly and Gayatri Gopichand, is regrouping for the Asian Games after their Thomas Cup commitments."
   }
 ]
