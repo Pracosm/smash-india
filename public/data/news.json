@@ -1,62 +1,52 @@
 [
   {
-    "slug": "bai-president-sarma-monkeys-india-open-what-problem",
-    "kicker": "Opinion",
-    "title": "BAI President Sarma on Monkeys at India Open: \"What is the problem?\"",
-    "time": "5d ago",
-    "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "The comment is from the BAI President regarding an incident at the India Open, an Indian event.",
-    "summary": "BAI President Himanta Biswa Sarma commented on the presence of monkeys at the India Open, questioning why it would be an issue if they came to watch a game."
-  },
-  {
-    "slug": "indian-shuttlers-develop-independent-thinking-win-without-coach",
-    "kicker": "Opinion",
-    "title": "Indian Shuttlers Urged to Develop Independent Thinking, Win Without Coach",
-    "time": "6d ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "This article directly addresses Indian shuttlers and their development, focusing on self-reliance in matches.",
-    "summary": "An opinion piece suggests that Indian badminton players need to cultivate independent thinking and the ability to win matches without constant coaching support."
-  },
-  {
-    "slug": "new-3x15-scoring-system-debut-indian-domestic-tournaments",
+    "slug": "bai-circular-form-1-sportspersons",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System to Debut in Indian Domestic Tournaments",
-    "time": "9d ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "This is a significant rule change implemented by the BAI for all domestic ranking tournaments and national championships in India.",
-    "summary": "The Badminton Association of India (BAI) has implemented a new 3x15 scoring system for all domestic ranking tournaments and national championships, set to debut at Ernakulam."
-  },
-  {
-    "slug": "bai-issues-circular-form-1-issuance-badminton-sportspersons",
-    "kicker": "Domestic",
-    "title": "BAI Issues Circular for Form-1 Issuance to Badminton Sportspersons",
+    "title": "BAI Issues Circular for Form-1 for Badminton Sportspersons",
     "time": "5d ago",
     "read": "1 min",
-    "importance_score": 3,
-    "indian_angle": "This is an official circular from the Badminton Association of India, directly affecting Indian badminton players.",
+    "importance_score": 4,
+    "indian_angle": "This circular from BAI is crucial for Indian badminton players requiring official documentation.",
     "summary": "The Badminton Association of India has released a circular detailing the procedure for issuing Form-1 to badminton sportspersons."
   },
   {
-    "slug": "rounak-chouhan-upsets-world-no-6-chou-tien-chen-us-open",
-    "kicker": "Result",
-    "title": "Rounak Chouhan Upsets World No 6 Chou Tien Chen at US Open",
-    "time": "15d ago",
-    "read": "2 min",
-    "importance_score": 8,
-    "indian_angle": "Indian shuttler Rounak Chouhan achieved a major upset by defeating a top-ranked player at an international event.",
-    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by defeating World No. 6 Chou Tien Chen."
-  },
-  {
-    "slug": "indias-asian-games-badminton-squad-announced-treesa-gayatri-return",
-    "kicker": "Match Report",
-    "title": "India's Asian Games Badminton Squad Announced, Treesa-Gayatri Return",
-    "time": "4w ago",
+    "slug": "indian-shuttlers-independent-thinking-coaches",
+    "kicker": "Opinion",
+    "title": "Indian Shuttlers Must Learn to Win Without Constant Coaching Presence",
+    "time": "6d ago",
     "read": "3 min",
     "importance_score": 6,
-    "indian_angle": "This news details the Indian badminton squad for the upcoming Asian Games, including key players like Treesa Jolly and Gayatri Gopichand.",
-    "summary": "The Thomas Cup squad has reassembled for the Asian Games, with Treesa Jolly and Gayatri Gopichand making their return to the national team."
+    "indian_angle": "This opinion piece highlights a critical area for development in Indian badminton players: self-reliance on court.",
+    "summary": "An article argues that Indian shuttlers need to develop independent decision-making skills to succeed without continuous coach intervention during matches."
+  },
+  {
+    "slug": "3x15-scoring-domestic-tournaments-debut-ernakulam",
+    "kicker": "Domestic",
+    "title": "Badminton's 3x15 Scoring System to Debut in All Domestic Tournaments",
+    "time": "9d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This marks a significant rule change for all domestic badminton tournaments in India, impacting player strategy and game flow.",
+    "summary": "The 3x15 scoring system will be implemented across all domestic badminton tournaments in India, with its debut set for Ernakulam."
+  },
+  {
+    "slug": "kidambi-srikanth-falters-us-open-final",
+    "kicker": "Match Report",
+    "title": "Kidambi Srikanth Falls Short in US Open Final",
+    "time": "12d ago",
+    "read": "3 min",
+    "importance_score": 8,
+    "indian_angle": "India's Kidambi Srikanth reached a Super 300 final, demonstrating his continued competitive form on the international circuit.",
+    "summary": "Indian shuttler Kidambi Srikanth was defeated in the final match of the US Open, missing out on the title."
+  },
+  {
+    "slug": "rounak-chouhan-defeats-world-no-6-us-open",
+    "kicker": "Match Report",
+    "title": "Rounak Chouhan Stuns World No 6 at US Open",
+    "time": "15d ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "Young Indian talent Rounak Chouhan secured a major upset victory over a top-ranked player at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir by defeating World No 6 Chou Tien Chen at the US Open Super 300."
   }
 ]
