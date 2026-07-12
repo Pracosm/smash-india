@@ -1,52 +1,62 @@
 [
   {
-    "slug": "bai-president-sarma-on-monkeys-watching-games",
+    "slug": "delhi-world-championships-engaging-gen-z-and-alpha-fans",
     "kicker": "Feature",
-    "title": "BAI President Sarma on Monkeys Watching Games",
-    "time": "6d ago",
-    "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "The President of the Badminton Association of India (BAI), Himanta Biswa Sarma, made a notable comment on local wildlife at Indian tournaments.",
-    "summary": "BAI President Himanta Biswa Sarma humorously addressed the presence of monkeys at badminton venues, stating there's no problem if they come to watch a game."
-  },
-  {
-    "slug": "indian-shuttlers-urged-to-develop-independent-thinking",
-    "kicker": "Opinion",
-    "title": "Indian Shuttlers Urged to Develop Independent Thinking",
-    "time": "1w ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "This article discusses a crucial aspect of player development for Indian shuttlers, encouraging them to be self-reliant on court.",
-    "summary": "An article suggests Indian shuttlers need to cultivate independent decision-making skills and learn to win matches without constant coaching presence, addressing issues like travel costs."
-  },
-  {
-    "slug": "new-3x15-scoring-system-debuts-for-domestic-tournaments",
-    "kicker": "Domestic",
-    "title": "New 3x15 Scoring System Debuts for Domestic Tournaments",
-    "time": "1w ago",
-    "read": "2 min",
+    "title": "Delhi World Championships: Engaging Gen Z and Alpha Fans",
+    "time": "Today",
+    "read": "4 min",
     "importance_score": 6,
-    "indian_angle": "The Badminton Association of India is implementing a new scoring format for all domestic tournaments, starting in Ernakulam.",
-    "summary": "A new 3x15 scoring system will be introduced across all domestic badminton tournaments in India, with its debut set for Ernakulam."
+    "indian_angle": "The article discusses the need to attract younger generations to badminton, especially with the World Championships being held in Delhi.",
+    "summary": "With the World Championships in Delhi, this piece explores strategies to draw in Gen Z and Gen Alpha audiences, crucial for the sport's long-term growth in India."
   },
   {
-    "slug": "kidambi-srikanth-falters-in-us-open-final",
+    "slug": "bai-president-sarma-on-monkeys-at-india-open",
+    "kicker": "Domestic",
+    "title": "BAI President Sarma on Monkeys at India Open",
+    "time": "6d ago",
+    "read": "3 min",
+    "importance_score": 4,
+    "indian_angle": "Comments from the Badminton Association of India President directly relate to the conduct and perception of Indian badminton events.",
+    "summary": "BAI President Himanta Biswa Sarma made a quirky statement regarding the presence of monkeys during the India Open, sparking discussion on unique challenges at Indian sporting venues."
+  },
+  {
+    "slug": "indian-shuttlers-need-independent-thinking-less-reliance-on-coaches",
+    "kicker": "Opinion",
+    "title": "Indian Shuttlers Need Independent Thinking, Less Reliance on Coaches",
+    "time": "7d ago",
+    "read": "4 min",
+    "importance_score": 5,
+    "indian_angle": "This opinion piece directly addresses a crucial aspect of player development for Indian shuttlers, advocating for greater self-reliance in matches.",
+    "summary": "An opinion piece argues that Indian badminton players should develop more independent decision-making skills on court, reducing their reliance on coaches during matches."
+  },
+  {
+    "slug": "new-3x15-scoring-system-for-indian-domestic-badminton",
+    "kicker": "Domestic",
+    "title": "New 3x15 Scoring System for Indian Domestic Badminton",
+    "time": "9d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "This news details a major rule change impacting all domestic badminton tournaments in India, starting with an event in Ernakulam.",
+    "summary": "A new 3x15 scoring format will be implemented across all domestic badminton tournaments in India, set to debut at an upcoming event in Ernakulam."
+  },
+  {
+    "slug": "kidambi-srikanth-finishes-runner-up-at-us-open",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Falters in US Open Final",
-    "time": "2w ago",
+    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
+    "time": "13d ago",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "Kidambi Srikanth, a prominent Indian shuttler, made it to the final of the US Open, a significant achievement for Indian badminton.",
-    "summary": "Indian shuttler Kidambi Srikanth reached the final of the US Open, ultimately faltering at the last step against Su Li Yang."
+    "indian_angle": "Kidambi Srikanth, a prominent Indian shuttler, reached the final of a Super 300 event, highlighting his performance on the international stage.",
+    "summary": "Indian shuttler Kidambi Srikanth reached the final of the US Open but was unable to secure the title, finishing as the runner-up."
   },
   {
-    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
-    "kicker": "Result",
-    "title": "Rounak Chouhan Upsets World No 6 at US Open",
-    "time": "2w ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "Indian shuttler Rounak Chouhan, a Cristiano Ronaldo fan, achieved a major upset by defeating World No 6 Chou Tien Chen at the US Open.",
-    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by defeating the World No 6 Chou Tien Chen."
+    "slug": "srikanths-sportsmanship-moment-at-us-open-final",
+    "kicker": "Feature",
+    "title": "Srikanth's Sportsmanship Moment at US Open Final",
+    "time": "14d ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This story highlights the sportsmanship of Indian star Kidambi Srikanth during his US Open final run, reflecting positively on Indian athletes.",
+    "summary": "A feature on Kidambi Srikanth's journey to the US Open final, recalling a notable instance where the Indian shuttler displayed exceptional sportsmanship by overturning a point awarded to him."
   }
 ]
