@@ -1,52 +1,52 @@
 [
   {
-    "slug": "bai-circular-form-1-sportspersons",
-    "kicker": "Domestic",
-    "title": "BAI Issues Circular for Form-1 for Badminton Sportspersons",
-    "time": "5d ago",
-    "read": "1 min",
-    "importance_score": 4,
-    "indian_angle": "This circular from BAI is crucial for Indian badminton players requiring official documentation.",
-    "summary": "The Badminton Association of India has released a circular detailing the procedure for issuing Form-1 to badminton sportspersons."
-  },
-  {
-    "slug": "indian-shuttlers-independent-thinking-coaches",
-    "kicker": "Opinion",
-    "title": "Indian Shuttlers Must Learn to Win Without Constant Coaching Presence",
+    "slug": "bai-president-sarma-on-monkeys-watching-games",
+    "kicker": "Feature",
+    "title": "BAI President Sarma on Monkeys Watching Games",
     "time": "6d ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "This opinion piece highlights a critical area for development in Indian badminton players: self-reliance on court.",
-    "summary": "An article argues that Indian shuttlers need to develop independent decision-making skills to succeed without continuous coach intervention during matches."
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "The President of the Badminton Association of India (BAI), Himanta Biswa Sarma, made a notable comment on local wildlife at Indian tournaments.",
+    "summary": "BAI President Himanta Biswa Sarma humorously addressed the presence of monkeys at badminton venues, stating there's no problem if they come to watch a game."
   },
   {
-    "slug": "3x15-scoring-domestic-tournaments-debut-ernakulam",
+    "slug": "indian-shuttlers-urged-to-develop-independent-thinking",
+    "kicker": "Opinion",
+    "title": "Indian Shuttlers Urged to Develop Independent Thinking",
+    "time": "1w ago",
+    "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "This article discusses a crucial aspect of player development for Indian shuttlers, encouraging them to be self-reliant on court.",
+    "summary": "An article suggests Indian shuttlers need to cultivate independent decision-making skills and learn to win matches without constant coaching presence, addressing issues like travel costs."
+  },
+  {
+    "slug": "new-3x15-scoring-system-debuts-for-domestic-tournaments",
     "kicker": "Domestic",
-    "title": "Badminton's 3x15 Scoring System to Debut in All Domestic Tournaments",
-    "time": "9d ago",
+    "title": "New 3x15 Scoring System Debuts for Domestic Tournaments",
+    "time": "1w ago",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "This marks a significant rule change for all domestic badminton tournaments in India, impacting player strategy and game flow.",
-    "summary": "The 3x15 scoring system will be implemented across all domestic badminton tournaments in India, with its debut set for Ernakulam."
+    "indian_angle": "The Badminton Association of India is implementing a new scoring format for all domestic tournaments, starting in Ernakulam.",
+    "summary": "A new 3x15 scoring system will be introduced across all domestic badminton tournaments in India, with its debut set for Ernakulam."
   },
   {
-    "slug": "kidambi-srikanth-falters-us-open-final",
+    "slug": "kidambi-srikanth-falters-in-us-open-final",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Falls Short in US Open Final",
-    "time": "12d ago",
+    "title": "Kidambi Srikanth Falters in US Open Final",
+    "time": "2w ago",
     "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "India's Kidambi Srikanth reached a Super 300 final, demonstrating his continued competitive form on the international circuit.",
-    "summary": "Indian shuttler Kidambi Srikanth was defeated in the final match of the US Open, missing out on the title."
+    "indian_angle": "Kidambi Srikanth, a prominent Indian shuttler, made it to the final of the US Open, a significant achievement for Indian badminton.",
+    "summary": "Indian shuttler Kidambi Srikanth reached the final of the US Open, ultimately faltering at the last step against Su Li Yang."
   },
   {
-    "slug": "rounak-chouhan-defeats-world-no-6-us-open",
-    "kicker": "Match Report",
-    "title": "Rounak Chouhan Stuns World No 6 at US Open",
-    "time": "15d ago",
+    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
+    "kicker": "Result",
+    "title": "Rounak Chouhan Upsets World No 6 at US Open",
+    "time": "2w ago",
     "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "Young Indian talent Rounak Chouhan secured a major upset victory over a top-ranked player at the US Open.",
-    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir by defeating World No 6 Chou Tien Chen at the US Open Super 300."
+    "indian_angle": "Indian shuttler Rounak Chouhan, a Cristiano Ronaldo fan, achieved a major upset by defeating World No 6 Chou Tien Chen at the US Open.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, caused a stir at the US Open by defeating the World No 6 Chou Tien Chen."
   }
 ]
