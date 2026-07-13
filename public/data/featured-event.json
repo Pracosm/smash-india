@@ -24,17 +24,17 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event is a critical opportunity for India's shuttlers to consolidate form, build momentum, and test their mettle against elite competition on the road to major championships.",
-  "summary": "India arrives at the Japan Open, a crucial Super 750 event, with a blend of proven champions and rising talents eager to make their mark. Leading the charge are the formidable men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, seeded fourth and fresh off their Singapore Open triumph. Their consistent performances have set a high bar, and they'll be looking to extend their winning momentum in Tokyo.\n\nIn the singles categories, PV Sindhu, ranked 10th, will be keen to find her rhythm after an early exit at the Indonesia Open. Her campaign will be closely watched as she aims to build confidence. Lakshya Sen, currently world No. 14, also seeks redemption after a yellow card incident marred his Singapore Open run. Meanwhile, Kidambi Srikanth, a recent US Open finalist, and Rounak Chouhan, who sensationally defeated a World No. 6 at the US Open, bring a renewed sense of purpose to the men's singles draw. The women's doubles pair of Treesa Jolly and Gayatri Gopichand, part of the Asian Games squad, will continue their ascent, gaining valuable experience against top-tier competition.\n\nThis Super 750 tournament offers a vital platform for the Indian contingent to gauge their form, challenge the world's best, and fine-tune strategies ahead of upcoming major championships. With no specific draws announced yet, anticipation builds for who will face tough openers, but the Indian shuttlers are undoubtedly prepared for a challenging week in Tokyo.",
+  "stakes": "This Super 750 event is a critical test for India's top shuttlers to regain form, build momentum, and assert their presence on the global stage, especially for those returning from injury or seeking consistency.",
+  "summary": "India's badminton contingent arrives in Tokyo for the Japan Open, a Super 750 event, with a mix of anticipation and caution. All eyes will be on the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, who return as the third seeds after pulling out of the Indonesia Open due to Satwik's recurring shoulder injury. Their performance will be a key indicator of their readiness for the demanding season ahead.\n\nIn the singles categories, PV Sindhu will be looking to bounce back after an early exit in Indonesia, aiming to find the consistent form that defines her best play. Lakshya Sen, still reeling from a yellow card incident at the Singapore Open, will seek redemption and a deep run to demonstrate his focus. Meanwhile, Kidambi Srikanth and Rounak Chouhan, fresh off strong showings at the US Open—with Srikanth reaching the final and Chouhan upsetting a World No. 6—will be eager to carry that momentum into this prestigious tournament. The women's doubles pair of Treesa Jolly and Gayatri Gopichand, part of the Asian Games squad, also look to build on their progress.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "seed": 4,
+      "seed": 3,
       "rank": 4,
       "draw": "R32 — TBD",
-      "note": "Singapore Open champions, aiming for consistency"
+      "note": "Third seeds, returning from shoulder injury"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -50,7 +50,7 @@
       "discipline": "Men's Singles",
       "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Singapore Open yellow card, looking for redemption"
+      "note": "Looking for redemption after Singapore Open yellow card"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -58,7 +58,7 @@
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Asian Games squad member, building momentum"
+      "note": "Asian Games squad members, building momentum"
     },
     {
       "playerSlug": "hs-prannoy",
