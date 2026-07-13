@@ -1,62 +1,62 @@
 [
   {
-    "slug": "world-championships-delhi-badminton-needs-gen-z-alpha",
-    "kicker": "Opinion",
-    "title": "World Championships in Delhi: Why Badminton Needs Gen Z, Gen Alpha Watchers",
-    "time": "1d ago",
-    "read": "4 min",
-    "importance_score": 6,
-    "indian_angle": "This article discusses the future of badminton viewership in India, specifically for the upcoming World Championships in Delhi.",
-    "summary": "An opinion piece exploring the necessity of attracting younger generations to badminton, especially with India hosting the BWF World Championships in Delhi."
-  },
-  {
-    "slug": "haryana-u19-postponed-bhubaneswar-world-junior-selection",
-    "kicker": "Domestic",
-    "title": "Haryana U-19 Tournament Postponed, Bhubaneswar Now World Junior Selection Event",
-    "time": "2d ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "This directly impacts junior Indian players aiming for the BWF World Junior Championships, as a key selection tournament has been changed.",
-    "summary": "The BAI announced the postponement of the Haryana U-19 Ranking Tournament and designated the Bhubaneswar U-19 event as the selection tournament for the BWF World Junior Championships 2026."
-  },
-  {
-    "slug": "bai-prez-sarma-india-open-monkeys-comment",
-    "kicker": "Feature",
-    "title": "BAI President Sarma on India Open Incident: 'What is the problem if monkeys come?'",
-    "time": "1w ago",
-    "read": "4 min",
-    "importance_score": 5,
-    "indian_angle": "This features a direct quote from the President of the Badminton Association of India regarding a peculiar incident at a major Indian event.",
-    "summary": "BAI President Himanta Biswa Sarma made a notable comment regarding the presence of monkeys at the India Open, sparking discussion."
-  },
-  {
-    "slug": "3x15-scoring-system-domestic-junior-tournaments",
-    "kicker": "Domestic",
-    "title": "3x15 Scoring System Implemented for Domestic Junior Tournaments",
-    "time": "2w ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "This is a significant rule change affecting all domestic junior badminton tournaments and national championships in India.",
-    "summary": "The Badminton Association of India has implemented a new 3x15 scoring system for all domestic ranking tournaments and national championships for U-13, U-15, and U-17 age groups."
-  },
-  {
-    "slug": "kidambi-srikanth-us-open-final-loss",
-    "kicker": "Match Report",
-    "title": "Kidambi Srikanth Reaches US Open Final, Falls at Last Hurdle",
-    "time": "2w ago",
-    "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "An Indian top player reached a major international final, a significant achievement for Indian badminton fans.",
-    "summary": "Kidambi Srikanth made it to the final of the US Open but was unable to secure the title, losing in the last step."
-  },
-  {
-    "slug": "chennai-host-yonex-sunrise-all-india-senior-ranking",
+    "slug": "satwik-chirag-return-to-spearhead-indias-japan-open-campaign",
     "kicker": "Preview",
-    "title": "Chennai to Host Yonex-Sunrise All India Senior Ranking Tournament",
-    "time": "3w ago",
+    "title": "Satwik-Chirag Return to Spearhead India's Japan Open Campaign",
+    "time": "3h ago",
+    "read": "2 min",
+    "importance_score": 8,
+    "indian_angle": "India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, are making their return to competitive action at the Japan Open, boosting India's medal hopes.",
+    "summary": "After a brief break due to Satwik's shoulder injury, the third-seeded duo of Satwiksairaj Rankireddy and Chirag Shetty are set to resume their campaign at the Japan Open, eager to pick up where they left off."
+  },
+  {
+    "slug": "haryana-u19-tournament-postponed-bhubaneswar-selection",
+    "kicker": "Domestic",
+    "title": "Haryana U-19 Tournament Postponed, Bhubaneswar Now Selection Event for World Juniors",
+    "time": "2d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This change directly impacts young Indian shuttlers aiming for selection to the BWF World Junior Championships 2026, making the Bhubaneswar event crucial.",
+    "summary": "The Badminton Association of India announced the postponement of the Haryana U-19 Ranking Tournament, with the Bhubaneswar U-19 Ranking Tournament now designated as the sole selection event for the BWF World Junior Championships 2026."
+  },
+  {
+    "slug": "delhi-world-championships-badminton-needs-gen-z-alpha",
+    "kicker": "Feature",
+    "title": "Delhi World Championships: Why Badminton Needs Gen Z, Gen Alpha Watchers",
+    "time": "Yesterday",
+    "read": "5 min",
+    "importance_score": 6,
+    "indian_angle": "The article highlights the importance of engaging India's younger generations to ensure a strong future for badminton viewership and participation in the country, especially with the World Championships in Delhi.",
+    "summary": "Ahead of the BWF World Championships 2026 in Delhi, an analysis explores the critical need to attract Gen Z and Gen Alpha audiences to badminton to sustain and grow the sport's fan base in India."
+  },
+  {
+    "slug": "bai-prez-himanta-biswa-sarma-on-monkeys-at-games",
+    "kicker": "Domestic",
+    "title": "BAI Prez Himanta Biswa Sarma: \"What is the problem if monkeys come to watch a game?\"",
+    "time": "7d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The statement from the President of the Badminton Association of India provides a unique perspective on an unusual incident at an Indian badminton event.",
+    "summary": "Himanta Biswa Sarma, President of the Badminton Association of India, commented on an incident involving monkeys at a badminton tournament, lightheartedly questioning the concern."
+  },
+  {
+    "slug": "3x15-scoring-system-implemented-domestic-junior-tournaments",
+    "kicker": "Domestic",
+    "title": "3x15 Scoring System Adopted for Domestic Junior Tournaments",
+    "time": "13d ago",
     "read": "3 min",
-    "importance_score": 4,
-    "indian_angle": "This announces an important upcoming domestic tournament for senior Indian players.",
-    "summary": "The Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026 is scheduled to take place in Chennai, Tamil Nadu, from July 16th to 23rd."
+    "importance_score": 7,
+    "indian_angle": "This significant rule change will affect the competitive landscape and player development for young Indian shuttlers in domestic ranking tournaments and national championships.",
+    "summary": "The Badminton Association of India has announced the implementation of the 3x15 scoring system for all domestic ranking tournaments and national championships across the U-13, U-15, and U-17 age groups."
+  },
+  {
+    "slug": "all-india-senior-ranking-tournament-chennai-july",
+    "kicker": "Domestic",
+    "title": "All India Senior Ranking Tournament Set for Chennai in July",
+    "time": "26d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This upcoming tournament is a key event in the Indian domestic badminton calendar, providing a platform for senior Indian players to compete and earn ranking points.",
+    "summary": "The Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026 is scheduled to take place in Chennai, Tamil Nadu, from July 16th to 23rd, attracting top senior players from across the country."
   }
 ]
