@@ -1,52 +1,62 @@
 [
   {
-    "slug": "satwik-chirag-spearhead-indias-japan-open-campaign",
-    "kicker": "Preview",
-    "title": "Satwik-Chirag to Lead India at Japan Open",
-    "time": "3h ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "India's top men's doubles pair will lead the national contingent at an important international tournament.",
-    "summary": "India's star men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, are set to return to action and spearhead the country's challenge at the upcoming Japan Open."
-  },
-  {
-    "slug": "delhi-world-championships-badminton-needs-gen-z-alpha",
-    "kicker": "Feature",
-    "title": "Delhi World Championships: Attracting Gen Z, Alpha Fans",
-    "time": "Yesterday",
-    "read": "5 min",
-    "importance_score": 5,
-    "indian_angle": "This article discusses the need to engage younger generations of fans for the upcoming Badminton World Championships in Delhi.",
-    "summary": "The article explores strategies to attract Gen Z and Gen Alpha audiences to badminton, especially with the World Championships scheduled to take place in Delhi."
-  },
-  {
-    "slug": "bai-prez-himanta-biswa-sarma-monkeys-badminton-game",
-    "kicker": "Opinion",
-    "title": "BAI Prez Sarma on Monkeys at Badminton Matches",
-    "time": "6d ago",
-    "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "The President of the Badminton Association of India (BAI) comments on an unusual incident during a domestic tournament.",
-    "summary": "BAI President Himanta Biswa Sarma made a statement regarding the presence of monkeys at a badminton game, sparking discussion."
-  },
-  {
-    "slug": "indian-shuttlers-need-to-win-without-coach-around",
-    "kicker": "Opinion",
-    "title": "Indian Shuttlers Must Learn Independent Play",
-    "time": "7d ago",
-    "read": "4 min",
-    "importance_score": 5,
-    "indian_angle": "This piece offers a critical perspective on the reliance of Indian shuttlers on coaches during matches and advocates for more independent decision-making.",
-    "summary": "An opinion piece suggests that Indian badminton players need to develop better on-court decision-making skills and be able to win matches without constant coaching intervention."
-  },
-  {
-    "slug": "badminton-3x15-scoring-domestic-debut-ernakulam",
+    "slug": "world-junior-championships-2026-player-eligibility-announced",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System for Domestic Badminton",
-    "time": "10d ago",
-    "read": "3 min",
+    "title": "World Junior Championships 2026 Player Eligibility Announced",
+    "time": "1d ago",
+    "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "A new 3x15 scoring format will be implemented across all domestic badminton tournaments in India, starting in Ernakulam.",
-    "summary": "Badminton Association of India introduces a new 3x15 scoring system for all domestic tournaments, with its first implementation scheduled for an event in Ernakulam."
+    "indian_angle": "This news details the eligibility criteria for Indian players aspiring to represent the nation at the prestigious BWF World Junior Championships in Cairo.",
+    "summary": "BAI has released the player eligibility guidelines for the upcoming BWF World Junior Championships 2026, to be held in Cairo, Egypt."
+  },
+  {
+    "slug": "delhi-world-championships-2026-needs-gen-z-gen-alpha-fans",
+    "kicker": "Feature",
+    "title": "Delhi World Championships 2026 Needs Gen Z, Gen Alpha Fans",
+    "time": "2d ago",
+    "read": "5 min",
+    "importance_score": 7,
+    "indian_angle": "With India hosting the World Championships in Delhi, there's a focus on attracting younger generations of fans to boost the sport's popularity domestically.",
+    "summary": "As Delhi prepares to host the BWF World Championships 2026, discussions are ongoing about how to engage younger audiences, specifically Gen Z and Gen Alpha, to ensure the sport's future growth in India."
+  },
+  {
+    "slug": "bai-president-addresses-monkey-incident-at-india-open",
+    "kicker": "Match Report",
+    "title": "BAI President Addresses Monkey Incident at India Open",
+    "time": "8d ago",
+    "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "BAI President Himanta Biswa Sarma commented on an unusual incident involving monkeys during the India Open, highlighting a unique aspect of hosting tournaments in India.",
+    "summary": "BAI President Himanta Biswa Sarma humorously addressed the presence of monkeys at the India Open, stating, 'What is the problem if monkeys come to watch a game,' following a recent incident."
+  },
+  {
+    "slug": "3x15-scoring-system-implemented-domestic-tournaments",
+    "kicker": "Domestic",
+    "title": "3x15 Scoring System Implemented in Domestic Tournaments",
+    "time": "2w ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "The Badminton Association of India has implemented a new 3x15 scoring system for domestic ranking tournaments and national championships across U-13, U-15, and U-17 age groups.",
+    "summary": "The Badminton Association of India has officially implemented the 3x15 scoring system for all domestic ranking tournaments and national championships for junior age categories (U-13, U-15 & U-17)."
+  },
+  {
+    "slug": "kidambi-srikanth-reaches-us-open-final-falls-short",
+    "kicker": "Result",
+    "title": "Kidambi Srikanth Reaches US Open Final, Falls Short",
+    "time": "2w ago",
+    "read": "3 min",
+    "importance_score": 8,
+    "indian_angle": "Indian shuttler Kidambi Srikanth made a strong run to the US Open final, showcasing his continued presence at the top international level.",
+    "summary": "Kidambi Srikanth reached the final of the US Open but was unable to clinch the title, faltering at the last step against Su Li Yang."
+  },
+  {
+    "slug": "rounak-chouhan-upsets-world-no-6-at-us-open",
+    "kicker": "Result",
+    "title": "Rounak Chouhan Upsets World No 6 at US Open",
+    "time": "2w ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "Young Indian shuttler Rounak Chouhan caused a major upset at the US Open by defeating World No. 6 Chou Tien Chen, signaling a rising talent.",
+    "summary": "Indian shuttler Rounak Chouhan, a self-proclaimed Cristiano Ronaldo fan, delivered a stunning performance at the US Open by defeating World No. 6 Chou Tien Chen."
   }
 ]
