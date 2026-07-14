@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event is a critical test for India's top shuttlers to regain form, build momentum, and assert their presence on the global stage, especially for those returning from injury or seeking consistency.",
-  "summary": "India's badminton contingent arrives in Tokyo for the Japan Open, a Super 750 event, with a mix of anticipation and caution. All eyes will be on the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, who return as the third seeds after pulling out of the Indonesia Open due to Satwik's recurring shoulder injury. Their performance will be a key indicator of their readiness for the demanding season ahead.\n\nIn the singles categories, PV Sindhu will be looking to bounce back after an early exit in Indonesia, aiming to find the consistent form that defines her best play. Lakshya Sen, still reeling from a yellow card incident at the Singapore Open, will seek redemption and a deep run to demonstrate his focus. Meanwhile, Kidambi Srikanth and Rounak Chouhan, fresh off strong showings at the US Open—with Srikanth reaching the final and Chouhan upsetting a World No. 6—will be eager to carry that momentum into this prestigious tournament. The women's doubles pair of Treesa Jolly and Gayatri Gopichand, part of the Asian Games squad, also look to build on their progress.",
+  "stakes": "This Super 750 event presents a vital opportunity for India's shuttlers to consolidate their world rankings, build crucial momentum, and test their mettle against top-tier competition on the road to major championships.",
+  "summary": "India's contingent arrives at the Japan Open, a Super 750 event, with a mix of high hopes and players seeking crucial form. Men's Doubles third seeds Satwiksairaj Rankireddy and Chirag Shetty, currently World No. 4, are undoubtedly the flagbearers, riding high on their recent Singapore Open triumph. Their explosive form makes them strong contenders for another deep run in Tokyo.\n\nIn the Women's Singles, PV Sindhu, ranked 10th, has already made a positive start, confidently dispatching her R32 opponent to advance to the Round of 16. This early win is a welcome boost for Sindhu, who has been working to find consistency on the Tour. Meanwhile, Lakshya Sen, World No. 10 in Men's Singles, will be eager to put his Singapore Open yellow card incident behind him and make a significant impact here.\n\nThe draw also features other promising Indian talents. Women's Doubles pair Treesa Jolly and Gayatri Gopichand, part of the Asian Games squad, aim to build momentum, while HS Prannoy seeks a strong performance in the Men's Singles. Youngster Malvika Bansod continues to gain valuable Super 750 experience. Additionally, Kidambi Srikanth, a recent US Open finalist, and Rounak Chouhan, who impressed with a giant-killing act at the same event, will be looking to carry their newfound rhythm into this tournament. Mixed Doubles pair Tanisha Crasto and Dhruv Kapila also secured their spot in the Round of 16, adding to India's early successes.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -34,23 +34,23 @@
       "seed": 3,
       "rank": 4,
       "draw": "R32 — TBD",
-      "note": "Third seeds, returning from shoulder injury"
+      "note": "Singapore Open champions, in top form"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Seeking form after Indonesia Open R2 exit"
+      "draw": "R16 — TBD",
+      "note": "Advanced to R16 after strong opener"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 14,
+      "rank": 10,
       "draw": "R32 — TBD",
-      "note": "Looking for redemption after Singapore Open yellow card"
+      "note": "Seeking strong run after Singapore Open exit"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -66,7 +66,7 @@
       "discipline": "Men's Singles",
       "rank": 24,
       "draw": "R32 — TBD",
-      "note": "Aiming for deep run after Singapore Open"
+      "note": "Aiming for deep run in Super 750"
     },
     {
       "playerSlug": "malvika-bansod",
@@ -80,7 +80,7 @@
       "name": "Kidambi Srikanth",
       "discipline": "Men's Singles",
       "draw": "R32 — TBD",
-      "note": "US Open finalist, finding rhythm again"
+      "note": "US Open finalist, building momentum"
     },
     {
       "name": "Rounak Chouhan",
@@ -97,8 +97,8 @@
     {
       "name": "Tanisha & Dhruv",
       "discipline": "Mixed Doubles",
-      "draw": "R32 — TBD",
-      "note": "Singapore Open upsetters, challenging top pairs"
+      "draw": "R16 — TBD",
+      "note": "Advanced to R16 after strong opener"
     },
     {
       "name": "Achutaditya & Arjun",
