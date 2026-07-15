@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event presents a vital opportunity for India's shuttlers to consolidate their world rankings, build crucial momentum, and test their mettle against top-tier competition on the road to major championships.",
-  "summary": "India's contingent arrives at the Japan Open, a Super 750 event, with a mix of high hopes and players seeking crucial form. Men's Doubles third seeds Satwiksairaj Rankireddy and Chirag Shetty, currently World No. 4, are undoubtedly the flagbearers, riding high on their recent Singapore Open triumph. Their explosive form makes them strong contenders for another deep run in Tokyo.\n\nIn the Women's Singles, PV Sindhu, ranked 10th, has already made a positive start, confidently dispatching her R32 opponent to advance to the Round of 16. This early win is a welcome boost for Sindhu, who has been working to find consistency on the Tour. Meanwhile, Lakshya Sen, World No. 10 in Men's Singles, will be eager to put his Singapore Open yellow card incident behind him and make a significant impact here.\n\nThe draw also features other promising Indian talents. Women's Doubles pair Treesa Jolly and Gayatri Gopichand, part of the Asian Games squad, aim to build momentum, while HS Prannoy seeks a strong performance in the Men's Singles. Youngster Malvika Bansod continues to gain valuable Super 750 experience. Additionally, Kidambi Srikanth, a recent US Open finalist, and Rounak Chouhan, who impressed with a giant-killing act at the same event, will be looking to carry their newfound rhythm into this tournament. Mixed Doubles pair Tanisha Crasto and Dhruv Kapila also secured their spot in the Round of 16, adding to India's early successes.",
+  "stakes": "This Super 750 event offers India's top shuttlers a vital opportunity to consolidate rankings, build confidence, and test their mettle against the world's elite on the road to major championships.",
+  "summary": "India's badminton contingent arrives in Tokyo for the Japan Open Super 750, a crucial stop on the BWF Tour. While specific draw outcomes for the ongoing tournament are not yet available from recent reports, the squad features strong contenders looking to make a significant impact. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open triumph, enter as the third seeds and will be keen to extend their formidable form.\n\nIn the singles categories, PV Sindhu, who advanced to the Round of 16, will be aiming for a deep run, though recent discussions highlight the need for her to find consistent self-belief against top opponents. Lakshya Sen, ranked 14th, seeks to rebound after a challenging Singapore Open exit, while Kidambi Srikanth carries momentum from his US Open final appearance. Young talents like Malvika Bansod and Rounak Chouhan, who recently stunned a World No. 6 at the US Open, are also part of the lineup, looking to gain valuable experience and cause upsets.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -42,13 +42,13 @@
       "discipline": "Women's Singles",
       "rank": 10,
       "draw": "R16 — TBD",
-      "note": "Advanced to R16 after strong opener"
+      "note": "Advanced to R16; seeking consistency"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 10,
+      "rank": 14,
       "draw": "R32 — TBD",
       "note": "Seeking strong run after Singapore Open exit"
     },
@@ -89,16 +89,16 @@
       "note": "US Open giant-killer, confident after big win"
     },
     {
+      "name": "Tanisha & Dhruv",
+      "discipline": "Mixed Doubles",
+      "draw": "R16 — TBD",
+      "note": "Advanced to R16; building mixed doubles prowess"
+    },
+    {
       "name": "Rithvik",
       "discipline": "Men's Singles",
       "draw": "R32 — TBD",
       "note": "Recent Valence Alpes champion"
-    },
-    {
-      "name": "Tanisha & Dhruv",
-      "discipline": "Mixed Doubles",
-      "draw": "R16 — TBD",
-      "note": "Advanced to R16 after strong opener"
     },
     {
       "name": "Achutaditya & Arjun",

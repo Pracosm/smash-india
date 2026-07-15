@@ -1,22 +1,12 @@
 [
   {
-    "slug": "japan-open",
-    "date": "JUL 14",
-    "name": "Japan Open",
-    "grade": "Super 750",
-    "city": "Tokyo",
-    "flag": "🇯🇵",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5213/daihatsu-japan-open-2026/results/"
-  },
-  {
     "slug": "china-open",
     "date": "JUL 21",
     "name": "China Open",
     "grade": "Super 1000",
     "city": "Changzhou",
     "flag": "🇨🇳",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5622/victor-china-open-2026/results/"
   },
   {
@@ -48,5 +38,15 @@
     "flag": "🇨🇳",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5625/china-masters-2026/results/"
+  },
+  {
+    "slug": "indonesia-masters-super-100-i",
+    "date": "SEP 01",
+    "name": "Indonesia Masters Super 100 I",
+    "grade": "Super 100",
+    "city": "Pontianak",
+    "flag": "🇮🇩",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   }
 ]
