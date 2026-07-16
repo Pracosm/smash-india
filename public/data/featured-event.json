@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event offers India's top shuttlers a vital opportunity to consolidate rankings, build confidence, and test their mettle against the world's elite on the road to major championships.",
-  "summary": "India's badminton contingent arrives in Tokyo for the Japan Open Super 750, a crucial stop on the BWF Tour. While specific draw outcomes for the ongoing tournament are not yet available from recent reports, the squad features strong contenders looking to make a significant impact. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Singapore Open triumph, enter as the third seeds and will be keen to extend their formidable form.\n\nIn the singles categories, PV Sindhu, who advanced to the Round of 16, will be aiming for a deep run, though recent discussions highlight the need for her to find consistent self-belief against top opponents. Lakshya Sen, ranked 14th, seeks to rebound after a challenging Singapore Open exit, while Kidambi Srikanth carries momentum from his US Open final appearance. Young talents like Malvika Bansod and Rounak Chouhan, who recently stunned a World No. 6 at the US Open, are also part of the lineup, looking to gain valuable experience and cause upsets.",
+  "stakes": "This week, India's shuttlers aim to consolidate their positions on the world stage and gather crucial ranking points, with PV Sindhu leading the charge for a deep run.",
+  "summary": "India's contingent at the Japan Open Super 750 is off to a mixed but promising start. The biggest headline comes from **PV Sindhu**, who has stormed into the quarterfinals after a commanding victory over world No. 5 Han Ye of China. This dominant performance, securing a spot in the last eight, signals a potential return to her top form and offers a much-needed boost for the Indian campaign.\n\nWhile Sindhu shines, other Indian hopefuls await their turn or look to make their mark. Men's Doubles third seeds **Satwiksairaj Rankireddy & Chirag Shetty**, fresh off their Singapore Open triumph, are poised for their opening round, carrying the weight of high expectations. Similarly, young talents like **Lakshya Sen** and **Malvika Bansod**, alongside seasoned campaigners like **HS Prannoy**, will be eager to navigate their draws and build momentum in this crucial Super 750 event. The tournament also sees the likes of **Kidambi Srikanth** and **Rounak Chouhan**, who recently made waves at the US Open, looking to translate that form onto the Japanese courts.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -41,8 +41,8 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R16 — TBD",
-      "note": "Advanced to R16; seeking consistency"
+      "draw": "Quarterfinals vs TBD",
+      "note": "Stunning world No. 5 Han Ye, in quarterfinals"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -80,19 +80,19 @@
       "name": "Kidambi Srikanth",
       "discipline": "Men's Singles",
       "draw": "R32 — TBD",
-      "note": "US Open finalist, building momentum"
+      "note": "US Open finalist, seeking consistency"
     },
     {
       "name": "Rounak Chouhan",
       "discipline": "Men's Singles",
       "draw": "R32 — TBD",
-      "note": "US Open giant-killer, confident after big win"
+      "note": "US Open giant-killer, building on recent form"
     },
     {
       "name": "Tanisha & Dhruv",
       "discipline": "Mixed Doubles",
       "draw": "R16 — TBD",
-      "note": "Advanced to R16; building mixed doubles prowess"
+      "note": "Building mixed doubles prowess"
     },
     {
       "name": "Rithvik",
