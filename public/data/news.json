@@ -1,62 +1,52 @@
 [
   {
-    "slug": "delhi-world-championships-gen-z-alpha-watchers",
-    "kicker": "Feature",
-    "title": "Delhi World Championships: Attracting New Generations to Badminton",
-    "time": "4d ago",
-    "read": "4 min",
+    "slug": "sindhu-stuns-world-no-5-han-ye-enters-japan-open-quarterfinals",
+    "kicker": "Match Report",
+    "title": "Sindhu Stuns World No. 5 Han Ye, Enters Japan Open Quarterfinals",
+    "time": "3h ago",
+    "read": "2 min",
     "importance_score": 8,
-    "indian_angle": "India is hosting the BWF World Championships in Delhi, making this a significant event for Indian badminton and its future fan base.",
-    "summary": "A discussion on the importance of engaging younger audiences like Gen Z and Gen Alpha to ensure the continued growth and popularity of badminton, especially with the upcoming World Championships in Delhi."
+    "indian_angle": "India's top female shuttler PV Sindhu secured a significant victory over a higher-ranked opponent.",
+    "summary": "PV Sindhu defeated world No. 5 Han Ye in straight games (21-16, 21-14) in just 35 minutes to advance to the quarterfinals of the Japan Open 2026."
   },
   {
-    "slug": "bai-releases-eligibility-criteria-world-junior-championships-2026",
+    "slug": "world-junior-championships-2026-selection-criteria-updated",
     "kicker": "Domestic",
-    "title": "BAI Releases Eligibility Criteria for World Junior Championships 2026",
+    "title": "World Junior Championships 2026 Selection Criteria Updated",
     "time": "3d ago",
     "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "This circular directly impacts aspiring Indian junior shuttlers hoping to represent the nation at a prestigious international event.",
-    "summary": "Badminton Association of India (BAI) has issued a circular detailing the eligibility criteria for Indian players aiming to participate in the BWF World Junior Championships 2026 in Cairo, Egypt."
+    "indian_angle": "The BAI has released updated eligibility and selection criteria for Indian players aiming for the BWF World Junior Championships 2026 in Cairo.",
+    "summary": "The Badminton Association of India has issued a circular detailing the player eligibility and selection process for the BWF World Junior Championships 2026 to be held in Cairo, Egypt."
   },
   {
-    "slug": "bai-president-comments-animal-incidents-india-open",
+    "slug": "delhi-world-championships-2026-badminton-needs-gen-z-gen-alpha-watchers",
+    "kicker": "Feature",
+    "title": "Delhi World Championships 2026: Badminton Needs Gen Z, Gen Alpha Watchers",
+    "time": "4d ago",
+    "read": "4 min",
+    "importance_score": 7,
+    "indian_angle": "With the BWF World Championships 2026 set to be held in Delhi, there's a focus on attracting younger Indian audiences to the sport.",
+    "summary": "A discussion on the need for badminton to engage younger generations, Gen Z and Gen Alpha, especially with the BWF World Championships 2026 scheduled to take place in Delhi."
+  },
+  {
+    "slug": "bai-prez-sarma-addresses-monkeys-at-india-open-incident",
     "kicker": "Domestic",
-    "title": "BAI President Comments on Animal Incidents at India Open",
+    "title": "BAI Prez Sarma Addresses 'Monkeys at India Open' Incident",
     "time": "10d ago",
     "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "The statement comes from the President of the Badminton Association of India regarding an incident at a major Indian tournament.",
-    "summary": "BAI President Himanta Biswa Sarma addressed recent incidents involving animals during the India Open, humorously questioning the issue if \"monkeys come to watch a game.\""
+    "importance_score": 5,
+    "indian_angle": "BAI President Himanta Biswa Sarma commented on an unusual incident involving monkeys during the India Open, highlighting domestic tournament challenges.",
+    "summary": "BAI President Himanta Biswa Sarma responded to a query about monkeys interrupting play at the India Open, stating 'What is the problem if monkeys come to watch a game'."
   },
   {
-    "slug": "new-3x15-scoring-system-debuts-indian-domestic-tournaments",
+    "slug": "3x15-scoring-system-implemented-for-domestic-junior-tournaments",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System to Debut in Indian Domestic Tournaments",
-    "time": "14d ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "This is a significant rule change impacting all junior domestic ranking tournaments and national championships across India.",
-    "summary": "The Badminton Association of India (BAI) is implementing a new 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups, set to debut at Ernakulam."
-  },
-  {
-    "slug": "kidambi-srikanth-finishes-runner-up-us-open",
-    "kicker": "Match Report",
-    "title": "Kidambi Srikanth Finishes Runner-Up at US Open",
-    "time": "17d ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "An Indian top player reached the final of a Super 300 event, a notable achievement for Indian badminton.",
-    "summary": "Indian shuttler Kidambi Srikanth's impressive run at the US Open came to an end in the final, where he was defeated by Su Li Yang."
-  },
-  {
-    "slug": "rounak-chouhan-upsets-world-no-6-us-open",
-    "kicker": "Match Report",
-    "title": "Indian Shuttler Rounak Chouhan Upsets World No. 6 at US Open",
-    "time": "20d ago",
+    "title": "3x15 Scoring System Implemented for Domestic Junior Tournaments",
+    "time": "2w ago",
     "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "A young Indian player achieved a significant upset victory against a top-ranked opponent on the international stage.",
-    "summary": "Indian shuttler Rounak Chouhan created a stir at the US Open Super 300 by defeating World No 6 Chou Tien Chen."
+    "importance_score": 6,
+    "indian_angle": "The Badminton Association of India has implemented a new 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and National Championships.",
+    "summary": "The 3x15 scoring system will be implemented in all domestic ranking tournaments and National Championships for U-13, U-15, and U-17 age groups, debuting at Ernakulam."
   }
 ]
