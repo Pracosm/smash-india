@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week, India's shuttlers aim to consolidate their positions on the world stage and gather crucial ranking points, with PV Sindhu leading the charge for a deep run.",
-  "summary": "India's contingent at the Japan Open Super 750 is off to a mixed but promising start. The biggest headline comes from **PV Sindhu**, who has stormed into the quarterfinals after a commanding victory over world No. 5 Han Ye of China. This dominant performance, securing a spot in the last eight, signals a potential return to her top form and offers a much-needed boost for the Indian campaign.\n\nWhile Sindhu shines, other Indian hopefuls await their turn or look to make their mark. Men's Doubles third seeds **Satwiksairaj Rankireddy & Chirag Shetty**, fresh off their Singapore Open triumph, are poised for their opening round, carrying the weight of high expectations. Similarly, young talents like **Lakshya Sen** and **Malvika Bansod**, alongside seasoned campaigners like **HS Prannoy**, will be eager to navigate their draws and build momentum in this crucial Super 750 event. The tournament also sees the likes of **Kidambi Srikanth** and **Rounak Chouhan**, who recently made waves at the US Open, looking to translate that form onto the Japanese courts.",
+  "stakes": "This week in Tokyo is a crucial opportunity for India's badminton stars to consolidate their rankings, build momentum for upcoming major events, and demonstrate their medal-winning potential on the global stage.",
+  "summary": "India's campaign at the Japan Open is heating up, with **PV Sindhu** leading the charge into the semifinals. The former World Champion has been in scintillating form, climbing to world No. 9 and notably stunning world No. 5 Han Ye en route. Her progression to the final four, secured via a walkover from Nozomi Okuhara, sets up a highly anticipated showdown with China's Chen Yufei. Sindhu's resurgence is a major storyline, hinting at a return to her peak prowess.\n\nMeanwhile, the formidable men's doubles pair of **Satwik & Chirag** enter the tournament as the third seeds, fresh off their Singapore Open triumph. Their consistent top-tier performances make them strong contenders for the title, and all eyes will be on them to see if they can extend their winning momentum. Other Indian shuttlers, including **Lakshya Sen** and **HS Prannoy** in men's singles, and the women's doubles pair of **Treesa & Gayatri**, are also looking to make deep runs and gather crucial points in this Super 750 event. With several emerging talents and seasoned campaigners in the mix, the Indian contingent is poised for an impactful week in Tokyo.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -40,15 +40,15 @@
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 10,
-      "draw": "Quarterfinals vs TBD",
-      "note": "Stunning world No. 5 Han Ye, in quarterfinals"
+      "rank": 9,
+      "draw": "Semifinals vs Chen Yufei (CHN)",
+      "note": "Stunning world No. 5 Han Ye, in semifinals"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 14,
+      "rank": 10,
       "draw": "R32 — TBD",
       "note": "Seeking strong run after Singapore Open exit"
     },
@@ -95,16 +95,16 @@
       "note": "Building mixed doubles prowess"
     },
     {
-      "name": "Rithvik",
-      "discipline": "Men's Singles",
-      "draw": "R32 — TBD",
-      "note": "Recent Valence Alpes champion"
-    },
-    {
       "name": "Achutaditya & Arjun",
       "discipline": "Men's Doubles",
       "draw": "R32 — TBD",
       "note": "Young doubles pair, building Tour experience"
+    },
+    {
+      "name": "Rithvik",
+      "discipline": "Men's Singles",
+      "draw": "R32 — TBD",
+      "note": "Recent Valence Alpes champion"
     }
   ]
 }
