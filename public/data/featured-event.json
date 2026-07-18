@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week in Tokyo is a crucial opportunity for India's badminton stars to consolidate their rankings, build momentum for upcoming major events, and demonstrate their medal-winning potential on the global stage.",
-  "summary": "India's campaign at the Japan Open is heating up, with **PV Sindhu** leading the charge into the semifinals. The former World Champion has been in scintillating form, climbing to world No. 9 and notably stunning world No. 5 Han Ye en route. Her progression to the final four, secured via a walkover from Nozomi Okuhara, sets up a highly anticipated showdown with China's Chen Yufei. Sindhu's resurgence is a major storyline, hinting at a return to her peak prowess.\n\nMeanwhile, the formidable men's doubles pair of **Satwik & Chirag** enter the tournament as the third seeds, fresh off their Singapore Open triumph. Their consistent top-tier performances make them strong contenders for the title, and all eyes will be on them to see if they can extend their winning momentum. Other Indian shuttlers, including **Lakshya Sen** and **HS Prannoy** in men's singles, and the women's doubles pair of **Treesa & Gayatri**, are also looking to make deep runs and gather crucial points in this Super 750 event. With several emerging talents and seasoned campaigners in the mix, the Indian contingent is poised for an impactful week in Tokyo.",
+  "stakes": "This week in Tokyo is a pivotal moment for Indian badminton, with PV Sindhu vying for a prestigious Super 750 title and the rest of the contingent aiming to build momentum and secure valuable ranking points.",
+  "summary": "India's campaign at the Japan Open has been highlighted by a resurgent PV Sindhu, who has powered her way into the Women's Singles final. After a dominant performance against Tokyo Olympics champion Chen Yufei, where she led 21-19, 15-10 before Chen retired hurt with a hamstring issue, Sindhu now faces local favourite Akane Yamaguchi. This run marks a significant return to form for the former world champion, showcasing her thumping smashes and delicate net play.\n\nWhile Sindhu carries the flag into the final, India's top Men's Doubles pair, Satwiksairaj Rankireddy & Chirag Shetty, the third seeds and recent Singapore Open champions, are yet to begin their challenge in the Round of 32. Other Indian hopefuls like Lakshya Sen, HS Prannoy, and the Women's Doubles pair of Treesa Jolly & Gayatri Gopichand will be looking to make their mark as the tournament progresses, aiming for deep runs in this crucial Super 750 event.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -40,15 +40,15 @@
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 9,
-      "draw": "Semifinals vs Chen Yufei (CHN)",
-      "note": "Stunning world No. 5 Han Ye, in semifinals"
+      "rank": 10,
+      "draw": "Final vs Akane Yamaguchi (JPN)",
+      "note": "Stunning run to the final"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 10,
+      "rank": 14,
       "draw": "R32 — TBD",
       "note": "Seeking strong run after Singapore Open exit"
     },
