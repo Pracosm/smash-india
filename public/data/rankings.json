@@ -9,9 +9,9 @@
   {
     "disc": "Women's Singles",
     "name": "P. V. Sindhu",
-    "rank": 10,
+    "rank": 8,
     "move": "same",
-    "pts": "61,401"
+    "pts": "67,601"
   },
   {
     "disc": "Men's Singles",
@@ -19,5 +19,12 @@
     "rank": 14,
     "move": "same",
     "pts": "65,213"
+  },
+  {
+    "disc": "Mixed Doubles",
+    "name": "Dhruv Kapila & Tanisha Crasto",
+    "rank": 20,
+    "move": "same",
+    "pts": "47,930"
   }
 ]
