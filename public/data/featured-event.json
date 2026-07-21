@@ -24,9 +24,17 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Japan Open was a crucial litmus test for India's top shuttlers, primarily serving as a powerful platform for PV Sindhu's emphatic return to the winner's circle and a reality check for others aiming for consistent deep runs.",
-  "summary": "The Japan Open Super 750 tournament proved to be a watershed moment for Indian badminton, largely thanks to the triumphant return of PV Sindhu. After a challenging two-year title drought, Sindhu clinched her maiden Japan Open crown with a scorching victory over home favourite Akane Yamaguchi in the final. This emotional win, a testament to her unwavering belief amidst doubts about her career, marks a significant return to form and a powerful statement that she is far from done—a performance that has undoubtedly silenced many critics and reignited hopes for future major tournaments. \n\nWhile Sindhu soared to glory, the rest of the Indian contingent faced early exits in Tokyo. Men's Doubles pair Satwik & Chirag, despite their recent Singapore Open triumph, exited in the R32. Similarly, Men's Singles hopefuls Lakshya Sen and HS Prannoy, along with Women's Doubles pair Treesa & Gayatri, couldn't make a deep run. These mixed fortunes highlight the ongoing challenge for India to achieve consistent top-tier performances across all disciplines at Super 750 events.",
+  "stakes": "This Japan Open marked a pivotal moment for PV Sindhu's career resurgence, while offering valuable Super 750 experience for India's emerging talents and a reality check for others.",
+  "summary": "India's campaign at the Japan Open, a Super 750 event, culminated in a triumphant return to form for PV Sindhu, who clinched her maiden title at the tournament. Ending a two-year title drought, Sindhu's victory—a scorching win over home contender Akane Yamaguchi—was a powerful statement, silencing doubters and marking a significant milestone in her reengineered comeback. Her journey included beating World No. 4 Chen Yufei and benefiting from Nozomi Okuhara's withdrawal, showcasing both resilience and strategic advantage.\n\nWhile Sindhu soared, it was a challenging week for many other Indian shuttlers. Men's Doubles third seeds Satwik & Chirag, fresh off their Singapore Open triumph, faced an unexpected early exit in the Round of 32. Similarly, Men's Singles hopefuls Lakshya Sen, HS Prannoy, Kidambi Srikanth, Rithvik, and Rounak Chouhan, along with Women's Singles talent Malvika Bansod and Women's Doubles pair Treesa & Gayatri, also exited in the opening round. Mixed Doubles pair Tanisha & Dhruv made it to the Round of 16 before bowing out. The tournament underscored Sindhu's individual brilliance amidst a broader struggle for deep runs from the rest of the Indian contingent.",
   "indiaContingent": [
+    {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
+      "discipline": "Women's Singles",
+      "rank": 8,
+      "draw": "Champion",
+      "note": "Ends two-year title drought with maiden Japan Open title"
+    },
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
@@ -34,21 +42,13 @@
       "seed": 3,
       "rank": 4,
       "draw": "Exited R32",
-      "note": "Singapore Open champions, in top form"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "rank": 10,
-      "draw": "Champion",
-      "note": "Ends two-year title drought with maiden Japan Open"
+      "note": "Singapore Open champions, early exit here"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 10,
+      "rank": 14,
       "draw": "Exited R32",
       "note": "Seeking strong run after Singapore Open exit"
     },
@@ -59,6 +59,14 @@
       "rank": 16,
       "draw": "Exited R32",
       "note": "Asian Games squad members, building momentum"
+    },
+    {
+      "playerSlug": "dhruv-tanisha",
+      "name": "Tanisha & Dhruv",
+      "discipline": "Mixed Doubles",
+      "rank": 20,
+      "draw": "Exited R16",
+      "note": "Building mixed doubles prowess"
     },
     {
       "playerSlug": "hs-prannoy",
@@ -77,22 +85,10 @@
       "note": "Young talent, gaining valuable Super 750 experience"
     },
     {
-      "name": "Achutaditya & Arjun",
-      "discipline": "Men's Doubles",
-      "draw": "Exited R32",
-      "note": "Young doubles pair, building Tour experience"
-    },
-    {
       "name": "Kidambi Srikanth",
       "discipline": "Men's Singles",
       "draw": "Exited R32",
       "note": "US Open finalist, seeking consistency"
-    },
-    {
-      "name": "Rithvik",
-      "discipline": "Men's Singles",
-      "draw": "Exited R32",
-      "note": "Recent Valence Alpes champion"
     },
     {
       "name": "Rounak Chouhan",
@@ -101,10 +97,16 @@
       "note": "US Open giant-killer, building on recent form"
     },
     {
-      "name": "Tanisha & Dhruv",
-      "discipline": "Mixed Doubles",
-      "draw": "Exited R16",
-      "note": "Building mixed doubles prowess"
+      "name": "Achutaditya & Arjun",
+      "discipline": "Men's Doubles",
+      "draw": "Exited R32",
+      "note": "Young doubles pair, building Tour experience"
+    },
+    {
+      "name": "Rithvik",
+      "discipline": "Men's Singles",
+      "draw": "Exited R32",
+      "note": "Recent Valence Alpes champion"
     }
   ]
 }
