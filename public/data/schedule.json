@@ -1,22 +1,12 @@
 [
   {
-    "slug": "china-open",
-    "date": "JUL 21",
-    "name": "China Open",
-    "grade": "Super 1000",
-    "city": "Changzhou",
-    "flag": "🇨🇳",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5622/victor-china-open-2026/results/"
-  },
-  {
     "slug": "taipei-open",
     "date": "JUL 28",
     "name": "Taipei Open",
     "grade": "Super 300",
     "city": "Taipei",
     "flag": "🇹🇼",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5514/yonex-taipei-open-2026/results/"
   },
   {
@@ -46,6 +36,16 @@
     "grade": "Super 100",
     "city": "Pontianak",
     "flag": "🇮🇩",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+  },
+  {
+    "slug": "vietnam-open",
+    "date": "SEP 08",
+    "name": "Vietnam Open",
+    "grade": "Super 100",
+    "city": "Ho Chi Minh City",
+    "flag": "🇻🇳",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   }

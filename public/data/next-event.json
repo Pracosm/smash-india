@@ -1,12 +1,12 @@
 {
-  "name": "China Open",
-  "grade": "Super 1000",
-  "city": "Changzhou",
-  "venue": "Changzhou Olympic Sports Centre",
-  "dates": "Jul 21 – Jul 26, 2026",
-  "startsAt": "2026-07-21T09:00:00+08:00",
-  "indiaInDraw": 13,
+  "name": "Taipei Open",
+  "grade": "Super 300",
+  "city": "Taipei",
+  "venue": "Taipei Arena",
+  "dates": "Jul 28 – Aug 2, 2026",
+  "startsAt": "2026-07-28T00:00:00+08:00",
+  "indiaInDraw": 8,
   "disciplines": 5,
-  "blurb": "India's top shuttlers will aim for glory at the prestigious China Open, a Super 1000 event, seeking crucial ranking points and a major title. All eyes will be on PV Sindhu and the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty to make a deep run.",
+  "blurb": "Indian shuttlers will aim to gain crucial ranking points and make a deep run at the Taipei Open. This Super 300 event offers a valuable opportunity for players to build momentum.",
   "broadcaster": "Sony Sports · JioHotstar"
 }
