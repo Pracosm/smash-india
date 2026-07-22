@@ -1,43 +1,23 @@
 [
   {
-    "slug": "gopichand-badmintons-big-changes-cwg-exclusion",
-    "kicker": "Feature",
-    "title": "Gopichand on Badminton's Big Changes and CWG Exclusion",
-    "time": "Today",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "Pullela Gopichand, a prominent Indian badminton figure, discusses the sport's exclusion from the 2026 Commonwealth Games and other major rule changes.",
-    "summary": "Pulleela Gopichand addresses badminton's absence from the 2026 Glasgow Commonwealth Games and shares his perspective on significant rule changes impacting the sport."
-  },
-  {
-    "slug": "pv-sindhu-wins-japan-open-silences-doubters",
+    "slug": "sindhu-answers-doubters-japan-open-crown-tears-joy",
     "kicker": "Match Report",
-    "title": "PV Sindhu Wins Japan Open, Silences Doubters After Emotional Comeback",
-    "time": "3d ago",
-    "read": "4 min",
+    "title": "Sindhu Answers Doubters with Japan Open Crown, Expresses Tears of Joy",
+    "time": "2d ago",
+    "read": "3 min",
     "importance_score": 10,
-    "indian_angle": "Indian star PV Sindhu secured a significant title at the Japan Open, marking an emotional return to form after facing criticism.",
-    "summary": "PV Sindhu clinched the Japan Open title, overcoming a period of self-doubt and criticism, a victory she described as bringing tears to her eyes and sparked by a cryptic remark from Virat Kohli."
+    "indian_angle": "PV Sindhu's victory at the Japan Open marks a significant return to form for the Indian badminton star, silencing critics and boosting national morale.",
+    "summary": "PV Sindhu clinched the Japan Open title, emotionally reflecting on her journey back to the top after facing doubts about her career."
   },
   {
-    "slug": "reengineered-to-win-sindhu-data-driven-comeback",
+    "slug": "how-cryptic-virat-kohli-remark-sparked-pv-sindhus-revival",
     "kicker": "Feature",
-    "title": "Inside PV Sindhu’s Radical, Data-Driven Comeback to Top Form",
+    "title": "How Cryptic Virat Kohli Remark Sparked PV Sindhu's Revival",
     "time": "2d ago",
     "read": "4 min",
     "importance_score": 8,
-    "indian_angle": "This feature details the scientific approach and data analysis used by sports scientist Wayne Lombard to help Indian badminton stalwart PV Sindhu regain her peak performance.",
-    "summary": "Sports scientist Wayne Lombard reveals the radical, data-driven strategies employed to reengineer PV Sindhu's game, leading to her recent Japan Open triumph and return to top form."
-  },
-  {
-    "slug": "devika-prannoy-exit-china-masters-opening-day",
-    "kicker": "Result",
-    "title": "Devika, Prannoy Exit China Masters on Opening Day",
-    "time": "Today",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "Indian shuttlers Devika and HS Prannoy faced early exits in their respective categories at the China Masters tournament.",
-    "summary": "Devika, the Thailand Open Super 300 champion, lost a tough three-game match, while HS Prannoy also exited the China Masters on the first day of competition."
+    "indian_angle": "This article explores the unexpected influence of Indian cricket captain Virat Kohli on PV Sindhu's recent resurgence and Japan Open triumph.",
+    "summary": "A cryptic remark from cricket star Virat Kohli reportedly played a role in PV Sindhu's mental and on-court revival, leading to her Japan Open victory."
   },
   {
     "slug": "bai-releases-eligibility-criteria-world-junior-championships-2026",
@@ -46,17 +26,37 @@
     "time": "9d ago",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "Badminton Association of India (BAI) has issued guidelines for player selection for the upcoming World Junior Championships in Cairo, Egypt.",
-    "summary": "The Badminton Association of India has released the official player eligibility criteria for selection to the BWF World Junior Championships 2026, to be held in Cairo, Egypt."
+    "indian_angle": "The Badminton Association of India has issued crucial guidelines for players aspiring to represent India at the upcoming World Junior Championships in Cairo.",
+    "summary": "The BAI has published the eligibility criteria for Indian players aiming for selection in the World Junior Championships 2026 squad for the event in Cairo, Egypt."
   },
   {
-    "slug": "3x15-scoring-system-implemented-indian-domestic-tournaments",
+    "slug": "delhi-world-championships-needs-gen-z-gen-alpha-watchers",
+    "kicker": "Opinion",
+    "title": "Delhi World Championships Needs Gen Z, Gen Alpha Watchers",
+    "time": "10d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "The article discusses the need to attract younger generations of fans to the upcoming BWF World Championships 2026, which will be hosted in Delhi, India.",
+    "summary": "An opinion piece highlights the importance of engaging Gen Z and Gen Alpha audiences to ensure the success and future popularity of the BWF World Championships 2026 in Delhi."
+  },
+  {
+    "slug": "3x15-scoring-system-implemented-domestic-tournaments",
     "kicker": "Domestic",
-    "title": "3x15 Scoring System Implemented in Indian Domestic Tournaments",
+    "title": "3x15 Scoring System Implemented in Domestic Tournaments",
     "time": "3w ago",
     "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "The Badminton Association of India has implemented a new 3x15 scoring system for domestic ranking tournaments and national championships in junior categories.",
-    "summary": "The Badminton Association of India has announced the implementation of the 3x15 scoring system for all domestic ranking tournaments and National Championships across U-13, U-15, and U-17 age groups."
+    "importance_score": 7,
+    "indian_angle": "The Badminton Association of India has introduced a new 3x15 scoring system for all domestic ranking tournaments and national championships, impacting young Indian shuttlers.",
+    "summary": "The BAI has announced the implementation of a 3x15 scoring system for all domestic ranking tournaments and national championships across U-13, U-15, and U-17 age groups."
+  },
+  {
+    "slug": "bai-announces-grassroot-level-coaches-development-program",
+    "kicker": "Domestic",
+    "title": "BAI Announces Grassroot Level Coaches Development Program",
+    "time": "1m ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The Badminton Association of India is running a Coaches Development Program at the grassroot level in Guwahati and Raipur, fostering future Indian talent.",
+    "summary": "The BAI has circulated a program for grassroot level coaches development, with sessions scheduled in NCE Guwahati and Raipur from July 15th to 24th, 2026."
   }
 ]
