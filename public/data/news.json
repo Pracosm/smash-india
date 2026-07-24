@@ -1,62 +1,62 @@
 [
   {
-    "slug": "yonex-sunrise-all-india-senior-ranking-results",
-    "kicker": "Domestic",
-    "title": "All India Senior Ranking Tournament Concludes with Key Results",
-    "time": "3h ago",
+    "slug": "yonex-sunrise-all-india-senior-ranking-badminton-results",
+    "kicker": "Result",
+    "title": "Yonex-Sunrise All India Senior Ranking Badminton Tournament Results",
+    "time": "Today",
     "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "The latest All India Senior Ranking tournament has concluded, showcasing emerging talent and confirming the form of established players on the domestic circuit.",
-    "summary": "The Yonex-Sunrise All India Senior Ranking badminton tournament has announced its latest results, highlighting performances across various disciplines."
+    "importance_score": 4,
+    "indian_angle": "This report covers the latest results from a significant domestic badminton tournament in India.",
+    "summary": "Details from the Yonex-Sunrise All India Senior Ranking badminton tournament are now available."
   },
   {
-    "slug": "pv-sindhu-ayush-shetty-exit-china-open",
+    "slug": "dhruv-negi-chuffed-to-rediscover-his-form",
+    "kicker": "Feature",
+    "title": "Dhruv Negi Chuffed to Rediscover His Form in Badminton",
+    "time": "Yesterday",
+    "read": "3 min",
+    "importance_score": 3,
+    "indian_angle": "Indian shuttler Dhruv Negi discusses his return to form, offering insight into a national player's journey.",
+    "summary": "Indian badminton player Dhruv Negi expresses his happiness at finding his rhythm again, following a period of struggle."
+  },
+  {
+    "slug": "pv-sindhu-ayush-shetty-china-open-exit",
     "kicker": "Match Report",
-    "title": "Sindhu, Shetty Exit China Open After Wasting Match Points",
+    "title": "PV Sindhu, Ayush Shetty Out of China Open Super 1000 After Wasting Match Points",
     "time": "Yesterday",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Top Indian shuttlers PV Sindhu and Ayush Shetty faced early exits from the prestigious China Open.",
-    "summary": "PV Sindhu and Ayush Shetty both lost their respective matches at the China Open Super 1000, failing to convert crucial match points."
+    "indian_angle": "India's top shuttlers PV Sindhu and Ayush Shetty faced early exits from the prestigious China Open, highlighting challenges at the elite level.",
+    "summary": "PV Sindhu and Ayush Shetty both failed to convert match points, leading to their elimination from the China Open Super 1000 tournament."
   },
   {
-    "slug": "dhruv-negi-rediscover-form",
-    "kicker": "Feature",
-    "title": "Dhruv Negi Finds Form Again, Boosts Confidence",
-    "time": "Yesterday",
-    "read": "3 min",
-    "importance_score": 4,
-    "indian_angle": "Indian shuttler Dhruv Negi expresses satisfaction after rediscovering his form, a positive sign for his upcoming tournaments.",
-    "summary": "Indian badminton player Dhruv Negi is reportedly pleased with his return to form, indicating renewed confidence in his game."
-  },
-  {
-    "slug": "ayush-shetty-beats-alwi-farhan",
+    "slug": "ayush-shetty-beats-alwi-farhan-future-stars",
     "kicker": "Match Report",
-    "title": "Ayush Shetty Triumphs Over Alwi Farhan in Rising Stars Clash",
+    "title": "Ayush Shetty Beats Alwi Farhan in Battle of Future Stars",
     "time": "2d ago",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "Young Indian talent Ayush Shetty secured a significant victory against Alwi Farhan, marking him as a player to watch.",
-    "summary": "Ayush Shetty, an emerging Indian badminton player, defeated Alwi Farhan in a match dubbed a 'battle of future stars'."
+    "indian_angle": "Young Indian talent Ayush Shetty secured a significant victory against Alwi Farhan, showcasing the potential of India's next generation.",
+    "summary": "Ayush Shetty emerged victorious against Alwi Farhan in a highly anticipated match between two promising young badminton players."
   },
   {
-    "slug": "virat-kohli-remark-sparked-sindhu-revival",
-    "kicker": "Feature",
-    "title": "Kohli's Remark Ignites Sindhu's Comeback",
-    "time": "4d ago",
-    "read": "5 min",
-    "importance_score": 8,
-    "indian_angle": "This article explores how a comment from cricket star Virat Kohli played a role in PV Sindhu's recent resurgence on the badminton court, leading to her Japan Open victory.",
-    "summary": "A cryptic remark from Virat Kohli is credited with inspiring PV Sindhu's recent return to form and her subsequent Japan Open title win."
-  },
-  {
-    "slug": "sindhu-wins-japan-open-yamaguchi",
+    "slug": "sindhu-wins-japan-open-over-akane-yamaguchi",
     "kicker": "Match Report",
-    "title": "Sindhu Claims Japan Open Title Against Akane Yamaguchi",
+    "title": "Sindhu Wins Japan Open with Scorching Victory Over Akane Yamaguchi",
     "time": "5d ago",
     "read": "4 min",
     "importance_score": 10,
-    "indian_angle": "PV Sindhu secured a major title by winning the Japan Open, defeating local favourite Akane Yamaguchi in a dominant performance.",
-    "summary": "PV Sindhu ended her title drought by winning the Japan Open, overcoming Akane Yamaguchi in a commanding final match."
+    "indian_angle": "PV Sindhu's triumph at the Japan Open marks a significant return to form and a major title for India on the international stage.",
+    "summary": "PV Sindhu clinched the Japan Open title after a dominant performance against home favourite Akane Yamaguchi, ending her title drought."
+  },
+  {
+    "slug": "world-championships-delhi-badminton-gen-z-alpha",
+    "kicker": "Feature",
+    "title": "At World Championships in Delhi, Badminton Needs Gen Z, Gen Alpha Watchers",
+    "time": "12d ago",
+    "read": "5 min",
+    "importance_score": 5,
+    "indian_angle": "With the World Championships set to be held in Delhi, there's a focus on attracting younger Indian audiences to the sport.",
+    "summary": "An analysis on the upcoming World Championships in Delhi emphasizes the need to engage younger generations to secure the future viewership of badminton."
   }
 ]
