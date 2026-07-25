@@ -1,62 +1,62 @@
 [
   {
-    "slug": "varshini-nayana-triumph-confidence-booster",
-    "kicker": "Feature",
-    "title": "Varshini and Nayana Eye Future Assignments After Recent Triumph",
-    "time": "17h ago",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "This highlights the positive momentum and aspirations of Indian players Varshini and Nayana following a recent success.",
-    "summary": "Indian badminton players Varshini and Nayana expressed that their recent triumph has significantly boosted their confidence for upcoming international tournaments."
-  },
-  {
-    "slug": "pv-sindhu-ayush-shetty-china-open-exit",
-    "kicker": "Result",
-    "title": "Sindhu, Shetty Exit China Open Super 1000 After Wasting Match Points",
+    "slug": "pv-sindhu-ayush-shetty-exit-china-open-super-1000",
+    "kicker": "Match Report",
+    "title": "PV Sindhu, Ayush Shetty Exit China Open Super 1000 After Wasting Match Points",
     "time": "2d ago",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "This story details the performance of two prominent Indian shuttlers in a Super 1000 tournament, highlighting their close defeat.",
-    "summary": "Indian shuttlers PV Sindhu and Ayush Shetty both lost their respective matches at the China Open Super 1000, despite having match points, ending their run in the prestigious tournament."
+    "indian_angle": "This story is important for Indian fans as it details the recent performance and exit of two prominent Indian shuttlers from a prestigious Super 1000 tournament.",
+    "summary": "PV Sindhu and Ayush Shetty both exited the China Open Super 1000 after failing to convert match points in their respective matches. Sindhu lost to Chen Yufei, while Shetty also faced defeat."
   },
   {
-    "slug": "ayush-shetty-beats-alwi-farhan-china-open",
+    "slug": "pv-sindhu-claims-japan-open-title-over-akane-yamaguchi",
     "kicker": "Match Report",
-    "title": "Ayush Shetty Triumphs Over Alwi Farhan in China Open Clash",
-    "time": "3d ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "Young Indian talent Ayush Shetty secured a significant win against another rising star at a major international event.",
-    "summary": "Indian shuttler Ayush Shetty emerged victorious against Malaysia's Alwi Farhan in a highly anticipated match at the China Open, showcasing his potential as a future star."
-  },
-  {
-    "slug": "japan-open-win-brings-tears-to-sindhu-answers-doubters",
-    "kicker": "Feature",
-    "title": "Japan Open Win Brings Tears to Sindhu, Answers Doubters",
-    "time": "5d ago",
-    "read": "4 min",
-    "importance_score": 9,
-    "indian_angle": "This article provides a personal insight into PV Sindhu's emotional journey and resilience leading to her Japan Open triumph.",
-    "summary": "Following her Japan Open victory, PV Sindhu shared her emotional experience, stating she had tears in her eyes and felt vindicated after facing doubts about her career."
-  },
-  {
-    "slug": "sindhu-wins-japan-open-defeating-yamaguchi",
-    "kicker": "Match Report",
-    "title": "PV Sindhu Crowned Japan Open Champion After Dominant Win Over Yamaguchi",
+    "title": "PV Sindhu Claims Japan Open Title with Dominant Win Over Akane Yamaguchi",
     "time": "6d ago",
     "read": "4 min",
     "importance_score": 10,
-    "indian_angle": "PV Sindhu's victory marks a significant title win for India at a Super 750 event, ending a personal title drought.",
-    "summary": "Indian badminton star PV Sindhu clinched the Japan Open title with a commanding performance against local favorite Akane Yamaguchi, securing a major championship win."
+    "indian_angle": "This is a major victory for India, with PV Sindhu winning a Super 750 title, signifying her return to top form and boosting national pride.",
+    "summary": "PV Sindhu secured her maiden Japan Open title with a dominant victory over local favourite Akane Yamaguchi, ending a significant title drought and marking a strong comeback."
   },
   {
-    "slug": "delhi-world-championships-gen-z-alpha",
-    "kicker": "Opinion",
-    "title": "Delhi World Championships: Engaging Gen Z and Alpha Crucial for Badminton",
+    "slug": "rising-star-ayush-shetty-defeats-alwi-farhan-china-open",
+    "kicker": "Match Report",
+    "title": "Rising Star Ayush Shetty Defeats Alwi Farhan at China Open",
+    "time": "2d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "Indian fans will be keen to follow the progress of rising star Ayush Shetty, whose victory against a strong opponent signals a bright future for Indian badminton.",
+    "summary": "Young Indian shuttler Ayush Shetty showcased his potential by defeating Alwi Farhan in a notable match at the China Open, highlighting his growing presence on the international stage."
+  },
+  {
+    "slug": "bai-implements-3x15-scoring-system-junior-domestic-tournaments",
+    "kicker": "Domestic",
+    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
+    "time": "25d ago",
+    "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "This rule change directly impacts the development and competitive landscape for young Indian shuttlers in domestic tournaments, potentially shaping future talent.",
+    "summary": "The Badminton Association of India has announced the implementation of a 3x15 scoring system for all domestic ranking tournaments and national championships across U-13, U-15, and U-17 age groups."
+  },
+  {
+    "slug": "delhi-world-championships-2026-attracting-gen-z-alpha-fans",
+    "kicker": "Feature",
+    "title": "Delhi World Championships 2026: Attracting Gen Z and Alpha Fans",
     "time": "13d ago",
-    "read": "5 min",
+    "read": "4 min",
     "importance_score": 4,
-    "indian_angle": "This piece discusses the importance of attracting younger Indian audiences to the upcoming Badminton World Championships in Delhi.",
-    "summary": "An analysis suggests that the success of the Badminton World Championships in Delhi hinges on effectively engaging younger generations, Gen Z and Gen Alpha, to ensure the sport's future popularity in India."
+    "indian_angle": "With India hosting the World Championships in Delhi, this piece highlights efforts to grow the sport's fanbase domestically and ensure its long-term popularity among Indian youth.",
+    "summary": "An article discussing the need to attract younger generations, Gen Z and Gen Alpha, to badminton, especially with the upcoming World Championships in Delhi in 2026."
+  },
+  {
+    "slug": "grassroot-coaches-development-program-guwahati-raipur",
+    "kicker": "Feature",
+    "title": "Grassroot Coaches Development Program Underway in Guwahati & Raipur",
+    "time": "1m ago",
+    "read": "2 min",
+    "importance_score": 3,
+    "indian_angle": "This program is crucial for enhancing the quality of badminton coaching at the grassroots level across India, directly benefiting the development of future Indian talent.",
+    "summary": "The BAI has initiated a Coaches Development Program at the Grassroot Level in NCE Guwahati and Raipur, running from July 15th to 24th, aimed at improving coaching standards."
   }
 ]
