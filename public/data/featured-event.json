@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 300 event is a crucial opportunity for India's shuttlers to build momentum, secure valuable ranking points, and fine-tune their game ahead of more significant international assignments.",
-  "summary": "India's badminton contingent heads into the Taipei Open, a Super 300 event, with a mix of recent triumphs and a hunger for consistent form. Leading the charge is PV Sindhu, who recently clinched the Japan Open title—a significant return to form—but then faced an early exit at the China Open Super 1000. This week offers her a chance to build momentum and find that elusive consistency.\n\nIn men's doubles, the formidable pair of Satwiksairaj Rankireddy and Chirag Shetty, India's top-ranked duo, will be looking to assert their dominance. Men's singles players Lakshya Sen and veteran HS Prannoy are both seeking a deep run to gain crucial ranking points and build confidence. The women's doubles pair of Treesa Jolly and Gayatri Gopichand, along with mixed doubles duo Dhruv Kapila and Tanisha Crasto, represent India's promising young talent, eager to make their mark. Rising women's singles player Malvika Bansod also features, aiming to challenge higher-ranked opponents.\n\nWith the draw yet to be announced, the path ahead for the Indian shuttlers remains TBD. However, for a contingent featuring several seeded players and a blend of experience and youth, the Taipei Open is a vital opportunity to fine-tune strategies and secure valuable points on the BWF tour.",
+  "stakes": "This week's Taipei Open is a crucial opportunity for India's shuttlers to build momentum, consolidate rankings, and gain valuable match practice ahead of bigger international assignments.",
+  "summary": "India's badminton contingent heads into the Taipei Open, a Super 300 event, with a mix of high hopes and recent challenges. All eyes will be on **PV Sindhu**, who recently clinched the Japan Open title, showcasing a return to her formidable best. However, her subsequent early exit from the China Open Super 1000, where she squandered multiple match points, highlights the need for consistent performance. The top-ranked men's doubles pair, **Satwiksairaj Rankireddy & Chirag Shetty**, are expected to lead the charge, entering as the top seeds and aiming for a strong showing to maintain their elite status.\n\nIn men's singles, **Lakshya Sen** and veteran **HS Prannoy** will be looking to find their rhythm and make deep runs. Sen, a prodigious talent, is still searching for the consistent form that can propel him to the very top, while Prannoy will rely on his experience to navigate the draw. The women's doubles pair of **Treesa Jolly & Gayatri Gopichand** continues to impress with their youthful energy and potential, and this tournament offers another opportunity to climb the ranks. India's top mixed doubles pair, **Dhruv Kapila & Tanisha Crasto**, also feature, hoping to make their mark in a competitive field. With no specific draw matchups released yet, the initial rounds remain a mystery, but the Indian shuttlers will be eager to start strong.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -43,13 +43,13 @@
       "seed": 1,
       "rank": 8,
       "draw": "R32 — TBD",
-      "note": "Fresh off Japan Open triumph"
+      "note": "Japan Open champion, seeking consistency after China Open exit"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 14,
+      "rank": 10,
       "draw": "R32 — TBD",
       "note": "Seeking consistent form"
     },
