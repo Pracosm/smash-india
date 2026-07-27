@@ -30,23 +30,23 @@
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5625/china-masters-2026/results/"
   },
   {
-    "slug": "arctic-open",
-    "date": "OCT 06",
-    "name": "Arctic Open",
-    "grade": "Super 500",
-    "city": "Vantaa",
-    "flag": "🇫🇮",
+    "slug": "indonesia-masters-super-100-i",
+    "date": "SEP 01",
+    "name": "Indonesia Masters Super 100 I",
+    "grade": "Super 100",
+    "city": "Pontianak",
+    "flag": "🇮🇩",
     "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5594/arctic-open-2026-powered-by-yonex/results/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
-    "slug": "denmark-open",
-    "date": "OCT 13",
-    "name": "Denmark Open",
-    "grade": "Super 750",
-    "city": "Odense",
-    "flag": "🇩🇰",
+    "slug": "vietnam-open",
+    "date": "SEP 08",
+    "name": "Vietnam Open",
+    "grade": "Super 100",
+    "city": "Ho Chi Minh City",
+    "flag": "🇻🇳",
     "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   }
 ]
