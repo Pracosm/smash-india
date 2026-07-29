@@ -1,22 +1,12 @@
 [
   {
-    "slug": "taipei-open",
-    "date": "JUL 28",
-    "name": "Taipei Open",
-    "grade": "Super 300",
-    "city": "Taipei",
-    "flag": "🇹🇼",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5514/yonex-taipei-open-2026/results/"
-  },
-  {
     "slug": "korea-masters",
     "date": "AUG 04",
     "name": "Korea Masters",
     "grade": "Super 300",
     "city": "Asan",
     "flag": "🇰🇷",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5596/victor-korea-masters-2026/results/"
   },
   {
@@ -48,5 +38,15 @@
     "flag": "🇻🇳",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+  },
+  {
+    "slug": "arctic-open",
+    "date": "OCT 06",
+    "name": "Arctic Open",
+    "grade": "Super 500",
+    "city": "Vantaa",
+    "flag": "🇫🇮",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5594/arctic-open-2026-powered-by-yonex/results/"
   }
 ]
