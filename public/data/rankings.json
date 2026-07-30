@@ -2,14 +2,14 @@
   {
     "disc": "Men's Doubles",
     "name": "Satwik & Chirag",
-    "rank": 4,
+    "rank": 5,
     "move": "same",
-    "pts": "89,311"
+    "pts": "84,131"
   },
   {
     "disc": "Women's Singles",
     "name": "P. V. Sindhu",
-    "rank": 8,
+    "rank": 9,
     "move": "same",
     "pts": "67,601"
   },
@@ -18,13 +18,13 @@
     "name": "Lakshya Sen",
     "rank": 14,
     "move": "same",
-    "pts": "65,213"
+    "pts": "65,573"
   },
   {
     "disc": "Mixed Doubles",
     "name": "Dhruv & Tanisha",
-    "rank": 20,
+    "rank": 17,
     "move": "same",
-    "pts": "47,930"
+    "pts": "48,480"
   }
 ]
