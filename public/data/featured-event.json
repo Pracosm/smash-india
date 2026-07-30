@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week, India's shuttlers aim to build crucial momentum and secure valuable ranking points, especially after mixed results in recent high-stakes tournaments.",
-  "summary": "India's campaign at the Taipei Open has begun with a mix of anticipation and early successes. Veteran HS Prannoy made a strong statement, cruising through his opening round match in just 35 minutes to advance to the Round of 16, signaling his intent for a deep run. Young talent Anmol Kharb also successfully navigated her first-round challenge, adding to India's positive start in the tournament.\n\nWhile the draws for many key Indian players are still unfolding, there's considerable focus on top seeds like Satwiksairaj Rankireddy and Chirag Shetty in men's doubles, and PV Sindhu in women's singles. Sindhu, fresh off a Japan Open title but with an early exit from the recent China Open, will be looking for consistency. Lakshya Sen, aiming to find his best form, and the promising women's doubles duo of Treesa Jolly and Gayatri Gopichand are also ones to watch as they seek to make their mark in Taipei.",
+  "stakes": "This Taipei Open serves as a crucial mid-season opportunity for India's shuttlers to build momentum, consolidate rankings, and for some, to bounce back from recent disappointments on the international circuit.",
+  "summary": "India's contingent at the Taipei Open, a Super 300 event, presents a mix of top seeds and players looking to find their rhythm. Men's Doubles top seeds Satwiksairaj Rankireddy and Chirag Shetty will be aiming to assert their dominance, while Women's Singles star PV Sindhu, also a top seed, seeks to build on her recent Japan Open triumph, having experienced an early exit at the China Open. Her form remains a key storyline as she navigates the draw.\n\nHowever, the campaign has already seen a significant setback with veteran HS Prannoy crashing out in the R16 after a straight-games defeat to Hong Kong's Jason Gunawan. This early exit will undoubtedly be a disappointment for the seasoned shuttler. Elsewhere, Lakshya Sen continues his pursuit of consistent performances, hoping for a deep run to boost his ranking and confidence. Young Women's Doubles pair Treesa Jolly and Gayatri Gopichand are back in action, and India's top Mixed Doubles duo, Dhruv Kapila and Tanisha Crasto, will also be looking to make their mark. Rising talent Malvika Bansod rounds out the singles challenge, eager to make a statement.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -73,7 +73,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R16 — TBD",
+      "draw": "Eliminated (R16 vs Jason Gunawan (HKG))",
       "note": "Veteran aiming for a deep run"
     },
     {
