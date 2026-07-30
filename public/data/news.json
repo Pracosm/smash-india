@@ -1,62 +1,62 @@
 [
   {
-    "slug": "sindhu-claims-japan-open-title-dominant-win-yamaguchi",
-    "kicker": "Match Report",
-    "title": "Sindhu Claims Japan Open Title with Dominant Win Over Yamaguchi",
-    "time": "11d ago",
-    "read": "3 min",
-    "importance_score": 10,
-    "indian_angle": "Indian star PV Sindhu secured a significant international title, marking a strong comeback and silencing doubters.",
-    "summary": "PV Sindhu defeated home contender Akane Yamaguchi in a scorching performance to win her maiden Japan Open title, ending a period of doubt about her form."
-  },
-  {
     "slug": "sindhu-shetty-exit-china-open-after-wasting-match-points",
     "kicker": "Match Report",
     "title": "Sindhu, Shetty Exit China Open After Wasting Match Points",
     "time": "7d ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "India's top shuttler PV Sindhu and rising junior Ayush Shetty both faced early exits from a Super 1000 event, highlighting areas for improvement.",
-    "summary": "PV Sindhu and Ayush Shetty both squandered multiple match points in their respective matches, leading to their elimination from the China Open Super 1000 tournament."
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "India's top female player and a rising male junior faced early exits at a major tournament.",
+    "summary": "PV Sindhu and Ayush Shetty both suffered defeats at the China Open Super 1000, failing to convert match points in their respective matches."
   },
   {
-    "slug": "ayush-shetty-triumphs-over-alwi-farhan-china-open-clash",
+    "slug": "ayush-shetty-triumphs-over-alwi-farhan-at-china-open",
     "kicker": "Match Report",
-    "title": "Ayush Shetty Triumphs Over Alwi Farhan in China Open Clash",
+    "title": "Ayush Shetty Triumphs Over Alwi Farhan at China Open",
     "time": "8d ago",
     "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "Young Indian talent Ayush Shetty secured a notable victory against another promising junior, signaling his potential on the international stage.",
-    "summary": "Indian junior Ayush Shetty defeated Alwi Farhan in a closely contested match at the China Open, showcasing a promising performance from the future star."
+    "importance_score": 5,
+    "indian_angle": "Rising Indian junior Ayush Shetty secured a significant win against a strong opponent at the China Open.",
+    "summary": "Young Indian shuttler Ayush Shetty emerged victorious against Malaysia's Alwi Farhan in a closely contested match at the China Open."
   },
   {
-    "slug": "bai-releases-eligibility-criteria-world-junior-championships-2026",
+    "slug": "pv-sindhu-claims-japan-open-title-with-dominant-win",
+    "kicker": "Match Report",
+    "title": "PV Sindhu Claims Japan Open Title with Dominant Win",
+    "time": "11d ago",
+    "read": "4 min",
+    "importance_score": 10,
+    "indian_angle": "PV Sindhu clinched a major title, ending a drought and showcasing her return to top form with a dominant performance.",
+    "summary": "PV Sindhu defeated Akane Yamaguchi in the Japan Open final, securing her first title in a significant comeback performance."
+  },
+  {
+    "slug": "emotional-sindhu-silences-critics-with-japan-open-victory",
+    "kicker": "Feature",
+    "title": "Emotional Sindhu Silences Critics with Japan Open Victory",
+    "time": "10d ago",
+    "read": "4 min",
+    "importance_score": 9,
+    "indian_angle": "PV Sindhu's emotional victory at the Japan Open marks a triumphant return to form after facing doubts about her career.",
+    "summary": "Following her Japan Open victory, PV Sindhu shared her emotional journey, expressing relief and joy at proving her doubters wrong."
+  },
+  {
+    "slug": "bai-releases-eligibility-criteria-for-world-junior-championships-2026",
     "kicker": "Domestic",
     "title": "BAI Releases Eligibility Criteria for World Junior Championships 2026",
     "time": "17d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The BAI's announcement on player eligibility is crucial for young Indian shuttlers aspiring to represent the country at the World Junior Championships.",
+    "summary": "Badminton Association of India has issued a circular detailing the eligibility criteria for players seeking selection for the BWF World Junior Championships 2026 in Cairo, Egypt."
+  },
+  {
+    "slug": "new-3x15-scoring-system-to-debut-in-indian-domestic-tournaments",
+    "kicker": "Domestic",
+    "title": "New 3x15 Scoring System to Debut in Indian Domestic Tournaments",
+    "time": "28d ago",
     "read": "3 min",
     "importance_score": 5,
-    "indian_angle": "The Badminton Association of India has issued crucial guidelines for selecting Indian players for the upcoming BWF World Junior Championships in Cairo.",
-    "summary": "The Badminton Association of India (BAI) has released the eligibility criteria for Indian players aspiring to participate in the BWF World Junior Championships 2026, to be held in Cairo, Egypt."
-  },
-  {
-    "slug": "3x15-scoring-system-to-debut-in-indian-domestic-badminton",
-    "kicker": "Feature",
-    "title": "3x15 Scoring System to Debut in Indian Domestic Badminton",
-    "time": "28d ago",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "A new 3x15 scoring system is being implemented across all domestic ranking tournaments and national championships in India, impacting junior categories.",
-    "summary": "The Badminton Association of India will implement a new 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups, debuting at Ernakulam."
-  },
-  {
-    "slug": "world-championships-delhi-attracting-gen-z-alpha-fans",
-    "kicker": "Opinion",
-    "title": "World Championships in Delhi: Attracting Gen Z and Alpha Fans",
-    "time": "18d ago",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "As India prepares to host the World Championships in Delhi, there's a focus on engaging younger generations of Indian fans to ensure the sport's future popularity.",
-    "summary": "An opinion piece discusses the need for badminton to attract Gen Z and Gen Alpha audiences, especially with the upcoming World Championships being held in Delhi, India."
+    "indian_angle": "The Badminton Association of India is implementing a new 3x15 scoring system in domestic tournaments, starting in Ernakulam, which will impact Indian players' development.",
+    "summary": "The BAI has announced the adoption of a 3x15 scoring system for all domestic ranking tournaments and national championships in junior categories, set to debut in Ernakulam."
   }
 ]
