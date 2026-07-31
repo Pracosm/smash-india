@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Taipei Open serves as a crucial mid-season opportunity for India's shuttlers to build momentum, consolidate rankings, and for some, to bounce back from recent disappointments on the international circuit.",
-  "summary": "India's contingent at the Taipei Open, a Super 300 event, presents a mix of top seeds and players looking to find their rhythm. Men's Doubles top seeds Satwiksairaj Rankireddy and Chirag Shetty will be aiming to assert their dominance, while Women's Singles star PV Sindhu, also a top seed, seeks to build on her recent Japan Open triumph, having experienced an early exit at the China Open. Her form remains a key storyline as she navigates the draw.\n\nHowever, the campaign has already seen a significant setback with veteran HS Prannoy crashing out in the R16 after a straight-games defeat to Hong Kong's Jason Gunawan. This early exit will undoubtedly be a disappointment for the seasoned shuttler. Elsewhere, Lakshya Sen continues his pursuit of consistent performances, hoping for a deep run to boost his ranking and confidence. Young Women's Doubles pair Treesa Jolly and Gayatri Gopichand are back in action, and India's top Mixed Doubles duo, Dhruv Kapila and Tanisha Crasto, will also be looking to make their mark. Rising talent Malvika Bansod rounds out the singles challenge, eager to make a statement.",
+  "stakes": "This week in Taipei is a vital opportunity for India's shuttlers to build momentum, secure crucial ranking points, and demonstrate consistent performance on the international stage.",
+  "summary": "India arrives at the Taipei Open, a Super 300 event, with a mix of momentum and a hunger for consistency. Leading the charge are top seeds Satwiksairaj Rankireddy & Chirag Shetty in Men's Doubles and PV Sindhu in Women's Singles, both looking to assert their dominance. Sindhu, fresh off a Japan Open triumph that silenced many doubters, faced an unexpected early exit at the China Open, making this tournament crucial for regaining her rhythm and confidence.\n\nMen's Singles sees Lakshya Sen continuing his quest for consistent form, while veteran HS Prannoy unfortunately exited in the Round of 16. The promising Women's Doubles duo of Treesa Jolly & Gayatri Gopichand are back in action, aiming for a deep run. India's top Mixed Doubles pair, Dhruv Kapila & Tanisha Crasto, and rising Women's Singles talent Malvika Bansod round out a strong contingent, all eager to make their mark in Taipei.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "seed": 1,
-      "rank": 4,
+      "rank": 5,
       "draw": "R32 — TBD",
       "note": "Top-ranked Indian pair"
     },
@@ -41,7 +41,7 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "seed": 1,
-      "rank": 8,
+      "rank": 9,
       "draw": "R32 — TBD",
       "note": "Japan Open champion, early China Open exit"
     },
@@ -64,7 +64,7 @@
     {
       "name": "Dhruv Kapila & Tanisha Crasto",
       "discipline": "Mixed Doubles",
-      "rank": 20,
+      "rank": 17,
       "draw": "R32 — TBD",
       "note": "India's top mixed doubles pair"
     },
@@ -74,7 +74,7 @@
       "discipline": "Men's Singles",
       "rank": 24,
       "draw": "Eliminated (R16 vs Jason Gunawan (HKG))",
-      "note": "Veteran aiming for a deep run"
+      "note": "Veteran player"
     },
     {
       "playerSlug": "malvika-bansod",
