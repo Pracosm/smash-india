@@ -1,52 +1,62 @@
 [
   {
-    "slug": "sai-praneeth-ends-indias-36-year-wait-worlds-medal",
-    "kicker": "Feature",
-    "title": "Sai Praneeth Ends India's 36-Year Wait for Worlds Medal",
-    "time": "5d ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "This story highlights Sai Praneeth's historic achievement of securing India's first men's singles World Championships medal in 36 years.",
-    "summary": "A look back at Sai Praneeth's bronze medal win at the 2019 World Championships, which broke India's long drought in men's singles at the event."
-  },
-  {
-    "slug": "sindhu-shetty-waste-match-points-exit-china-open-super-1000",
+    "slug": "sindhu-japan-open-champion-yamaguchi",
     "kicker": "Match Report",
-    "title": "Sindhu, Shetty Waste Match Points, Exit China Open Super 1000",
-    "time": "8d ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "Top Indian shuttlers PV Sindhu and Ayush Shetty both faced disappointing exits from a major tournament.",
-    "summary": "PV Sindhu and Ayush Shetty were eliminated from the China Open Super 1000 after both players squandered match points in their respective matches."
-  },
-  {
-    "slug": "ayush-shetty-triumphs-over-alwi-farhan-future-stars-clash",
-    "kicker": "Result",
-    "title": "Ayush Shetty Triumphs Over Alwi Farhan in Future Stars Clash",
-    "time": "9d ago",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "This report features a victory by promising Indian young talent Ayush Shetty against another rising star.",
-    "summary": "Indian shuttler Ayush Shetty secured a notable win against Malaysia's Alwi Farhan in a match dubbed a battle of future badminton stars."
-  },
-  {
-    "slug": "pv-sindhu-silences-doubters-with-japan-open-super-750-crown",
-    "kicker": "Match Report",
-    "title": "PV Sindhu Silences Doubters With Japan Open Super 750 Crown",
+    "title": "Sindhu Claims Japan Open Title with Dominant Win Over Akane Yamaguchi",
     "time": "12d ago",
     "read": "3 min",
     "importance_score": 10,
-    "indian_angle": "India's star shuttler PV Sindhu clinched a significant title, marking a strong comeback and silencing critics.",
-    "summary": "PV Sindhu ended her title drought by winning the Japan Open Super 750, defeating home favorite Akane Yamaguchi in a scorching final performance."
+    "indian_angle": "PV Sindhu, India's star shuttler, secured a significant Super 750 title, marking a strong comeback and answering her critics.",
+    "summary": "PV Sindhu ended her title drought by winning the Japan Open, defeating home favourite Akane Yamaguchi in a scorching final performance."
   },
   {
-    "slug": "gopichand-praises-sindhus-surge-she-can-beat-top-players",
-    "kicker": "Opinion",
-    "title": "Gopichand Praises Sindhu's Surge: \"She Can Beat Top Players\"",
-    "time": "13d ago",
+    "slug": "sindhu-shetty-china-open-exit-match-points",
+    "kicker": "Match Report",
+    "title": "Sindhu, Shetty Exit China Open Super 1000 After Wasting Match Points",
+    "time": "8d ago",
     "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "National chief coach Pullela Gopichand offers his expert view on PV Sindhu's return to top form.",
-    "summary": "Pullela Gopichand expressed confidence in PV Sindhu's recent resurgence, stating that her current form makes her capable of defeating any top-ranked opponent."
+    "indian_angle": "India's top female shuttler PV Sindhu and rising male talent Ayush Shetty both failed to advance in the prestigious China Open, despite holding match points.",
+    "summary": "PV Sindhu and Ayush Shetty both suffered disappointing exits from the China Open Super 1000, unable to convert match points in their respective matches."
+  },
+  {
+    "slug": "ayush-shetty-beats-alwi-farhan-china-open",
+    "kicker": "Match Report",
+    "title": "Ayush Shetty Triumphs Over Alwi Farhan in China Open Battle of Future Stars",
+    "time": "9d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "Young Indian shuttler Ayush Shetty showcased his potential by defeating Malaysia's Alwi Farhan, a fellow rising star, at the China Open.",
+    "summary": "Indian prodigy Ayush Shetty secured a notable victory against Malaysia's Alwi Farhan at the China Open, highlighting a promising future for the young player."
+  },
+  {
+    "slug": "player-eligibility-bwf-world-junior-championships-2026",
+    "kicker": "Domestic",
+    "title": "Player Eligibility Announced for BWF World Junior Championships 2026",
+    "time": "18d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "Badminton Association of India has released the eligibility criteria for Indian players aspiring to represent the country at the BWF World Junior Championships in Cairo.",
+    "summary": "The BAI has issued a circular detailing the eligibility requirements for Indian players seeking selection for the upcoming BWF World Junior Championships 2026 in Cairo, Egypt."
+  },
+  {
+    "slug": "3x15-scoring-domestic-junior-tournaments",
+    "kicker": "Domestic",
+    "title": "3x15 Scoring System Implemented for Domestic Junior Tournaments",
+    "time": "1m ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "A significant change to the scoring system, adopting 3x15, has been implemented for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups in India.",
+    "summary": "The Badminton Association of India has announced the adoption of a 3x15 scoring system for all domestic junior ranking tournaments and national championships, aiming to debut the format soon."
+  },
+  {
+    "slug": "yonex-sunrise-all-india-senior-ranking-chennai",
+    "kicker": "Domestic",
+    "title": "Yonex-Sunrise All India Senior Ranking Tournament Held in Chennai",
+    "time": "1m ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "India's top senior shuttlers competed in the Yonex-Sunrise All India Senior Ranking Badminton Tournament held in Chennai, a crucial event for national rankings.",
+    "summary": "The Badminton Association of India issued a circular for the Yonex-Sunrise All India Senior Ranking Badminton Tournament 2026, which took place in Chennai from July 16th to 23rd."
   }
 ]
