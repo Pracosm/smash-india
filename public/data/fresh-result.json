@@ -1,9 +1,9 @@
 {
-  "tag": "RESULT",
-  "event": "Commonwealth Games 2026",
-  "discipline": "Judo",
-  "winner": "Unnati",
-  "loser": "Skye Knoester",
-  "score": "by ippon",
-  "when": "Today"
+  "tag": "FINALISTS",
+  "event": "CWG 2026",
+  "discipline": "Boxing, Men's 90+kg Semifinal",
+  "winner": "Narender",
+  "loser": "Nigel Paul",
+  "score": "5-0",
+  "when": "Yesterday"
 }
