@@ -24,16 +24,22 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week at the Taipei Open is a crucial litmus test for India's emerging badminton talents, signaling a potential shift in the country's competitive landscape.",
-  "summary": "India's established stars at the Taipei Open have had a quiet week, with top seeds Satwiksairaj Rankireddy & Chirag Shetty and PV Sindhu not featuring in the later stages of this Super 300 event. While their campaigns seem to have concluded without much fanfare in the provided reports, the Indian flag is still flying high thanks to the impressive performances of emerging talents. Young shuttlers like Tanvi Sharma have stepped up, reaching the women's singles final, showcasing the depth of India's badminton pipeline. Unnati Hooda also made a strong run to the semifinals, further underscoring the potential brewing in the ranks. This mixed bag of results highlights a transitional phase for Indian badminton. While the seasoned campaigners look to regroup for bigger challenges ahead, the Taipei Open has provided a crucial platform for the next generation to gain valuable experience and make their mark on the international circuit. The focus now shifts to Tanvi Sharma, who carries the nation's hopes into the final, aiming to cap off a memorable week for India's rising stars.",
+  "stakes": "This week's Taipei Open signifies a pivotal moment for Indian badminton, with Tanvi Sharma's maiden Super 300 title underscoring the depth of emerging talent and offering a glimpse into the sport's bright future for the nation.",
+  "summary": "The Taipei Open has concluded with a monumental triumph for India, as 17-year-old Tanvi Sharma clinched her maiden BWF Super 300 women's singles title. Sharma's impressive run culminated in a straight-games victory over World No. 21 Nguyen Thuy Linh of Vietnam, ending India's 18-year wait for a women's singles champion at this event. Her unexpected, yet dominant, performance marks a significant moment for Indian badminton, highlighting the emergence of a promising new talent on the international stage.\n\nWhile Sharma stole the spotlight with her historic win, other Indian contenders faced early exits. Top-ranked pairs like Satwik & Chirag in men's doubles and PV Sindhu in women's singles—both of whom were seeded—along with Lakshya Sen and Treesa & Gayatri, were unable to advance deep into the tournament. Veteran HS Prannoy also saw his campaign end in the Round of 16. Despite these mixed results, the focus remains firmly on Sharma's breakthrough, which injects fresh optimism into India's badminton landscape.",
   "indiaContingent": [
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "draw": "Champion",
+      "note": "Maiden BWF Super 300 title winner"
+    },
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "seed": 1,
       "rank": 5,
-      "draw": "R32 — TBD",
+      "draw": "Eliminated",
       "note": "Top-ranked Indian pair"
     },
     {
@@ -42,7 +48,7 @@
       "discipline": "Women's Singles",
       "seed": 1,
       "rank": 9,
-      "draw": "R32 — TBD",
+      "draw": "Eliminated",
       "note": "Japan Open champion, early China Open exit"
     },
     {
@@ -50,7 +56,7 @@
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "R32 — TBD",
+      "draw": "Eliminated",
       "note": "Seeking consistent form"
     },
     {
@@ -58,14 +64,14 @@
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
-      "draw": "R32 — TBD",
+      "draw": "Eliminated",
       "note": "Young, promising duo, back in action"
     },
     {
       "name": "Dhruv Kapila & Tanisha Crasto",
       "discipline": "Mixed Doubles",
       "rank": 17,
-      "draw": "R32 — TBD",
+      "draw": "Eliminated",
       "note": "India's top mixed doubles pair"
     },
     {
@@ -81,7 +87,7 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
+      "draw": "Eliminated",
       "note": "Rising talent"
     }
   ]
