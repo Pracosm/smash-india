@@ -1,19 +1,19 @@
 {
-  "slug": "taipei-open",
-  "name": "Taipei Open",
+  "slug": "korea-masters",
+  "name": "Korea Masters",
   "edition": "2026",
-  "fullName": "Taipei Open",
+  "fullName": "Korea Masters",
   "grade": "Super 300",
-  "city": "Taipei",
-  "flag": "🇹🇼",
-  "dates": "Jul 28 – Aug 2, 2026",
-  "startsAt": "2026-07-28T00:00:00+08:00",
-  "endsAt": "2026-08-02T16:00:00.000Z",
+  "city": "Asan",
+  "flag": "🇰🇷",
+  "dates": "Aug 4 – Aug 9, 2026",
+  "startsAt": "2026-08-04T00:00:00+09:00",
+  "endsAt": "2026-08-09T15:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5514/yonex-taipei-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5596/victor-korea-masters-2026/results/",
   "venue": {
-    "name": "Taipei Arena",
+    "name": "Asan Yi Sun-sin Gymnasium",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,71 +24,56 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "Tanvi Sharma's maiden BWF Super 300 title is a significant milestone, offering a beacon of hope and a fresh narrative for Indian badminton amidst a challenging week for many of its established stars.",
-  "summary": "The Taipei Open, a Super 300 event, concluded with a sensational performance from India's rising star Tanvi Sharma, who clinched her maiden BWF World Tour title. The 17-year-old phenom dominated the women's singles final, showcasing her immense potential and becoming the youngest winner in the tournament's history. Her triumph provides a significant boost for the Indian contingent, especially as the badminton calendar heats up with major events on the horizon.\n\nWhile Sharma's victory shone brightly, it was a mixed bag for the rest of the Indian contingent. Top-seeded pairs Satwiksairaj Rankireddy and Chirag Shetty in men's doubles, and PV Sindhu in women's singles, faced early exits, unable to make deep runs. Similarly, Lakshya Sen, Treesa Jolly and Gayatri Gopichand, Dhruv Kapila and Tanisha Crasto, HS Prannoy, and Malvika Bansod also saw their campaigns end prematurely. This series of early eliminations highlights the competitive nature of the tour and the challenges even seasoned players face in maintaining consistent form.\n\nDespite the early departures for many, Sharma's breakthrough performance offers a glimpse into the future of Indian badminton. Her ability to navigate a Super 300 draw and emerge victorious speaks volumes about her talent and resilience. The focus now shifts to how these players regroup and prepare for the upcoming Korea Masters and the highly anticipated World Championships, with Sharma's win providing a much-needed morale boost.",
+  "stakes": "This week is crucial for India's shuttlers to gain valuable ranking points and build confidence on the international circuit, especially with the new scoring system on the horizon.",
+  "summary": "India arrives at the Korea Masters looking to build momentum, especially after a significant breakthrough on the BWF World Tour last week. While the draw for this Super 300 event is still taking shape, the focus will be on India's established stars and promising talents alike. P.V. Sindhu and Lakshya Sen will be keen to make deep runs and gather crucial ranking points, with Sindhu particularly looking to solidify her form. The men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, currently India's highest-ranked entry, will be aiming for consistency and another strong performance.\n\nAdding to the buzz, young sensation Tanvi Sharma recently clinched her maiden BWF World Tour title at the Taipei Open, becoming the youngest winner in the tournament's history. While she isn't listed in the contingent for Korea, her success underscores the depth emerging in Indian badminton. Meanwhile, veteran H.S. Prannoy and the women's doubles pair of Treesa Jolly and Gayatri Gopichand will also be eager to leave their mark, navigating what promises to be a competitive field. The tournament offers a valuable platform for these players to test their mettle and refine their strategies.",
   "indiaContingent": [
-    {
-      "name": "Tanvi Sharma",
-      "discipline": "Women's Singles",
-      "draw": "Champion",
-      "note": "Maiden BWF Super 300 title winner, youngest ever"
-    },
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "seed": 1,
       "rank": 5,
-      "draw": "Eliminated",
-      "note": "Top-ranked Indian pair"
+      "draw": "R32 — TBD",
+      "note": "Top-ranked Indian pair, aiming for consistency"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "seed": 1,
       "rank": 9,
-      "draw": "Eliminated",
-      "note": "Japan Open champion, early China Open exit"
+      "draw": "R32 — TBD",
+      "note": "Seeking strong comeback after recent struggles"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "Eliminated",
-      "note": "Seeking consistent form"
+      "draw": "R32 — TBD",
+      "note": "Young talent, building momentum"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
-      "draw": "Eliminated",
-      "note": "Young, promising duo, back in action"
-    },
-    {
-      "name": "Dhruv Kapila & Tanisha Crasto",
-      "discipline": "Mixed Doubles",
-      "rank": 17,
-      "draw": "Eliminated",
-      "note": "India's top mixed doubles pair"
+      "draw": "R32 — TBD",
+      "note": "Promising young women's doubles pair"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "Eliminated (R16 vs Jason Gunawan (HKG))",
-      "note": "Veteran player"
+      "draw": "R32 — TBD",
+      "note": "Veteran presence, looking for deep run"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "Eliminated",
-      "note": "Rising talent"
+      "draw": "R32 — TBD",
+      "note": "Rising star, gaining international exposure"
     }
   ]
 }
