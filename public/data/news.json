@@ -1,52 +1,62 @@
 [
   {
-    "slug": "tanvi-sharma-wins-first-bwf-world-tour-title-youngest-champion",
+    "slug": "tanvi-sharma-youngest-bwf-world-tour-champion",
     "kicker": "Result",
-    "title": "Tanvi Sharma Wins Maiden BWF World Tour Title, Becomes Youngest Champion",
-    "time": "Yesterday",
+    "title": "Tanvi Sharma Youngest Ever BWF World Tour Champion",
+    "time": "2d ago",
     "read": "3 min",
     "importance_score": 10,
-    "indian_angle": "Indian teenager Tanvi Sharma secured her first BWF World Tour title, becoming the youngest player to achieve this historic feat.",
-    "summary": "The 17-year-old Indian shuttler Tanvi Sharma claimed her maiden BWF World Tour title in Chinese Taipei, winning the final in straight games after having lost three previous finals."
+    "indian_angle": "Indian teenager Tanvi Sharma secured her first BWF World Tour title, making history as the youngest winner.",
+    "summary": "Indian prodigy Tanvi Sharma, 17, claimed her maiden BWF World Tour title in Chinese Taipei, winning the final in straight games and becoming the youngest champion in the tournament's history after three previous final losses."
   },
   {
-    "slug": "bai-releases-player-eligibility-criteria-world-junior-championships-2026",
+    "slug": "bai-announces-player-eligibility-for-world-junior-championships-2026",
     "kicker": "Domestic",
-    "title": "BAI Releases Player Eligibility Criteria for World Junior Championships 2026",
+    "title": "BAI Announces Player Eligibility for World Junior Championships 2026",
     "time": "3w ago",
     "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "The Badminton Association of India has released crucial guidelines for Indian players aspiring to be selected for the upcoming BWF World Junior Championships in Cairo.",
-    "summary": "The Badminton Association of India has issued a circular detailing the eligibility criteria for Indian players for the BWF World Junior Championships 2026 to be held in Cairo, Egypt."
+    "indian_angle": "The Badminton Association of India has released the eligibility criteria for Indian players aspiring to compete in the BWF World Junior Championships in Cairo.",
+    "summary": "BAI has issued guidelines for player eligibility for the BWF World Junior Championships 2026 in Cairo, Egypt, outlining the selection process for India's promising young badminton talent."
   },
   {
-    "slug": "bhubaneswar-u19-ranking-tournament-now-world-junior-selection-event",
+    "slug": "bhubaneswar-u19-tournament-designated-world-junior-championships-selector",
     "kicker": "Domestic",
-    "title": "Bhubaneswar U-19 Ranking Tournament Now World Junior Selection Event",
+    "title": "Bhubaneswar U-19 Tournament Designated World Junior Championships Selector",
     "time": "3w ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "The Bhubaneswar U-19 Ranking Tournament has been declared the official selection tournament for Indian players for the BWF World Junior Championships 2026.",
-    "summary": "Following the postponement of the Haryana U-19 Ranking Tournament, the Bhubaneswar U-19 Ranking Tournament has been designated as the sole selection event for the BWF World Junior Championships 2026."
-  },
-  {
-    "slug": "bai-implements-3x15-scoring-system-junior-domestic-tournaments",
-    "kicker": "Domestic",
-    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
-    "time": "1m ago",
-    "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "This significant rule change to a 3x15 scoring system will impact all U-13, U-15, and U-17 domestic ranking tournaments and national championships in India.",
-    "summary": "The Badminton Association of India has announced the implementation of a new 3x15 scoring system for all domestic ranking tournaments and national championships across the U-13, U-15, and U-17 age groups."
-  },
-  {
-    "slug": "bai-issues-advisory-against-unauthorized-badminton-leagues-and-tournaments",
-    "kicker": "Advisory",
-    "title": "BAI Issues Advisory Against Unauthorized Badminton Leagues and Tournaments",
-    "time": "1m ago",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "Indian players and coaches are advised by BAI to avoid participating in unauthorized badminton leagues and tournaments to ensure compliance and safety.",
-    "summary": "The Badminton Association of India has issued an advisory cautioning players and coaches against participating in unauthorized badminton leagues, tournaments, and championships, citing specific examples like 'Passion Sphere presents Badminton Premier League – Season 2'."
+    "indian_angle": "The Bhubaneswar U-19 Ranking Tournament has been designated as the sole selection event for India's contingent for the upcoming BWF World Junior Championships.",
+    "summary": "The Haryana U-19 Ranking Tournament has been postponed, and the Bhubaneswar U-19 Ranking Tournament will now serve as the official selection event for the BWF World Junior Championships 2026."
+  },
+  {
+    "slug": "bai-implements-3x15-scoring-system-junior-domestic",
+    "kicker": "Domestic",
+    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
+    "time": "5w ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The new 3x15 scoring system will be adopted in all U-13, U-15, and U-17 domestic ranking tournaments and national championships in India.",
+    "summary": "The Badminton Association of India has announced the implementation of the 3x15 scoring system for all domestic ranking tournaments and national championships across the U-13, U-15, and U-17 age groups."
+  },
+  {
+    "slug": "bai-issues-advisory-against-unauthorized-badminton-leagues",
+    "kicker": "Advisory",
+    "title": "BAI Issues Advisory Against Unauthorized Badminton Leagues",
+    "time": "6w ago",
+    "read": "3 min",
+    "importance_score": 4,
+    "indian_angle": "Indian players and coaches are advised by BAI to avoid participating in unauthorized badminton leagues and tournaments to ensure compliance with official regulations.",
+    "summary": "The Badminton Association of India has issued an advisory cautioning players and stakeholders against participating in unauthorized badminton leagues, tournaments, and championships, emphasizing adherence to official guidelines."
+  },
+  {
+    "slug": "india-submits-eoi-to-host-bwf-world-championships-2026",
+    "kicker": "Feature",
+    "title": "India Submits EOI to Host BWF World Championships 2026",
+    "time": "9w ago",
+    "read": "2 min",
+    "importance_score": 8,
+    "indian_angle": "The Badminton Association of India has submitted an Expression of Interest to host the prestigious BWF World Championships in 2026, potentially bringing the global event to India.",
+    "summary": "The Badminton Association of India has formally submitted an Expression of Interest to the BWF for hosting the World Championships in 2026, indicating India's ambition to stage a major international badminton event."
   }
 ]
