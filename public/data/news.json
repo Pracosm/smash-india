@@ -1,42 +1,62 @@
 [
   {
-    "slug": "badminton-world-championships-bai-confident-no-monkey-sightings",
-    "kicker": "Preview",
-    "title": "BAI Confident of Smooth World Championships After India Open Fiasco",
-    "time": "1h ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "The Badminton World Championships are set to return to India after 17 years, with BAI assuring no repeat of past issues like monkey sightings or bird droppings from the India Open fiasco.",
-    "summary": "The showpiece event returns to India after 17 years at New Delhi’s Indira Gandhi Indoor Stadium from August 17-23. BAI is confident of avoiding issues seen in previous tournaments."
-  },
-  {
-    "slug": "pv-sindhu-launches-centre-for-sports-excellence-visakhapatnam",
-    "kicker": "Feature",
-    "title": "PV Sindhu Launches Multi-Sport Centre for Sports Excellence in Visakhapatnam",
+    "slug": "tanvi-sharma-advances-korea-masters-second-round",
+    "kicker": "Match Report",
+    "title": "Tanvi Sharma Advances to Korea Masters Second Round",
     "time": "3h ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "Indian badminton icon P.V. Sindhu has inaugurated a significant multi-sport facility in Visakhapatnam, initially focused on badminton but expanding to seven disciplines.",
-    "summary": "What began as an initiative focused solely on badminton expanded into a multi-sport project following discussions with Chief Minister N. Chandrababu Naidu and will now cater to seven disciplines — badminton, table tennis, swimming, shooting, football, basketball and chess."
-  },
-  {
-    "slug": "pv-sindhu-9th-seed-satwik-chirag-5th-bwf-world-cships",
-    "kicker": "Ranking",
-    "title": "Sindhu 9th Seed, Satwik-Chirag 5th for BWF World Championships",
-    "time": "Yesterday",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "India's top badminton stars, PV Sindhu and the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, have received key seedings for the upcoming BWF World Championships.",
-    "summary": "PV Sindhu was seeded ninth in the women's singles for the upcoming BWF World Championships on Tuesday. Satwiksairaj Rankireddy and Chirag Shetty secured the fifth seed in men's doubles."
+    "indian_angle": "India's rising star Tanvi Sharma continued her strong form by winning her opening match at the Korea Masters.",
+    "summary": "Fresh off her Taipei Open title, Tanvi Sharma beat China’s Yuan An Qi in the Korea Masters opening round to set up an all-Indian clash with Shriyanshi Valishetty."
   },
   {
-    "slug": "gopichand-on-badmintons-new-scoring-system",
-    "kicker": "Opinion",
-    "title": "New Scoring System Will Benefit Some Players, Challenge Others: Gopichand",
-    "time": "Yesterday",
-    "read": "3 min",
+    "slug": "kidambi-srikanth-crashes-out-korea-masters-first-round",
+    "kicker": "Match Report",
+    "title": "Kidambi Srikanth Crashes Out of Korea Masters First Round",
+    "time": "3h ago",
+    "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "Indian national coach Pullela Gopichand offers his expert perspective on the implications of badminton's new scoring system for Indian players.",
-    "summary": "National coach Pullela Gopichand commented on badminton's new scoring system, anticipating it will significantly impact players, benefiting some while challenging others."
+    "indian_angle": "Former world No. 1 Kidambi Srikanth suffered an early exit from the Korea Masters, losing in the first round.",
+    "summary": "Kidambi Srikanth bowed out of the Korea Masters 2026 after losing 22-20, 14-21, 21-12 to Israel’s Daniil Dubovenko in the men’s singles first round."
+  },
+  {
+    "slug": "sindhu-lakshya-favourable-worlds-openers-ayush-faces-top-seed",
+    "kicker": "Preview",
+    "title": "Sindhu, Lakshya Get Favourable World Championships Openers; Ayush Faces Top Seed",
+    "time": "6h ago",
+    "read": "3 min",
+    "importance_score": 8,
+    "indian_angle": "Indian badminton stars PV Sindhu and Lakshya Sen received relatively easy first-round draws for the upcoming BWF World Championships, while Ayush Shetty faces a tough challenge against the defending champion.",
+    "summary": "Lakshya Sen faces Collins Filimon and PV Sindhu takes on Sophia Nobel in the first round of the New Delhi BWF World Championships starting Aug 17. Fifth-seed pair of Satwiksairaj Rankireddy and Chirag Shetty receive a bye. Ayush Shetty is set to face defending champion Shi Yuqi."
+  },
+  {
+    "slug": "coach-tan-kim-her-concerned-satwiksairaj-rankireddys-shoulder",
+    "kicker": "Feature",
+    "title": "Coach Tan Kim Her Concerned About Satwiksairaj Rankireddy's Shoulder Ahead of Worlds",
+    "time": "7h ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "National doubles coach Tan Kim Her expressed concern over Satwiksairaj Rankireddy's shoulder, a key factor as the star pair prepares to lead India's campaign at the upcoming World Championships.",
+    "summary": "Returning to action following a planned break and physical rehab, the doubles pairing of Satwik and Chirag will anchor the home campaign at the Worlds, but coach Tan Kim Her highlights Satwik's shoulder as a main concern."
+  },
+  {
+    "slug": "pv-sindhu-inaugurates-multi-sport-centre-visakhapatnam",
+    "kicker": "Feature",
+    "title": "PV Sindhu Inaugurates Multi-Sport Centre for Sports Excellence in Visakhapatnam",
+    "time": "11h ago",
+    "read": "4 min",
+    "importance_score": 6,
+    "indian_angle": "Indian badminton icon P.V. Sindhu launched a Centre for Sports Excellence in Visakhapatnam, initially focused on badminton but now expanded to seven disciplines, showcasing her commitment to Indian sports development.",
+    "summary": "What began as an initiative focused solely on badminton expanded into a multi-sport project following discussions with Chief Minister N. Chandrababu Naidu and will now cater to seven disciplines."
+  },
+  {
+    "slug": "sindhu-9th-seed-satwik-chirag-5th-bwf-world-championships",
+    "kicker": "Ranking",
+    "title": "Sindhu 9th Seed, Satwiksairaj Rankireddy and Chirag Shetty 5th at Worlds",
+    "time": "Yesterday",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "India's top players, PV Sindhu and the men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, have received their seeding for the upcoming BWF World Championships.",
+    "summary": "PV Sindhu was seeded ninth in the women's singles for the upcoming BWF World Championships, while the pair of Satwiksairaj Rankireddy and Chirag Shetty were seeded fifth."
   }
 ]
