@@ -1,52 +1,62 @@
 [
   {
-    "slug": "bwf-happy-with-world-championships-venue-overhaul",
-    "kicker": "Domestic",
-    "title": "BWF Happy With World Championships Venue Overhaul in New Delhi",
-    "time": "3h ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "India's preparations for hosting the BWF World Championships are on track, with the BWF expressing satisfaction over the revamped Indira Gandhi Indoor Stadium.",
-    "summary": "The BWF has approved the overhaul of the Indira Gandhi Indoor Stadium, ensuring its readiness to host the World Championships in New Delhi from August 17-23, addressing past operational issues."
-  },
-  {
-    "slug": "tanvi-sharma-beats-yuan-an-qi-korea-masters-second-round",
-    "kicker": "Result",
-    "title": "Tanvi Sharma Beats Yuan An Qi to Enter Korea Masters Second Round",
-    "time": "Yesterday",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "Tanvi Sharma, fresh from a Taipei Open title, secured a strong win in Korea, setting up an all-Indian clash in the next round.",
-    "summary": "Fresh off her Taipei Open title, Tanvi Sharma defeated China’s Yuan An Qi in the Korea Masters opening round, advancing to face fellow Indian Shriyanshi Valishetty."
-  },
-  {
-    "slug": "kidambi-srikanth-crashes-out-of-korea-masters-2026",
+    "slug": "tanvi-sharma-korea-masters-quarterfinals-rakshitha-ramraj",
     "kicker": "Match Report",
-    "title": "Kidambi Srikanth Crashes Out of Korea Masters After Losing to Daniil Dubovenko",
-    "time": "Yesterday",
+    "title": "Tanvi Sharma Reaches Korea Masters Quarterfinals, Sets Up All-Indian Clash",
+    "time": "3h ago",
     "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "Indian shuttler Kidambi Srikanth faced an early exit from the Korea Masters, highlighting a setback for a key national player.",
-    "summary": "Kidambi Srikanth bowed out of the Korea Masters 2026 after losing a three-game match (22-20, 14-21, 21-12) to Israel’s Daniil Dubovenko in the men’s singles first round."
+    "importance_score": 7,
+    "indian_angle": "Young Indian talent Tanvi Sharma has advanced to the quarterfinals of the Korea Masters, setting up an exciting all-Indian clash against Rakshitha Sree Ramraj.",
+    "summary": "Tanvi Sharma defeated Shriyanshi Valishetty to secure her spot in the Korea Masters 2026 quarterfinals, where she will compete against fellow Indian player Rakshitha Sree Ramraj."
   },
   {
-    "slug": "world-championships-ayush-shetty-to-face-defending-champion",
-    "kicker": "Preview",
-    "title": "World Championships: Ayush Shetty to Face Defending Champion Shi Yuqi in Opener",
+    "slug": "india-races-world-championships-venue-overhaul",
+    "kicker": "Feature",
+    "title": "India Rushes World Championships Venue Overhaul for August 17 Start",
+    "time": "12h ago",
+    "read": "3 min",
+    "importance_score": 8,
+    "indian_angle": "India is making extensive efforts to ensure the Indira Gandhi Indoor Stadium is fully prepared to host the BWF World Championships for the first time in 17 years.",
+    "summary": "The BWF is overseeing a massive overhaul of the Indira Gandhi Indoor Stadium in New Delhi to address previous issues and ensure operational readiness for the World Championships, which India will host from August 17-23."
+  },
+  {
+    "slug": "satwiksairaj-rankireddy-shoulder-cleared-coach-cautious",
+    "kicker": "Match Report",
+    "title": "Satwiksairaj Rankireddy's Shoulder Cleared, Coach Cautious Ahead of Worlds",
     "time": "Yesterday",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "Young Indian shuttler Ayush Shetty faces a challenging opening match against the defending champion at the upcoming World Championships in New Delhi.",
-    "summary": "Ayush Shetty has drawn defending champion Shi Yuqi in the first round of the BWF World Championships, while PV Sindhu and Lakshya Sen have relatively easier openers, and Satwiksairaj Rankireddy and Chirag Shetty received a bye."
+    "indian_angle": "The fitness of star doubles player Satwiksairaj Rankireddy is crucial for India's medal hopes at the upcoming home World Championships.",
+    "summary": "Satwiksairaj Rankireddy has received a green light for his shoulder after rehab, but his coach remains cautious, emphasizing the need for continued focus as the top men's doubles pair prepares to anchor India's campaign at the World Championships."
   },
   {
-    "slug": "satwiks-shoulder-is-my-main-concern-tan-kim-her",
-    "kicker": "Feature",
-    "title": "Satwik’s Shoulder is My Main Concern: Coach Tan Kim Her",
+    "slug": "ayush-shetty-faces-shi-yuqi-world-championships-opener",
+    "kicker": "Preview",
+    "title": "Ayush Shetty to Face Defending Champion Shi Yuqi in World Championships Opener",
     "time": "Yesterday",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "Coach Tan Kim Her expressed concern over Satwiksairaj Rankireddy's shoulder, a critical issue for India's top men's doubles pair ahead of the home World Championships.",
-    "summary": "Coach Tan Kim Her highlighted Satwiksairaj Rankireddy's shoulder as a primary concern, as the top Indian men's doubles pair prepares for the World Championships after a planned break for physical rehabilitation."
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "Young Indian shuttler Ayush Shetty faces a tough challenge against the defending champion in his opening match at the home World Championships, alongside other Indian contenders.",
+    "summary": "Ayush Shetty is set to play defending champion Shi Yuqi in the first round of the BWF World Championships in New Delhi. PV Sindhu will face Sophia Nobel and Lakshya Sen will play Collins Filimon."
+  },
+  {
+    "slug": "player-eligibility-world-junior-championships-2026",
+    "kicker": "Domestic",
+    "title": "Player Eligibility Announced for World Junior Championships 2026",
+    "time": "3w ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The Badminton Association of India has released the eligibility criteria for Indian players aiming to compete in the prestigious World Junior Championships in Cairo.",
+    "summary": "The Badminton Association of India has issued a circular detailing the player eligibility requirements for selection to the BWF World Junior Championships 2026, scheduled to be held in Cairo, Egypt."
+  },
+  {
+    "slug": "bai-implements-3x15-scoring-system-junior-domestic",
+    "kicker": "Domestic",
+    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
+    "time": "6w ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This new scoring system will directly impact the development and competition experience for young Indian badminton players in national events.",
+    "summary": "Badminton Association of India has announced the implementation of the 3x15 scoring system for domestic ranking tournaments and National Championships in the U-13, U-15, and U-17 age categories."
   }
 ]
