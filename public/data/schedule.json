@@ -10,26 +10,6 @@
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5625/china-masters-2026/results/"
   },
   {
-    "slug": "indonesia-masters-super-100-i",
-    "date": "SEP 01",
-    "name": "Indonesia Masters Super 100 I",
-    "grade": "Super 100",
-    "city": "Pontianak",
-    "flag": "🇮🇩",
-    "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
-  },
-  {
-    "slug": "vietnam-open",
-    "date": "SEP 08",
-    "name": "Vietnam Open",
-    "grade": "Super 100",
-    "city": "Ho Chi Minh City",
-    "flag": "🇻🇳",
-    "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
-  },
-  {
     "slug": "arctic-open",
     "date": "OCT 06",
     "name": "Arctic Open",
@@ -48,5 +28,25 @@
     "flag": "🇩🇰",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/"
+  },
+  {
+    "slug": "french-open",
+    "date": "OCT 20",
+    "name": "French Open",
+    "grade": "Super 750",
+    "city": "Tremblay-en-France",
+    "flag": "🇫🇷",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5211/yonex-french-open-2026/results/"
+  },
+  {
+    "slug": "hylo-open",
+    "date": "OCT 27",
+    "name": "Hylo Open",
+    "grade": "Super 500",
+    "city": "Saarbrücken",
+    "flag": "🇩🇪",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5273/hylo-open-2026/results/"
   }
 ]
