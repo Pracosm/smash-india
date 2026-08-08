@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week offers a crucial platform for India's emerging talents to gain valuable international experience and prove their mettle on the BWF tour.",
-  "summary": "India's campaign at the Korea Masters has seen a mixed bag of results, with some promising young talents making their mark. While the mainstays like Satwiksairaj Rankireddy & Chirag Shetty, PV Sindhu, and Lakshya Sen appear to be focusing on the upcoming World Championships—with Satwik's shoulder reportedly getting a green light for that event—the spotlight at the Super 300 tournament has fallen on the women's singles contingent.\n\nYoungster Tanvi Sharma showed grit, reaching the quarterfinals before her journey concluded in a thrilling encounter. However, the biggest headlines belong to Ashmita Chaliha and Rakshitha Ramraj, who have both powered their way into the semifinals. Chaliha, in particular, impressed by stunning top seed Hina Akechi in a hard-fought three-game battle, setting up an all-Indian clash against Ramraj for a spot in the final. This unexpected deep run by the unseeded players underscores the depth emerging in Indian women's singles, even as the established stars prepare for bigger battles ahead.",
+  "stakes": "This week at the Korea Masters is a crucial proving ground for India's emerging women's singles talent, with a potential title signaling a significant shift in the national badminton landscape.",
+  "summary": "India's campaign at the Korea Masters has been a tale of unexpected breakthroughs, particularly in the women's singles. Ashmita Chaliha has been the standout performer, carving a remarkable path to the final after stunning top seed Hina Akechi. Her compatriot, Rakshitha Ramraj, also impressed, reaching the semifinals before falling to Chaliha in an all-Indian clash. This strong showing from the unseeded duo highlights a promising depth in India's women's singles talent pool.\n\nWhile the spotlight shines brightly on Chaliha and Ramraj, the tournament has been notably quiet for some of India's more established stars. Top-ranked pairs like Satwik & Chirag, and singles stalwarts such as PV Sindhu and Lakshya Sen, haven't featured in the headlines. Their absence from the later stages of this Super 300 event suggests either non-participation or early exits, leaving the stage clear for the emerging talents to make their mark.\n\nThis Korea Masters could be a pivotal moment for Indian badminton, signaling a shift in the landscape as new names step up to challenge the established order and vie for international recognition.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -74,6 +74,18 @@
       "rank": 31,
       "draw": "R32 — TBD",
       "note": "Rising star, gaining international exposure"
+    },
+    {
+      "name": "Ashmita Chaliha",
+      "discipline": "Women's Singles",
+      "draw": "Finals — TBD",
+      "note": "Surprise finalist, beat top seed"
+    },
+    {
+      "name": "Rakshitha Ramraj",
+      "discipline": "Women's Singles",
+      "draw": "Semifinals loss to Ashmita Chaliha (IND)",
+      "note": "Reached semifinals, lost to compatriot"
     }
   ]
 }
