@@ -24,9 +24,21 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week at the Korea Masters is a crucial proving ground for India's emerging women's singles talent, with a potential title signaling a significant shift in the national badminton landscape.",
-  "summary": "India's campaign at the Korea Masters has been a tale of unexpected breakthroughs, particularly in the women's singles. Ashmita Chaliha has been the standout performer, carving a remarkable path to the final after stunning top seed Hina Akechi. Her compatriot, Rakshitha Ramraj, also impressed, reaching the semifinals before falling to Chaliha in an all-Indian clash. This strong showing from the unseeded duo highlights a promising depth in India's women's singles talent pool.\n\nWhile the spotlight shines brightly on Chaliha and Ramraj, the tournament has been notably quiet for some of India's more established stars. Top-ranked pairs like Satwik & Chirag, and singles stalwarts such as PV Sindhu and Lakshya Sen, haven't featured in the headlines. Their absence from the later stages of this Super 300 event suggests either non-participation or early exits, leaving the stage clear for the emerging talents to make their mark.\n\nThis Korea Masters could be a pivotal moment for Indian badminton, signaling a shift in the landscape as new names step up to challenge the established order and vie for international recognition.",
+  "stakes": "Ashmita Chaliha's maiden title win at the Korea Masters signals a promising new chapter for Indian badminton, injecting fresh talent and confidence into the national setup.",
+  "summary": "India's campaign at the Korea Masters culminated in a stunning breakthrough for **Ashmita Chaliha**, who clinched her maiden BWF Tour title. The unseeded 26-year-old from Guwahati displayed remarkable grit, coming from a game down to defeat the fourth-seeded Chinese athlete Han in a thrilling final. Her victory marks a significant milestone, placing her in an elite club of Indian women to win a Super 300 or higher event.\n\nAdding to India's strong showing in women's singles, **Rakshitha Ramraj** also impressed, reaching the semifinals before falling to her compatriot Chaliha in an all-Indian clash. While the women's singles contingent shone brightly, the performances of other top Indian shuttlers at this Super 300 event went largely unrecorded in the later stages.\n\nWith the tournament now concluded, established stars like **Satwik & Chirag**, **PV Sindhu**, and **Lakshya Sen** will look to regroup and build momentum for upcoming challenges. Chaliha's triumph, however, offers a fresh wave of optimism and highlights the depth emerging within Indian badminton.",
   "indiaContingent": [
+    {
+      "name": "Ashmita Chaliha",
+      "discipline": "Women's Singles",
+      "draw": "Finals — Won vs Han (CHN)",
+      "note": "Maiden BWF Tour title winner"
+    },
+    {
+      "name": "Rakshitha Ramraj",
+      "discipline": "Women's Singles",
+      "draw": "Semifinals loss to Ashmita Chaliha (IND)",
+      "note": "Reached semifinals, lost to compatriot"
+    },
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
@@ -74,18 +86,6 @@
       "rank": 31,
       "draw": "R32 — TBD",
       "note": "Rising star, gaining international exposure"
-    },
-    {
-      "name": "Ashmita Chaliha",
-      "discipline": "Women's Singles",
-      "draw": "Finals — TBD",
-      "note": "Surprise finalist, beat top seed"
-    },
-    {
-      "name": "Rakshitha Ramraj",
-      "discipline": "Women's Singles",
-      "draw": "Semifinals loss to Ashmita Chaliha (IND)",
-      "note": "Reached semifinals, lost to compatriot"
     }
   ]
 }
