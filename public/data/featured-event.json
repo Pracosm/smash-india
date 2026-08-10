@@ -24,9 +24,57 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "Ashmita Chaliha's maiden title win at the Korea Masters signals a promising new chapter for Indian badminton, injecting fresh talent and confidence into the national setup.",
-  "summary": "India's campaign at the Korea Masters culminated in a stunning breakthrough for **Ashmita Chaliha**, who clinched her maiden BWF Tour title. The unseeded 26-year-old from Guwahati displayed remarkable grit, coming from a game down to defeat the fourth-seeded Chinese athlete Han in a thrilling final. Her victory marks a significant milestone, placing her in an elite club of Indian women to win a Super 300 or higher event.\n\nAdding to India's strong showing in women's singles, **Rakshitha Ramraj** also impressed, reaching the semifinals before falling to her compatriot Chaliha in an all-Indian clash. While the women's singles contingent shone brightly, the performances of other top Indian shuttlers at this Super 300 event went largely unrecorded in the later stages.\n\nWith the tournament now concluded, established stars like **Satwik & Chirag**, **PV Sindhu**, and **Lakshya Sen** will look to regroup and build momentum for upcoming challenges. Chaliha's triumph, however, offers a fresh wave of optimism and highlights the depth emerging within Indian badminton.",
+  "stakes": "This week's Korea Masters triumph for Ashmita Chaliha signals a promising resurgence in India's women's singles depth and provides a vital morale boost for the entire contingent on the international stage.",
+  "summary": "India's campaign at the Korea Masters concluded on a high note, with Ashmita Chaliha clinching her maiden BWF World Tour title—a significant Super 300 victory. This triumph marks a remarkable comeback for the 26-year-old, who battled back from a serious knee injury suffered in 2024 to join an elite club of Indian women's singles players with a title of this stature. Her journey to the top was further sweetened by a strong showing from compatriot Rakshitha Ramraj, who reached the semifinals before falling to Chaliha in an all-Indian clash.\n\nWhile Chaliha and Ramraj shone brightly, the tournament saw a quieter outing for some of India's other prominent shuttlers. Top-ranked Men's Doubles pair Satwik & Chirag, along with Women's Singles star PV Sindhu and young talent Lakshya Sen, were part of the contingent. Though their runs weren't highlighted in the final stages, their presence underscores India's broad representation across disciplines. This Korea Masters victory is a testament to the depth emerging in Indian badminton, particularly in women's singles, and offers a crucial confidence boost for the squad.",
   "indiaContingent": [
+    {
+      "playerSlug": "satwik-chirag",
+      "name": "Satwik & Chirag",
+      "discipline": "Men's Doubles",
+      "rank": 5,
+      "draw": "Tournament concluded",
+      "note": "Top-ranked Indian pair, aiming for consistency"
+    },
+    {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
+      "discipline": "Women's Singles",
+      "rank": 9,
+      "draw": "Tournament concluded",
+      "note": "Seeking strong comeback after recent struggles"
+    },
+    {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 14,
+      "draw": "Tournament concluded",
+      "note": "Young talent, building momentum"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 16,
+      "draw": "Tournament concluded",
+      "note": "Promising young women's doubles pair"
+    },
+    {
+      "playerSlug": "hs-prannoy",
+      "name": "HS Prannoy",
+      "discipline": "Men's Singles",
+      "rank": 24,
+      "draw": "Tournament concluded",
+      "note": "Veteran presence, looking for deep run"
+    },
+    {
+      "playerSlug": "malvika-bansod",
+      "name": "Malvika Bansod",
+      "discipline": "Women's Singles",
+      "rank": 31,
+      "draw": "Tournament concluded",
+      "note": "Rising star, gaining international exposure"
+    },
     {
       "name": "Ashmita Chaliha",
       "discipline": "Women's Singles",
@@ -38,54 +86,6 @@
       "discipline": "Women's Singles",
       "draw": "Semifinals loss to Ashmita Chaliha (IND)",
       "note": "Reached semifinals, lost to compatriot"
-    },
-    {
-      "playerSlug": "satwik-chirag",
-      "name": "Satwik & Chirag",
-      "discipline": "Men's Doubles",
-      "rank": 5,
-      "draw": "R32 — TBD",
-      "note": "Top-ranked Indian pair, aiming for consistency"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "rank": 9,
-      "draw": "R32 — TBD",
-      "note": "Seeking strong comeback after recent struggles"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 14,
-      "draw": "R32 — TBD",
-      "note": "Young talent, building momentum"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 16,
-      "draw": "R32 — TBD",
-      "note": "Promising young women's doubles pair"
-    },
-    {
-      "playerSlug": "hs-prannoy",
-      "name": "HS Prannoy",
-      "discipline": "Men's Singles",
-      "rank": 24,
-      "draw": "R32 — TBD",
-      "note": "Veteran presence, looking for deep run"
-    },
-    {
-      "playerSlug": "malvika-bansod",
-      "name": "Malvika Bansod",
-      "discipline": "Women's Singles",
-      "rank": 31,
-      "draw": "R32 — TBD",
-      "note": "Rising star, gaining international exposure"
     }
   ]
 }
