@@ -1,19 +1,19 @@
 {
-  "slug": "korea-masters",
-  "name": "Korea Masters",
+  "slug": "china-masters",
+  "name": "China Masters",
   "edition": "2026",
-  "fullName": "Korea Masters",
-  "grade": "Super 300",
-  "city": "Asan",
-  "flag": "🇰🇷",
-  "dates": "Aug 4 – Aug 9, 2026",
-  "startsAt": "2026-08-04T00:00:00+09:00",
-  "endsAt": "2026-08-09T15:00:00.000Z",
+  "fullName": "China Masters",
+  "grade": "Super 750",
+  "city": "Shenzhen",
+  "flag": "🇨🇳",
+  "dates": "Sep 1 – Sep 6, 2026",
+  "startsAt": "2026-09-01T09:00:00+08:00",
+  "endsAt": "2026-09-07T01:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5596/victor-korea-masters-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5625/china-masters-2026/results/",
   "venue": {
-    "name": "Asan Yi Sun-sin Gymnasium",
+    "name": "Shenzhen Arena",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,68 +24,64 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week's Korea Masters triumph for Ashmita Chaliha signals a promising resurgence in India's women's singles depth and provides a vital morale boost for the entire contingent on the international stage.",
-  "summary": "India's campaign at the Korea Masters concluded on a high note, with Ashmita Chaliha clinching her maiden BWF World Tour title—a significant Super 300 victory. This triumph marks a remarkable comeback for the 26-year-old, who battled back from a serious knee injury suffered in 2024 to join an elite club of Indian women's singles players with a title of this stature. Her journey to the top was further sweetened by a strong showing from compatriot Rakshitha Ramraj, who reached the semifinals before falling to Chaliha in an all-Indian clash.\n\nWhile Chaliha and Ramraj shone brightly, the tournament saw a quieter outing for some of India's other prominent shuttlers. Top-ranked Men's Doubles pair Satwik & Chirag, along with Women's Singles star PV Sindhu and young talent Lakshya Sen, were part of the contingent. Though their runs weren't highlighted in the final stages, their presence underscores India's broad representation across disciplines. This Korea Masters victory is a testament to the depth emerging in Indian badminton, particularly in women's singles, and offers a crucial confidence boost for the squad.",
+  "stakes": "The China Masters is a vital Super 750 event for India's shuttlers to gain crucial ranking points, build momentum post-World Championships, and test their mettle against the global elite.",
+  "summary": "As the badminton world shifts focus from the recent BWF World Championships—where India saw some promising performances and a unique security detail—the Indian contingent prepares for the Super 750 China Masters in Shenzhen. While the draw for this prestigious event, set to begin on September 1st, is still under wraps, India's top talents are poised for action. Men's Doubles stalwarts Satwiksairaj Rankireddy and Chirag Shetty, ranked World No. 5, are expected to be a seeded pair, carrying the nation's strongest hopes for a deep run.In the singles, PV Sindhu, World No. 9, will be keen to build on her form and make a significant impact, aiming to reassert her dominance on the tour. Lakshya Sen, at World No. 14, and the veteran HS Prannoy, World No. 24, will also be looking to navigate a potentially tough field and advance through the rounds. The rising Women's Doubles duo of Treesa Jolly and Gayatri Gopichand (World No. 16) continue their ascent, while Dhruv Kapila and Tanisha Crasto (World No. 18) represent India's best shot in Mixed Doubles.With no specific matchups yet known, the initial rounds remain an intriguing mystery. However, the China Masters offers a critical platform for these shuttlers to gather crucial ranking points and fine-tune their strategies against the world's best, setting the stage for an exciting week of high-stakes badminton.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
+      "seed": 4,
       "rank": 5,
-      "draw": "Tournament concluded",
-      "note": "Top-ranked Indian pair, aiming for consistency"
+      "draw": "R32 — TBD",
+      "note": "Top Indian Men's Doubles pair"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 9,
-      "draw": "Tournament concluded",
-      "note": "Seeking strong comeback after recent struggles"
+      "draw": "R32 — TBD",
+      "note": "Seeking return to top form"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "Tournament concluded",
-      "note": "Young talent, building momentum"
+      "draw": "R32 — TBD",
+      "note": "Aiming for deep run"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
-      "draw": "Tournament concluded",
-      "note": "Promising young women's doubles pair"
+      "draw": "R32 — TBD",
+      "note": "Rising Women's Doubles talent"
+    },
+    {
+      "name": "Dhruv & Tanisha",
+      "discipline": "Mixed Doubles",
+      "rank": 18,
+      "draw": "R32 — TBD",
+      "note": "India's top Mixed Doubles hope"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "Tournament concluded",
-      "note": "Veteran presence, looking for deep run"
+      "draw": "R32 — TBD",
+      "note": "Veteran looking for strong showing"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "Tournament concluded",
-      "note": "Rising star, gaining international exposure"
-    },
-    {
-      "name": "Ashmita Chaliha",
-      "discipline": "Women's Singles",
-      "draw": "Finals — Won vs Han (CHN)",
-      "note": "Maiden BWF Tour title winner"
-    },
-    {
-      "name": "Rakshitha Ramraj",
-      "discipline": "Women's Singles",
-      "draw": "Semifinals loss to Ashmita Chaliha (IND)",
-      "note": "Reached semifinals, lost to compatriot"
+      "draw": "R32 — TBD",
+      "note": "Building experience on tour"
     }
   ]
 }
