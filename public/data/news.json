@@ -1,52 +1,62 @@
 [
   {
-    "slug": "horizons-much-bigger-for-present-players-gopi-chand",
-    "kicker": "Feature",
-    "title": "Gopi Chand: Indian Players Have Bigger Horizons",
-    "time": "Just now",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "National coach Pullela Gopichand highlights the expanding opportunities and ambitions for current Indian badminton players.",
-    "summary": "Pullela Gopichand, India's national badminton coach, expresses optimism about the future, stating that the current generation of Indian players has vastly expanded horizons for success."
-  },
-  {
-    "slug": "gopichand-eyes-next-generation-of-indian-badminton-champions",
+    "slug": "gopi-chand-sees-bigger-horizons-for-current-indian-players",
     "kicker": "Opinion",
-    "title": "Gopichand Eyes Next Generation of Indian Badminton Champions",
-    "time": "2h ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "Pullela Gopichand, a key figure in Indian badminton, discusses the potential for India to produce future champions, especially with hosting the World Championships.",
-    "summary": "Pulleela Gopichand believes India hosting the World Championships will significantly boost the country's badminton landscape, fostering the rise of a new generation of champions."
-  },
-  {
-    "slug": "prannoy-not-ready-to-give-up-torch-at-worlds",
-    "kicker": "Feature",
-    "title": "Prannoy Not Ready to Give Up Torch, Aims for Top 10 Return",
-    "time": "5h ago",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "Veteran Indian shuttler H.S. Prannoy expresses his strong desire to remain competitive and return to the top 10, despite the rise of younger players.",
-    "summary": "At 34, H.S. Prannoy remains determined to compete at the highest level, aiming to re-enter the top 10 rankings within two years and not fade away from the sport."
-  },
-  {
-    "slug": "ayush-shetty-ready-for-world-no-1-challenge-on-home-soil",
-    "kicker": "Preview",
-    "title": "Ayush Shetty Ready for World No. 1 Challenge on Home Soil",
-    "time": "13h ago",
+    "title": "Gopi Chand Sees Bigger Horizons for Current Indian Players",
+    "time": "Today",
     "read": "3 min",
     "importance_score": 6,
-    "indian_angle": "Young Indian talent Ayush Shetty prepares for his biggest career test against World No. 1 Shi Yu Qi at the upcoming World Championships in India.",
-    "summary": "A year into his senior career, Ayush Shetty is embracing the challenge of facing World No. 1 Shi Yu Qi at the World Championships, aiming to establish his own benchmark."
+    "indian_angle": "Legendary Indian coach Pullela Gopi Chand shares his perspective on the bright future and expanded opportunities for the current generation of Indian badminton players.",
+    "summary": "Pullella Gopi Chand, a prominent figure in Indian badminton, expressed his belief that today's players have significantly broader opportunities and horizons compared to previous generations."
   },
   {
-    "slug": "india-hires-monkey-whisperers-for-bwf-world-championships",
+    "slug": "india-employs-monkey-whisperers-bwf-world-championships-security",
     "kicker": "Feature",
-    "title": "India Hires 'Monkey Whisperers' for BWF World Championships",
-    "time": "Yesterday",
+    "title": "India Employs 'Monkey Whisperers' for BWF World Championships Security",
+    "time": "2d ago",
     "read": "3 min",
     "importance_score": 5,
-    "indian_angle": "India, as the host nation for the BWF World Championships, is implementing a unique and costly solution to manage monkey intrusions at the venue.",
-    "summary": "To safeguard the BWF World Championships venue in Delhi, Indian organizers have employed 'monkey whisperers' to deter macaques, a unique measure costing ₹20 crore."
+    "indian_angle": "India, as the host nation for the BWF World Championships, is taking unique measures to ensure a smooth event, including addressing local wildlife challenges.",
+    "summary": "To protect the venue of the BWF World Championships in New Delhi from macaques, India is employing 'monkey whisperers' who will mimic langur calls, a unique security measure costing ₹20 crore."
+  },
+  {
+    "slug": "ayush-shetty-ready-for-world-no1-shi-yu-qi-challenge-worlds",
+    "kicker": "Preview",
+    "title": "Ayush Shetty Ready for World No.1 Shi Yu Qi Challenge at Worlds",
+    "time": "2d ago",
+    "read": "4 min",
+    "importance_score": 7,
+    "indian_angle": "Young Indian talent Ayush Shetty is set to face a formidable challenge against world No.1 Shi Yu Qi in the first round of the BWF World Championships.",
+    "summary": "Fresh off an Asia silver medal, 21-year-old Indian shuttler Ayush Shetty is preparing to face Chinese world No.1 Shi Yu Qi in the opening round of the BWF World Championships in New Delhi, showing no fear despite the tough draw."
+  },
+  {
+    "slug": "pv-sindhu-reacts-to-monkey-whisperers-at-bwf-worlds-venue",
+    "kicker": "Feature",
+    "title": "PV Sindhu Reacts to 'Monkey Whisperers' at BWF Worlds Venue",
+    "time": "2d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "Indian badminton star PV Sindhu shares her lighthearted reaction to the unusual security measures being implemented for the BWF World Championships in Delhi.",
+    "summary": "Indian badminton ace PV Sindhu commented on the organizers' plan to use men mimicking langur calls to deter macaques at the BWF World Championships venue in Delhi, finding humor in the unique solution."
+  },
+  {
+    "slug": "indian-junior-team-coaching-camp-asia-u17-u15-championships",
+    "kicker": "Domestic",
+    "title": "Indian Junior Team Coaching Camp for Asia U17 & U15 Championships",
+    "time": "5d ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "This highlights the preparation of India's promising young talent for significant continental junior championships.",
+    "summary": "A coaching camp for the Indian team participating in the Badminton Asia U17 & U15 Junior Championships 2026 is underway at the National Center of Excellence in Guwahati."
+  },
+  {
+    "slug": "players-qualified-world-junior-championships-2026-final-trials",
+    "kicker": "Domestic",
+    "title": "Players Qualified for World Junior Championships 2026 Final Trials",
+    "time": "6d ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "Indian junior players are undergoing final selection trials to represent the nation at the prestigious BWF World Junior Championships in Cairo.",
+    "summary": "The Badminton Association of India has released the list of eligible players who have qualified for the final selection trials for the VICTOR BWF World Junior Championships 2026 in Cairo, Egypt."
   }
 ]
