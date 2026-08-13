@@ -1,9 +1,9 @@
 {
   "tag": "RESULT",
-  "event": "Sinquefield Cup 2026",
+  "event": "Sinquefield Cup",
   "discipline": "Chess",
-  "winner": "Keymer",
-  "loser": "Praggnanandhaa",
-  "score": "Keymer wins",
+  "winner": "Praggnanandhaa",
+  "loser": "Sindarov",
+  "score": "1-0",
   "when": "Today"
 }
