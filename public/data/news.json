@@ -1,52 +1,62 @@
 [
   {
-    "slug": "five-indian-shuttlers-to-watch-bwf-world-championships-2026",
-    "kicker": "Preview",
-    "title": "Five Indian Shuttlers to Watch at BWF World Championships 2026",
+    "slug": "indian-players-coaches-debate-badmintons-new-3x15-scoring-system",
+    "kicker": "Feature",
+    "title": "Indian Players, Coaches Debate Badminton's New 3x15 Scoring System",
     "time": "3h ago",
-    "read": "3 min",
+    "read": "4 min",
     "importance_score": 7,
-    "indian_angle": "This article highlights promising Indian shuttlers who are expected to perform well at the upcoming BWF World Championships hosted in New Delhi.",
-    "summary": "From Dhruv Kapila and Tanisha Crasto to Ayush Shetty and Unnati Hooda, here are the Indian shuttlers to watch at the BWF World Championships 2026."
+    "indian_angle": "India is at the forefront of testing the new 3x15 scoring system domestically, making this a crucial topic for Indian badminton's future.",
+    "summary": "Starting in 2027, badminton will shift from three games of 21 points to three games of 15. India is already testing this format domestically, with players, coaches, and organizers debating whether shorter games will enhance the sport or alter its essence."
   },
   {
-    "slug": "how-indian-badminton-grew-up-between-hyderabad-and-delhi",
+    "slug": "india-announces-womens-doubles-pair-change-junior-world-championships-trials",
+    "kicker": "Domestic",
+    "title": "India Announces Women's Doubles Pair Change for Junior World Championships Trials",
+    "time": "5d ago",
+    "read": "2 min",
+    "importance_score": 3,
+    "indian_angle": "This update directly impacts the composition of India's potential women's doubles team for the upcoming BWF World Junior Championships.",
+    "summary": "The Badminton Association of India announced a change in the women's doubles pairing for the selection trials of the VICTOR BWF World Junior Championships 2026."
+  },
+  {
+    "slug": "junior-national-coaching-camp-underway-guwahati-asia-championships",
+    "kicker": "Domestic",
+    "title": "Junior National Coaching Camp Underway in Guwahati for Asia Championships",
+    "time": "8d ago",
+    "read": "3 min",
+    "importance_score": 4,
+    "indian_angle": "This camp is crucial for developing India's next generation of badminton stars for the upcoming Badminton Asia U17 & U15 Junior Championships.",
+    "summary": "An Indian team coaching camp for the Badminton Asia U17 & U15 Junior Championships 2026 is currently being held at the National Center of Excellence in Guwahati."
+  },
+  {
+    "slug": "final-selection-trials-list-released-bwf-world-junior-championships",
+    "kicker": "Domestic",
+    "title": "Final Selection Trials List Released for BWF World Junior Championships",
+    "time": "9d ago",
+    "read": "3 min",
+    "importance_score": 4,
+    "indian_angle": "Indian badminton fans will be keen to see which young talents have qualified for the final trials to represent the nation at the World Junior Championships.",
+    "summary": "The list of eligible and qualified players for the final selection trials for the VICTOR BWF World Junior Championships 2026 in Cairo, Egypt, has been released."
+  },
+  {
+    "slug": "new-3x15-scoring-system-adopted-indian-junior-domestic-tournaments",
+    "kicker": "Domestic",
+    "title": "New 3x15 Scoring System Adopted for Indian Junior Domestic Tournaments",
+    "time": "1 month ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This significant rule change will impact the development and competitive experience of young Indian badminton players in national events.",
+    "summary": "The 3x15 scoring system has been implemented for domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups."
+  },
+  {
+    "slug": "the-evolution-of-indian-badminton-a-historical-perspective",
     "kicker": "Feature",
-    "title": "The Journey of Indian Badminton: From Hyderabad to Delhi 2026",
+    "title": "The Evolution of Indian Badminton: A Historical Perspective",
     "time": "Yesterday",
     "read": "5 min",
-    "importance_score": 8,
-    "indian_angle": "This feature explores the significant growth and transformation of Indian badminton over the past 17 years, leading up to the upcoming World Championships in Delhi.",
-    "summary": "The 17 years of quiet, unglamorous institution-building between the first time the country hosted the World championships in 2009 and the upcoming edition in the capital have transformed the sport’s fortunes. The Hindu speaks to P.V. Sindhu, H.S. Prannoy, P. Gopi Chand, Ayush Shetty and BAI general secretary Sanjay Mishra to discover what this journey has entailed."
-  },
-  {
-    "slug": "pm-modi-india-aims-for-strong-contention-at-2036-olympics",
-    "kicker": "Feature",
-    "title": "PM Modi: India Aims for Strong Contention at 2036 Olympics",
-    "time": "3h ago",
-    "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "Prime Minister Modi announced India's ambitious goal to become a strong contender for the 2036 Olympics, launching a nationwide talent hunt.",
-    "summary": "We are launching a nationwide talent hunt for children aged 5 to 15 to identify prospects in every corner of the country. They will get special training to become world class athletes, says Prime Minister Modi."
-  },
-  {
-    "slug": "sinquefield-cup-2026-praggnanandhaa-draws-with-so",
-    "kicker": "Result",
-    "title": "Praggnanandhaa Draws with Leader Wesley So at Sinquefield Cup",
-    "time": "4h ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "Indian chess prodigy Praggnanandhaa secured a crucial draw against the tournament leader, maintaining his strong position in the Sinquefield Cup.",
-    "summary": "The draw as black meant that Praggnanandhaa remained in the joint second spot in the 10-players-9-rounds event with 3 points out of a possible five in his bag now from five games."
-  },
-  {
-    "slug": "india-joins-elite-club-plays-600th-test-match",
-    "kicker": "Feature",
-    "title": "India Joins Elite Club, Plays 600th Test Match",
-    "time": "6h ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "India has achieved a historic milestone by becoming only the third nation globally to play 600 Test matches.",
-    "summary": "It is the third nation to achieve this feat after England (1097 Tests) and Australia (883 Tests)."
+    "importance_score": 5,
+    "indian_angle": "This feature offers valuable insight into the historical development and institutional growth of badminton within India.",
+    "summary": "A historical look at the 17 years of quiet, unglamorous institution-building that shaped Indian badminton, particularly between Hyderabad and Delhi."
   }
 ]
