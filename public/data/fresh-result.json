@@ -1,9 +1,9 @@
 {
   "tag": "RESULT",
-  "event": "Hockey World Cup",
-  "discipline": "Hockey",
+  "event": "India vs New Zealand 5th ODI",
+  "discipline": "Cricket",
   "winner": "India",
-  "loser": "China",
-  "score": "Draw",
-  "when": "Yesterday"
+  "loser": "New Zealand",
+  "score": "India won by 190 runs",
+  "when": "10 years ago"
 }
