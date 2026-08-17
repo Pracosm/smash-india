@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event offers India's top shuttlers a critical opportunity to gather significant ranking points and build momentum as the season progresses.",
-  "summary": "As the badminton circuit shifts focus to the Super 750 China Masters in Shenzhen, India's contingent arrives with a mix of seasoned campaigners and promising talent, all eager to make their mark. Fresh off the Badminton World Championships—where India's \"home-court intensity\" was a talking point—the spotlight will once again be on top Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty. Satwik has voiced strong confidence, stating they \"can beat any pair on our day,\" a sentiment that bodes well for their campaign.\n\nJoining them are Women's Singles star PV Sindhu, who continues her quest to return to her peak form, and the dynamic Men's Singles talent Lakshya Sen, aiming for a deep run in this prestigious tournament. India's rising Women's Doubles duo Treesa Jolly and Gayatri Gopichand, alongside the nation's top Mixed Doubles hope Dhruv Kapila and Tanisha Crasto, will also look to challenge the world's best. While the draw is yet to be announced, the stage is set for a compelling week of badminton where every Indian shuttler will be vying for crucial ranking points and momentum.",
+  "stakes": "The China Masters offers a crucial opportunity for India's top shuttlers to consolidate their rankings and build momentum on the Super 750 stage following the intensity of the World Championships.",
+  "summary": "As the badminton world turns its attention to the ongoing BWF World Championships, India's contingent is already looking ahead to the China Masters, a Super 750 event kicking off in early September. While the draws for Shenzhen are yet to be revealed, the recent form and narratives from the Worlds will undoubtedly set the tone. All eyes are on the formidable Men's Doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, who are confident in their game and aiming for a strong showing.\n\nIn the singles, PV Sindhu continues her quest for a record sixth World Championships medal, carrying that ambition into the China Masters. She faces the perennial challenge of high expectations and tough draws, but her 'nothing to lose' mindset could prove a powerful asset. Lakshya Sen, another key singles player, is also attempting to script history and will be keen to build momentum from his Worlds campaign. Meanwhile, the Women's Doubles pair of Treesa Jolly and Gayatri Gopichand are continuing their rebuild after Treesa's ankle injury, hoping to find their rhythm and make a deep run in China.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -41,7 +41,7 @@
       "discipline": "Women's Singles",
       "rank": 9,
       "draw": "R32 — TBD",
-      "note": "Seeking return to top form"
+      "note": "Seeking historic sixth Worlds medal, tough draw awaits"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -49,7 +49,7 @@
       "discipline": "Men's Singles",
       "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Aiming for deep run"
+      "note": "Aiming for deep run, attempting to script history"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -57,7 +57,7 @@
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Rising Women's Doubles talent"
+      "note": "Rebuilding after injury setback, top Women's Doubles pair"
     },
     {
       "name": "Dhruv & Tanisha",
