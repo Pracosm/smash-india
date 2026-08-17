@@ -1,9 +1,9 @@
 {
   "tag": "RESULT",
-  "event": "Badminton World Championships",
-  "discipline": "Men's Singles",
-  "winner": "Shi",
-  "loser": "Ayush",
-  "score": "21-15, 21-18",
+  "event": "Hockey World Cup",
+  "discipline": "Hockey",
+  "winner": "India",
+  "loser": "China",
+  "score": "Draw",
   "when": "Yesterday"
 }
