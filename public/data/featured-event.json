@@ -24,16 +24,17 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "The China Masters offers a crucial opportunity for India's top shuttlers to consolidate their rankings and build momentum on the Super 750 stage following the intensity of the World Championships.",
-  "summary": "As the badminton world turns its attention to the ongoing BWF World Championships, India's contingent is already looking ahead to the China Masters, a Super 750 event kicking off in early September. While the draws for Shenzhen are yet to be revealed, the recent form and narratives from the Worlds will undoubtedly set the tone. All eyes are on the formidable Men's Doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, who are confident in their game and aiming for a strong showing.\n\nIn the singles, PV Sindhu continues her quest for a record sixth World Championships medal, carrying that ambition into the China Masters. She faces the perennial challenge of high expectations and tough draws, but her 'nothing to lose' mindset could prove a powerful asset. Lakshya Sen, another key singles player, is also attempting to script history and will be keen to build momentum from his Worlds campaign. Meanwhile, the Women's Doubles pair of Treesa Jolly and Gayatri Gopichand are continuing their rebuild after Treesa's ankle injury, hoping to find their rhythm and make a deep run in China.",
+  "stakes": "This week at the China Masters is crucial for India to consolidate recent gains, build momentum, and secure vital ranking points ahead of a demanding season.",
+  "summary": "Indian badminton is currently buzzing with activity at the BWF World Championships, where several shuttlers are making their mark. Men's Doubles duo Satwiksairaj Rankireddy and Chirag Shetty advanced via a walkover, while PV Sindhu secured a commanding win in her opener, eyeing a historic sixth Worlds medal. Young Lakshya Sen also navigated a tricky first-round encounter, demonstrating resilience. Perhaps the biggest headline has been the stunning upset pulled off by Ayush Shetty, who knocked out the defending champion and world No. 1 Shi Yu Qi—a performance that signals a rising tide of talent.\n\nAs the focus shifts towards the upcoming China Masters, a Super 750 event, these performances at the Worlds will undoubtedly shape expectations. Players will be looking to carry forward any positive momentum or, conversely, learn from their Worlds campaigns to make a deep run in Shenzhen. For those who didn't feature prominently at the Worlds or faced early exits, the China Masters presents a crucial opportunity to regroup, earn valuable ranking points, and reassert their form on the global stage.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
+      "seed": 5,
       "rank": 5,
       "draw": "R32 — TBD",
-      "note": "Top Indian Men's Doubles pair, confident of their game"
+      "note": "Top Indian Men's Doubles pair, consistent performers"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -41,7 +42,7 @@
       "discipline": "Women's Singles",
       "rank": 9,
       "draw": "R32 — TBD",
-      "note": "Seeking historic sixth Worlds medal, tough draw awaits"
+      "note": "Veteran aiming for strong Super 750 showing"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -49,7 +50,7 @@
       "discipline": "Men's Singles",
       "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Aiming for deep run, attempting to script history"
+      "note": "Young talent seeking consistency on tour"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -57,14 +58,14 @@
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Rebuilding after injury setback, top Women's Doubles pair"
+      "note": "Top Women's Doubles pair, building momentum"
     },
     {
       "name": "Dhruv & Tanisha",
       "discipline": "Mixed Doubles",
       "rank": 18,
       "draw": "R32 — TBD",
-      "note": "India's top Mixed Doubles hope"
+      "note": "India's top Mixed Doubles pair, rising fast"
     },
     {
       "playerSlug": "hs-prannoy",
