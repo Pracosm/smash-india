@@ -24,17 +24,17 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event offers India's shuttlers a critical opportunity to consolidate rankings, regain confidence, and make a strong statement on the international circuit after a challenging World Championships.",
-  "summary": "India's badminton contingent heads into the China Masters, a Super 750 event, looking to build on—or bounce back from—recent performances at the BWF World Championships. All eyes will be on the draw, but as things stand, Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, currently ranked World No. 6, are expected to be India's lone seeded entry, bringing their consistent top-tier form to Shenzhen.\n\nThe singles campaigns saw mixed fortunes at the Worlds. Veteran P.V. Sindhu, ranked World No. 9, showed glimpses of her formidable self by reaching the pre-quarterfinals, a solid run that she'll aim to extend deeper into this Super 750. On the Men's Singles side, Lakshya Sen, World No. 14, suffered a disappointing early exit in the second round. The young talent will be eager to shake off that setback and find his rhythm against a strong field. H.S. Prannoy, World No. 24, also joins the Men's Singles challenge, seeking to make a significant impact.\n\nIn Women's Doubles, Treesa Jolly and Gayatri Gopichand, ranked World No. 16, advanced at the Worlds, demonstrating their growing prowess and will be keen to continue their upward trajectory. Mixed Doubles pair Dhruv Kapila and Tanisha Crasto, India's top duo at World No. 18, will also be looking to make their mark. With the draw still TBD, the stage is set for a crucial week as India's shuttlers vie for valuable ranking points and momentum on the demanding BWF tour.",
+  "stakes": "This Super 750 event offers India's top shuttlers a vital chance to regroup after the World Championships, build momentum, and secure crucial ranking points on the road to future major tournaments.",
+  "summary": "India arrives at the China Masters, a Super 750 event, with a mixed bag of recent performances from the BWF World Championships. The men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, along with the women's doubles duo of Treesa Jolly and Gayatri Gopichand, are carrying significant momentum, having both reached the quarterfinals in New Delhi. Their strong showing at the Worlds positions them as key contenders to watch in Shenzhen.\n\nHowever, the singles contingent faces a tougher narrative. Veteran PV Sindhu exited the World Championships in the Round of 16 after a grueling 88-minute epic, while young talent Lakshya Sen suffered a surprising second-round defeat. Both will be eager to shake off those early exits and make a significant impact in China. With the draw yet to be announced, the path ahead for India's contingent remains TBD, but the opportunity to regroup and build crucial ranking points is paramount.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "seed": 5,
-      "rank": 6,
+      "rank": 5,
       "draw": "R32 — TBD",
-      "note": "Top Indian Men's Doubles pair, consistent performers"
+      "note": "Coming off strong Worlds quarterfinals performance"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -42,7 +42,7 @@
       "discipline": "Women's Singles",
       "rank": 9,
       "draw": "R32 — TBD",
-      "note": "Veteran aiming for strong Super 750 showing after R16 Worlds exit"
+      "note": "Veteran aiming to rebound after Worlds R16 exit"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -50,7 +50,7 @@
       "discipline": "Men's Singles",
       "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Young talent seeking bounce-back after early Worlds exit"
+      "note": "Seeking strong showing after early Worlds exit"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -58,7 +58,7 @@
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Top Women's Doubles pair, building momentum after advancing at Worlds"
+      "note": "Quarterfinalists at World Championships"
     },
     {
       "name": "Dhruv & Tanisha",
