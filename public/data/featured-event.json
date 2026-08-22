@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event offers India's top shuttlers a vital chance to regroup after the World Championships, build momentum, and secure crucial ranking points on the road to future major tournaments.",
-  "summary": "India arrives at the China Masters, a Super 750 event, with a mixed bag of recent performances from the BWF World Championships. The men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, along with the women's doubles duo of Treesa Jolly and Gayatri Gopichand, are carrying significant momentum, having both reached the quarterfinals in New Delhi. Their strong showing at the Worlds positions them as key contenders to watch in Shenzhen.\n\nHowever, the singles contingent faces a tougher narrative. Veteran PV Sindhu exited the World Championships in the Round of 16 after a grueling 88-minute epic, while young talent Lakshya Sen suffered a surprising second-round defeat. Both will be eager to shake off those early exits and make a significant impact in China. With the draw yet to be announced, the path ahead for India's contingent remains TBD, but the opportunity to regroup and build crucial ranking points is paramount.",
+  "stakes": "This Super 750 event is a vital opportunity for India's top shuttlers to consolidate ranking points and build momentum after a mixed showing at the World Championships, especially for those seeking a strong rebound.",
+  "summary": "India's badminton contingent heads into the China Masters Super 750 fresh off a mixed bag of results at the BWF World Championships. The undisputed highlight was the sensational run of **Treesa Jolly and Gayatri Gopichand**, who defied expectations to secure a historic medal in women's doubles, reaching the semifinals with a stunning upset over the fourth seeds. Their performance has injected a significant boost of confidence into the squad, proving their mettle on the biggest stage.\n\nHowever, the singles campaigns saw early exits for key players. **PV Sindhu** fought valiantly in an 88-minute epic before bowing out in the Round of 16, while **Lakshya Sen** faced a surprising defeat in his opening rounds. In men's doubles, **Satwiksairaj Rankireddy and Chirag Shetty**, despite being a top-ranked pair, exited in the quarterfinals amid whispers of fitness concerns.\n\nThe China Masters now presents a crucial opportunity for the Indian shuttlers to build on the positives and rebound from the disappointments. With the draw yet to be released, all eyes will be on how the players regroup and if the momentum from Treesa and Gayatri's medal run can inspire stronger individual performances across the board in this Super 750 event.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -34,7 +34,7 @@
       "seed": 5,
       "rank": 5,
       "draw": "R32 — TBD",
-      "note": "Coming off strong Worlds quarterfinals performance"
+      "note": "Quarterfinalists at Worlds, battling fitness concerns"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -42,7 +42,7 @@
       "discipline": "Women's Singles",
       "rank": 9,
       "draw": "R32 — TBD",
-      "note": "Veteran aiming to rebound after Worlds R16 exit"
+      "note": "Aiming to rebound after Worlds R16 exit"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -58,7 +58,7 @@
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Quarterfinalists at World Championships"
+      "note": "Historic World Championships medalists, in top form"
     },
     {
       "name": "Dhruv & Tanisha",
