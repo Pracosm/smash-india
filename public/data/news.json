@@ -1,52 +1,62 @@
 [
   {
-    "slug": "treesa-gayatri-giant-killing-spree-ends-worlds-semis",
-    "kicker": "Match Report",
-    "title": "Treesa and Gayatri's World Championships Giant-Killing Spree Ends in Semifinals",
-    "time": "10 min ago",
-    "read": "3 min",
-    "importance_score": 8,
-    "indian_angle": "The unseeded Indian women's doubles pair secured a historic bronze medal at the BWF World Championships.",
-    "summary": "Top seeds and defending champions Sheng and Ning defeated the unseeded Indian pair Treesa Jolly and Gayatri Gopichand in three games in the World Championships semifinals, ending their impressive run with a bronze medal."
-  },
-  {
-    "slug": "pullela-gopichand-gayatri-worlds-medal-no-extra-emotion",
+    "slug": "gopichand-gayatri-worlds-medal-no-extra-emotion",
     "kicker": "Feature",
-    "title": "Gopichand: No Extra Emotion for Daughter Gayatri's Worlds Medal, All Players Equal",
-    "time": "30 min ago",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "Indian coach Pullela Gopichand shares his perspective on his daughter Gayatri's significant achievement at the World Championships.",
-    "summary": "Coach Pullela Gopichand stated that while proud, he feels no extra emotion for his daughter Gayatri's World Championships medal, treating all players under his guidance equally after her semifinal defeat with Treesa Jolly."
-  },
-  {
-    "slug": "gopichand-turns-focus-asian-games-after-worlds",
-    "kicker": "Preview",
-    "title": "Post-Worlds, Gopichand Shifts Focus to Asian Games Preparations",
-    "time": "20 min ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "Indian coach Pullela Gopichand outlines his strategy for preparing the national badminton squad for the upcoming Asian Games.",
-    "summary": "Following the BWF World Championships, coach Pullela Gopichand is now concentrating on focused training for the Asian Games, aiming to build on the bronze medal success of Gayatri Gopichand and Treesa Jolly."
-  },
-  {
-    "slug": "echoes-2011-jwala-ashwini-medal-started-tradition",
-    "kicker": "Feature",
-    "title": "Treesa-Gayatri Bronze Ends 15-Year Drought, Echoes Jwala-Ashwini 2011 Medal",
-    "time": "2h ago",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "This article highlights the historical significance of Treesa and Gayatri's medal, connecting it to India's past achievements in women's doubles.",
-    "summary": "Treesa Jolly and Gayatri Gopichand's bronze medal at the BWF World Championships marks a significant milestone, ending a 15-year drought for Indian women's doubles and drawing parallels to the Jwala Gutta and Ashwini Ponnappa medal in 2011."
-  },
-  {
-    "slug": "satwik-chirag-go-down-chinese-pair-exit-quarters",
-    "kicker": "Match Report",
-    "title": "Satwik-Chirag Exit World Championships in Quarterfinals After Loss to Chinese Pair",
+    "title": "Gopichand on Gayatri's Worlds medal: All players are same",
     "time": "Yesterday",
     "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "India's top men's doubles pair faced a tough challenge and exited the World Championships in the quarter-final stage.",
-    "summary": "India's premier men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, were defeated by China's Chang and Liang in the BWF World Championships quarter-finals with a score of 21-18, 21-9."
+    "indian_angle": "Pullela Gopichand, a legendary Indian coach, shares his perspective on his daughter Gayatri's historic World Championships medal.",
+    "summary": "Coach Pullela Gopichand discusses his approach to coaching, stating he treats all players equally, including his daughter Gayatri, after her World Championships semifinal run."
+  },
+  {
+    "slug": "gopichand-shifts-focus-asian-games-after-worlds-bronze",
+    "kicker": "Preview",
+    "title": "Gopichand shifts focus to Asian Games after Worlds bronze",
+    "time": "Yesterday",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "This story highlights the strategic planning of India's chief coach Pullela Gopichand for the upcoming Asian Games following a historic World Championships performance.",
+    "summary": "Following Gayatri Gopichand and Treesa Jolly's bronze medal at the World Championships, coach Pulleela Gopichand is now concentrating on preparing Indian shuttlers for the Asian Games."
+  },
+  {
+    "slug": "treesa-gayatri-impress-world-championships-semifinal-loss",
+    "kicker": "Match Report",
+    "title": "Treesa, Gayatri impress despite World Championships semi-final loss",
+    "time": "Yesterday",
+    "read": "4 min",
+    "importance_score": 8,
+    "indian_angle": "It celebrates the impressive run of Indian women's doubles pair Treesa Jolly and Gayatri Gopichand to a World Championships bronze medal.",
+    "summary": "Indian women's doubles pair Treesa Jolly and Gayatri Gopichand secured a bronze medal at the BWF World Championships, taking the first game against the top seeds before their semi-final loss."
+  },
+  {
+    "slug": "treesa-gayatri-bronze-ends-15-year-womens-doubles-drought",
+    "kicker": "Feature",
+    "title": "Treesa-Gayatri bronze ends 15-year women's doubles drought",
+    "time": "Yesterday",
+    "read": "4 min",
+    "importance_score": 8,
+    "indian_angle": "This article connects Treesa Jolly and Gayatri Gopichand's bronze to the historic 2011 medal by Jwala Gutta and Ashwini Ponnappa, highlighting a renewed tradition for Indian women's doubles.",
+    "summary": "Treesa Jolly and Gayatri Gopichand's bronze medal at the BWF World Championships marks the end of a 15-year drought for Indian women's doubles, echoing the success of Jwala Gutta and Ashwini Ponnappa in 2011."
+  },
+  {
+    "slug": "satwik-chirag-exit-worlds-quarters-fitness-concerns",
+    "kicker": "Match Report",
+    "title": "Satwik-Chirag exit Worlds in quarters due to fitness concerns",
+    "time": "2d ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "It reports on the quarter-final exit of India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, from the World Championships.",
+    "summary": "India's star men's doubles pair Satwiksairaj Rankireddy and Chirag Shetty were defeated by China's Chang and Liang in the BWF World Championships quarter-finals, citing fitness issues."
+  },
+  {
+    "slug": "treesa-gayatri-stun-fourth-seeds-secure-historic-worlds-medal",
+    "kicker": "Match Report",
+    "title": "Treesa-Gayatri stun fourth seeds, secure historic Worlds medal",
+    "time": "2d ago",
+    "read": "4 min",
+    "importance_score": 9,
+    "indian_angle": "This highlights the thrilling quarter-final victory of Treesa Jolly and Gayatri Gopichand, which guaranteed India its first women's doubles World Championships medal in 15 years.",
+    "summary": "Treesa Jolly and Gayatri Gopichand secured India's first women's doubles World Championships medal in 15 years by upsetting Chinese fourth seeds Jia and Zhang in a thrilling quarter-final."
   }
 ]
