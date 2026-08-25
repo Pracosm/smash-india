@@ -1,9 +1,9 @@
 {
   "tag": "RESULT",
-  "event": "GCT Grand Finale",
-  "discipline": "Chess",
-  "winner": "Praggnanandhaa",
-  "loser": "Keymer",
-  "score": "1-0",
+  "event": "India vs Sri Lanka 2nd Test",
+  "discipline": "Cricket Test",
+  "winner": "Manav Suthar",
+  "loser": "Prabath Jayasuriya",
+  "score": "Jayasuriya dismissed by Suthar",
   "when": "Today"
 }
