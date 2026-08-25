@@ -1,23 +1,13 @@
 [
   {
-    "slug": "treesa-jolly-gayatri-gopichand-unseeded-world-championships-medallists",
-    "kicker": "Feature",
-    "title": "Treesa Jolly and Gayatri Gopichand: Unseeded World Championships Medallists",
-    "time": "1h ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "This story highlights the unexpected bronze medal win by Indian women's doubles pair Treesa Jolly and Gayatri Gopichand at the home World Championships.",
-    "summary": "Treesa Jolly and Gayatri Gopichand, unseeded and returning from injury, became the unexpected stars of India’s home World Championships, with their bronze medal signaling a promising future."
-  },
-  {
-    "slug": "indias-successful-hosting-of-2026-bwf-world-championships-lauded",
+    "slug": "editorial-praises-indias-role-as-host-of-2026-bwf-world-championships",
     "kicker": "Opinion",
-    "title": "India's Successful Hosting of 2026 BWF World Championships Lauded",
-    "time": "11h ago",
+    "title": "Editorial Praises India's Role as Host of 2026 BWF World Championships",
+    "time": "Today",
     "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "An editorial praises India's successful organization of the BWF World Championships, reflecting positively on the nation's capability as a major badminton host.",
-    "summary": "An editorial piece reflects on India's successful role as the host nation for the 2026 BWF World Championships, highlighting the country's organizational prowess."
+    "importance_score": 7,
+    "indian_angle": "This editorial highlights India's successful track record in hosting major international badminton events, reinforcing the country's growing stature in the sport.",
+    "summary": "An editorial piece reflects positively on India's performance as a host nation for the BWF World Championships 2026, commending its organizational capabilities."
   },
   {
     "slug": "india-open-super-750-tournament-to-relocate-to-guwahati-in-2028",
@@ -25,28 +15,48 @@
     "title": "India Open Super 750 Tournament to Relocate to Guwahati in 2028",
     "time": "2d ago",
     "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "The decision to move the prestigious India Open to Guwahati in 2028 signifies a significant development for badminton infrastructure and events in the country.",
-    "summary": "The India Open Super 750 tournament is set to be relocated to Guwahati in 2028, marking a notable change in the domestic badminton calendar."
+    "importance_score": 8,
+    "indian_angle": "This news confirms a significant shift for one of India's premier international badminton tournaments, impacting future player participation and fan experience.",
+    "summary": "The prestigious India Open Super 750 tournament is set to move its venue to Guwahati starting from the 2028 edition, marking a new chapter for the event."
   },
   {
-    "slug": "bai-releases-regulations-for-inter-state-team-championships-2026",
+    "slug": "bai-releases-regulations-for-2026-inter-state-team-championships",
     "kicker": "Domestic",
-    "title": "BAI Releases Regulations for Inter State Team Championships 2026",
-    "time": "8d ago",
-    "read": "2 min",
-    "importance_score": 3,
-    "indian_angle": "The Badminton Association of India has released the regulations for the upcoming Inter State Team Championships, crucial for domestic competition.",
-    "summary": "The Badminton Association of India has published the official regulations governing the Inter State Team Championships for 2026."
-  },
-  {
-    "slug": "womens-doubles-pair-change-for-world-junior-championships-selection-trials",
-    "kicker": "Domestic",
-    "title": "Women's Doubles Pair Change for World Junior Championships Selection Trials",
-    "time": "15d ago",
-    "read": "2 min",
+    "title": "BAI Releases Regulations for 2026 Inter State Team Championships",
+    "time": "1w ago",
+    "read": "1 min",
     "importance_score": 4,
-    "indian_angle": "This notification concerns a change in the women's doubles pairing for the selection trials of the BWF World Junior Championships, directly impacting India's junior team formation.",
-    "summary": "An important notification from BAI announces a change in the women's doubles pair participating in the selection trials for the VICTOR BWF World Junior Championships 2026."
+    "indian_angle": "These regulations are vital for the smooth conduct of one of India's key domestic team badminton tournaments, affecting state associations and players.",
+    "summary": "The Badminton Association of India has published the official regulations for the Inter State Team Championships 2026, outlining rules and procedures for the upcoming event."
+  },
+  {
+    "slug": "womens-doubles-pair-change-for-world-junior-championships-trials",
+    "kicker": "Domestic",
+    "title": "Women's Doubles Pair Change for World Junior Championships Trials",
+    "time": "2w ago",
+    "read": "1 min",
+    "importance_score": 3,
+    "indian_angle": "This notification directly impacts the selection process for India's women's doubles contingent for the prestigious BWF World Junior Championships.",
+    "summary": "A change has been announced regarding a women's doubles pair participating in the selection trials for the VICTOR BWF World Junior Championships 2026."
+  },
+  {
+    "slug": "junior-national-coaching-camp-underway-for-asia-u17-u15-championships",
+    "kicker": "Domestic",
+    "title": "Junior National Coaching Camp Underway for Asia U17 & U15 Championships",
+    "time": "2w ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This camp is crucial for nurturing India's next generation of badminton talent, preparing them for international junior competitions.",
+    "summary": "A national coaching camp is being held at the National Center of Excellence in Guwahati to prepare the Indian team for the upcoming Badminton Asia U17 & U15 Junior Championships 2026."
+  },
+  {
+    "slug": "new-3x15-scoring-system-adopted-for-junior-domestic-tournaments",
+    "kicker": "Domestic",
+    "title": "New 3x15 Scoring System Adopted for Junior Domestic Tournaments",
+    "time": "2m ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This rule change will significantly impact the development and competitive strategy of young Indian badminton players in domestic events.",
+    "summary": "The Badminton Association of India has announced the implementation of a new 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and national championships."
   }
 ]
