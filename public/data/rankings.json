@@ -4,20 +4,34 @@
     "name": "Satwik & Chirag",
     "rank": 5,
     "move": "same",
-    "pts": "84,131"
+    "pts": "81,831"
   },
   {
     "disc": "Women's Singles",
     "name": "P. V. Sindhu",
-    "rank": 9,
+    "rank": 10,
     "move": "same",
-    "pts": "67,601"
+    "pts": "65,401"
   },
   {
     "disc": "Men's Singles",
     "name": "Lakshya Sen",
-    "rank": 14,
+    "rank": 13,
     "move": "same",
     "pts": "65,573"
+  },
+  {
+    "disc": "Men's Singles",
+    "name": "Ayush Shetty",
+    "rank": 20,
+    "move": "same",
+    "pts": "53,139"
+  },
+  {
+    "disc": "Mixed Doubles",
+    "name": "Dhruv & Tanisha",
+    "rank": 20,
+    "move": "same",
+    "pts": "46,280"
   }
 ]
