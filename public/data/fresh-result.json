@@ -1,9 +1,9 @@
 {
   "tag": "RESULT",
-  "event": "India vs Sri Lanka 2nd Test",
-  "discipline": "Cricket Test",
+  "event": "SL vs IND Second Test",
+  "discipline": "Cricket",
   "winner": "Manav Suthar",
   "loser": "Prabath Jayasuriya",
-  "score": "Jayasuriya dismissed by Suthar",
-  "when": "Today"
+  "score": "Wicket",
+  "when": "Yesterday"
 }
