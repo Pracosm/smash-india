@@ -1,9 +1,9 @@
 {
   "tag": "RESULT",
-  "event": "Duleep Trophy",
-  "discipline": "Cricket",
-  "winner": "North",
-  "loser": "West",
-  "score": "Won by 52 runs",
-  "when": "Yesterday"
+  "event": "Hockey World Cup",
+  "discipline": "Women's Hockey",
+  "winner": "Indian women’s team",
+  "loser": "Germany",
+  "score": "3-1",
+  "when": "Today"
 }
