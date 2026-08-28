@@ -1,9 +1,9 @@
 {
-  "tag": "RESULT",
-  "event": "Hockey World Cup",
-  "discipline": "Women's Hockey",
-  "winner": "Indian women’s team",
-  "loser": "Germany",
-  "score": "3-1",
+  "tag": "NO_DATA",
+  "event": "No Badminton Event Found",
+  "discipline": "Badminton",
+  "winner": "N/A (No Player Data in Sources)",
+  "loser": "N/A (No Player Data in Sources)",
+  "score": "N/A",
   "when": "Today"
 }
