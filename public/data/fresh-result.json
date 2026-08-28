@@ -1,9 +1,9 @@
 {
-  "tag": "NO_DATA",
-  "event": "No Badminton Event Found",
-  "discipline": "Badminton",
-  "winner": "N/A (No Player Data in Sources)",
-  "loser": "N/A (No Player Data in Sources)",
-  "score": "N/A",
+  "tag": "CHAMPIONS",
+  "event": "Grand Chess Tour",
+  "discipline": "Chess",
+  "winner": "Praggnanandhaa",
+  "loser": "Caruana",
+  "score": "15-13",
   "when": "Today"
 }
