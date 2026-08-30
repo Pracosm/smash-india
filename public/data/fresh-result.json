@@ -1,9 +1,9 @@
 {
-  "tag": "CHAMPIONS",
-  "event": "Budapest Open",
-  "discipline": "Squash",
-  "winner": "Velavan Senthilkumar",
-  "loser": "Balazs Farkas",
-  "score": "11-4, 11-2, 11-3",
-  "when": "Yesterday"
+  "tag": "RESULT",
+  "event": "India vs New Zealand ODI Series",
+  "discipline": "Men's Cricket",
+  "winner": "India",
+  "loser": "New Zealand",
+  "score": "India won by 190 runs",
+  "when": "2016-10-29"
 }
