@@ -1,52 +1,62 @@
 [
   {
-    "slug": "regulations-inter-state-team-championships-2026",
+    "slug": "regulations-for-inter-state-team-championships-2026",
     "kicker": "Domestic",
-    "title": "Regulations for Inter State Team Championships 2026 Released by BAI",
-    "time": "12d ago",
+    "title": "New Regulations for Inter State Team Championships 2026 Announced",
+    "time": "13d ago",
     "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "These regulations are crucial for the organization and fair play of India's premier domestic team badminton event.",
-    "summary": "Badminton Association of India (BAI) has released the official regulations for the upcoming Inter State Team Championships 2026, outlining rules and guidelines for participating teams."
+    "indian_angle": "This news outlines the official regulations for a key domestic badminton event in India, directly impacting state teams and players nationwide.",
+    "summary": "Badminton Association of India (BAI) has released the official regulations for the upcoming Inter State Team Championships 2026, detailing participation rules and event structure."
   },
   {
-    "slug": "invitation-athlete-committee-important-notification",
+    "slug": "invitation-for-athlete-committee-nominations",
     "kicker": "Feature",
-    "title": "Important Notification: Invitation for the Athlete Committee",
-    "time": "17d ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "This notification invites Indian athletes to join the Athlete Committee, ensuring player voices are heard in national badminton governance.",
-    "summary": "BAI has issued an important notification inviting eligible athletes to apply for positions on the Athlete Committee, a key body for player representation."
-  },
-  {
-    "slug": "womens-doubles-pair-change-world-junior-championships-selection-trials",
-    "kicker": "Domestic",
-    "title": "Women's Doubles Pair Change for World Junior Championships Selection Trials",
-    "time": "19d ago",
+    "title": "BAI Invites Nominations for Athlete Committee",
+    "time": "18d ago",
     "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "A change in the women's doubles pair for the BWF World Junior Championships selection trials directly impacts India's junior team composition.",
-    "summary": "The Badminton Association of India announced a change in a women's doubles pair for the selection trials for the VICTOR BWF World Junior Championships 2026."
+    "importance_score": 3,
+    "indian_angle": "Indian athletes are encouraged to apply for the Athlete Committee, providing a direct voice in the governance of badminton within the country.",
+    "summary": "An important notification from BAI extends an invitation for nominations to the Athlete Committee, a crucial body for player representation and welfare."
   },
   {
-    "slug": "indian-team-coaching-camp-asia-u17-u15-junior-championships",
-    "kicker": "Domestic",
-    "title": "Indian Team Coaching Camp for Asia U17 & U15 Junior Championships in Guwahati",
-    "time": "22d ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "This coaching camp at the National Center of Excellence in Guwahati is vital for preparing India's young talent for the upcoming Badminton Asia U17 & U15 Junior Championships.",
-    "summary": "A national coaching camp for the Indian team participating in the Badminton Asia U17 & U15 Junior Championships 2026 is underway at the National Center of Excellence in Guwahati."
+    "slug": "womens-doubles-pair-change-world-junior-championships-trials",
+    "kicker": "Match Report",
+    "title": "Women's Doubles Pair Change for World Junior Championships Selection Trials",
+    "time": "20d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This update directly impacts the Indian contingent preparing for the VICTOR BWF World Junior Championships, specifically affecting a women's doubles pairing.",
+    "summary": "A change has been announced regarding a women's doubles pair participating in the selection trials for the VICTOR BWF World Junior Championships 2026."
   },
   {
-    "slug": "player-eligibility-qualified-list-world-junior-championships-trials",
-    "kicker": "Domestic",
-    "title": "Player Eligibility and Qualified List for World Junior Championships Trials Released",
+    "slug": "indian-team-coaching-camp-badminton-asia-u17-u15-guwahati",
+    "kicker": "Preview",
+    "title": "Indian Junior Team Coaching Camp Underway in Guwahati for Asia U17 & U15 Championships",
     "time": "23d ago",
     "read": "3 min",
     "importance_score": 6,
-    "indian_angle": "The list details players qualified for the final selection trials for the VICTOR BWF World Junior Championships 2026, crucial for India's representation.",
-    "summary": "BAI has released the player eligibility criteria and the list of qualified players for the final selection trials for the VICTOR BWF World Junior Championships 2026 in Cairo, Egypt."
+    "indian_angle": "The national coaching camp in Guwahati is vital for preparing India's promising young talent for the upcoming Badminton Asia U17 & U15 Junior Championships.",
+    "summary": "The Indian team is currently undergoing a coaching camp at the National Center of Excellence in Guwahati, preparing for the Badminton Asia U17 & U15 Junior Championships 2026."
+  },
+  {
+    "slug": "player-eligibility-final-selection-trials-bwf-world-junior-championships",
+    "kicker": "Result",
+    "title": "Eligibility and Qualified Players for BWF World Junior Championships Final Trials Announced",
+    "time": "24d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "This announcement is crucial for Indian junior players aspiring to represent the country at the prestigious BWF World Junior Championships in Cairo.",
+    "summary": "BAI has released the player eligibility criteria and the list of qualified players for the final selection trials for the VICTOR BWF World Junior Championships 2026, to be held in Cairo, Egypt."
+  },
+  {
+    "slug": "3x15-scoring-system-implemented-domestic-junior-tournaments",
+    "kicker": "Domestic",
+    "title": "3x15 Scoring System Adopted for Domestic Junior Tournaments and Nationals",
+    "time": "2m ago",
+    "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "The implementation of a new scoring system will significantly impact junior badminton players and tournaments across India, affecting U-13, U-15, and U-17 categories.",
+    "summary": "The 3x15 scoring system has been officially implemented for all domestic ranking tournaments and National Championships in the U-13, U-15, and U-17 age groups."
   }
 ]
