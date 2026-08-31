@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event offers India's contingent a vital opportunity to gather crucial ranking points and build momentum as the season progresses.",
-  "summary": "India's top shuttlers head to Shenzhen for the China Masters, a crucial Super 750 event following the World Championships. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, seeded 5th, will be looking to build on their Worlds quarterfinal run, though fitness concerns have been a recurring theme. The spotlight also falls on PV Sindhu, who seeks a strong rebound after an earlier-than-expected exit at the Worlds. Lakshya Sen, another key Men's Singles contender, is aiming for a deep run to regain momentum. Meanwhile, the Women's Doubles duo of Treesa Jolly and Gayatri Gopichand arrive with significant confidence, fresh off their historic World Championships bronze medal—a performance that signals their top form and rising stature. India's top Mixed Doubles pair, Dhruv Kapila and Tanisha Crasto, continue their ascent and will be eager to make their mark. Veteran HS Prannoy and young Malvika Bansod complete the contingent, both seeking valuable tour experience and strong performances in a highly competitive field.",
+  "stakes": "This week offers India's top shuttlers a crucial opportunity to gain momentum and valuable ranking points at a Super 750 event, especially for those looking to rebound or build on recent successes.",
+  "summary": "India arrives at the China Masters, a Super 750 event, with a strong contingent eager to make a significant impact. All eyes will be on the seeded Men's Doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, who are looking to build on their World Championships quarterfinal run despite lingering fitness concerns. In Men's Singles, Lakshya Sen, aiming for a strong rebound after an early Worlds exit, has seen a change in his opening draw and will now face Canada's Victor Lai in the R32.\n\nThe Women's Doubles pair of Treesa Jolly and Gayatri Gopichand are undoubtedly a duo to watch, fresh off their historic World Championships bronze medal—they're in scintillating form and will be keen to continue their upward trajectory. Meanwhile, PV Sindhu, ranked 10th, seeks to find her rhythm and advance deep into the tournament after a disappointing R16 exit at Worlds. Veteran HS Prannoy and young Malvika Bansod round out a competitive Indian challenge, each looking to leave their mark on this crucial Super 750 event.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -49,7 +49,7 @@
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 13,
-      "draw": "R32 — TBD",
+      "draw": "R32 vs Victor Lai (CAN)",
       "note": "Seeking strong showing after early Worlds exit"
     },
     {
