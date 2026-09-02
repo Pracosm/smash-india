@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week at the China Masters is vital for India's top shuttlers to build momentum and consolidate their rankings in the post-World Championships landscape, especially with the Asian Games on the horizon.",
-  "summary": "India's badminton contingent steps onto the courts at the China Masters, a crucial Super 750 event following the World Championships. Men's Doubles fifth seeds Satwiksairaj Rankireddy and Chirag Shetty will be looking to push past their Worlds quarterfinal exit, though lingering fitness concerns remain a watchpoint. Meanwhile, PV Sindhu, ranked 10th, aims for a strong rebound after her R16 departure in Copenhagen, seeking to regain her formidable touch.\n\nLakshya Sen, spearheading the Men's Singles challenge, enters the tournament seeking a deeper run after his own early Worlds exit. The spotlight also shines on the Women's Doubles pair of Treesa Jolly and Gayatri Gopichand, who arrive in Shenzhen riding high on their historic World Championships bronze medal—a performance that signals their top form and rising stature. While the draw cards are still taking shape for many, the early rounds have already seen some Indian hopefuls exit the competition, underscoring the tough challenges ahead.",
+  "stakes": "This week at the China Masters is crucial for India's shuttlers to find consistency, gather valuable ranking points, and build momentum in the lead-up to major tournaments.",
+  "summary": "India's campaign at the China Masters Super 750 event has begun with a mixed bag of results, showcasing both promising starts and early exits. The spotlight immediately fell on **Satwiksairaj Rankireddy and Chirag Shetty**, the fifth-seeded men's doubles pair, who made a commanding winning start against Malaysia's Junaidi Arif and Kang Khai Xing, cruising into the Round of 16. Their strong performance is a welcome sight as they continue to battle fitness concerns following their World Championships quarterfinal run.\n\nHowever, the men's singles draw saw a disappointment with **Lakshya Sen** crashing out in the Round of 32 after a straight-games loss to Canada's Victor Lai. This marks another early exit for Sen, who has struggled to find consistent form since his early departure from the World Championships. On a brighter note, young talent **Tanvi Sharma** delivered a significant upset in women's singles, defeating Amalie Schulz to advance to the Round of 16, signaling her growing prowess on the international stage.\n\nOther Indian contenders, including **PV Sindhu**, **Treesa Jolly & Gayatri Gopichand**, **Dhruv Kapila & Tanisha Crasto**, and **Malvika Bansod**, are yet to play their opening matches or have their draws confirmed, leaving much anticipation for the coming days. Notably, veteran **HS Prannoy** is absent from this Super 750 event, instead competing at the Indonesia Masters Super 100, highlighting the strategic choices players are making in a packed calendar.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "seed": 5,
       "rank": 5,
-      "draw": "R32 — TBD",
+      "draw": "R16 — TBD",
       "note": "Quarterfinalists at Worlds, battling fitness concerns"
     },
     {
@@ -49,11 +49,10 @@
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 13,
-      "draw": "R32 vs Victor Lai (CAN)",
+      "draw": "R32 lost to Victor Lai (CAN)",
       "note": "Seeking strong showing after early Worlds exit"
     },
     {
-      "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
@@ -68,20 +67,18 @@
       "note": "India's top Mixed Doubles pair, rising fast"
     },
     {
-      "playerSlug": "hs-prannoy",
-      "name": "HS Prannoy",
-      "discipline": "Men's Singles",
-      "rank": 24,
-      "draw": "R32 — TBD",
-      "note": "Veteran looking for strong showing"
-    },
-    {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
       "draw": "R32 — TBD",
       "note": "Building experience on tour"
+    },
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "draw": "R16 — TBD",
+      "note": "Young talent making waves"
     }
   ]
 }

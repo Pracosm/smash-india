@@ -1,13 +1,13 @@
 [
   {
-    "slug": "china-masters",
-    "date": "SEP 01",
-    "name": "China Masters",
-    "grade": "Super 750",
-    "city": "Shenzhen",
-    "flag": "🇨🇳",
+    "slug": "vietnam-open",
+    "date": "SEP 08",
+    "name": "Vietnam Open",
+    "grade": "Super 100",
+    "city": "Ho Chi Minh City",
+    "flag": "🇻🇳",
     "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5625/china-masters-2026/results/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
     "slug": "arctic-open",
@@ -30,6 +30,16 @@
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/"
   },
   {
+    "slug": "malaysia-super-100",
+    "date": "OCT 13",
+    "name": "Malaysia Super 100",
+    "grade": "Super 100",
+    "city": "Iskandar Puteri",
+    "flag": "🇲🇾",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+  },
+  {
     "slug": "french-open",
     "date": "OCT 20",
     "name": "French Open",
@@ -38,15 +48,5 @@
     "flag": "🇫🇷",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5211/yonex-french-open-2026/results/"
-  },
-  {
-    "slug": "hylo-open",
-    "date": "OCT 27",
-    "name": "Hylo Open",
-    "grade": "Super 500",
-    "city": "Saarbrücken",
-    "flag": "🇩🇪",
-    "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5273/hylo-open-2026/results/"
   }
 ]
