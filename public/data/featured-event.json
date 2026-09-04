@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "With some stars finding form and others seeking consistency, the China Masters is a critical proving ground for India's shuttlers to solidify their standing and build momentum for the remainder of the season.",
-  "summary": "India's contingent at the China Masters is navigating a challenging Super 750 event with a mix of strong performances and early exits. The spotlight shines brightly on **Kidambi Srikanth**, who has defied expectations to storm into the quarterfinals, delivering a much-needed boost for the Men's Singles campaign. His stunning victory over World No. 9 Victor Lai signals a return to form for the veteran.\n\nMeanwhile, India's top Men's Doubles pair, **Satwiksairaj Rankireddy & Chirag Shetty**, seeded fifth, are set for a crucial R16 clash against France's Christo and Toma Popov. Coming off a World Championships quarterfinal run, their fitness and consistency will be key. On the flip side, **Lakshya Sen** faced another early exit, falling to Victor Lai in the R32, highlighting a continued struggle for consistency after his World Championships performance.\n\nWomen's Singles star **PV Sindhu** is looking to make a deep run after her R16 exit at the Worlds, while the formidable Women's Doubles pair of **Treesa Jolly & Gayatri Gopichand**, fresh from their historic World Championships bronze, will be eager to maintain their momentum. Young talents like **Malvika Bansod** and **Tanvi Sharma** continue to gain valuable experience, with Tanvi progressing to the R16. This tournament offers a vital platform for India's shuttlers to consolidate their rankings and build confidence as the season progresses.",
+  "stakes": "This Super 750 event is a crucial battleground for India's top shuttlers to gain vital ranking points and build momentum as the season progresses.",
+  "summary": "India's campaign at the China Masters Super 750 event is unfolding with a mix of strong performances and early setbacks. Men's Doubles fifth seeds Satwiksairaj Rankireddy and Chirag Shetty have advanced to the quarterfinals, where they are set to face a formidable Danish challenge in Kim Astrup and Anders Skaarup Rasmussen. Veteran Men's Singles star Kidambi Srikanth has also showcased impressive form, stunning World Championships bronze medalist Victor Lai in the Round of 16 to secure his spot in the quarterfinals.\n\nHowever, the tournament proved challenging for some of India's other talents. Lakshya Sen faced an early exit, losing in the Round of 32 to Victor Lai, while young prospect Tanvi Sharma's journey ended in the Round of 16. Women's Singles ace PV Sindhu, along with the promising Women's Doubles pair Treesa Jolly and Gayatri Gopichand, and Mixed Doubles duo Dhruv Kapila and Tanisha Crasto, are still awaiting their Round of 32 matchups. Malvika Bansod is also in the fray, looking to gain valuable experience on the Super 750 circuit.\n\nThe contrasting fortunes highlight the intense competition at this level. While the quarterfinalists carry India's hopes deep into the tournament, the early departures underscore the consistent challenge of navigating the world's elite. The remaining players will be keen to make their mark and secure crucial ranking points.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,8 +33,14 @@
       "discipline": "Men's Doubles",
       "seed": 5,
       "rank": 5,
-      "draw": "R16 vs Christo Popov & Toma Popov (FRA)",
-      "note": "Quarterfinalists at Worlds, battling fitness concerns"
+      "draw": "Quarterfinals vs Kim Astrup & Anders Skaarup Rasmussen (DEN)",
+      "note": "Top Indian pair, in quarter-finals"
+    },
+    {
+      "name": "Kidambi Srikanth",
+      "discipline": "Men's Singles",
+      "draw": "Quarterfinals — TBD",
+      "note": "Veteran campaigner, stunned Victor Lai in R16"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -45,6 +51,7 @@
       "note": "Aiming to rebound after Worlds R16 exit"
     },
     {
+      "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
@@ -67,24 +74,18 @@
       "note": "Building experience on tour"
     },
     {
-      "name": "Kidambi Srikanth",
-      "discipline": "Men's Singles",
-      "draw": "Quarterfinals — TBD",
-      "note": "Veteran campaigner, showing strong form"
-    },
-    {
-      "name": "Tanvi Sharma",
-      "discipline": "Women's Singles",
-      "draw": "R16 — TBD",
-      "note": "Young talent making waves"
-    },
-    {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 13,
       "draw": "R32 lost to Victor Lai (CAN)",
       "note": "Early exit, seeking consistency"
+    },
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "draw": "R16 lost to TBD",
+      "note": "Early exit for young talent"
     }
   ]
 }
