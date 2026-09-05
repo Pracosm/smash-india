@@ -1,7 +1,7 @@
 [
   {
     "disc": "Men's Doubles",
-    "name": "Satwik & Chirag",
+    "name": "Satwiksairaj Rankireddy & Chirag Shetty",
     "rank": 5,
     "move": "same",
     "pts": "81,831"
@@ -21,17 +21,17 @@
     "pts": "65,573"
   },
   {
-    "disc": "Mixed Doubles",
-    "name": "Dhruv & Tanisha",
-    "rank": 18,
-    "move": "same",
-    "pts": "46,280"
-  },
-  {
     "disc": "Men's Singles",
     "name": "Ayush Shetty",
     "rank": 20,
     "move": "same",
     "pts": "53,139"
+  },
+  {
+    "disc": "Mixed Doubles",
+    "name": "Dhruv Kapila & Tanisha Crasto",
+    "rank": 20,
+    "move": "same",
+    "pts": "46,280"
   }
 ]
