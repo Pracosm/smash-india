@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event is a crucial battleground for India's top shuttlers to gain vital ranking points and build momentum as the season progresses.",
-  "summary": "India's campaign at the China Masters Super 750 event is unfolding with a mix of strong performances and early setbacks. Men's Doubles fifth seeds Satwiksairaj Rankireddy and Chirag Shetty have advanced to the quarterfinals, where they are set to face a formidable Danish challenge in Kim Astrup and Anders Skaarup Rasmussen. Veteran Men's Singles star Kidambi Srikanth has also showcased impressive form, stunning World Championships bronze medalist Victor Lai in the Round of 16 to secure his spot in the quarterfinals.\n\nHowever, the tournament proved challenging for some of India's other talents. Lakshya Sen faced an early exit, losing in the Round of 32 to Victor Lai, while young prospect Tanvi Sharma's journey ended in the Round of 16. Women's Singles ace PV Sindhu, along with the promising Women's Doubles pair Treesa Jolly and Gayatri Gopichand, and Mixed Doubles duo Dhruv Kapila and Tanisha Crasto, are still awaiting their Round of 32 matchups. Malvika Bansod is also in the fray, looking to gain valuable experience on the Super 750 circuit.\n\nThe contrasting fortunes highlight the intense competition at this level. While the quarterfinalists carry India's hopes deep into the tournament, the early departures underscore the consistent challenge of navigating the world's elite. The remaining players will be keen to make their mark and secure crucial ranking points.",
+  "stakes": "This China Masters is a crucial test for India's top players to find form and consistency on the demanding BWF tour, especially with Satwik & Chirag aiming for a Super 750 title.",
+  "summary": "India's campaign at the China Masters Super 750 has seen a mixed bag of fortunes, with the spotlight firmly on the men's doubles sensation, Satwiksairaj Rankireddy and Chirag Shetty. The fifth-seeded pair has powered into the semifinals, continuing their impressive form and carrying the nation's hopes deep into the tournament. They face a challenging Malaysian duo, Nur Mohd. Azriyn Ayub Azriyn and Tan Wee Kiong, in what promises to be a thrilling encounter.\n\nHowever, for many other Indian shuttlers, the journey in Shenzhen ended prematurely. Women's singles star PV Sindhu, along with emerging talents like Malvika Bansod and the promising women's doubles pair of Treesa Jolly and Gayatri Gopichand, faced early exits in the opening round. Men's singles players Lakshya Sen and veteran Kidambi Srikanth also couldn't make a deep run, with Sen falling in R32 and Srikanth exiting in the quarterfinals. The mixed doubles pair of Dhruv Kapila and Tanisha Crasto also bowed out early.\n\nDespite the early departures for a significant portion of the contingent, Satwik and Chirag's consistent performance at this Super 750 event underscores their status as one of the world's elite pairs. Their continued presence in the business end of such a prestigious tournament offers a beacon of hope and a chance for India to clinch a title in China.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,45 +33,16 @@
       "discipline": "Men's Doubles",
       "seed": 5,
       "rank": 5,
-      "draw": "Quarterfinals vs Kim Astrup & Anders Skaarup Rasmussen (DEN)",
-      "note": "Top Indian pair, in quarter-finals"
-    },
-    {
-      "name": "Kidambi Srikanth",
-      "discipline": "Men's Singles",
-      "draw": "Quarterfinals — TBD",
-      "note": "Veteran campaigner, stunned Victor Lai in R16"
+      "draw": "Semifinals vs Nur Mohd. Azriyn Ayub Azriyn & Tan Wee Kiong (MAS)",
+      "note": "Top Indian pair, in semifinals"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Aiming to rebound after Worlds R16 exit"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 16,
-      "draw": "R32 — TBD",
-      "note": "Historic World Championships bronze medalists, in top form"
-    },
-    {
-      "name": "Dhruv & Tanisha",
-      "discipline": "Mixed Doubles",
-      "rank": 20,
-      "draw": "R32 — TBD",
-      "note": "India's top Mixed Doubles pair, rising fast"
-    },
-    {
-      "playerSlug": "malvika-bansod",
-      "name": "Malvika Bansod",
-      "discipline": "Women's Singles",
-      "rank": 31,
-      "draw": "R32 — TBD",
-      "note": "Building experience on tour"
+      "draw": "R32 lost to TBD",
+      "note": "Early exit, aiming to rebound"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -80,6 +51,35 @@
       "rank": 13,
       "draw": "R32 lost to Victor Lai (CAN)",
       "note": "Early exit, seeking consistency"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 16,
+      "draw": "R32 lost to TBD",
+      "note": "Early exit, historic World Championships bronze medalists"
+    },
+    {
+      "name": "Dhruv & Tanisha",
+      "discipline": "Mixed Doubles",
+      "rank": 18,
+      "draw": "R32 lost to TBD",
+      "note": "Early exit for India's top Mixed Doubles pair"
+    },
+    {
+      "playerSlug": "malvika-bansod",
+      "name": "Malvika Bansod",
+      "discipline": "Women's Singles",
+      "rank": 31,
+      "draw": "R32 lost to TBD",
+      "note": "Early exit, building experience"
+    },
+    {
+      "name": "Kidambi Srikanth",
+      "discipline": "Men's Singles",
+      "draw": "Quarterfinals lost to TBD",
+      "note": "Veteran campaigner, reached quarterfinals"
     },
     {
       "name": "Tanvi Sharma",
