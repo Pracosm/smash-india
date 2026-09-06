@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This China Masters is a crucial test for India's top players to find form and consistency on the demanding BWF tour, especially with Satwik & Chirag aiming for a Super 750 title.",
-  "summary": "India's campaign at the China Masters Super 750 has seen a mixed bag of fortunes, with the spotlight firmly on the men's doubles sensation, Satwiksairaj Rankireddy and Chirag Shetty. The fifth-seeded pair has powered into the semifinals, continuing their impressive form and carrying the nation's hopes deep into the tournament. They face a challenging Malaysian duo, Nur Mohd. Azriyn Ayub Azriyn and Tan Wee Kiong, in what promises to be a thrilling encounter.\n\nHowever, for many other Indian shuttlers, the journey in Shenzhen ended prematurely. Women's singles star PV Sindhu, along with emerging talents like Malvika Bansod and the promising women's doubles pair of Treesa Jolly and Gayatri Gopichand, faced early exits in the opening round. Men's singles players Lakshya Sen and veteran Kidambi Srikanth also couldn't make a deep run, with Sen falling in R32 and Srikanth exiting in the quarterfinals. The mixed doubles pair of Dhruv Kapila and Tanisha Crasto also bowed out early.\n\nDespite the early departures for a significant portion of the contingent, Satwik and Chirag's consistent performance at this Super 750 event underscores their status as one of the world's elite pairs. Their continued presence in the business end of such a prestigious tournament offers a beacon of hope and a chance for India to clinch a title in China.",
+  "stakes": "This week offers Satwik & Chirag a golden opportunity to add a significant Super 750 title to their impressive season, while other Indian shuttlers will need to regroup after early exits.",
+  "summary": "India's campaign at the China Masters, a Super 750 event, is drawing to a close with mixed results, though a significant highlight shines brightly. The Men's Doubles pair of **Satwiksairaj Rankireddy and Chirag Shetty** have once again demonstrated their elite form, storming into their third China Masters final. After a hard-fought semifinal victory against their Malaysian rivals, the dynamic duo is now poised to challenge for their second title of the year, carrying India's hopes on the final day of the tournament.\n\nHowever, the singles and other doubles categories saw early exits for many of India's top shuttlers. Women's Singles star PV Sindhu and Men's Singles talent Lakshya Sen both faced R32 defeats, underscoring a need for greater consistency at this level. Veteran Kidambi Srikanth managed a respectable run to the quarterfinals, while young talents like Malvika Bansod and Tanvi Sharma, along with the Mixed Doubles pair of Dhruv and Tanisha, also exited in the earlier rounds. The focus now shifts to Satwik and Chirag as they aim to cap off the tournament with a prestigious Super 750 title.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,8 +33,8 @@
       "discipline": "Men's Doubles",
       "seed": 5,
       "rank": 5,
-      "draw": "Semifinals vs Nur Mohd. Azriyn Ayub Azriyn & Tan Wee Kiong (MAS)",
-      "note": "Top Indian pair, in semifinals"
+      "draw": "Finals — TBD",
+      "note": "In their third China Masters final, seeking second title of the year"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -63,7 +63,7 @@
     {
       "name": "Dhruv & Tanisha",
       "discipline": "Mixed Doubles",
-      "rank": 18,
+      "rank": 20,
       "draw": "R32 lost to TBD",
       "note": "Early exit for India's top Mixed Doubles pair"
     },
