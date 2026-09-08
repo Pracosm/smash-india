@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This China Masters victory for Satwik & Chirag sets a strong tone for India's upcoming Asian Games title defense, while other shuttlers must regroup to find form and consistency on the global stage.",
-  "summary": "India's campaign at the China Masters, a Super 750 event, culminated in a triumphant finish for **Satwiksairaj Rankireddy and Chirag Shetty**. The dynamic men's doubles pair, seeded fifth, showcased remarkable resilience to clinch their second title of the year, overcoming former world No. 4 He Jiting and Ren Xiangyu in a thrilling three-game final. This victory marks a significant milestone for Satwik & Chirag, especially after finishing as runners-up in the 2023 and 2025 editions of this very tournament.\n\nWhile the men's doubles pair soared, it was a challenging outing for many of India's singles and other doubles contenders. PV Sindhu, Lakshya Sen, Malvika Bansod, Treesa & Gayatri, and Dhruv & Tanisha all faced early exits in the initial rounds. Veteran Kidambi Srikanth managed to reach the quarterfinals, demonstrating flashes of his former brilliance, while young talent Tanvi Sharma made it to the Round of 16.\n\nThe overall performance highlights the continued reliance on Satwik & Chirag for deep runs and titles at the elite level, with other Indian shuttlers still striving for consistency against the world's best.",
+  "stakes": "This Super 750 event was a critical proving ground for India's top shuttlers, offering vital ranking points and a chance to build momentum ahead of the highly anticipated Asian Games title defence.",
+  "summary": "India's campaign at the China Masters, a Super 750 event, concluded with a resounding triumph in men's doubles, but a quieter showing across other disciplines. The dynamic duo of **Satwiksairaj Rankireddy and Chirag Shetty** once again proved their mettle, clinching their 10th BWF World Tour title after a thrilling three-game final against China's He Jiting and Ren Xiangyu. This victory, a significant Super 750 crown, provides a crucial confidence boost as they prepare to defend their Asian Games title later this month.\n\nWhile Satwik and Chirag soared, the singles and mixed doubles contingents faced early exits. PV Sindhu, Lakshya Sen, Malvika Bansod, Treesa Jolly & Gayatri Gopichand, and Dhruv Kapila & Tanisha Crasto all exited in the opening round, indicating a need for greater consistency at this elite level. Veteran Kidambi Srikanth managed to reach the quarterfinals, showcasing flashes of his former brilliance, while young talent Tanvi Sharma made it to the Round of 16.\n\nOverall, the tournament offered a mixed bag for India. The men's doubles pair reaffirmed their status as one of the world's best, but the early departures in other categories highlight areas for improvement as the season progresses towards major championships. The focus will now shift to leveraging this momentum and addressing the shortcomings ahead of the upcoming Asian Games.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -34,13 +34,13 @@
       "seed": 5,
       "rank": 5,
       "draw": "Champions",
-      "note": "Champions, securing their second title of the year"
+      "note": "Champions, gaining momentum for Asian Games title defence"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 10,
+      "rank": 11,
       "draw": "R32 lost to TBD",
       "note": "Early exit, aiming to rebound"
     },
@@ -48,7 +48,7 @@
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 13,
+      "rank": 12,
       "draw": "R32 lost to Victor Lai (CAN)",
       "note": "Early exit, seeking consistency"
     },
@@ -63,7 +63,7 @@
     {
       "name": "Dhruv & Tanisha",
       "discipline": "Mixed Doubles",
-      "rank": 20,
+      "rank": 19,
       "draw": "R32 lost to TBD",
       "note": "Early exit for India's top Mixed Doubles pair"
     },
