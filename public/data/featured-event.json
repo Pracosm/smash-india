@@ -1,19 +1,19 @@
 {
-  "slug": "china-masters",
-  "name": "China Masters",
+  "slug": "vietnam-open",
+  "name": "Vietnam Open",
   "edition": "2026",
-  "fullName": "China Masters",
-  "grade": "Super 750",
-  "city": "Shenzhen",
-  "flag": "🇨🇳",
-  "dates": "Sep 1 – Sep 6, 2026",
-  "startsAt": "2026-09-01T09:00:00+08:00",
-  "endsAt": "2026-09-07T01:00:00.000Z",
+  "fullName": "Vietnam Open",
+  "grade": "Super 100",
+  "city": "Ho Chi Minh City",
+  "flag": "🇻🇳",
+  "dates": "Sep 8 – Sep 13, 2026",
+  "startsAt": "2026-09-08T00:00:00+07:00",
+  "endsAt": "2026-09-13T17:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5625/china-masters-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/",
   "venue": {
-    "name": "Shenzhen Arena",
+    "name": "Nguyen Du Club",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,68 +24,24 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event was a critical proving ground for India's top shuttlers, offering vital ranking points and a chance to build momentum ahead of the highly anticipated Asian Games title defence.",
-  "summary": "India's campaign at the China Masters, a Super 750 event, concluded with a resounding triumph in men's doubles, but a quieter showing across other disciplines. The dynamic duo of **Satwiksairaj Rankireddy and Chirag Shetty** once again proved their mettle, clinching their 10th BWF World Tour title after a thrilling three-game final against China's He Jiting and Ren Xiangyu. This victory, a significant Super 750 crown, provides a crucial confidence boost as they prepare to defend their Asian Games title later this month.\n\nWhile Satwik and Chirag soared, the singles and mixed doubles contingents faced early exits. PV Sindhu, Lakshya Sen, Malvika Bansod, Treesa Jolly & Gayatri Gopichand, and Dhruv Kapila & Tanisha Crasto all exited in the opening round, indicating a need for greater consistency at this elite level. Veteran Kidambi Srikanth managed to reach the quarterfinals, showcasing flashes of his former brilliance, while young talent Tanvi Sharma made it to the Round of 16.\n\nOverall, the tournament offered a mixed bag for India. The men's doubles pair reaffirmed their status as one of the world's best, but the early departures in other categories highlight areas for improvement as the season progresses towards major championships. The focus will now shift to leveraging this momentum and addressing the shortcomings ahead of the upcoming Asian Games.",
+  "stakes": "This week at the Vietnam Open is vital for India's emerging and re-establishing talents to gain crucial ranking points and build momentum on the international circuit.",
+  "summary": "India's badminton scene is buzzing after Satwiksairaj Rankireddy and Chirag Shetty's stellar performance at the China Masters, where they clinched their 10th BWF World Tour title. Their thrilling three-game victory showcased their formidable defense and patient attack, setting a high bar for Indian shuttlers. As the focus shifts to the Vietnam Open, a Super 100 event in Ho Chi Minh City, it presents a different kind of opportunity for the Indian contingent.While the top-ranked pair might be resting after their recent triumph, the Vietnam Open is a crucial platform for players like HS Prannoy and Malvika Bansod. Prannoy, a seasoned campaigner, will be looking to build rhythm and secure valuable ranking points, while the talented Malvika Bansod aims to make a significant impact and climb the world rankings. With the draw yet to fully unfold, anticipation builds for their opening matchups and the path ahead in this competitive tournament.",
   "indiaContingent": [
     {
-      "playerSlug": "satwik-chirag",
-      "name": "Satwik & Chirag",
-      "discipline": "Men's Doubles",
-      "seed": 5,
-      "rank": 5,
-      "draw": "Champions",
-      "note": "Champions, gaining momentum for Asian Games title defence"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "rank": 11,
-      "draw": "R32 lost to TBD",
-      "note": "Early exit, aiming to rebound"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
+      "playerSlug": "hs-prannoy",
+      "name": "HS Prannoy",
       "discipline": "Men's Singles",
-      "rank": 12,
-      "draw": "R32 lost to Victor Lai (CAN)",
-      "note": "Early exit, seeking consistency"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 16,
-      "draw": "R32 lost to TBD",
-      "note": "Early exit, historic World Championships bronze medalists"
-    },
-    {
-      "name": "Dhruv & Tanisha",
-      "discipline": "Mixed Doubles",
-      "rank": 19,
-      "draw": "R32 lost to TBD",
-      "note": "Early exit for India's top Mixed Doubles pair"
+      "rank": 24,
+      "draw": "R32 — TBD",
+      "note": "Seeking form and points"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 lost to TBD",
-      "note": "Early exit, building experience"
-    },
-    {
-      "name": "Kidambi Srikanth",
-      "discipline": "Men's Singles",
-      "draw": "Quarterfinals lost to TBD",
-      "note": "Veteran campaigner, reached quarterfinals"
-    },
-    {
-      "name": "Tanvi Sharma",
-      "discipline": "Women's Singles",
-      "draw": "R16 lost to TBD",
-      "note": "Early exit for young talent"
+      "draw": "R32 — TBD",
+      "note": "Opportunity for ranking points"
     }
   ]
 }
