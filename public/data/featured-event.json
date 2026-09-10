@@ -24,24 +24,30 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week at the Vietnam Open is vital for India's emerging and re-establishing talents to gain crucial ranking points and build momentum on the international circuit.",
-  "summary": "India's badminton scene is buzzing after Satwiksairaj Rankireddy and Chirag Shetty's stellar performance at the China Masters, where they clinched their 10th BWF World Tour title. Their thrilling three-game victory showcased their formidable defense and patient attack, setting a high bar for Indian shuttlers. As the focus shifts to the Vietnam Open, a Super 100 event in Ho Chi Minh City, it presents a different kind of opportunity for the Indian contingent.While the top-ranked pair might be resting after their recent triumph, the Vietnam Open is a crucial platform for players like HS Prannoy and Malvika Bansod. Prannoy, a seasoned campaigner, will be looking to build rhythm and secure valuable ranking points, while the talented Malvika Bansod aims to make a significant impact and climb the world rankings. With the draw yet to fully unfold, anticipation builds for their opening matchups and the path ahead in this competitive tournament.",
+  "stakes": "This week offers a vital platform for India's emerging talents to gain crucial experience and ranking points, with Tanvi Sharma leading the charge into the quarterfinals.",
+  "summary": "The Vietnam Open, a Super 100 event, is seeing a promising run from India's **Tanvi Sharma**, who has powered her way into the quarterfinals. Her victory over Thailand's Passa-Orn Phannachet demonstrates her potential and marks her as the standout Indian performer at this stage of the tournament. It's a crucial opportunity for the rising talent to make a significant impact and gather valuable ranking points.\n\nWhile Sharma shines, the status of other Indian hopefuls remains less clear. Veteran **HS Prannoy**, ranked 24, and **Malvika Bansod**, ranked 31, were part of the initial contingent. However, with the tournament already progressing past the initial rounds and into the quarterfinals, there's no further news regarding their campaigns, suggesting early exits or non-participation. The focus now firmly shifts to Sharma as she carries India's hopes deeper into the competition.",
   "indiaContingent": [
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
-      "note": "Seeking form and points"
+      "draw": "Eliminated",
+      "note": "Early exit or non-participation"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
-      "note": "Opportunity for ranking points"
+      "draw": "Eliminated",
+      "note": "Early exit or non-participation"
+    },
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "draw": "Quarterfinals — TBD",
+      "note": "Rising talent in quarterfinals"
     }
   ]
 }
