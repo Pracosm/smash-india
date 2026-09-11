@@ -24,30 +24,43 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week offers a vital platform for India's emerging talents to gain crucial experience and ranking points, with Tanvi Sharma leading the charge into the quarterfinals.",
-  "summary": "The Vietnam Open, a Super 100 event, is seeing a promising run from India's **Tanvi Sharma**, who has powered her way into the quarterfinals. Her victory over Thailand's Passa-Orn Phannachet demonstrates her potential and marks her as the standout Indian performer at this stage of the tournament. It's a crucial opportunity for the rising talent to make a significant impact and gather valuable ranking points.\n\nWhile Sharma shines, the status of other Indian hopefuls remains less clear. Veteran **HS Prannoy**, ranked 24, and **Malvika Bansod**, ranked 31, were part of the initial contingent. However, with the tournament already progressing past the initial rounds and into the quarterfinals, there's no further news regarding their campaigns, suggesting early exits or non-participation. The focus now firmly shifts to Sharma as she carries India's hopes deeper into the competition.",
+  "stakes": "This week is a crucial opportunity for India's rising badminton stars to gain vital ranking points and experience, while seasoned players look to maintain momentum on the international circuit.",
+  "summary": "India's contingent at the Vietnam Open Super 100 has showcased a mix of promising performances and tough exits. Young talent Tanvi Sharma has continued her impressive run, battling past compatriot Malvika Bansod in a quarterfinal clash to secure a spot in the semifinals. Joining her in the Women's Singles last four is the third seed, Isharani Baruah, who also navigated her quarterfinal match with a straight-sets victory, and Rakshitha, who has made a surprise run to the semifinals.\n\nOn the Men's Singles front, HS Prannoy, a seasoned campaigner, has also progressed deep into the tournament, showcasing his experience. While Malvika Bansod's journey ended in an all-Indian quarterfinal, the overall picture for India is one of strong representation in the crucial penultimate round of this Super 100 event.",
   "indiaContingent": [
+    {
+      "name": "Isharani Baruah",
+      "discipline": "Women's Singles",
+      "seed": 3,
+      "draw": "Semifinals — TBD",
+      "note": "Third seed in strong form"
+    },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "Eliminated",
-      "note": "Early exit or non-participation"
+      "draw": "Semifinals — TBD",
+      "note": "Veteran advancing deep"
+    },
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "draw": "Semifinals — TBD",
+      "note": "Rising talent in semifinals"
+    },
+    {
+      "name": "Rakshitha",
+      "discipline": "Women's Singles",
+      "draw": "Semifinals — TBD",
+      "note": "Surprise semifinalist"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "Eliminated",
-      "note": "Early exit or non-participation"
-    },
-    {
-      "name": "Tanvi Sharma",
-      "discipline": "Women's Singles",
-      "draw": "Quarterfinals — TBD",
-      "note": "Rising talent in quarterfinals"
+      "draw": "Eliminated (Quarterfinals)",
+      "note": "Lost to compatriot Tanvi Sharma"
     }
   ]
 }
