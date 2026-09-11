@@ -1,62 +1,52 @@
 [
   {
-    "slug": "bai-organizes-advanced-coaches-course-guwahati-raipur",
+    "slug": "bai-to-host-advanced-coaches-course-in-guwahati-raipur",
     "kicker": "Domestic",
-    "title": "BAI Organizes Advanced Coaches Course in Guwahati and Raipur",
+    "title": "BAI to Host Advanced Coaches Course in Guwahati & Raipur",
     "time": "10d ago",
     "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "This course provides advanced training for Indian badminton coaches, enhancing coaching standards across the country.",
-    "summary": "The Badminton Association of India is conducting a Level-1 (Advanced) Coaches Course at the National Center of Excellence in Guwahati and Raipur from September 14 to 23, 2026."
+    "indian_angle": "This course provides advanced training for Indian coaches, directly impacting the quality of coaching available to Indian badminton players nationwide.",
+    "summary": "The Badminton Association of India announced a Level-1 (Advanced) Coaches Course to be held at National Centers of Excellence in Guwahati and Raipur from September 14-23, 2026."
   },
   {
-    "slug": "new-regulations-inter-state-team-championships-2026",
+    "slug": "regulations-released-for-inter-state-team-championships-2026",
     "kicker": "Domestic",
-    "title": "New Regulations Released for Inter State Team Championships 2026",
-    "time": "3 weeks ago",
-    "read": "3 min",
-    "importance_score": 3,
-    "indian_angle": "These regulations govern a key domestic team championship, directly impacting Indian state teams and players.",
-    "summary": "The Badminton Association of India has released the official regulations for the upcoming Inter State Team Championships 2026, outlining rules and procedures for participating teams."
-  },
-  {
-    "slug": "womens-doubles-pair-changed-world-junior-championships-trials",
-    "kicker": "Domestic",
-    "title": "Women’s Doubles Pair Changed for World Junior Championships Trials",
-    "time": "1 month ago",
+    "title": "Regulations Released for Inter State Team Championships 2026",
+    "time": "25d ago",
     "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "This change affects the composition of India's potential women's doubles team for the prestigious BWF World Junior Championships.",
-    "summary": "An important notification has been issued regarding a change in the women's doubles pair selected for the final trials of the VICTOR BWF World Junior Championships 2026."
+    "indian_angle": "These regulations govern a key domestic team event, crucial for state-level competition and identifying emerging Indian talent.",
+    "summary": "The Badminton Association of India has issued the regulations for the upcoming Inter State Team Championships 2026, outlining rules and guidelines for participating teams."
   },
   {
-    "slug": "indian-junior-team-coaching-camp-guwahati",
-    "kicker": "Domestic",
-    "title": "Indian Junior Team Coaching Camp Underway in Guwahati",
+    "slug": "womens-doubles-pair-changed-for-junior-world-championships-trials",
+    "kicker": "Selection",
+    "title": "Women's Doubles Pair Changed for Junior World Championships Trials",
     "time": "1 month ago",
-    "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "This camp is crucial for preparing India's top junior talent for the Badminton Asia U17 & U15 Junior Championships.",
-    "summary": "A national coaching camp for the Indian team participating in the Badminton Asia U17 & U15 Junior Championships 2026 is being held at the National Center of Excellence in Guwahati."
-  },
-  {
-    "slug": "player-eligibility-qualified-list-world-junior-championships-trials",
-    "kicker": "Domestic",
-    "title": "Player Eligibility and Qualified List for World Junior Championships Trials",
-    "time": "1 month ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "This announcement details the players who are eligible and have qualified for the final selection trials for India's World Junior Championships squad.",
-    "summary": "The Badminton Association of India has published the player eligibility criteria and the list of players qualified for the final selection trials for the VICTOR BWF World Junior Championships 2026 in Cairo, Egypt."
-  },
-  {
-    "slug": "bai-implements-3x15-scoring-system-junior-domestic-tournaments",
-    "kicker": "Domestic",
-    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
-    "time": "2 months ago",
-    "read": "3 min",
+    "read": "1 min",
     "importance_score": 6,
-    "indian_angle": "This significant rule change will impact how junior players compete in U-13, U-15, and U-17 domestic ranking tournaments and national championships.",
-    "summary": "The Badminton Association of India has announced the implementation of the 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age categories."
+    "indian_angle": "This change directly affects the composition of India's potential junior women's doubles representation at a major international event.",
+    "summary": "An important notification from BAI announced a change in the Women’s Doubles pair for the selection trials of the VICTOR BWF World Junior Championships 2026."
+  },
+  {
+    "slug": "indian-junior-team-coaching-camp-for-asia-u17-u15-championships",
+    "kicker": "Preview",
+    "title": "Indian Junior Team Coaching Camp for Asia U17 & U15 Championships",
+    "time": "1 month ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "This camp is vital for preparing India's top junior talent for the Badminton Asia U17 & U15 Junior Championships, a significant continental event.",
+    "summary": "A coaching camp for the Indian team participating in the Badminton Asia U17 & U15 Junior Championships 2026 is underway at the National Center of Excellence in Guwahati."
+  },
+  {
+    "slug": "final-selection-trials-for-junior-world-championships-announced",
+    "kicker": "Selection",
+    "title": "Final Selection Trials for Junior World Championships Announced",
+    "time": "1 month ago",
+    "read": "2 min",
+    "importance_score": 7,
+    "indian_angle": "This announcement details the crucial final trials for Indian players aiming to represent the country at the VICTOR BWF World Junior Championships in Cairo.",
+    "summary": "BAI has released the player eligibility criteria and list of qualified players for the final selection trials for the VICTOR BWF World Junior Championships 2026 in Cairo, Egypt."
   }
 ]
