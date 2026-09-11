@@ -1,9 +1,9 @@
 {
-  "tag": "FINALISTS",
-  "event": "Women's Asia Cup 2026 Semifinal 1",
-  "discipline": "Women's Team",
+  "tag": "RESULT",
+  "event": "India vs New Zealand ODI Series",
+  "discipline": "Cricket (ODI)",
   "winner": "India",
-  "loser": "Bangladesh",
-  "score": "2-0",
-  "when": "Today"
+  "loser": "New Zealand",
+  "score": "India won by 190 runs",
+  "when": "2016-10-29"
 }
