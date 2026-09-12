@@ -24,35 +24,23 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week is a crucial opportunity for India's rising badminton stars to gain vital ranking points and experience, while seasoned players look to maintain momentum on the international circuit.",
-  "summary": "India's contingent at the Vietnam Open Super 100 has showcased a mix of promising performances and tough exits. Young talent Tanvi Sharma has continued her impressive run, battling past compatriot Malvika Bansod in a quarterfinal clash to secure a spot in the semifinals. Joining her in the Women's Singles last four is the third seed, Isharani Baruah, who also navigated her quarterfinal match with a straight-sets victory, and Rakshitha, who has made a surprise run to the semifinals.\n\nOn the Men's Singles front, HS Prannoy, a seasoned campaigner, has also progressed deep into the tournament, showcasing his experience. While Malvika Bansod's journey ended in an all-Indian quarterfinal, the overall picture for India is one of strong representation in the crucial penultimate round of this Super 100 event.",
+  "stakes": "This week at the Vietnam Open presents a golden opportunity for India to clinch a Super 100 title, with Isharani Baruah leading the charge in the women's singles final and HS Prannoy pushing for a spot in the men's singles summit clash.",
+  "summary": "India's contingent at the Vietnam Open has delivered a compelling performance, particularly in the women's singles draw, where three shuttlers—Isharani Baruah, Tanvi Sharma, and Rakshitha—stormed into the semifinals. Third seed Isharani Baruah has been a standout, triumphing over compatriot Rakshitha in a 21-10, 21-18 semifinal clash to reach her first BWF Tour final of the season, a significant milestone after her third-place finish at the Orleans Masters.\n\nWhile Tanvi Sharma's impressive run concluded in the semifinals with a loss to Sarunrak Vitidsarn, and Rakshitha's surprise journey ended against Baruah, their deep runs underscore the emerging talent in India's women's singles circuit. In the men's singles, veteran HS Prannoy continues his campaign, reaching the semifinals where he is set to face Teh Jia Heng Jason, aiming to secure his first World Tour final of the season. Malvika Bansod, another promising talent, saw her tournament end in the quarterfinals, falling to compatriot Tanvi Sharma.",
   "indiaContingent": [
     {
       "name": "Isharani Baruah",
       "discipline": "Women's Singles",
       "seed": 3,
-      "draw": "Semifinals — TBD",
-      "note": "Third seed in strong form"
+      "draw": "Finals — TBD",
+      "note": "Third seed, reached first BWF Tour final"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "Semifinals — TBD",
-      "note": "Veteran advancing deep"
-    },
-    {
-      "name": "Tanvi Sharma",
-      "discipline": "Women's Singles",
-      "draw": "Semifinals — TBD",
-      "note": "Rising talent in semifinals"
-    },
-    {
-      "name": "Rakshitha",
-      "discipline": "Women's Singles",
-      "draw": "Semifinals — TBD",
-      "note": "Surprise semifinalist"
+      "draw": "Semifinals vs Teh Jia Heng Jason (MAS)",
+      "note": "Veteran advancing deep, seeking first final"
     },
     {
       "playerSlug": "malvika-bansod",
@@ -61,6 +49,18 @@
       "rank": 31,
       "draw": "Eliminated (Quarterfinals)",
       "note": "Lost to compatriot Tanvi Sharma"
+    },
+    {
+      "name": "Rakshitha",
+      "discipline": "Women's Singles",
+      "draw": "Eliminated (Semifinals) vs Isharani Baruah (IND)",
+      "note": "Surprise semifinalist, lost to compatriot"
+    },
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "draw": "Eliminated (Semifinals) vs Sarunrak Vitidsarn (THA)",
+      "note": "Rising talent, lost in semifinals"
     }
   ]
 }
