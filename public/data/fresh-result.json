@@ -1,9 +1,9 @@
 {
-  "tag": "CHAMPIONS",
-  "event": "Asia Cup",
-  "discipline": "Women's Cricket",
-  "winner": "India Women's Team",
-  "loser": "Sri Lanka Women's Team",
-  "score": "India won by 72 runs",
+  "tag": "RESULT",
+  "event": "India-Afghanistan Friendship Cup",
+  "discipline": "Men's Doubles",
+  "winner": "Nitish Kumar Reddy / Sanju Samson",
+  "loser": "Afghan Pair",
+  "score": "21-18, 21-19",
   "when": "Today"
 }
