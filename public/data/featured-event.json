@@ -1,19 +1,19 @@
 {
-  "slug": "vietnam-open",
-  "name": "Vietnam Open",
+  "slug": "arctic-open",
+  "name": "Arctic Open",
   "edition": "2026",
-  "fullName": "Vietnam Open",
-  "grade": "Super 100",
-  "city": "Ho Chi Minh City",
-  "flag": "🇻🇳",
-  "dates": "Sep 8 – Sep 13, 2026",
-  "startsAt": "2026-09-08T00:00:00+07:00",
-  "endsAt": "2026-09-13T17:00:00.000Z",
+  "fullName": "Arctic Open",
+  "grade": "Super 500",
+  "city": "Vantaa",
+  "flag": "🇫🇮",
+  "dates": "Oct 6 – Oct 11, 2026",
+  "startsAt": "2026-10-06T00:00:00+03:00",
+  "endsAt": "2026-10-11T21:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5594/arctic-open-2026-powered-by-yonex/results/",
   "venue": {
-    "name": "Nguyen Du Club",
+    "name": "Energia Areena",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,44 +24,70 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week's Vietnam Open offered crucial exposure and ranking points for India's emerging badminton talent, providing a platform for players like Isharani Baruah and Tanvi Sharma to test their mettle on the international stage.",
-  "summary": "India's campaign at the Vietnam Open, a Super 100 event, concluded with a mixed bag of results, yet highlighted the promising depth in the women's singles category. Isharani Baruah, seeded third, led the charge by reaching the finals, ultimately finishing as runner-up to Thailand's Sarunrak Vitidsarn. This marked her first BWF Tour final, a significant milestone for the young talent.\n\nThe women's singles draw saw a strong Indian presence in the later stages, with Rakshitha and Tanvi Sharma also making impressive runs to the semifinals. Notably, Tanvi Sharma had defeated compatriot Malvika Bansod in an all-Indian quarterfinal clash, showcasing the competitive spirit within the contingent. On the men's side, veteran HS Prannoy reached the semifinals, demonstrating his enduring skill, though he fell short of securing a spot in the final.",
+  "stakes": "This Super 500 event offers valuable ranking points and a crucial opportunity for India's top shuttlers to gain momentum and test their form against a strong international field.",
+  "summary": "India's badminton stars head to the Arctic Open, a Super 500 event, with a strong contingent looking to make their mark. While specific draws and seeding information for the tournament are yet to be released, the focus will undoubtedly be on top-ranked pairs like Satwiksairaj Rankireddy and Chirag Shetty, who consistently challenge for titles.\n\nIn the singles categories, PV Sindhu and Lakshya Sen will be aiming for deep runs, seeking crucial ranking points and momentum in the lead-up to bigger events. Rising talents such as Ayush Shetty will also be keen to prove their mettle against a competitive international field. With no recent tournament-specific news, the Indian squad's form remains a bit of an unknown, but their consistent presence at these Super 500 events underscores their ambition.\n\nFans will be watching closely to see how the Indian contingent navigates the early rounds once the draws are unveiled. The Arctic Open offers a significant platform for players to build confidence and refine strategies as the season progresses.",
   "indiaContingent": [
     {
-      "name": "Isharani Baruah",
+      "playerSlug": "satwik-chirag",
+      "name": "Satwik & Chirag",
+      "discipline": "Men's Doubles",
+      "rank": 5,
+      "draw": "R32 — TBD",
+      "note": "Top-ranked Indian pair seeking another Super 500 title"
+    },
+    {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "seed": 3,
-      "rank": 39,
-      "draw": "Finals vs Sarunrak Vitidsarn (THA)",
-      "note": "Third seed, finished runner-up in first BWF Tour final"
+      "rank": 11,
+      "draw": "R32 — TBD",
+      "note": "Veteran star aiming for a strong showing"
+    },
+    {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 12,
+      "draw": "R32 — TBD",
+      "note": "Dynamic singles talent looking for a deep run"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 16,
+      "draw": "R32 — TBD",
+      "note": "Promising young pair building international experience"
+    },
+    {
+      "name": "Dhruv & Tanisha",
+      "discipline": "Mixed Doubles",
+      "rank": 19,
+      "draw": "R32 — TBD",
+      "note": "Rising mixed doubles pair seeking breakthrough performance"
+    },
+    {
+      "name": "Ayush Shetty",
+      "discipline": "Men's Singles",
+      "rank": 20,
+      "draw": "R32 — TBD",
+      "note": "Young talent eager to make an impact"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "Eliminated (Semifinals) vs Teh Jia Heng Jason (MAS)",
-      "note": "Veteran reached semifinals, seeking first final"
+      "draw": "R32 — TBD",
+      "note": "Experienced campaigner looking to find his rhythm"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "Eliminated (Quarterfinals) vs Tanvi Sharma (IND)",
-      "note": "Lost to compatriot Tanvi Sharma in quarterfinals"
-    },
-    {
-      "name": "Rakshitha",
-      "discipline": "Women's Singles",
-      "draw": "Eliminated (Semifinals) vs Isharani Baruah (IND)",
-      "note": "Surprise semifinalist, lost to compatriot"
-    },
-    {
-      "name": "Tanvi Sharma",
-      "discipline": "Women's Singles",
-      "draw": "Eliminated (Semifinals) vs Sarunrak Vitidsarn (THA)",
-      "note": "Rising talent, lost in semifinals"
+      "draw": "R32 — TBD",
+      "note": "Emerging singles player gaining valuable exposure"
     }
   ]
 }
