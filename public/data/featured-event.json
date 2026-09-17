@@ -24,35 +24,34 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week in Vantaa is a vital opportunity for India's shuttlers to consolidate their rankings, build confidence, and gather crucial points at a Super 500 event.",
-  "summary": "As the badminton world turns its attention to the Arctic Open, India arrives with a formidable contingent, eager to make their mark at this Super 500 event. While specific draws are yet to be announced, the Indian squad features several top-ranked players poised for deep runs. Men's Doubles sensations Satwiksairaj Rankireddy and Chirag Shetty, currently ranked World No. 4, lead the charge, always a threat for silverware.\n\nIn the singles categories, PV Sindhu (World No. 10) and Lakshya Sen (World No. 10) headline India's challenge. Both veterans are looking to build crucial momentum and secure valuable ranking points as the season progresses. Young talents like Ayush Shetty, Dhruv Kapila & Tanisha Crasto, and Treesa Jolly & Gayatri Gopichand are also part of the lineup, seeking to gain experience and spring surprises against higher-ranked opponents.\n\nThe Arctic Open presents a significant opportunity for the Indian shuttlers to test their mettle against a global field. With no immediate injury concerns reported, the focus will be on navigating the early rounds and setting the stage for strong performances in Vantaa.",
+  "stakes": "This week, India's top shuttlers aim to translate recent good form into strong performances and valuable ranking points at the Arctic Open, setting the tone for the latter half of the season.",
+  "summary": "The Arctic Open, a Super 500 event in Vantaa, Finland, is set to host a strong Indian contingent looking to make their mark. While the main draw is yet to be announced, the Indian shuttlers are preparing to tackle the chilly challenge from October 6-11. This tournament offers crucial ranking points and a chance for players to build momentum as the season progresses.\n\nLeading the charge will be the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, who arrive fresh off a triumphant run at the China Masters. Their recent Super 750 title win underscores their excellent form and makes them a pair to watch closely. Two-time Olympic medallist PV Sindhu also enters the fray with renewed confidence and improved fitness, aiming for a deep run in the women's singles. Other key players like Lakshya Sen, Treesa & Gayatri, and Dhruv & Tanisha will be eager to prove their mettle and climb the rankings in this competitive field.\n\nWith the draw still TBD, the focus remains on preparation and harnessing recent successes. The Super 500 status means every match will be fiercely contested, offering a significant opportunity for India's badminton stars to solidify their standings and make a statement on the international stage.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "rank": 4,
+      "rank": 5,
       "draw": "R32 — TBD",
-      "note": "Top-ranked Indian pair seeking another Super 500 title"
+      "note": "Coming off a China Masters title win"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 10,
+      "rank": 11,
       "draw": "R32 — TBD",
-      "note": "Veteran star aiming for a strong showing"
+      "note": "Veteran star with renewed confidence"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 10,
+      "rank": 12,
       "draw": "R32 — TBD",
       "note": "Dynamic singles talent looking for a deep run"
     },
     {
-      "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
