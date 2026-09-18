@@ -1,62 +1,52 @@
 [
   {
-    "slug": "asian-games-2026-full-badminton-schedule-indians-in-action",
-    "kicker": "Preview",
-    "title": "Asian Games 2026: Full Badminton Schedule, Indians In Action",
-    "time": "3h ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "This article provides the complete badminton schedule for the Asian Games 2026, detailing when Indian players will compete and medal opportunities.",
-    "summary": "The complete day-by-day badminton schedule for the Asian Games 2026 is released, featuring all seven disciplines, medal sessions, and specific timings for Indian participation."
-  },
-  {
-    "slug": "satwik-chirag-china-masters-winners-ready-asian-games",
-    "kicker": "Feature",
-    "title": "Satwik-Chirag Eye Asian Games Encore After China Masters Win",
-    "time": "2d ago",
-    "read": "5 min",
-    "importance_score": 9,
-    "indian_angle": "This feature highlights the recent success of India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, and their aspirations for the upcoming Asian Games.",
-    "summary": "Fresh off their China Masters triumph, Satwiksairaj Rankireddy and Chirag Shetty express renewed confidence and readiness to perform at the Asian Games, overcoming a previous World Championship setback."
-  },
-  {
-    "slug": "pv-sindhu-force-to-reckon-with-at-asian-games",
-    "kicker": "Feature",
-    "title": "PV Sindhu Aims For Asian Games Medal With Renewed Confidence",
-    "time": "2d ago",
-    "read": "4 min",
-    "importance_score": 8,
-    "indian_angle": "This article focuses on India's star shuttler PV Sindhu, detailing her preparation and medal ambitions for her fourth appearance at the Asian Games.",
-    "summary": "Two-time Olympic medallist PV Sindhu enters her fourth Asian Games with boosted confidence and improved fitness, aiming to secure a medal amidst strong competition in Aichi-Nagoya."
-  },
-  {
-    "slug": "bai-hosts-advanced-coaches-course-in-guwahati-and-raipur",
+    "slug": "bai-advanced-coaches-course-underway-in-guwahati-raipur",
     "kicker": "Domestic",
-    "title": "BAI Hosts Advanced Coaches Course In Guwahati And Raipur",
+    "title": "BAI Advanced Coaches Course Underway in Guwahati & Raipur",
     "time": "17d ago",
+    "read": "3 min",
+    "importance_score": 4,
+    "indian_angle": "This program is crucial for developing the next generation of Indian badminton coaches and improving coaching standards nationwide.",
+    "summary": "The Badminton Association of India's Level-1 Advanced Coaches Course is currently running at National Centers of Excellence in Guwahati and Raipur, from September 14th to 23rd."
+  },
+  {
+    "slug": "new-regulations-issued-for-inter-state-team-championships-2026",
+    "kicker": "Domestic",
+    "title": "New Regulations Issued for Inter State Team Championships 2026",
+    "time": "1m ago",
     "read": "2 min",
     "importance_score": 3,
-    "indian_angle": "This news details a domestic initiative by BAI to enhance coaching standards across India, directly impacting the future development of Indian badminton talent.",
-    "summary": "The Badminton Association of India is conducting a Level-1 (Advanced) Coaches Course at the National Center of Excellence in Guwahati and Raipur from September 14th to 23rd, 2026."
+    "indian_angle": "These regulations will govern a major domestic event, shaping the competitive landscape for Indian state teams.",
+    "summary": "The Badminton Association of India has released the official regulations for the upcoming Inter State Team Championships 2026, outlining rules and procedures for participating teams."
   },
   {
-    "slug": "indian-junior-team-selection-trials-for-world-championships",
+    "slug": "womens-doubles-pair-change-for-world-junior-championships-trials",
     "kicker": "Domestic",
-    "title": "Indian Junior Team Selection Trials For World Championships",
-    "time": "1m ago",
-    "read": "3 min",
-    "importance_score": 5,
-    "indian_angle": "This announcement is crucial for aspiring young Indian shuttlers, outlining the eligibility and qualified players for the final selection trials for a major international junior event.",
-    "summary": "The Badminton Association of India has released the eligibility criteria and list of players qualified for the final selection trials for the VICTOR BWF World Junior Championships 2026 in Cairo, Egypt."
-  },
-  {
-    "slug": "junior-team-coaching-camp-held-in-guwahati",
-    "kicker": "Domestic",
-    "title": "Junior Team Coaching Camp Held In Guwahati",
+    "title": "Women's Doubles Pair Change for World Junior Championships Trials",
     "time": "1m ago",
     "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "This report highlights the national effort to prepare India's young talent for international junior competitions, focusing on the U17 and U15 categories.",
-    "summary": "A coaching camp for the Indian team participating in the Badminton Asia U17 & U15 Junior Championships 2026 is currently underway at the National Center of Excellence in Guwahati."
+    "importance_score": 5,
+    "indian_angle": "This update affects the composition of potential Indian representatives for the prestigious BWF World Junior Championships.",
+    "summary": "A change has been announced regarding a women's doubles pair participating in the selection trials for the VICTOR BWF World Junior Championships 2026."
+  },
+  {
+    "slug": "junior-national-coaching-camp-for-asia-u17-u15-championships-begins",
+    "kicker": "Domestic",
+    "title": "Junior National Coaching Camp for Asia U17 & U15 Championships Begins",
+    "time": "1m ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This camp is crucial for preparing India's top young talent for the upcoming Badminton Asia U17 & U15 Junior Championships.",
+    "summary": "A national coaching camp for the Indian junior team participating in the Badminton Asia U17 & U15 Junior Championships 2026 is underway at the National Center of Excellence in Guwahati."
+  },
+  {
+    "slug": "final-trials-list-announced-for-world-junior-championships-2026",
+    "kicker": "Domestic",
+    "title": "Final Trials List Announced for World Junior Championships 2026",
+    "time": "1m ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This announcement identifies the Indian players who have qualified for the final selection trials for the World Junior Championships in Cairo.",
+    "summary": "The list of eligible players who have qualified for the final selection trials for the VICTOR BWF World Junior Championships 2026 in Cairo, Egypt, has been released."
   }
 ]
