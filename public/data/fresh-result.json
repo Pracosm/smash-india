@@ -1,9 +1,9 @@
 {
-  "tag": "CHAMPIONS",
-  "event": "China Masters",
-  "discipline": "Men's Doubles",
-  "winner": "Satwiksairaj Rankireddy / Chirag Shetty",
-  "loser": "Unknown Opponent",
-  "score": "Score Not Reported",
+  "tag": "RESULT",
+  "event": "3rd T20I India vs Afghanistan",
+  "discipline": "Cricket",
+  "winner": "India",
+  "loser": "Afghanistan",
+  "score": "India 221/7, Afghanistan 94 all out (India won by 127 runs)",
   "when": "Yesterday"
 }
