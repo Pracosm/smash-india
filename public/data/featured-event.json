@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Arctic Open is a crucial opportunity for India's shuttlers to consolidate their world rankings and build confidence ahead of the season's bigger challenges.",
-  "summary": "India's badminton contingent heads into the Arctic Open, a Super 500 event, looking to build momentum and secure crucial ranking points. While the draws for this tournament are yet to be fully revealed, the focus remains on top talents like Satwiksairaj Rankireddy & Chirag Shetty, who arrive fresh off a China Masters title win, showcasing their formidable form in men's doubles. Their performance will be closely watched as they aim to continue their dominant run.\n\nIn singles, veteran PV Sindhu will be eager to translate her renewed confidence into a deep run, while Lakshya Sen, a dynamic talent, seeks a breakthrough performance to climb further up the rankings. Youngsters like Ayush Shetty and Malvika Bansod will also be looking to gain valuable international experience and upset higher-ranked opponents. Meanwhile, the promising women's doubles pair of Treesa Jolly & Gayatri Gopichand and the mixed doubles duo of Dhruv Kapila & Tanisha Crasto will aim to make their mark against a competitive field, building towards future successes. The Arctic Open offers a vital platform for these shuttlers to fine-tune their strategies and assert their presence on the global stage.",
+  "stakes": "This Super 500 event is a vital opportunity for India's shuttlers to collect crucial ranking points and build confidence ahead of the season's latter half.",
+  "summary": "India's badminton contingent is poised for the Arctic Open, a Super 500 event, with a strong lineup eager to make their mark. While much of the recent national sporting conversation has revolved around the ongoing Asian Games, this tournament in Vantaa presents a crucial opportunity for India's top shuttlers to secure valuable ranking points and build momentum. Men's Doubles powerhouse Satwik & Chirag, currently ranked 5th globally, will be looking to extend their impressive form and are undoubtedly among the favorites.\n\nIn the singles categories, veteran star PV Sindhu, ranked 11th, brings renewed confidence, while dynamic talent Lakshya Sen, at world No. 14, aims for a deep run. Emerging players like Ayush Shetty (world No. 20) in Men's Singles and the promising Women's Doubles pair of Treesa & Gayatri (world No. 16) are also in the mix, seeking breakthrough performances against a competitive international field. The draws for the Arctic Open are yet to be revealed, leaving an element of anticipation as India's hopefuls await their opening challenges.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "rank": 5,
-      "draw": "R32 \n\n— TBD",
+      "draw": "R32 — TBD",
       "note": "Coming off a China Masters title win"
     },
     {
@@ -40,36 +40,37 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 11,
-      "draw": "R32 \n\n— TBD",
+      "draw": "R32 — TBD",
       "note": "Veteran star with renewed confidence"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 12,
-      "draw": "R32 \n\n— TBD",
+      "rank": 14,
+      "draw": "R32 — TBD",
       "note": "Dynamic singles talent looking for a deep run"
     },
     {
+      "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
-      "draw": "R32 \n\n— TBD",
+      "draw": "R32 — TBD",
       "note": "Promising young pair building international experience"
     },
     {
       "name": "Dhruv & Tanisha",
       "discipline": "Mixed Doubles",
       "rank": 19,
-      "draw": "R32 \n\n— TBD",
+      "draw": "R32 — TBD",
       "note": "Rising mixed doubles pair seeking breakthrough performance"
     },
     {
       "name": "Ayush Shetty",
       "discipline": "Men's Singles",
       "rank": 20,
-      "draw": "R32 \n\n— TBD",
+      "draw": "R32 — TBD",
       "note": "Young talent eager to make an impact"
     },
     {
@@ -77,7 +78,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 \n\n— TBD",
+      "draw": "R32 — TBD",
       "note": "Experienced campaigner looking to find his rhythm"
     },
     {
@@ -85,7 +86,7 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 \n\n— TBD",
+      "draw": "R32 — TBD",
       "note": "Emerging singles player gaining valuable exposure"
     }
   ]
