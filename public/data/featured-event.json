@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event is a vital opportunity for India's shuttlers to collect crucial ranking points and build confidence ahead of the season's latter half.",
-  "summary": "India's badminton contingent is poised for the Arctic Open, a Super 500 event, with a strong lineup eager to make their mark. While much of the recent national sporting conversation has revolved around the ongoing Asian Games, this tournament in Vantaa presents a crucial opportunity for India's top shuttlers to secure valuable ranking points and build momentum. Men's Doubles powerhouse Satwik & Chirag, currently ranked 5th globally, will be looking to extend their impressive form and are undoubtedly among the favorites.\n\nIn the singles categories, veteran star PV Sindhu, ranked 11th, brings renewed confidence, while dynamic talent Lakshya Sen, at world No. 14, aims for a deep run. Emerging players like Ayush Shetty (world No. 20) in Men's Singles and the promising Women's Doubles pair of Treesa & Gayatri (world No. 16) are also in the mix, seeking breakthrough performances against a competitive international field. The draws for the Arctic Open are yet to be revealed, leaving an element of anticipation as India's hopefuls await their opening challenges.",
+  "stakes": "This Arctic Open is a vital Super 500 event for India's shuttlers to either carry forward their Asian Games momentum or reset and gain crucial ranking points ahead of the season's final stretch.",
+  "summary": "As the badminton world turns its attention to the Arctic Open in early October, India's top shuttlers are currently engaged in intense competition at the Asian Games 2026. This Super 500 event in Vantaa offers a crucial opportunity for players to build momentum or recover from their Asian Games campaigns. While the draws for the Arctic Open are yet to be revealed, the Indian contingent features a strong mix of seasoned veterans and exciting young talents.\n\nLeading the charge are the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, who arrive fresh off a China Masters title win and will be looking to continue their dominant form. In women's singles, PV Sindhu, a key figure in India's Asian Games women's team victory over Kazakhstan, will aim to translate that team success into an individual deep run. Men's singles sees Lakshya Sen and HS Prannoy, both experienced campaigners, seeking to make their mark, alongside the promising Ayush Shetty. The women's doubles pair of Treesa Jolly and Gayatri Gopichand, and the mixed doubles duo of Dhruv Kapila and Tanisha Crasto, round out a competitive Indian lineup eager to leave their imprint on the Arctic circuit.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -52,7 +52,6 @@
       "note": "Dynamic singles talent looking for a deep run"
     },
     {
-      "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
