@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Arctic Open is a vital Super 500 event for India's shuttlers to either carry forward their Asian Games momentum or reset and gain crucial ranking points ahead of the season's final stretch.",
-  "summary": "As the badminton world turns its attention to the Arctic Open in early October, India's top shuttlers are currently engaged in intense competition at the Asian Games 2026. This Super 500 event in Vantaa offers a crucial opportunity for players to build momentum or recover from their Asian Games campaigns. While the draws for the Arctic Open are yet to be revealed, the Indian contingent features a strong mix of seasoned veterans and exciting young talents.\n\nLeading the charge are the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, who arrive fresh off a China Masters title win and will be looking to continue their dominant form. In women's singles, PV Sindhu, a key figure in India's Asian Games women's team victory over Kazakhstan, will aim to translate that team success into an individual deep run. Men's singles sees Lakshya Sen and HS Prannoy, both experienced campaigners, seeking to make their mark, alongside the promising Ayush Shetty. The women's doubles pair of Treesa Jolly and Gayatri Gopichand, and the mixed doubles duo of Dhruv Kapila and Tanisha Crasto, round out a competitive Indian lineup eager to leave their imprint on the Arctic circuit.",
+  "stakes": "This week at the Arctic Open is a crucial opportunity for India's shuttlers to convert recent team event momentum into individual success and climb the world rankings.",
+  "summary": "India's badminton contingent arrives at the Arctic Open fresh off a mixed bag of performances at the Asian Games. The men's team showcased commendable form, securing a medal with strong contributions from Satwik & Chirag in doubles, and crucial singles wins from Lakshya Sen and young Ayush Shetty. This momentum could be vital as they transition to individual and pair events in Vantaa.\n\nOn the women's side, the team's journey concluded in the quarterfinals, despite a spirited effort. PV Sindhu led the charge, and the promising doubles pair of Treesa & Gayatri delivered a notable victory against a top-ranked Japanese duo. While the draw for this Super 500 event is yet to be revealed, the Arctic Open presents a significant opportunity for these players to build on their recent outings, fine-tune their strategies, and push for individual glory in the lead-up to bigger tournaments.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "rank": 5,
       "draw": "R32 — TBD",
-      "note": "Coming off a China Masters title win"
+      "note": "Key part of Asian Games medal-winning team"
     },
     {
       "playerSlug": "pv-sindhu",
@@ -41,7 +41,7 @@
       "discipline": "Women's Singles",
       "rank": 11,
       "draw": "R32 — TBD",
-      "note": "Veteran star with renewed confidence"
+      "note": "Led women's team to Asian Games quarters"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -49,28 +49,28 @@
       "discipline": "Men's Singles",
       "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Dynamic singles talent looking for a deep run"
+      "note": "Crucial singles win in Asian Games team event"
+    },
+    {
+      "name": "Dhruv & Tanisha",
+      "discipline": "Mixed Doubles",
+      "rank": 15,
+      "draw": "R32 — TBD",
+      "note": "Rising mixed doubles pair seeking breakthrough performance"
     },
     {
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Promising young pair building international experience"
-    },
-    {
-      "name": "Dhruv & Tanisha",
-      "discipline": "Mixed Doubles",
-      "rank": 19,
-      "draw": "R32 — TBD",
-      "note": "Rising mixed doubles pair seeking breakthrough performance"
+      "note": "Secured a win in Asian Games women's team quarters"
     },
     {
       "name": "Ayush Shetty",
       "discipline": "Men's Singles",
       "rank": 20,
       "draw": "R32 — TBD",
-      "note": "Young talent eager to make an impact"
+      "note": "Secured a vital win in Asian Games men's team quarters"
     },
     {
       "playerSlug": "hs-prannoy",
