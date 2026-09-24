@@ -1,9 +1,9 @@
 {
-  "tag": "RESULT",
-  "event": "Asian Games 2026 Men's Team Semifinals",
-  "discipline": "Men's Doubles",
-  "winner": "Satwiksairaj Rankireddy / Chirag Shetty",
-  "loser": "Liang Wei Keng / Wang Chang",
-  "score": "21-11, 22-20",
-  "when": "Today"
+  "tag": "SEMIFINALISTS",
+  "event": "Asian Games 2026",
+  "discipline": "Men's Team",
+  "winner": "China",
+  "loser": "India",
+  "score": "3-1",
+  "when": "Earlier Today"
 }
