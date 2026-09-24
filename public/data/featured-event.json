@@ -24,39 +24,32 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event offers India's top shuttlers a crucial opportunity to consolidate their form, chase individual titles, and gather valuable ranking points following the intensity of the Asian Games.",
-  "summary": "India's shuttlers arrive at the Arctic Open, a Super 500 event, looking to build on—or rebound from—their recent Asian Games campaign. The men's team delivered a commendable performance, securing a bronze medal after a hard-fought semifinal loss to defending champions China. Key players like Lakshya Sen, Ayush Shetty, and the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty were instrumental in this historic achievement, marking India's second badminton medal in the Games' history.\n\nOn the women's side, the campaign ended in the quarter-finals with a 1-3 defeat to Japan. While PV Sindhu led the charge, only the promising women's doubles pair of Treesa Jolly and Gayatri Gopichand managed to secure a win in that tie. With no specific draws announced for the Arctic Open yet, the Indian contingent will be eager to translate their team event experiences into strong individual showings in Finland.",
+  "stakes": "This week, India's shuttlers aim to translate their Asian Games team success into individual glory and crucial ranking points at the Arctic Open.",
+  "summary": "India's badminton contingent arrives at the Arctic Open, a Super 500 event, carrying the momentum from a solid showing at the Asian Games. The men's team notably clinched a bronze medal, with the formidable duo of **Satwiksairaj Rankireddy & Chirag Shetty** delivering a crucial doubles victory against China in the semifinals. While the specific draw for the Arctic Open is yet to be revealed, the Indian shuttlers are poised to build on this recent success.\n\n**PV Sindhu** and **Lakshya Sen**, key figures in India's singles aspirations, will be looking for strong individual runs. Sindhu, who spearheaded the women's team to the Asian Games quarterfinals, and Sen, instrumental in the men's team's bronze, aim to translate their team contributions into deep tournament runs. Emerging talents like **Ayush Shetty** and **Malvika Bansod** will also be seeking valuable experience and aiming for breakthrough performances at this competitive level.\n\nThis tournament offers a vital platform for these players to maintain their form, refine their strategies, and accumulate essential ranking points as the season progresses. The focus will be on consistency and challenging the top contenders in what is expected to be a fiercely contested field.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "rank": 4,
+      "rank": 5,
       "draw": "R32 — TBD",
       "note": "Asian Games men's team bronze medalists"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Crucial in Asian Games men's team bronze"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 10,
+      "rank": 11,
       "draw": "R32 — TBD",
       "note": "Led women's team to Asian Games quarters"
     },
     {
-      "name": "Dhruv & Tanisha",
-      "discipline": "Mixed Doubles",
-      "rank": 16,
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Rising mixed doubles pair seeking breakthrough"
+      "note": "Crucial in Asian Games men's team bronze"
     },
     {
       "name": "Treesa & Gayatri",
@@ -64,6 +57,13 @@
       "rank": 16,
       "draw": "R32 — TBD",
       "note": "Secured a win in Asian Games women's team quarters"
+    },
+    {
+      "name": "Dhruv & Tanisha",
+      "discipline": "Mixed Doubles",
+      "rank": 19,
+      "draw": "R32 — TBD",
+      "note": "Rising mixed doubles pair seeking breakthrough"
     },
     {
       "name": "Ayush Shetty",
