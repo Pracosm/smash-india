@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event offers India's shuttlers a crucial opportunity to rebound from the Asian Games, gather valuable ranking points, and fine-tune their form ahead of a busy end-of-year schedule.",
-  "summary": "India's badminton contingent heads into the Arctic Open fresh off a mixed bag of results at the Asian Games. The men's team, featuring Lakshya Sen, Ayush Shetty, and HS Prannoy, clinched a commendable bronze medal, showcasing depth and resilience. However, the individual events brought some challenges—the world No. 5 men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, a key part of the bronze-winning team, suffered an unexpected early exit in their individual campaign, a result they'll undoubtedly be keen to bounce back from. PV Sindhu, who led the women's team to the quarterfinals, will be looking to build momentum in Finland, especially after a \"tough draw\" at the Asian Games. With the draw for this Super 500 event yet to be released, all eyes are on how India's top shuttlers will navigate the field. Rising pairs like Treesa Jolly & Gayatri Gopichand and Dhruv Kapila & Tanisha Crasto will also be eager to make their mark and gain crucial ranking points on the European circuit, aiming for breakthroughs against a strong international lineup.",
+  "stakes": "Coming off varied Asian Games performances, India's shuttlers eye the Arctic Open for crucial ranking points and a chance to build momentum ahead of the Olympic qualification push.",
+  "summary": "India's badminton contingent arrives at the Arctic Open, a Super 500 event, fresh off a mixed bag of performances at the Asian Games. For many, this tournament in Vantaa offers a swift opportunity to either consolidate recent gains or quickly rebound from early setbacks. Men's doubles stalwarts Satwik & Chirag, despite contributing to the men's team bronze, will be eager to shake off their unexpected first-round individual exit in the Asian Games. Meanwhile, PV Sindhu, buoyed by her recent Super 750 title and an advance to the second round at the Asian Games, looks set to continue her strong individual run. Ayush Shetty also showed promise by advancing in the men's singles.\n\nOn the flip side, Lakshya Sen will be keen to put his Asian Games second-round exit behind him and find his rhythm. A significant boost comes from the women's doubles pair of Treesa & Gayatri, who are riding high after reaching the Asian Games quarterfinals, notably defeating the formidable World No. 3 Japanese duo along the way—a performance that signals their growing prowess. Emerging talents like Malvika Bansod and the mixed doubles pair of Dhruv & Tanisha, alongside the experienced HS Prannoy, will also be vying for deep runs to gather vital ranking points and build momentum as the season progresses. The Arctic Open is more than just another stop on the tour; it's a critical proving ground for India's shuttle stars.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -41,7 +41,7 @@
       "discipline": "Women's Singles",
       "rank": 11,
       "draw": "R32 — TBD",
-      "note": "Led women's team to Asian Games quarters"
+      "note": "Advanced to second round at Asian Games"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -49,14 +49,15 @@
       "discipline": "Men's Singles",
       "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Crucial in Asian Games men's team bronze"
+      "note": "Recent second-round exit at Asian Games"
     },
     {
+      "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Secured a win in Asian Games women's team quarters"
+      "note": "Asian Games quarterfinalists, beat World No. 3"
     },
     {
       "name": "Dhruv & Tanisha",
@@ -70,7 +71,7 @@
       "discipline": "Men's Singles",
       "rank": 20,
       "draw": "R32 — TBD",
-      "note": "Contributed to Asian Games men's team bronze"
+      "note": "Advanced in Asian Games individual event"
     },
     {
       "playerSlug": "hs-prannoy",
