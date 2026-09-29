@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week's Arctic Open is a vital opportunity for India's shuttlers to rebound from their Asian Games disappointment and build crucial momentum for the remainder of the season.",
-  "summary": "India's badminton contingent heads into the Arctic Open with a point to prove, fresh off an \"underwhelming performance\" at the recent Asian Games. The campaign in Nagoya saw several key players exit prematurely, with systemic flaws and gruelling schedules highlighted as contributing factors. PV Sindhu, for instance, faced a particularly brutal run of \"three matches in 18 hours\" before her quarterfinal exit, a challenge that \"took a toll\" on the former world champion.\n\nThe doubles pairs also faced disappointment, with both Treesa Jolly & Gayatri Gopichand and Dhruv Kapila & Tanisha Crasto bowing out in their respective quarterfinals. While the men's team secured a bronze at the Asian Games, individual glory remained elusive. This Super 500 event in Vantaa offers a crucial opportunity for India's top shuttlers—including the formidable men's doubles pair of Satwiksairaj Rankireddy & Chirag Shetty, and men's singles hopefuls Lakshya Sen and HS Prannoy—to reset, regain momentum, and demonstrate their true potential on the international stage.",
+  "stakes": "Coming off the demanding Asian Games, the Arctic Open is a critical opportunity for India's shuttlers to regroup, earn valuable Super 500 points, and build momentum for the remainder of the season.",
+  "summary": "India's badminton contingent heads to the Arctic Open after a mixed bag at the Asian Games. The demanding schedule in Nagoya has clearly taken a toll on some, notably PV Sindhu, who voiced concerns about playing three matches in 18 hours before her quarterfinal exit. This Super 500 event offers a chance to reset and build momentum.\n\nMen's doubles pair Satwiksairaj Rankireddy and Chirag Shetty, fresh off a men's team bronze at the Asian Games, will be looking to make a deep run. Lakshya Sen, who had an early exit in Nagoya, will be keen to find his rhythm. Youngsters like Ayush Shetty and Malvika Bansod continue to gain valuable experience on the international circuit.\n\nThe women's doubles pair of Treesa Jolly and Gayatri Gopichand, along with mixed doubles duo Dhruv Kapila and Tanisha Crasto, both reached the quarterfinals at the Asian Games. Their performances in Finland will be crucial for their continued ascent in the world rankings. HS Prannoy, also part of the bronze-winning men's team, will aim for a strong individual showing.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -41,7 +41,7 @@
       "discipline": "Women's Singles",
       "rank": 11,
       "draw": "R32 — TBD",
-      "note": "Gruelling Asian Games schedule, quarterfinal exit"
+      "note": "Battling fatigue after gruelling Asian Games"
     },
     {
       "playerSlug": "lakshya-sen",
@@ -49,7 +49,7 @@
       "discipline": "Men's Singles",
       "rank": 14,
       "draw": "R32 — TBD",
-      "note": "Recent second-round exit at Asian Games"
+      "note": "Seeking form after early Asian Games exit"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -57,21 +57,21 @@
       "discipline": "Women's Doubles",
       "rank": 16,
       "draw": "R32 — TBD",
-      "note": "Asian Games quarterfinalists, lost in doubles QF"
+      "note": "Asian Games quarterfinalists, aiming higher"
     },
     {
       "name": "Dhruv & Tanisha",
       "discipline": "Mixed Doubles",
       "rank": 19,
       "draw": "R32 — TBD",
-      "note": "Asian Games quarterfinalists, lost in doubles QF"
+      "note": "Asian Games quarterfinalists, building consistency"
     },
     {
       "name": "Ayush Shetty",
       "discipline": "Men's Singles",
       "rank": 20,
       "draw": "R32 — TBD",
-      "note": "Advanced in Asian Games individual event"
+      "note": "Promising talent gaining Super 500 exposure"
     },
     {
       "playerSlug": "hs-prannoy",
@@ -79,7 +79,7 @@
       "discipline": "Men's Singles",
       "rank": 24,
       "draw": "R32 — TBD",
-      "note": "Part of Asian Games men's team bronze"
+      "note": "Key member of Asian Games bronze team"
     },
     {
       "playerSlug": "malvika-bansod",
@@ -87,7 +87,7 @@
       "discipline": "Women's Singles",
       "rank": 31,
       "draw": "R32 — TBD",
-      "note": "Emerging singles player gaining valuable exposure"
+      "note": "Emerging singles player seeking breakthrough"
     }
   ]
 }
