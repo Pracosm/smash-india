@@ -1,52 +1,62 @@
 [
   {
-    "slug": "india-shines-asian-games-day-15-multiple-gold-medals",
-    "kicker": "Result",
-    "title": "India Shines on Asian Games Day 15 with Multiple Gold Medals",
-    "time": "3h ago",
-    "read": "3 min",
-    "importance_score": 9,
-    "indian_angle": "India secured several gold medals across various sports, highlighting a strong performance on the penultimate day of the Asian Games.",
-    "summary": "Day 15 of the Asian Games 2026 saw India clinch historic golds through Kumkum and Pranavi, along with Aman's wrestling gold and the men's cricket team's triumph."
-  },
-  {
-    "slug": "pranavi-urs-wins-historic-gold-asian-games-golf-womens-team-silver",
-    "kicker": "Result",
-    "title": "Pranavi Urs Wins Historic Gold in Asian Games Golf, Women's Team Takes Silver",
-    "time": "9h ago",
+    "slug": "mascot-competition-bwf-world-championships-2026",
+    "kicker": "Feature",
+    "title": "India Invites Designs for BWF World Championships 2026 Mascot",
+    "time": "2d ago",
     "read": "2 min",
-    "importance_score": 8,
-    "indian_angle": "Pranavi Urs became the first Indian woman golfer to win an Asian Games gold, with the women's team also securing a silver medal.",
-    "summary": "Pranavi Urs overcame an early triple bogey to secure India's first women's golf gold at the Asian Games, while the Indian women's team earned a silver."
+    "importance_score": 7,
+    "indian_angle": "India is hosting the BWF World Championships 2026, and this competition involves Indian public participation in its promotion.",
+    "summary": "The Badminton Association of India has launched a mascot design competition for the upcoming BWF World Championships 2026, which India will host."
   },
   {
-    "slug": "kumkum-mohod-clinches-historic-recurve-gold-olympic-quota-asian-games",
-    "kicker": "Result",
-    "title": "Kumkum Mohod Clinches Historic Recurve Gold and Olympic Quota at Asian Games",
-    "time": "6h ago",
-    "read": "2 min",
-    "importance_score": 9,
-    "indian_angle": "Kumkum Mohod made history as the first Indian woman to win an individual recurve Asian Games medal, also securing an Olympic quota for India.",
-    "summary": "17-year-old Kumkum Mohod delivered a stellar performance to win individual recurve gold and an Olympic quota, a significant achievement for Indian archery."
-  },
-  {
-    "slug": "aman-clinches-gold-mens-57kg-freestyle-wrestling-asian-games",
-    "kicker": "Result",
-    "title": "Aman Clinches Gold in Men's 57kg Freestyle Wrestling at Asian Games",
-    "time": "4h ago",
-    "read": "1 min",
-    "importance_score": 8,
-    "indian_angle": "Aman secured a gold medal for India in the men's 57kg freestyle wrestling, adding to his previous Asian Games bronze.",
-    "summary": "Aman won his second Asian Games medal, upgrading his previous bronze to a gold in the men's 57kg freestyle wrestling event."
-  },
-  {
-    "slug": "india-defeats-pakistan-19-runs-win-asian-games-cricket-gold",
-    "kicker": "Match Report",
-    "title": "India Defeats Pakistan by 19 Runs to Win Asian Games Cricket Gold",
-    "time": "5h ago",
+    "slug": "national-coaching-camp-bwf-world-junior-championships",
+    "kicker": "Domestic",
+    "title": "Junior Shuttlers Train in Guwahati for World Championships",
+    "time": "9d ago",
     "read": "3 min",
-    "importance_score": 10,
-    "indian_angle": "The Indian men's cricket team secured a gold medal at the Asian Games by defeating arch-rivals Pakistan in the final.",
-    "summary": "India claimed the Asian Games men's cricket gold, beating Pakistan by 19 runs in a thrilling final match."
+    "importance_score": 6,
+    "indian_angle": "This camp prepares India's top junior shuttlers for the upcoming BWF World Junior Championships in Cairo, Egypt.",
+    "summary": "A national coaching camp is currently underway at the National Center of Excellence in Guwahati, preparing Indian junior players for the BWF World Junior Championships 2026."
+  },
+  {
+    "slug": "applications-for-players-of-outstanding-merit",
+    "kicker": "Domestic",
+    "title": "BAI Opens Applications for Players of Outstanding Merit",
+    "time": "25d ago",
+    "read": "2 min",
+    "importance_score": 3,
+    "indian_angle": "This notification allows Indian players who have demonstrated exceptional talent to apply for special recognition or support from BAI.",
+    "summary": "The Badminton Association of India has invited applications from players demonstrating outstanding merit, likely for special programs or recognition."
+  },
+  {
+    "slug": "bai-level-1-advanced-coaches-course-guwahati-raipur",
+    "kicker": "Domestic",
+    "title": "Advanced Coaches Course Held in Guwahati and Raipur",
+    "time": "1m ago",
+    "read": "3 min",
+    "importance_score": 4,
+    "indian_angle": "This course aims to enhance the skills of Indian badminton coaches, which is vital for developing future national and international players.",
+    "summary": "BAI conducted an advanced Level-1 Coaches Course across two national centers, Guwahati and Raipur, from September 14th to 23rd, 2026."
+  },
+  {
+    "slug": "indian-team-coaching-camp-badminton-asia-u17-u15",
+    "kicker": "Domestic",
+    "title": "India's U17 & U15 Teams Camp for Asia Junior Championships",
+    "time": "2m ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This camp is crucial for preparing young Indian talent for the Badminton Asia U17 & U15 Junior Championships, fostering future champions.",
+    "summary": "The Indian junior team for the Badminton Asia U17 & U15 Junior Championships 2026 underwent a coaching camp at the National Center of Excellence in Guwahati."
+  },
+  {
+    "slug": "3x15-scoring-system-domestic-junior-tournaments",
+    "kicker": "Domestic",
+    "title": "New 3x15 Scoring System Adopted for Junior Domestic Events",
+    "time": "3m ago",
+    "read": "4 min",
+    "importance_score": 5,
+    "indian_angle": "This significant rule change in domestic junior tournaments will impact how young Indian players compete and train, aligning with international trends.",
+    "summary": "BAI has announced the implementation of the 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and national championships."
   }
 ]
