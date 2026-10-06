@@ -1,62 +1,52 @@
 [
   {
-    "slug": "mascot-competition-bwf-world-championships-2026",
-    "kicker": "Event",
-    "title": "India Invites Designs for BWF World Championships 2026 Mascot",
-    "time": "1w ago",
+    "slug": "pv-sindhu-arctic-open-second-round",
+    "kicker": "Match Report",
+    "title": "PV Sindhu Advances to Arctic Open Second Round",
+    "time": "Today",
     "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "India is set to host the prestigious BWF World Championships in 2026, and this competition engages Indian creativity in the event's branding.",
-    "summary": "Badminton India has announced a mascot design competition for the upcoming BWF World Championships 2026, which will be held in India, inviting creative submissions to represent the global event."
+    "indian_angle": "India's top women's singles player PV Sindhu secured a comfortable win to progress in a Super 500 event.",
+    "summary": "Sindhu eased past Canada’s Wen Yu Zhang in straight games at the Arctic Open, with Tharun Mannepalli and Rounak Chouhan also making it through qualifying."
   },
   {
-    "slug": "national-coaching-camp-world-junior-championships-2026",
+    "slug": "national-coaching-camp-bwf-world-junior-championships-2026",
     "kicker": "Domestic",
-    "title": "Junior National Coaching Camp Underway for World Championships",
+    "title": "National Coaching Camp Underway for BWF World Junior Championships",
     "time": "12d ago",
     "read": "3 min",
     "importance_score": 6,
-    "indian_angle": "This camp at NCE Guwahati is crucial for preparing India's top junior talent for the upcoming BWF World Junior Championships.",
-    "summary": "A national coaching camp for the BWF World Junior Championships 2026 is currently in progress at the National Centre of Excellence (NCE) in Guwahati, focusing on honing the skills of India's promising young shuttlers."
+    "indian_angle": "This camp is crucial for preparing India's young talent for the upcoming BWF World Junior Championships in Cairo.",
+    "summary": "A national coaching camp is being held at NCE, Guwahati, to prepare Indian shuttlers for the BWF World Junior Championships 2026 in Cairo, Egypt."
   },
   {
-    "slug": "bai-level-1-advanced-coaches-course",
+    "slug": "bai-level-1-advanced-coaches-course-guwahati-raipur",
     "kicker": "Feature",
-    "title": "BAI Hosts Advanced Level-1 Coaches Course in Guwahati and Raipur",
+    "title": "BAI Hosts Advanced Level 1 Coaches Course in Guwahati and Raipur",
     "time": "1m ago",
     "read": "3 min",
     "importance_score": 5,
-    "indian_angle": "The course aims to elevate the coaching standards across India, directly impacting the development of future Indian badminton players.",
-    "summary": "Badminton Association of India (BAI) conducted a Level-1 (Advanced) Coaches Course at the National Centre of Excellence in Guwahati and Raipur from September 14th to 23rd, 2026, to enhance coaching expertise."
+    "indian_angle": "The course aims to enhance the quality of badminton coaching across India, benefitting future generations of players.",
+    "summary": "BAI is conducting a Level -1 (Advanced) Coaches Course at National Center of Excellence, Guwahati, and Raipur from September 14th to 23rd, 2026."
+  },
+  {
+    "slug": "indian-team-coaching-camp-badminton-asia-u17-u15-junior-championships",
+    "kicker": "Domestic",
+    "title": "Indian Junior Team Camps for Badminton Asia U17 & U15 Championships",
+    "time": "2m ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "These camps are vital for developing India's promising U17 and U15 players for international competition.",
+    "summary": "Coaching camps for the Indian team are being held at the National Center of Excellence, Guwahati, in preparation for the Badminton Asia U17 & U15 Junior Championships 2026."
   },
   {
     "slug": "regulations-inter-state-team-championships-2026",
     "kicker": "Domestic",
-    "title": "New Regulations Issued for Inter State Team Championships 2026",
+    "title": "Regulations Released for Inter State Team Championships 2026",
     "time": "1m ago",
     "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "These regulations govern one of India's key domestic team events, crucial for state-level competition and player identification.",
-    "summary": "The Badminton Association of India has released the official regulations for the Inter State Team Championships 2026, outlining the rules and guidelines for the upcoming domestic competition."
-  },
-  {
-    "slug": "womens-doubles-pair-change-junior-world-championships-trials",
-    "kicker": "Selection",
-    "title": "Women's Doubles Pair Change Notified for Junior Worlds Selection Trials",
-    "time": "2m ago",
-    "read": "2 min",
     "importance_score": 4,
-    "indian_angle": "This change impacts the composition of potential Indian women's doubles pairs vying for a spot in the BWF World Junior Championships.",
-    "summary": "An important notification regarding a change in a Women's Doubles pair for the selection trials of the VICTOR BWF World Junior Championships 2026 has been issued by BAI."
-  },
-  {
-    "slug": "advisory-unauthorized-badminton-leagues",
-    "kicker": "Regulatory",
-    "title": "BAI Issues Advisory Against Unauthorized Badminton Leagues and Tournaments",
-    "time": "3m ago",
-    "read": "3 min",
-    "importance_score": 6,
-    "indian_angle": "This advisory directly addresses concerns about unregulated events within India, protecting players and the sport's integrity.",
-    "summary": "The Badminton Association of India has released an advisory warning against participation in unauthorized badminton leagues, tournaments, and championships, emphasizing the importance of sanctioned events."
+    "indian_angle": "The release of these regulations sets the framework for one of India's key domestic team badminton competitions.",
+    "summary": "Badminton Association of India has released the regulations for the upcoming Inter State Team Championships 2026."
   }
 ]
