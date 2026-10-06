@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week offers India's shuttlers a vital opportunity to accumulate crucial ranking points and build momentum in a Super 500 event, setting the tone for the remainder of the season.",
-  "summary": "As the badminton world shifts focus to the Arctic Open, India's contingent arrives in Vantaa with a mix of post-Asian Games momentum and lingering questions. While the draw for this Super 500 event is yet to be revealed, top men's doubles pair Satwiksairaj Rankireddy and Chirag Shetty are expected to lead the charge as the top seeds, fresh off their Asian Games men's team bronze. Their consistency will be crucial in a field looking to make a mark before the season's end.\n\nElsewhere, the singles players face their own challenges. PV Sindhu, a seasoned campaigner, will be battling potential fatigue after a gruelling Asian Games schedule, while Lakshya Sen is keen to rediscover his best form following an early exit in Hangzhou. Promising talents like Ayush Shetty and Malvika Bansod will look to leverage this Super 500 platform for valuable experience and ranking points, aiming for breakthroughs against a competitive international roster. The lack of specific draw details means anticipation is high for what promises to be an intriguing week for Indian badminton.",
+  "stakes": "This Arctic Open represents a vital opportunity for India's shuttlers to consolidate rankings, regain form, and build crucial momentum on the international circuit after the Asian Games.",
+  "summary": "India's badminton contingent arrives at the Arctic Open, a Super 500 event, looking to build momentum after a mixed bag at the recent Asian Games. Men's Doubles top seeds Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Asian Games bronze, will be aiming for a strong showing to solidify their world No. 5 ranking. Their consistent performance makes them key contenders.\n\nIn singles, PV Sindhu (world No. 11) and Lakshya Sen (world No. 14) face different challenges. Sindhu, battling fatigue post-Asian Games, will seek to find her rhythm and advance deep into the draw. Sen, on the other hand, needs to regain form after an early exit in the Asian Games, making this tournament crucial for his confidence. Emerging talents like Ayush Shetty (world No. 20) and Malvika Bansod (world No. 31) will look to gain valuable experience and potentially spring a surprise against higher-ranked opponents.\n\nThe doubles pairs of Treesa Jolly & Gayatri Gopichand (Women's Doubles) and Dhruv Kapila & Tanisha Crasto (Mixed Doubles), both Asian Games quarterfinalists, are focused on building consistency and pushing further in the Super 500 circuit. With the draw yet to be announced, all Indian shuttlers will be keenly anticipating their opening round matchups, hoping for a favourable path to the later stages of the tournament.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -37,20 +37,20 @@
       "note": "Asian Games men's team bronze medalists"
     },
     {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Seeking form after early Asian Games exit"
-    },
-    {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 11,
       "draw": "R32 — TBD",
       "note": "Battling fatigue after gruelling Asian Games"
+    },
+    {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 14,
+      "draw": "R32 — TBD",
+      "note": "Seeking form after early Asian Games exit"
     },
     {
       "playerSlug": "treesa-gayatri",
