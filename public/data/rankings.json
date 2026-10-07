@@ -9,9 +9,9 @@
   {
     "disc": "Women's Singles",
     "name": "P. V. Sindhu",
-    "rank": 11,
+    "rank": 10,
     "move": "same",
-    "pts": "64,151"
+    "pts": "65,951"
   },
   {
     "disc": "Men's Singles",
@@ -22,16 +22,30 @@
   },
   {
     "disc": "Mixed Doubles",
-    "name": "Dhruv & Tanisha",
+    "name": "Dhruv Kapila & Tanisha Crasto",
+    "rank": 18,
+    "move": "same",
+    "pts": "51,200"
+  },
+  {
+    "disc": "Women's Singles",
+    "name": "Unnati Hooda",
     "rank": 19,
     "move": "same",
-    "pts": "47,600"
+    "pts": "50,480"
   },
   {
     "disc": "Men's Singles",
     "name": "Ayush Shetty",
     "rank": 20,
     "move": "same",
-    "pts": "50,759"
+    "pts": "52,899"
+  },
+  {
+    "disc": "Women's Doubles",
+    "name": "Treesa & Gayatri",
+    "rank": 20,
+    "move": "same",
+    "pts": "49,122"
   }
 ]
