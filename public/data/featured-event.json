@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Arctic Open represents a vital opportunity for India's shuttlers to consolidate rankings, regain form, and build crucial momentum on the international circuit after the Asian Games.",
-  "summary": "India's badminton contingent arrives at the Arctic Open, a Super 500 event, looking to build momentum after a mixed bag at the recent Asian Games. Men's Doubles top seeds Satwiksairaj Rankireddy and Chirag Shetty, fresh off their Asian Games bronze, will be aiming for a strong showing to solidify their world No. 5 ranking. Their consistent performance makes them key contenders.\n\nIn singles, PV Sindhu (world No. 11) and Lakshya Sen (world No. 14) face different challenges. Sindhu, battling fatigue post-Asian Games, will seek to find her rhythm and advance deep into the draw. Sen, on the other hand, needs to regain form after an early exit in the Asian Games, making this tournament crucial for his confidence. Emerging talents like Ayush Shetty (world No. 20) and Malvika Bansod (world No. 31) will look to gain valuable experience and potentially spring a surprise against higher-ranked opponents.\n\nThe doubles pairs of Treesa Jolly & Gayatri Gopichand (Women's Doubles) and Dhruv Kapila & Tanisha Crasto (Mixed Doubles), both Asian Games quarterfinalists, are focused on building consistency and pushing further in the Super 500 circuit. With the draw yet to be announced, all Indian shuttlers will be keenly anticipating their opening round matchups, hoping for a favourable path to the later stages of the tournament.",
+  "stakes": "This Super 500 event offers India's top shuttlers a vital opportunity to gain crucial ranking points and build momentum in the lead-up to the season's major tournaments.",
+  "summary": "India's badminton contingent arrives in Vantaa for the Arctic Open, a Super 500 event that promises crucial ranking points and a chance to build momentum. Leading the charge are the top-seeded men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, who are fresh from their Asian Games men's team bronze. They'll be eager to assert their dominance and continue their impressive run.In the singles categories, PV Sindhu (WR 10) and Lakshya Sen (WR 14) are key figures. Sindhu is navigating the tournament battling fatigue after a gruelling Asian Games campaign, while Sen is actively seeking to regain his peak form following an early exit in Hangzhou. HS Prannoy (WR 24), a vital member of the Asian Games bronze-winning team, will also be aiming for a strong individual showing. The doubles contingent includes Treesa Jolly and Gayatri Gopichand (WR 20), Asian Games quarterfinalists looking to climb higher, and the mixed doubles pair of Dhruv Kapila and Tanisha Crasto (WR 18), focused on building consistency. Promising young talents like Ayush Shetty (WR 20) in men's singles and Malvika Bansod (WR 31) in women's singles are also part of the squad, gaining valuable Super 500 exposure against a competitive international field. The draw for the main rounds is still pending, with all Indian shuttlers awaiting their first-round opponents.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -40,7 +40,7 @@
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 11,
+      "rank": 10,
       "draw": "R32 — TBD",
       "note": "Battling fatigue after gruelling Asian Games"
     },
@@ -53,17 +53,9 @@
       "note": "Seeking form after early Asian Games exit"
     },
     {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 16,
-      "draw": "R32 — TBD",
-      "note": "Asian Games quarterfinalists, aiming higher"
-    },
-    {
       "name": "Dhruv & Tanisha",
       "discipline": "Mixed Doubles",
-      "rank": 19,
+      "rank": 18,
       "draw": "R32 — TBD",
       "note": "Asian Games quarterfinalists, building consistency"
     },
@@ -73,6 +65,14 @@
       "rank": 20,
       "draw": "R32 — TBD",
       "note": "Promising talent gaining Super 500 exposure"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 20,
+      "draw": "R32 — TBD",
+      "note": "Asian Games quarterfinalists, aiming higher"
     },
     {
       "playerSlug": "hs-prannoy",
