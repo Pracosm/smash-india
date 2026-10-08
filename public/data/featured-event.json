@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event offers India's top shuttlers a vital opportunity to gain crucial ranking points and build momentum in the lead-up to the season's major tournaments.",
-  "summary": "India's badminton contingent arrives in Vantaa for the Arctic Open, a Super 500 event that promises crucial ranking points and a chance to build momentum. Leading the charge are the top-seeded men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, who are fresh from their Asian Games men's team bronze. They'll be eager to assert their dominance and continue their impressive run.In the singles categories, PV Sindhu (WR 10) and Lakshya Sen (WR 14) are key figures. Sindhu is navigating the tournament battling fatigue after a gruelling Asian Games campaign, while Sen is actively seeking to regain his peak form following an early exit in Hangzhou. HS Prannoy (WR 24), a vital member of the Asian Games bronze-winning team, will also be aiming for a strong individual showing. The doubles contingent includes Treesa Jolly and Gayatri Gopichand (WR 20), Asian Games quarterfinalists looking to climb higher, and the mixed doubles pair of Dhruv Kapila and Tanisha Crasto (WR 18), focused on building consistency. Promising young talents like Ayush Shetty (WR 20) in men's singles and Malvika Bansod (WR 31) in women's singles are also part of the squad, gaining valuable Super 500 exposure against a competitive international field. The draw for the main rounds is still pending, with all Indian shuttlers awaiting their first-round opponents.",
+  "stakes": "This week, India's shuttlers are looking to translate recent Asian Games experience into strong individual performances and crucial ranking points on the European circuit.",
+  "summary": "India's campaign at the Arctic Open, a Super 500 event, sees P.V. Sindhu leading the charge, having successfully navigated her way into the quarterfinals. She's set for a tough encounter against Thailand's Ratchanok Intanon, a match that will test her resilience after a demanding Asian Games schedule. Her progress offers a glimmer of hope for the Indian contingent, many of whom are looking to regain form or build momentum post-Hangzhou.\n\nWhile Sindhu shines, the draw details for other key Indian players remain largely unconfirmed beyond the initial rounds. Men's Doubles top seeds Satwik & Chirag, along with Men's Singles hopefuls Lakshya Sen and Ayush Shetty, are all poised to begin their challenges. Similarly, Mixed Doubles pair Dhruv & Tanisha and Women's Doubles duo Treesa & Gayatri will be eager to make their mark. The Arctic Open presents a crucial opportunity for these shuttlers to gather valuable ranking points and find their rhythm as the season progresses.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -41,7 +41,7 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R32 — TBD",
+      "draw": "Quarters vs Ratchanok Intanon (THA)",
       "note": "Battling fatigue after gruelling Asian Games"
     },
     {
@@ -83,7 +83,6 @@
       "note": "Key member of Asian Games bronze team"
     },
     {
-      "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
