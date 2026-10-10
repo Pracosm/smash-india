@@ -35,17 +35,17 @@
     "pts": "50,480"
   },
   {
+    "disc": "Women's Doubles",
+    "name": "Treesa & Gayatri",
+    "rank": 19,
+    "move": "same",
+    "pts": "49,122"
+  },
+  {
     "disc": "Men's Singles",
     "name": "Ayush Shetty",
     "rank": 20,
     "move": "same",
     "pts": "52,899"
-  },
-  {
-    "disc": "Women's Doubles",
-    "name": "Treesa & Gayatri",
-    "rank": 20,
-    "move": "same",
-    "pts": "49,122"
   }
 ]

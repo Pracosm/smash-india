@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Arctic Open is a critical opportunity for India's shuttlers to recalibrate after the Asian Games, seeking individual breakthroughs and consistent form on the international circuit.",
-  "summary": "The Arctic Open, a Super 500 event, arrives swiftly after a mixed bag for India at the Asian Games 2026. While the men's team secured a commendable bronze medal, individual events saw some unexpected exits and a campaign that \"failed to meet expectations.\" Players like Satwik & Chirag, who were part of the bronze-winning team, experienced a \"shock exit\" in their individual event at the Games, highlighting the challenges of a packed schedule and intense competition.PV Sindhu, a seasoned campaigner, is likely battling the fatigue that often follows such gruelling multi-sport events. Similarly, Lakshya Sen will be keen to find his rhythm after an early exit in Hangzhou. This tournament offers a crucial opportunity for India's top shuttlers to regroup, build momentum, and fine-tune their strategies, especially for those looking to bounce back from the Asian Games' individual disappointments.Emerging talents like Ayush Shetty, Dhruv & Tanisha, and Treesa & Gayatri, who showed promise with quarterfinal finishes at the Asian Games, will be looking to leverage this Super 500 platform for consistent performances and further climb the world rankings. The short turnaround demands resilience and adaptability, making every match a vital step in their post-Asian Games trajectory.",
+  "stakes": "This Super 500 event is a crucial platform for India's shuttlers to consolidate ranking points, build confidence post-Asian Games, and fine-tune their game for the demanding season ahead.",
+  "summary": "India's badminton contingent at the Arctic Open, a Super 500 event, presents a fascinating mix of seasoned campaigners and burgeoning talents looking to make their mark. Men's Doubles top seeds Satwiksairaj Rankireddy and Chirag Shetty lead the charge, aiming to build on their recent Asian Games bronze medal performance. Their consistent high-level play makes them strong contenders, though their opening round opponent remains TBD. \n\nPV Sindhu, battling fatigue after a gruelling Asian Games campaign, finds herself in the quarter-finals, facing a tough challenge against Thailand's Ratchanok Intanon. Her ability to navigate this draw will be a key indicator of her form. Meanwhile, Lakshya Sen and HS Prannoy, both integral to India's men's team bronze at the Asian Games, are seeking to regain individual momentum after mixed results. Young prospects like Ayush Shetty and Malvika Bansod are gaining crucial Super 500 exposure, while the doubles pairs of Treesa Jolly & Gayatri Gopichand, and Dhruv Kapila & Tanisha Crasto, look to solidify their consistency after promising Asian Games quarter-final runs. The draw for most remains unannounced, adding an element of anticipation as the tournament progresses.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -55,9 +55,17 @@
     {
       "name": "Dhruv & Tanisha",
       "discipline": "Mixed Doubles",
-      "rank": 17,
+      "rank": 18,
       "draw": "R32 — TBD",
       "note": "Asian Games quarterfinalists, building consistency"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 19,
+      "draw": "R32 — TBD",
+      "note": "Asian Games quarterfinalists, aiming higher"
     },
     {
       "name": "Ayush Shetty",
@@ -65,14 +73,6 @@
       "rank": 20,
       "draw": "R32 — TBD",
       "note": "Promising talent gaining Super 500 exposure"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 20,
-      "draw": "R32 — TBD",
-      "note": "Asian Games quarterfinalists, aiming higher"
     },
     {
       "playerSlug": "hs-prannoy",
@@ -83,6 +83,7 @@
       "note": "Key member of Asian Games bronze team"
     },
     {
+      "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
