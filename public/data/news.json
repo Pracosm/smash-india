@@ -1,32 +1,52 @@
 [
   {
-    "slug": "no-indian-badminton-news-found-in-sources",
-    "kicker": "Result",
-    "title": "No Indian Badminton News Available In Provided Sources",
-    "time": "Today",
-    "read": "1 min",
-    "importance_score": 1,
-    "indian_angle": "The provided source texts did not contain any news items related to Indian badminton players, coaches, or events.",
-    "summary": "A thorough review of the provided news sources revealed no articles pertaining to Indian badminton, preventing the generation of a relevant newsfeed."
+    "slug": "bai-athletes-committee-formed",
+    "kicker": "Domestic",
+    "title": "BAI Announces Formation of New Athletes Committee",
+    "time": "8d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This committee ensures Indian badminton players have a direct voice in the administration of the sport within the country.",
+    "summary": "The Badminton Association of India has officially formed its new Athletes Committee, aiming to give players a stronger voice in the sport's governance."
   },
   {
-    "slug": "badminton-coverage-absent-for-indian-players",
-    "kicker": "Feature",
-    "title": "Badminton Coverage Absent For Indian Players In Current Feeds",
-    "time": "Today",
-    "read": "1 min",
-    "importance_score": 1,
-    "indian_angle": "Despite a search for Indian badminton talent, no specific updates on players or their performances were found in the source material.",
-    "summary": "No news articles featuring Indian badminton players or their recent activities could be extracted from the given source texts."
+    "slug": "national-junior-camp-world-championships-guwahati",
+    "kicker": "Preview",
+    "title": "Indian Juniors Train in Guwahati for BWF World Championships 2026",
+    "time": "16d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "The national coaching camp in Guwahati is crucial for preparing India's top junior talent for the upcoming BWF World Junior Championships.",
+    "summary": "India's promising junior shuttlers are currently undergoing an intensive national coaching camp at the National Center of Excellence in Guwahati, gearing up for the BWF World Junior Championships 2026."
   },
   {
-    "slug": "no-recent-indian-badminton-event-reports",
-    "kicker": "Match Report",
-    "title": "No Recent Indian Badminton Event Reports From Sources",
-    "time": "Today",
-    "read": "1 min",
-    "importance_score": 1,
-    "indian_angle": "Information regarding any recent Indian badminton events or tournaments was not present in the provided news feeds.",
-    "summary": "The news sources did not include any reports or previews for Indian badminton events, domestic or international, for the specified period."
+    "slug": "bai-advanced-coaches-course-guwahati-raipur",
+    "kicker": "Domestic",
+    "title": "BAI Concludes Advanced Level-1 Coaches Course in Guwahati and Raipur",
+    "time": "1m ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This course enhances the skills of Indian coaches, directly impacting the quality of training for future generations of Indian badminton players.",
+    "summary": "The Badminton Association of India successfully conducted its Level-1 (Advanced) Coaches Course across two National Centers of Excellence in Guwahati and Raipur, concluding on September 23rd."
+  },
+  {
+    "slug": "regulations-inter-state-team-championships-2026",
+    "kicker": "Domestic",
+    "title": "BAI Releases Regulations for Inter State Team Championships 2026",
+    "time": "1m ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "These regulations govern one of India's premier domestic team competitions, which is vital for identifying and developing talent across states.",
+    "summary": "The Badminton Association of India has published the official regulations for the highly anticipated Inter State Team Championships 2026, setting the stage for the upcoming domestic competition."
+  },
+  {
+    "slug": "new-3x15-scoring-system-domestic-junior-events",
+    "kicker": "Domestic",
+    "title": "BAI Adopts 3x15 Scoring System for Junior Domestic Tournaments",
+    "time": "3m ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "This new scoring system will be implemented across all U-13, U-15, and U-17 domestic ranking tournaments and national championships, directly impacting the development of young Indian shuttlers.",
+    "summary": "The Badminton Association of India has announced the implementation of a 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups."
   }
 ]
