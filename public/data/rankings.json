@@ -21,13 +21,6 @@
     "pts": "62,813"
   },
   {
-    "disc": "Women's Doubles",
-    "name": "Treesa & Gayatri",
-    "rank": 15,
-    "move": "same",
-    "pts": "49,122"
-  },
-  {
     "disc": "Mixed Doubles",
     "name": "Dhruv & Tanisha",
     "rank": 18,
@@ -47,5 +40,12 @@
     "rank": 20,
     "move": "same",
     "pts": "52,899"
+  },
+  {
+    "disc": "Women's Doubles",
+    "name": "Treesa & Gayatri",
+    "rank": 20,
+    "move": "same",
+    "pts": "49,122"
   }
 ]
