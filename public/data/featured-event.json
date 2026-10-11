@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event is a crucial platform for India's shuttlers to consolidate ranking points, build confidence post-Asian Games, and fine-tune their game for the demanding season ahead.",
-  "summary": "India's badminton contingent at the Arctic Open, a Super 500 event, presents a fascinating mix of seasoned campaigners and burgeoning talents looking to make their mark. Men's Doubles top seeds Satwiksairaj Rankireddy and Chirag Shetty lead the charge, aiming to build on their recent Asian Games bronze medal performance. Their consistent high-level play makes them strong contenders, though their opening round opponent remains TBD. \n\nPV Sindhu, battling fatigue after a gruelling Asian Games campaign, finds herself in the quarter-finals, facing a tough challenge against Thailand's Ratchanok Intanon. Her ability to navigate this draw will be a key indicator of her form. Meanwhile, Lakshya Sen and HS Prannoy, both integral to India's men's team bronze at the Asian Games, are seeking to regain individual momentum after mixed results. Young prospects like Ayush Shetty and Malvika Bansod are gaining crucial Super 500 exposure, while the doubles pairs of Treesa Jolly & Gayatri Gopichand, and Dhruv Kapila & Tanisha Crasto, look to solidify their consistency after promising Asian Games quarter-final runs. The draw for most remains unannounced, adding an element of anticipation as the tournament progresses.",
+  "stakes": "This Super 500 event offers a vital opportunity for India's shuttlers to gather crucial ranking points and build momentum as the season progresses.",
+  "summary": "The Arctic Open, a Super 500 event, serves as a crucial battleground for India's badminton contingent, though specific updates from the tournament itself have been sparse in recent reports. Leading the charge are top seeds Satwiksairaj Rankireddy and Chirag Shetty in men's doubles, who are undoubtedly looking to build on their recent Asian Games bronze medal performance and solidify their world ranking.\n\nIn singles, PV Sindhu, Lakshya Sen, and HS Prannoy are all aiming to find consistent form and make deep runs, crucial for both confidence and ranking points as the season progresses. Young talents like Ayush Shetty and Malvika Bansod are gaining invaluable Super 500 exposure, while the mixed and women's doubles pairs of Dhruv Kapila & Tanisha Crasto and Treesa Jolly & Gayatri Gopichand are focused on building consistency and pushing further in the draw.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -41,7 +41,7 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "Quarters vs Ratchanok Intanon (THA)",
+      "draw": "R32 — TBD",
       "note": "Battling fatigue after gruelling Asian Games"
     },
     {
@@ -60,19 +60,19 @@
       "note": "Asian Games quarterfinalists, building consistency"
     },
     {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 19,
-      "draw": "R32 — TBD",
-      "note": "Asian Games quarterfinalists, aiming higher"
-    },
-    {
       "name": "Ayush Shetty",
       "discipline": "Men's Singles",
       "rank": 20,
       "draw": "R32 — TBD",
       "note": "Promising talent gaining Super 500 exposure"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 20,
+      "draw": "R32 — TBD",
+      "note": "Asian Games quarterfinalists, aiming higher"
     },
     {
       "playerSlug": "hs-prannoy",
