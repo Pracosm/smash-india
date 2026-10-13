@@ -1,19 +1,19 @@
 {
-  "slug": "arctic-open",
-  "name": "Arctic Open",
+  "slug": "denmark-open",
+  "name": "Denmark Open",
   "edition": "2026",
-  "fullName": "Arctic Open",
-  "grade": "Super 500",
-  "city": "Vantaa",
-  "flag": "🇫🇮",
-  "dates": "Oct 6 – Oct 11, 2026",
-  "startsAt": "2026-10-06T00:00:00+03:00",
-  "endsAt": "2026-10-11T21:00:00.000Z",
+  "fullName": "Denmark Open",
+  "grade": "Super 750",
+  "city": "Odense",
+  "flag": "🇩🇰",
+  "dates": "Oct 13 – Oct 18, 2026",
+  "startsAt": "2026-10-13T00:00:00+02:00",
+  "endsAt": "2026-10-18T22:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5594/arctic-open-2026-powered-by-yonex/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/",
   "venue": {
-    "name": "Energia Areena",
+    "name": "SJF Bank Arena",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,55 +24,40 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "With the Arctic Open now concluded and attention turning to the Denmark Open, this week was a quiet but essential stepping stone for India's shuttlers to recalibrate post-Asian Games and build form for upcoming challenges.",
-  "summary": "The Arctic Open, a Super 500 event, has just wrapped up, concluding on October 11th. While specific results for the Indian contingent at this tournament remain unreported in the latest journalism, the focus for many of the nation's top shuttlers appears to have already shifted. With the Denmark Open—another significant Super 750 event—kicking off, the immediate spotlight is now on PV Sindhu and Lakshya Sen, who face challenging openers against An Se-young and Chou Tien Chen, respectively.\n\nThis period serves as a crucial transition following the demanding Asian Games campaign. For players like Sindhu, who has been battling fatigue, and Lakshya Sen, who seeks to regain his best form after an early exit in Hangzhou, these European swings are vital for building momentum and confidence. Meanwhile, doubles pairs like Satwik & Chirag, the top seeds here, and the emerging Dhruv & Tanisha, along with Treesa & Gayatri, are looking to solidify their consistency and climb the world rankings.\n\nThe Arctic Open, even without detailed reports, likely offered valuable competitive exposure for the squad, particularly for promising talents like Ayush Shetty and Malvika Bansod. As the badminton calendar intensifies, every Super 500 event provides an opportunity to refine strategies and test mettle against international competition, setting the stage for stronger performances in the tournaments to come.",
+  "stakes": "This week is a crucial opportunity for India's top shuttlers to gain vital ranking points and build momentum in the lead-up to major championships.",
+  "summary": "India's campaign at the Denmark Open has begun with mixed fortunes, highlighting the challenging nature of this Super 750 event. In men's singles, **Lakshya Sen** faced a formidable opponent right out of the gate, bowing out in the first round to Chinese Taipei's Chou Tien Chen. This early exit is a setback for Sen, who was undoubtedly looking to make a deeper run and gather crucial ranking points.\n\nMeanwhile, all eyes are on **PV Sindhu** in the women's singles draw. She faces a tough opener against her formidable nemesis, An Se-young, a matchup that promises fireworks and will test Sindhu's current form and readiness. With the tournament just kicking off, India will be hoping for strong performances from its remaining contingent, including top-ranked men's doubles pair Satwiksairaj Rankireddy and Chirag Shetty, to make a significant impact in Odense.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "seed": 1,
       "rank": 5,
       "draw": "R32 — TBD",
-      "note": "Asian Games men's team bronze medalists"
+      "note": "Top-ranked Indian pair"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R32 — TBD",
-      "note": "Battling fatigue after gruelling Asian Games"
+      "draw": "R32 vs An Se-young (KOR)",
+      "note": "Faces tough opener"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "R32 — TBD",
-      "note": "Seeking form after early Asian Games exit"
-    },
-    {
-      "name": "Dhruv & Tanisha",
-      "discipline": "Mixed Doubles",
-      "rank": 18,
-      "draw": "R32 — TBD",
-      "note": "Asian Games quarterfinalists, building consistency"
-    },
-    {
-      "name": "Ayush Shetty",
-      "discipline": "Men's Singles",
-      "rank": 20,
-      "draw": "R32 — TBD",
-      "note": "Promising talent gaining Super 500 exposure"
+      "draw": "R32 vs Chou Tien Chen (TPE)",
+      "note": "Early R32 exit"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 20,
+      "rank": 17,
       "draw": "R32 — TBD",
-      "note": "Asian Games quarterfinalists, aiming higher"
+      "note": "Rising doubles talent"
     },
     {
       "playerSlug": "hs-prannoy",
@@ -80,7 +65,7 @@
       "discipline": "Men's Singles",
       "rank": 24,
       "draw": "R32 — TBD",
-      "note": "Key member of Asian Games bronze team"
+      "note": "Veteran looking for form"
     },
     {
       "playerSlug": "malvika-bansod",
@@ -88,7 +73,7 @@
       "discipline": "Women's Singles",
       "rank": 31,
       "draw": "R32 — TBD",
-      "note": "Emerging singles player seeking breakthrough"
+      "note": "Young talent seeking breakthrough"
     }
   ]
 }
