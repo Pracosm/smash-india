@@ -1,62 +1,52 @@
 [
   {
-    "slug": "indian-juniors-tanvi-shaina-advance-to-round-of-32-at-world-championships",
-    "kicker": "Result",
-    "title": "Indian Juniors Tanvi, Shaina Advance to Round of 32 at World Championships",
-    "time": "Today",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "Highlights the progress of young Indian singles players, Tanvi Patri and Shaina Manimuthu, at a major international event.",
-    "summary": "Tanvi Patri and Shaina Manimuthu secured comfortable straight-game victories in their respective singles matches at the BWF World Junior Championships, moving into the round of 32."
-  },
-  {
-    "slug": "pv-sindhu-2026-season-review-japan-open-title",
-    "kicker": "Feature",
-    "title": "PV Sindhu's 2026 Season: Japan Open Title and Key International Performances",
-    "time": "Today",
-    "read": "4 min",
-    "importance_score": 7,
-    "indian_angle": "Provides a comprehensive overview of India's top female shuttler, PV Sindhu's performance throughout the 2026 season, including a title win.",
-    "summary": "A detailed look at PV Sindhu's 2026 season reveals a Japan Open title, semifinal finishes at the Malaysia and Australian Opens, and quarterfinal runs in several other BWF tournaments."
-  },
-  {
-    "slug": "sindhu-lakshya-face-tough-tests-denmark-open",
-    "kicker": "Preview",
-    "title": "Sindhu Faces An Se-young, Lakshya Gets Chou Test at Denmark Open",
+    "slug": "tanvi-shaina-advance-to-world-junior-championships-round-of-32",
+    "kicker": "Match Report",
+    "title": "Tanvi, Shaina Advance to World Junior Championships Round of 32",
     "time": "Yesterday",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "Previews the upcoming challenges for India's top singles players, PV Sindhu and Lakshya Sen, at the Denmark Open, highlighting their tough draws.",
-    "summary": "India's PV Sindhu is set for a challenging encounter against rival An Se-young, while Lakshya Sen will face Chou Tien-chen in the Denmark Open, as both Indian stars prepare for tough draws."
-  },
-  {
-    "slug": "bai-athletes-committee-formed",
-    "kicker": "Domestic",
-    "title": "BAI Announces Formation of Athletes Committee",
-    "time": "11d ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "This marks a crucial step in giving Indian athletes a direct voice in the governance and decision-making processes of Badminton Association of India.",
-    "summary": "The Badminton Association of India (BAI) has officially announced the formation of its Athletes Committee, aiming to provide a direct platform for players' representation within the sport's governing body."
-  },
-  {
-    "slug": "national-coaching-camp-bwf-world-junior-championships",
-    "kicker": "Domestic",
-    "title": "National Coaching Camp for BWF World Junior Championships Underway in Guwahati",
-    "time": "19d ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "Details the national coaching camp being held in Guwahati to prepare India's junior talent for the upcoming BWF World Junior Championships.",
-    "summary": "A national coaching camp is currently being conducted at the National Center of Excellence in Guwahati, focused on preparing Indian junior shuttlers for the BWF World Junior Championships 2026."
-  },
-  {
-    "slug": "bai-level-1-advanced-coaches-course-guwahati-raipur",
-    "kicker": "Domestic",
-    "title": "BAI Level-1 Advanced Coaches Course Held in Guwahati and Raipur",
-    "time": "1m ago",
     "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "Indian singles players Tanvi Patri and Shaina Manimuthu secured impressive victories to move into the round of 32 at the BWF World Junior Championships.",
+    "summary": "Tanvi Patri defeated Anastasija Kichayeva 15-6, 15-10, while Shaina Manimuthu beat Chih-Yun Cheng 15-6, 15-10, showcasing strong performances by India's junior talent on the international stage."
+  },
+  {
+    "slug": "sindhu-lakshya-face-tough-draws-at-denmark-open",
+    "kicker": "Preview",
+    "title": "Sindhu, Lakshya Face Tough Draws at Denmark Open",
+    "time": "2d ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "India's top shuttlers PV Sindhu and Lakshya Sen are set for challenging opening matches against formidable opponents at the upcoming Denmark Open.",
+    "summary": "PV Sindhu is set to clash with her rival An Se-young, while Lakshya Sen will face a tough test against Chou Tien-chen in their respective opening rounds at the Denmark Open."
+  },
+  {
+    "slug": "bai-establishes-new-athletes-committee",
+    "kicker": "Domestic",
+    "title": "BAI Establishes New Athletes Committee",
+    "time": "12d ago",
+    "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "This course signifies BAI's commitment to enhancing the coaching standards and expertise within India, directly benefiting future Indian players.",
-    "summary": "The Badminton Association of India successfully conducted its Level-1 (Advanced) Coaches Course in Guwahati and Raipur from September 14th to 23rd, 2026, aimed at upgrading coaching skills."
+    "indian_angle": "The Badminton Association of India (BAI) has announced the formation of its new Athletes Committee, a significant step for player representation in Indian badminton.",
+    "summary": "The Badminton Association of India (BAI) officially formed its Athletes Committee on October 2, 2026, aiming to provide a stronger voice for players in the sport's governance."
+  },
+  {
+    "slug": "national-coaching-camp-for-world-junior-championships-begins-in-guwahati",
+    "kicker": "Domestic",
+    "title": "National Coaching Camp for World Junior Championships Begins in Guwahati",
+    "time": "3w ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "India's junior badminton prospects are honing their skills at a national coaching camp in Guwahati, preparing for the upcoming BWF World Junior Championships 2026.",
+    "summary": "A national coaching camp for the BWF World Junior Championships 2026 commenced at the National Center of Excellence in Guwahati on September 24, 2026, to prepare India's young talent."
+  },
+  {
+    "slug": "new-3x15-scoring-system-adopted-for-domestic-junior-tournaments",
+    "kicker": "Domestic",
+    "title": "New 3x15 Scoring System Adopted for Domestic Junior Tournaments",
+    "time": "3m ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The Badminton Association of India has implemented a new 3x15 scoring system for domestic ranking tournaments and national championships across U-13, U-15, and U-17 age groups.",
+    "summary": "Effective June 30, 2026, the BAI will use a 3x15 scoring system in all domestic ranking tournaments and national championships for the U-13, U-15, and U-17 categories to enhance junior competition."
   }
 ]
