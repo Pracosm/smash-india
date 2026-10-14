@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week is a crucial opportunity for India's top shuttlers to gain vital ranking points and build momentum in the lead-up to major championships.",
-  "summary": "India's campaign at the Denmark Open has begun with mixed fortunes, highlighting the challenging nature of this Super 750 event. In men's singles, **Lakshya Sen** faced a formidable opponent right out of the gate, bowing out in the first round to Chinese Taipei's Chou Tien Chen. This early exit is a setback for Sen, who was undoubtedly looking to make a deeper run and gather crucial ranking points.\n\nMeanwhile, all eyes are on **PV Sindhu** in the women's singles draw. She faces a tough opener against her formidable nemesis, An Se-young, a matchup that promises fireworks and will test Sindhu's current form and readiness. With the tournament just kicking off, India will be hoping for strong performances from its remaining contingent, including top-ranked men's doubles pair Satwiksairaj Rankireddy and Chirag Shetty, to make a significant impact in Odense.",
+  "stakes": "This week is crucial for India's shuttlers to gain valuable ranking points and build momentum as the season progresses towards major championships.",
+  "summary": "India's campaign at the Denmark Open has faced a challenging start, with several key shuttlers making early exits. Women's Singles star PV Sindhu, who recently clinched the Japan Open title, bowed out in the opening round. Similarly, in Men's Singles, both Lakshya Sen and veteran HS Prannoy have exited the tournament, leaving only Kidambi Srikanth as the sole Indian male singles player still in contention.\n\nDespite these setbacks, the nation's primary hopes now rest on the top-ranked Men's Doubles pair, Satwiksairaj Rankireddy and Chirag Shetty. They are set to begin their challenge in the Round of 32 against He-Ren, aiming for a deep run in this Super 750 event. Women's Doubles pair Treesa Jolly and Gayatri Gopichand, a promising duo, await their first-round opponents, hoping to continue their upward trajectory. Young talent Malvika Bansod in Women's Singles also awaits her R32 matchup. The early stages of the tournament have highlighted the intense competition, making every remaining match crucial for India's contingent.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "rank": 5,
-      "draw": "R32 — TBD",
+      "draw": "R32 vs He-Ren",
       "note": "Top-ranked Indian pair"
     },
     {
@@ -40,22 +40,22 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 10,
-      "draw": "R32 vs An Se-young (KOR)",
-      "note": "Faces tough opener"
+      "draw": "Exited R32",
+      "note": "Early exit after tough draw"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "R32 vs Chou Tien Chen (TPE)",
+      "draw": "Exited R32 vs Chou Tien Chen (TPE)",
       "note": "Early R32 exit"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 17,
+      "rank": 18,
       "draw": "R32 — TBD",
       "note": "Rising doubles talent"
     },
@@ -64,8 +64,8 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
-      "note": "Veteran looking for form"
+      "draw": "Exited R32",
+      "note": "Early R32 exit"
     },
     {
       "playerSlug": "malvika-bansod",
