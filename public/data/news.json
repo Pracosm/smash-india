@@ -1,52 +1,62 @@
 [
   {
-    "slug": "bai-establishes-new-athletes-committee-player-representation",
-    "kicker": "Domestic",
-    "title": "BAI Establishes New Athletes Committee for Player Representation",
-    "time": "13d ago",
+    "slug": "khangurra-reaches-junior-worlds-semis-guarantees-india-medal",
+    "kicker": "Match Report",
+    "title": "Khangurra Reaches Junior Worlds Semis, Guarantees India a Medal",
+    "time": "3h ago",
     "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "This committee ensures Indian badminton players have a formal voice in the sport's administration and decision-making processes.",
-    "summary": "Badminton Association of India (BAI) officially announced the formation of its new Athletes Committee, aimed at providing a structured platform for player representation within the national federation."
-  },
-  {
-    "slug": "junior-national-coaching-camp-bwf-world-championships-2026",
-    "kicker": "Preview",
-    "title": "Junior National Coaching Camp Underway for BWF World Championships 2026",
-    "time": "21d ago",
-    "read": "3 min",
     "importance_score": 8,
-    "indian_angle": "India's top junior talent is currently training intensively at the NCE Guwahati to prepare for the prestigious BWF World Junior Championships in Cairo, Egypt.",
-    "summary": "A national coaching camp for the BWF World Junior Championships 2026 is being held at the National Centre of Excellence (NCE) in Guwahati, bringing together India's promising young shuttlers for rigorous training."
+    "indian_angle": "Jagsher Singh Khangurra's advancement to the semifinals guarantees India at least a bronze medal at the prestigious BWF World Junior Championships.",
+    "summary": "Jagsher Singh Khangurra defeated Yuan-Syue Jhuang to advance to the semifinals of the Cairo BWF World Junior Championships, securing a medal for India. He will next face Radithya Bayu Wardhana."
   },
   {
-    "slug": "bai-level-1-advanced-coaches-course-concludes-guwahati-raipur",
+    "slug": "bai-forms-new-athletes-committee",
     "kicker": "Domestic",
-    "title": "BAI Level-1 Advanced Coaches Course Concludes in Guwahati and Raipur",
+    "title": "BAI Forms New Athletes Committee for Player Welfare",
+    "time": "13d ago",
+    "read": "3 min",
+    "importance_score": 6,
+    "indian_angle": "The formation of the BAI Athletes Committee ensures that Indian badminton players will have a direct voice in the governance and development of the sport.",
+    "summary": "Badminton Association of India announced the formation of its new Athletes Committee, aimed at providing a platform for players to contribute to decision-making and address their concerns."
+  },
+  {
+    "slug": "national-camp-bwf-world-junior-championships",
+    "kicker": "Preview",
+    "title": "National Camp Underway for BWF World Junior Championships",
+    "time": "3w ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "This national coaching camp at NCE Guwahati is crucial for preparing India's top junior talent for the upcoming BWF World Junior Championships in Cairo.",
+    "summary": "India's junior badminton squad is undergoing an intensive national coaching camp at the National Center of Excellence in Guwahati, in preparation for the BWF World Junior Championships 2026 in Cairo, Egypt."
+  },
+  {
+    "slug": "bai-level-1-advanced-coaches-course",
+    "kicker": "Domestic",
+    "title": "BAI Level-1 Advanced Coaches Course Concludes in Guwahati, Raipur",
     "time": "1m ago",
     "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "This course enhances the expertise of Indian coaches, which is crucial for developing future badminton talent across the country.",
-    "summary": "The Badminton Association of India (BAI) successfully conducted its Level-1 (Advanced) Coaches Course at NCE Guwahati and Raipur from September 14th to 23rd, 2026, aiming to upgrade coaching standards."
+    "importance_score": 4,
+    "indian_angle": "The successful completion of the BAI Level-1 Advanced Coaches Course signifies a commitment to enhancing coaching standards across India.",
+    "summary": "The Badminton Association of India successfully conducted its Level-1 (Advanced) Coaches Course at the National Center of Excellence in Guwahati and Raipur, from September 14th to 23rd, 2026, to upskill domestic coaches."
   },
   {
-    "slug": "indian-junior-team-coaching-camp-asia-u17-u15-championships-nce",
-    "kicker": "Preview",
-    "title": "Indian Junior Team Coaching Camp for Asia U17 & U15 Championships at NCE Guwahati",
-    "time": "2m ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "Young Indian shuttlers are undergoing a specialized coaching camp to hone their skills for the upcoming Badminton Asia U17 & U15 Junior Championships.",
-    "summary": "The National Center of Excellence in Guwahati is hosting the Indian team coaching camp for players selected to represent the nation at the Badminton Asia U17 & U15 Junior Championships 2026."
-  },
-  {
-    "slug": "bai-implements-3x15-scoring-system-domestic-junior-tournaments",
+    "slug": "regulations-inter-state-team-championships",
     "kicker": "Domestic",
-    "title": "BAI Implements 3x15 Scoring System for Domestic Junior Tournaments",
+    "title": "Regulations Released for Inter State Team Championships 2026",
+    "time": "2m ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "The release of regulations for the Inter State Team Championships outlines the framework for a key domestic tournament, fostering competition among Indian states.",
+    "summary": "Badminton Association of India has released the official regulations for the upcoming Inter State Team Championships 2026, detailing rules and guidelines for participation and conduct."
+  },
+  {
+    "slug": "3x15-scoring-system-junior-domestic",
+    "kicker": "Domestic",
+    "title": "3x15 Scoring System Adopted for Junior Domestic Tournaments",
     "time": "3m ago",
     "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "This new scoring system will significantly impact how junior domestic ranking tournaments and national championships are played in India.",
-    "summary": "The Badminton Association of India (BAI) has announced the implementation of the 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups."
+    "importance_score": 5,
+    "indian_angle": "This new 3x15 scoring system aims to make domestic junior tournaments more dynamic and engaging for young Indian players.",
+    "summary": "The Badminton Association of India has implemented a new 3x15 scoring system for all domestic ranking tournaments and national championships in the U-13, U-15, and U-17 age groups."
   }
 ]
