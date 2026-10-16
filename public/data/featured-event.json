@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "With several early exits, the remaining Indian contingent faces a critical week to salvage pride, gain crucial ranking points, and demonstrate their prowess on the Super 750 stage.",
-  "summary": "India's campaign at the Denmark Open, a Super 750 event, has seen a mixed start as the tournament progresses past its initial rounds. Several key singles players, including PV Sindhu, Lakshya Sen, and HS Prannoy, faced early exits in the Round of 32, highlighting the tough competition at this level. Sindhu, in particular, had a challenging draw that saw her bow out swiftly.\n\nHowever, hopes remain alive in the doubles categories and with some of the younger singles talents. The top-ranked men's doubles pair of Satwik & Chirag are still in contention, with their R32 clash against He-Ren on the cards. Meanwhile, the promising women's doubles duo of Treesa & Gayatri, and young singles talent Malvika Bansod, are also looking to make their mark as their R32 draws unfold. This week presents a crucial opportunity for the remaining Indian contingent to make a deep run and gather valuable ranking points.",
+  "stakes": "This week at the Denmark Open is a crucial litmus test for India's rising doubles stars to prove their mettle, while the early exits for singles players underscore the need for renewed focus on consistency at the highest level.",
+  "summary": "India's campaign at the Denmark Open has seen a mix of early exits and promising runs. While top singles players like PV Sindhu, Lakshya Sen, and HS Prannoy, along with the formidable Men's Doubles pair of Satwik & Chirag, appear to have exited in the initial rounds, the spotlight shines brightly on the Women's Doubles duo of Treesa Jolly and Gayatri Gopichand. Their early exits mark a challenging start for some of India's established stars at this Super 750 event.\n\nTreesa and Gayatri have impressively navigated their way into the quarterfinals, where they face a challenging encounter against Malaysia's Pearly Tan and Thinaah Muralitharan. This deep run marks a significant moment for the rising pair, showcasing their growing prowess on the Super 750 stage. Young Malvika Bansod's journey is still to unfold in the R32, as she seeks a breakthrough performance amidst a highly competitive field.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "rank": 5,
-      "draw": "R32 vs He-Ren",
+      "draw": "Exited R32",
       "note": "Top-ranked Indian pair"
     },
     {
@@ -55,8 +55,8 @@
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 18,
-      "draw": "R32 — TBD",
+      "rank": 17,
+      "draw": "QF vs Pearly Tan & Thinaah Muralitharan (MAS)",
       "note": "Rising doubles talent"
     },
     {
