@@ -21,18 +21,18 @@
     "pts": "62,813"
   },
   {
-    "disc": "Women's Doubles",
-    "name": "Treesa & Gayatri",
-    "rank": 17,
-    "move": "same",
-    "pts": "49,122"
-  },
-  {
     "disc": "Women's Singles",
     "name": "Unnati Hooda",
     "rank": 18,
     "move": "same",
     "pts": "50,380"
+  },
+  {
+    "disc": "Women's Doubles",
+    "name": "Treesa & Gayatri",
+    "rank": 18,
+    "move": "same",
+    "pts": "49,122"
   },
   {
     "disc": "Men's Singles",
@@ -43,7 +43,7 @@
   },
   {
     "disc": "Mixed Doubles",
-    "name": "Dhruv & Tanisha",
+    "name": "Dhruv Kapila & Tanisha Crasto",
     "rank": 20,
     "move": "same",
     "pts": "49,160"
