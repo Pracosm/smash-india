@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week is a crucial opportunity for India's shuttlers to gain vital ranking points and build momentum, with Treesa & Gayatri aiming to solidify their standing among the world's elite.",
-  "summary": "India's campaign at the Denmark Open, a prestigious Super 750 event, has seen a mix of outcomes, with the spotlight firmly on the women's doubles pair of Treesa Jolly and Gayatri Gopichand. The duo, fresh off their maiden World Championships bronze, have continued their impressive run, battling into the quarterfinals. Their consistent performances are a bright spot, showcasing their growing prowess on the international stage.\n\nHowever, it's been an early exit for several other prominent Indian shuttlers. Top-ranked men's doubles pair Satwiksairaj Rankireddy and Chirag Shetty, along with singles stalwarts PV Sindhu and Lakshya Sen, all bowed out in the Round of 32. These early departures highlight the intense competition at this level and the challenges faced by India's top talent in navigating tough draws. Young Malvika Bansod's status remains uncertain, with her Round of 32 match yet to be determined.",
+  "stakes": "This week at the Denmark Open served as a stark reminder of the fierce competition on the BWF tour, prompting India's shuttlers to reassess and strategize for stronger showings ahead.",
+  "summary": "India's campaign at the Denmark Open, a Super 750 event, concluded with mixed results, largely characterized by early exits for several key players. The highly-rated Men's Doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, along with singles stalwarts PV Sindhu, Lakshya Sen, and HS Prannoy, all found themselves exiting in the Round of 32. This marks a challenging outing for India's top talent, who will undoubtedly be looking for stronger performances in upcoming tournaments.\nThe brightest spot for the Indian contingent was the Women's Doubles pair of Treesa Jolly and Gayatri Gopichand. The World Championships bronze medalists showcased their fighting spirit, navigating their way to the quarterfinals before their run came to an end. Young Women's Singles talent Malvika Bansod also exited in the opening round, highlighting the tough competition at this level. The team will now regroup, reflecting on the lessons learned from Odense as they prepare for the next leg of the BWF tour.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -55,8 +55,8 @@
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 16,
-      "draw": "QF vs Pearly Tan & Thinaah Muralitharan (MAS)",
+      "rank": 18,
+      "draw": "Exited QF vs Pearly Tan & Thinaah Muralitharan (MAS)",
       "note": "World Championships bronze medalists"
     },
     {
@@ -72,7 +72,7 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
+      "draw": "Exited R32",
       "note": "Young talent seeking breakthrough"
     }
   ]
