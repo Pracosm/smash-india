@@ -1,19 +1,19 @@
 {
-  "slug": "denmark-open",
-  "name": "Denmark Open",
+  "slug": "french-open",
+  "name": "French Open",
   "edition": "2026",
-  "fullName": "Denmark Open",
+  "fullName": "French Open",
   "grade": "Super 750",
-  "city": "Odense",
-  "flag": "🇩🇰",
-  "dates": "Oct 13 – Oct 18, 2026",
-  "startsAt": "2026-10-13T00:00:00+02:00",
-  "endsAt": "2026-10-18T22:00:00.000Z",
+  "city": "Tremblay-en-France",
+  "flag": "🇫🇷",
+  "dates": "Oct 20 – Oct 25, 2026",
+  "startsAt": "2026-10-20T00:00:00+02:00",
+  "endsAt": "2026-10-25T22:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5211/yonex-french-open-2026/results/",
   "venue": {
-    "name": "SJF Bank Arena",
+    "name": "Arena Grand Paris",
     "blurb": ""
   },
   "broadcasters": [
@@ -24,56 +24,24 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "With early exits for most, this Super 750 event served as a stark reminder for India's shuttlers to sharpen their game for stronger performances ahead.",
-  "summary": "The Denmark Open, a Super 750 event, has concluded, and for the Indian contingent, it proved to be a quiet affair with no deep runs into the final stages. While the tournament saw An Se Young make history in women's singles, India's top stars faced early exits, highlighting a challenging week on the European circuit.\n\nMen's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, along with singles stalwarts PV Sindhu, Lakshya Sen, and HS Prannoy, all bowed out in the initial rounds. Women's doubles pair Treesa Jolly and Gayatri Gopichand managed to reach the quarterfinals, a commendable effort, but ultimately couldn't advance further. Young talent Malvika Bansod also saw her campaign end in the opening round.\n\nThis performance at the Denmark Open underscores the competitive landscape of the BWF tour and suggests that India's shuttlers will be looking to regroup and recalibrate their strategies for the upcoming events. The focus will now shift to regaining momentum and finding consistency as the season progresses.",
+  "stakes": "This Super 750 event offers a vital opportunity for India's top doubles pairs to assert their dominance and gain crucial ranking points ahead of major tournaments.",
+  "summary": "The French Open, a prestigious Super 750 event, is underway, and India's hopes are primarily pinned on its formidable doubles contingent. Leading the charge are the men's doubles sensations, Satwiksairaj Rankireddy and Chirag Shetty. Ranked 6th in the world, the dynamic duo will kick off their campaign in the Round of 32, facing the formidable Popov brothers—a challenging opener that will test their mettle early on. This tournament is a critical juncture for them to consolidate their standing and build momentum.\n\nAlso stepping onto the court in the women's doubles category are Treesa Jolly and Gayatri Gopichand. Currently ranked 19th, this promising pair will also begin their journey in the Round of 32. While their specific opponent is yet to be announced, Treesa and Gayatri will be eager to navigate the early rounds and demonstrate their ability to challenge the world's best. Their performance here could be key to their continued ascent in the international rankings.\n\nNotably, there's no immediate news regarding the participation or draw of India's top singles players like PV Sindhu or Lakshya Sen in the French Open, suggesting a focused effort from the doubles specialists this week. The contingent will be aiming for strong performances to make a significant mark at this high-stakes event.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "rank": 5,
-      "draw": "Exited R32",
-      "note": "Top-ranked Indian pair"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "rank": 10,
-      "draw": "Exited R32",
-      "note": "Early exit after tough draw"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 14,
-      "draw": "Exited R32 vs Chou Tien Chen (TPE)",
-      "note": "Seeking better form after early exit"
+      "rank": 6,
+      "draw": "R32 vs Popov brothers",
+      "note": "Top Indian men's doubles pair"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 18,
-      "draw": "Exited QF vs Pearly Tan & Thinaah Muralitharan (MAS)",
-      "note": "World Championships bronze medalists"
-    },
-    {
-      "playerSlug": "hs-prannoy",
-      "name": "HS Prannoy",
-      "discipline": "Men's Singles",
-      "rank": 24,
-      "draw": "Exited R32",
-      "note": "Hoping for deeper runs in upcoming events"
-    },
-    {
-      "playerSlug": "malvika-bansod",
-      "name": "Malvika Bansod",
-      "discipline": "Women's Singles",
-      "rank": 31,
-      "draw": "Exited R32",
-      "note": "Young talent seeking breakthrough"
+      "rank": 19,
+      "draw": "R32 — TBD",
+      "note": "Promising women's doubles duo"
     }
   ]
 }
