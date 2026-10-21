@@ -24,16 +24,31 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 750 event offers a vital opportunity for India's top doubles pairs to assert their dominance and gain crucial ranking points ahead of major tournaments.",
-  "summary": "The French Open, a prestigious Super 750 event, is underway, and India's hopes are primarily pinned on its formidable doubles contingent. Leading the charge are the men's doubles sensations, Satwiksairaj Rankireddy and Chirag Shetty. Ranked 6th in the world, the dynamic duo will kick off their campaign in the Round of 32, facing the formidable Popov brothers—a challenging opener that will test their mettle early on. This tournament is a critical juncture for them to consolidate their standing and build momentum.\n\nAlso stepping onto the court in the women's doubles category are Treesa Jolly and Gayatri Gopichand. Currently ranked 19th, this promising pair will also begin their journey in the Round of 32. While their specific opponent is yet to be announced, Treesa and Gayatri will be eager to navigate the early rounds and demonstrate their ability to challenge the world's best. Their performance here could be key to their continued ascent in the international rankings.\n\nNotably, there's no immediate news regarding the participation or draw of India's top singles players like PV Sindhu or Lakshya Sen in the French Open, suggesting a focused effort from the doubles specialists this week. The contingent will be aiming for strong performances to make a significant mark at this high-stakes event.",
+  "stakes": "This week is a critical test for India's top shuttlers to prove their mettle and bounce back from early setbacks at a prestigious Super 750 event.",
+  "summary": "The French Open Super 750 event has kicked off with mixed fortunes for the Indian contingent. While Olympic medalist PV Sindhu prepares for her opening round challenge against Thailand's Supanida Katethong, the tournament has already seen a couple of significant early exits for India's top talent. Men's doubles stalwarts Satwiksairaj Rankireddy and Chirag Shetty, ranked world No. 6, faced a tough first-round draw against France's Christo Popov and Toma Junior Popov and ultimately crashed out in a hard-fought three-game battle. Young women's singles hopeful Unnati Hooda, currently ranked 18th, also saw her campaign end prematurely, falling to Japan's Riko Gunji in her Round of 32 match. These early departures put additional pressure on the remaining Indian players to make a deep run in the tournament.\n\nWith two prominent names already out, all eyes will be on Sindhu to carry the flag forward in the women's singles draw. Meanwhile, the promising women's doubles pair of Treesa Jolly and Gayatri Gopichand, ranked 19th, are awaiting their first-round opponents, hoping to navigate their way through the competitive field. The French Open, a crucial stop on the BWF tour, demands peak performance, and the Indian shuttlers will need to dig deep to leave their mark.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "rank": 6,
-      "draw": "R32 vs Popov brothers",
-      "note": "Top Indian men's doubles pair"
+      "draw": "Exited R32 vs Christo Popov & Toma Junior Popov (FRA)",
+      "note": "Early exit for top Indian pair"
+    },
+    {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
+      "discipline": "Women's Singles",
+      "rank": 11,
+      "draw": "R32 vs Supanida Katethong (THA)",
+      "note": "Olympic medalist seeking form"
+    },
+    {
+      "name": "Unnati Hooda",
+      "discipline": "Women's Singles",
+      "rank": 18,
+      "draw": "Exited R32 vs Riko Gunji (JPN)",
+      "note": "Young talent falls in opener"
     },
     {
       "playerSlug": "treesa-gayatri",

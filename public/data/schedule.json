@@ -1,32 +1,12 @@
 [
   {
-    "slug": "french-open",
-    "date": "OCT 20",
-    "name": "French Open",
-    "grade": "Super 750",
-    "city": "Tremblay-en-France",
-    "flag": "🇫🇷",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5211/yonex-french-open-2026/results/"
-  },
-  {
-    "slug": "indonesia-masters-super-100-ii",
-    "date": "OCT 20",
-    "name": "Indonesia Masters Super 100 II",
-    "grade": "Super 100",
-    "city": "Kudus",
-    "flag": "🇮🇩",
-    "soon": false,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
-  },
-  {
     "slug": "hylo-open",
     "date": "OCT 27",
     "name": "Hylo Open",
     "grade": "Super 500",
     "city": "Saarbrücken",
     "flag": "🇩🇪",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5273/hylo-open-2026/results/"
   },
   {
@@ -48,5 +28,25 @@
     "flag": "🇯🇵",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+  },
+  {
+    "slug": "kaohsiung-masters",
+    "date": "NOV 10",
+    "name": "Kaohsiung Masters",
+    "grade": "Super 100",
+    "city": "Kaohsiung",
+    "flag": "🇹🇼",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+  },
+  {
+    "slug": "hong-kong-open",
+    "date": "NOV 17",
+    "name": "Hong Kong Open",
+    "grade": "Super 500",
+    "city": "Hong Kong",
+    "flag": "🇭🇰",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5218/hong-kong-open-2026/results/"
   }
 ]
