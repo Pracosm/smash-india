@@ -1,62 +1,52 @@
 [
   {
-    "slug": "junior-selection-committee-convenes",
+    "slug": "junior-selection-committee-minutes-released",
     "kicker": "Domestic",
-    "title": "Junior Selection Committee Convenes",
-    "time": "2d ago",
-    "read": "2 min",
+    "title": "Junior Selection Committee Minutes Released",
+    "time": "3d ago",
+    "read": "1 min",
     "importance_score": 3,
-    "indian_angle": "The meeting of the junior selection committee is crucial for identifying and nurturing India's future badminton talent.",
-    "summary": "The Badminton Association of India (BAI) held a meeting for its Junior Selection Committee on October 19, 2026, to discuss upcoming talent selections."
+    "indian_angle": "Indian junior players and their selection process are directly impacted by the decisions made in these committee meetings.",
+    "summary": "The Badminton Association of India has published the minutes from its recent Junior Selection Committee meeting."
   },
   {
-    "slug": "bai-forms-new-athletes-committee",
+    "slug": "bai-notifies-transfer-of-service-height-measuring-device",
     "kicker": "Domestic",
-    "title": "BAI Forms New Athletes Committee",
-    "time": "19d ago",
-    "read": "3 min",
+    "title": "BAI Notifies Transfer of Service Height Measuring Device",
+    "time": "9d ago",
+    "read": "1 min",
+    "importance_score": 2,
+    "indian_angle": "This technical update impacts how service height is measured in Indian domestic tournaments, ensuring fair play for all Indian participants.",
+    "summary": "An official notification has been issued regarding the transfer procedures for the Service Height Measuring Device (SHMD)."
+  },
+  {
+    "slug": "bai-announces-formation-of-new-athletes-committee",
+    "kicker": "Domestic",
+    "title": "BAI Announces Formation of New Athletes Committee",
+    "time": "20d ago",
+    "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "The formation of the BAI Athletes Committee ensures Indian players have a direct voice in the sport's governance and welfare.",
-    "summary": "The Badminton Association of India officially announced the formation of its new Athletes Committee on October 2, 2026, aimed at enhancing player representation."
+    "indian_angle": "The formation of the BAI Athletes Committee provides Indian players with a formal voice in the governance and development of badminton within the country.",
+    "summary": "The Badminton Association of India has officially announced the establishment of its new Athletes Committee."
   },
   {
-    "slug": "national-camp-world-junior-championships-guwahati",
-    "kicker": "Preview",
-    "title": "National Camp for World Junior Championships Begins in Guwahati",
-    "time": "27d ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "This national coaching camp in Guwahati is vital for preparing India's top junior players for the upcoming BWF World Junior Championships 2026.",
-    "summary": "A national coaching camp for the BWF World Junior Championships 2026 commenced at the National Center of Excellence (NCE) in Guwahati on September 24, 2026."
-  },
-  {
-    "slug": "bai-hosts-advanced-coaches-course-guwahati-raipur",
+    "slug": "national-coaching-camp-bwf-world-junior-championships",
     "kicker": "Domestic",
-    "title": "BAI Hosts Advanced Coaches Course in Guwahati and Raipur",
+    "title": "National Coaching Camp for Junior Worlds Kicks Off in Guwahati",
     "time": "1m ago",
     "read": "2 min",
-    "importance_score": 4,
-    "indian_angle": "This Level-1 Advanced Coaches Course by BAI aims to elevate the coaching standards across India, benefiting aspiring badminton players nationwide.",
-    "summary": "The Badminton Association of India (BAI) conducted a Level-1 (Advanced) Coaches Course at the NCE Guwahati and Raipur from September 14 to 23, 2026."
-  },
-  {
-    "slug": "indian-junior-team-prepares-asia-u17-u15-championships",
-    "kicker": "Preview",
-    "title": "Indian Junior Team Prepares for Asia U17 & U15 Championships",
-    "time": "2m ago",
-    "read": "3 min",
     "importance_score": 6,
-    "indian_angle": "The Indian team coaching camp in Guwahati is crucial for the country's young talents ahead of the Badminton Asia U17 & U15 Junior Championships 2026.",
-    "summary": "An Indian team coaching camp for the Badminton Asia U17 & U15 Junior Championships 2026 was held at the National Center of Excellence in Guwahati, starting August 7, 2026."
+    "indian_angle": "This camp is crucial for the preparation of India's top junior badminton talents ahead of their participation in the BWF World Junior Championships.",
+    "summary": "A national coaching camp has commenced at the National Center of Excellence in Guwahati, preparing Indian junior players for the upcoming BWF World Junior Championships 2026."
   },
   {
-    "slug": "new-3x15-scoring-system-domestic-junior-tournaments",
+    "slug": "indian-team-coaching-camp-badminton-asia-u17-u15",
     "kicker": "Domestic",
-    "title": "New 3x15 Scoring System for Domestic Junior Tournaments",
-    "time": "3m ago",
+    "title": "Indian Team Coaching Camp for Asia U17 & U15 Juniors Underway",
+    "time": "2m ago",
     "read": "2 min",
-    "importance_score": 8,
-    "indian_angle": "The implementation of the 3x15 scoring system in domestic junior tournaments will significantly impact how young Indian players compete and develop.",
-    "summary": "The Badminton Association of India (BAI) announced the implementation of the 3x15 scoring system for domestic ranking tournaments and National Championships across U-13, U-15, and U-17 age groups, effective June 30, 2026."
+    "importance_score": 6,
+    "indian_angle": "This camp is vital for nurturing young Indian talent and preparing them to compete at the Badminton Asia U17 & U15 Junior Championships.",
+    "summary": "The National Center of Excellence in Guwahati is hosting a coaching camp for the Indian team participating in the Badminton Asia U17 & U15 Junior Championships 2026."
   }
 ]
