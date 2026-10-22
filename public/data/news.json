@@ -1,52 +1,62 @@
 [
   {
-    "slug": "junior-selection-committee-minutes-released",
-    "kicker": "Domestic",
-    "title": "Junior Selection Committee Minutes Released",
-    "time": "3d ago",
-    "read": "1 min",
-    "importance_score": 3,
-    "indian_angle": "Indian junior players and their selection process are directly impacted by the decisions made in these committee meetings.",
-    "summary": "The Badminton Association of India has published the minutes from its recent Junior Selection Committee meeting."
-  },
-  {
-    "slug": "bai-notifies-transfer-of-service-height-measuring-device",
-    "kicker": "Domestic",
-    "title": "BAI Notifies Transfer of Service Height Measuring Device",
-    "time": "9d ago",
-    "read": "1 min",
-    "importance_score": 2,
-    "indian_angle": "This technical update impacts how service height is measured in Indian domestic tournaments, ensuring fair play for all Indian participants.",
-    "summary": "An official notification has been issued regarding the transfer procedures for the Service Height Measuring Device (SHMD)."
-  },
-  {
-    "slug": "bai-announces-formation-of-new-athletes-committee",
-    "kicker": "Domestic",
-    "title": "BAI Announces Formation of New Athletes Committee",
-    "time": "20d ago",
+    "slug": "sindhu-advances-french-open-after-tough-opening-match",
+    "kicker": "Match Report",
+    "title": "Sindhu Advances at French Open After Tough Opening Match",
+    "time": "14h ago",
     "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "The formation of the BAI Athletes Committee provides Indian players with a formal voice in the governance and development of badminton within the country.",
-    "summary": "The Badminton Association of India has officially announced the establishment of its new Athletes Committee."
+    "importance_score": 7,
+    "indian_angle": "India's top women's singles player Sindhu secured her spot in the next round of a prestigious BWF Super 750 event.",
+    "summary": "Sindhu overcame a strong challenge from Katethong, winning 21-14, 8-21, 21-18 to advance in the French Open Round of 32."
   },
   {
-    "slug": "national-coaching-camp-bwf-world-junior-championships",
+    "slug": "indian-para-shuttlers-thulasimathi-nitesh-reach-mixed-doubles-final",
+    "kicker": "Result",
+    "title": "Indian Para Shuttlers Thulasimathi, Nitesh Reach Mixed Doubles Final",
+    "time": "7h ago",
+    "read": "3 min",
+    "importance_score": 9,
+    "indian_angle": "Indian para-badminton players Thulasimathi and Nitesh have secured at least a silver medal at the Asian Para Games, with other Indian shuttlers also winning bronze.",
+    "summary": "Thulasimathi and Nitesh defeated a Chinese pair 21-19, 14-21, 21-17 to reach the SL3-SU5 mixed doubles final at the Asian Para Games 2026, while India also secured two bronze medals in other categories."
+  },
+  {
+    "slug": "bai-athletes-committee-formed",
+    "kicker": "Feature",
+    "title": "BAI Establishes New Athletes Committee for Player Representation",
+    "time": "20d ago",
+    "read": "3 min",
+    "importance_score": 7,
+    "indian_angle": "The Badminton Association of India has formed a dedicated Athletes Committee to ensure better representation and welfare for Indian badminton players.",
+    "summary": "The Badminton Association of India announced the formation of its new Athletes Committee, aimed at providing a platform for players' voices and addressing their concerns."
+  },
+  {
+    "slug": "national-coaching-camp-underway-for-bwf-world-junior-championships",
     "kicker": "Domestic",
-    "title": "National Coaching Camp for Junior Worlds Kicks Off in Guwahati",
+    "title": "Junior National Coaching Camp Underway for BWF World Championships",
+    "time": "28d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "India's top junior talent is undergoing intensive training at the National Center of Excellence in Guwahati to prepare for the upcoming BWF World Junior Championships.",
+    "summary": "A national coaching camp for the BWF World Junior Championships 2026 is being held at the National Center of Excellence, Guwahati, to prepare Indian junior players."
+  },
+  {
+    "slug": "bai-conducts-advanced-level-1-coaches-course-in-guwahati-and-raipur",
+    "kicker": "Domestic",
+    "title": "BAI Conducts Advanced Level-1 Coaches Course in Guwahati and Raipur",
     "time": "1m ago",
     "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "This camp is crucial for the preparation of India's top junior badminton talents ahead of their participation in the BWF World Junior Championships.",
-    "summary": "A national coaching camp has commenced at the National Center of Excellence in Guwahati, preparing Indian junior players for the upcoming BWF World Junior Championships 2026."
+    "importance_score": 5,
+    "indian_angle": "The Badminton Association of India is investing in coaching development by conducting an advanced Level-1 course, enhancing the quality of coaching for Indian players.",
+    "summary": "The BAI is organizing a Level-1 (Advanced) Coaches Course at the National Center of Excellence in Guwahati and Raipur from September 14th to 23rd, 2026."
   },
   {
-    "slug": "indian-team-coaching-camp-badminton-asia-u17-u15",
+    "slug": "bai-implements-3x15-scoring-system-for-junior-domestic-tournaments",
     "kicker": "Domestic",
-    "title": "Indian Team Coaching Camp for Asia U17 & U15 Juniors Underway",
-    "time": "2m ago",
+    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
+    "time": "3m ago",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "This camp is vital for nurturing young Indian talent and preparing them to compete at the Badminton Asia U17 & U15 Junior Championships.",
-    "summary": "The National Center of Excellence in Guwahati is hosting a coaching camp for the Indian team participating in the Badminton Asia U17 & U15 Junior Championships 2026."
+    "indian_angle": "This new scoring system will be implemented across India's domestic junior tournaments, impacting the development and competitive experience of young Indian badminton players.",
+    "summary": "The Badminton Association of India has announced the implementation of the 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and national championships."
   }
 ]
