@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week is a critical test for India's top shuttlers to prove their mettle and bounce back from early setbacks at a prestigious Super 750 event.",
-  "summary": "The French Open Super 750 event has kicked off with mixed fortunes for the Indian contingent. While Olympic medalist PV Sindhu prepares for her opening round challenge against Thailand's Supanida Katethong, the tournament has already seen a couple of significant early exits for India's top talent. Men's doubles stalwarts Satwiksairaj Rankireddy and Chirag Shetty, ranked world No. 6, faced a tough first-round draw against France's Christo Popov and Toma Junior Popov and ultimately crashed out in a hard-fought three-game battle. Young women's singles hopeful Unnati Hooda, currently ranked 18th, also saw her campaign end prematurely, falling to Japan's Riko Gunji in her Round of 32 match. These early departures put additional pressure on the remaining Indian players to make a deep run in the tournament.\n\nWith two prominent names already out, all eyes will be on Sindhu to carry the flag forward in the women's singles draw. Meanwhile, the promising women's doubles pair of Treesa Jolly and Gayatri Gopichand, ranked 19th, are awaiting their first-round opponents, hoping to navigate their way through the competitive field. The French Open, a crucial stop on the BWF tour, demands peak performance, and the Indian shuttlers will need to dig deep to leave their mark.",
+  "stakes": "This French Open is a vital opportunity for India's shuttlers to gain crucial ranking points and build momentum, especially for PV Sindhu in her quest for consistent form on the international stage.",
+  "summary": "India's campaign at the French Open Super 750 has seen a mix of early exits and resilient performances. Top men's doubles pair Satwik & Chirag, ranked 6th, were unfortunately knocked out in the Round of 32, a surprising early departure for the formidable duo. Young women's singles talent Unnati Hooda, ranked 18th, also faced an early exit in her opening round.\n\nHowever, Olympic medalist PV Sindhu, currently ranked 11th, showed her mettle, surviving a challenging Round of 32 encounter to advance to the next stage—a crucial win as she seeks to find consistent form. Meanwhile, the promising women's doubles pair of Treesa & Gayatri, now ranked 18th, are still awaiting their Round of 32 draw, hoping to make a deep run in the tournament.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -40,8 +40,16 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 11,
-      "draw": "R32 vs Supanida Katethong (THA)",
-      "note": "Olympic medalist seeking form"
+      "draw": "R16 — TBD",
+      "note": "Advanced after tough opener"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 18,
+      "draw": "R32 — TBD",
+      "note": "Promising women's doubles duo"
     },
     {
       "name": "Unnati Hooda",
@@ -49,14 +57,6 @@
       "rank": 18,
       "draw": "Exited R32 vs Riko Gunji (JPN)",
       "note": "Young talent falls in opener"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 19,
-      "draw": "R32 — TBD",
-      "note": "Promising women's doubles duo"
     }
   ]
 }
