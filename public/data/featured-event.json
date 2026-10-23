@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This French Open is a vital opportunity for India's shuttlers to gain crucial ranking points and build momentum, especially for PV Sindhu in her quest for consistent form on the international stage.",
-  "summary": "India's campaign at the French Open Super 750 has seen a mix of early exits and resilient performances. Top men's doubles pair Satwik & Chirag, ranked 6th, were unfortunately knocked out in the Round of 32, a surprising early departure for the formidable duo. Young women's singles talent Unnati Hooda, ranked 18th, also faced an early exit in her opening round.\n\nHowever, Olympic medalist PV Sindhu, currently ranked 11th, showed her mettle, surviving a challenging Round of 32 encounter to advance to the next stage—a crucial win as she seeks to find consistent form. Meanwhile, the promising women's doubles pair of Treesa & Gayatri, now ranked 18th, are still awaiting their Round of 32 draw, hoping to make a deep run in the tournament.",
+  "stakes": "This week is a crucial test for India's top shuttlers to prove their mettle on the Super 750 stage, with PV Sindhu aiming for a significant title run.",
+  "summary": "India's campaign at the French Open Super 750 has been a mixed bag, highlighted by **PV Sindhu's** impressive charge into the semifinals. The former world champion has shown strong form, navigating her draw effectively and now stands just two wins away from a significant title. While Sindhu carries the torch, the tournament has also seen a breakout performance from **Ashmita Chaliha**, who stunned World No. 2 Akane Yamaguchi en route to a quarterfinal appearance—a promising sign for India's women's singles depth.However, it hasn't been smooth sailing for all. India's top men's doubles pair, **Satwik & Chirag**, suffered an unexpected early exit in the Round of 32, a setback for the highly-ranked duo. Young talent **Unnati Hooda** also fell in her opening round, underscoring the tough competition at this Super 750 event. With Sindhu still in contention, the focus now shifts to her potential deep run, which could elevate India's overall showing in Paris.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -40,16 +40,8 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 11,
-      "draw": "R16 — TBD",
-      "note": "Advanced after tough opener"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 18,
-      "draw": "R32 — TBD",
-      "note": "Promising women's doubles duo"
+      "draw": "Semifinals vs TBD",
+      "note": "Strong run to semifinals"
     },
     {
       "name": "Unnati Hooda",
@@ -57,6 +49,14 @@
       "rank": 18,
       "draw": "Exited R32 vs Riko Gunji (JPN)",
       "note": "Young talent falls in opener"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 19,
+      "draw": "R32 — TBD",
+      "note": "Promising women's doubles duo"
     }
   ]
 }
