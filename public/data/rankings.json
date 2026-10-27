@@ -9,23 +9,23 @@
   {
     "disc": "Women's Singles",
     "name": "P. V. Sindhu",
-    "rank": 11,
+    "rank": 8,
     "move": "same",
-    "pts": "65,951"
+    "pts": "70,261"
   },
   {
     "disc": "Men's Singles",
     "name": "Lakshya Sen",
-    "rank": 15,
+    "rank": 14,
     "move": "same",
     "pts": "61,563"
   },
   {
-    "disc": "Women's Singles",
-    "name": "Unnati Hooda",
-    "rank": 18,
+    "disc": "Men's Singles",
+    "name": "Ayush Shetty",
+    "rank": 19,
     "move": "same",
-    "pts": "50,380"
+    "pts": "54,469"
   },
   {
     "disc": "Women's Doubles",
@@ -33,12 +33,5 @@
     "rank": 19,
     "move": "same",
     "pts": "52,422"
-  },
-  {
-    "disc": "Men's Singles",
-    "name": "Ayush Shetty",
-    "rank": 20,
-    "move": "same",
-    "pts": "52,899"
   }
 ]
