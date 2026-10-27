@@ -1,62 +1,79 @@
 {
-  "slug": "french-open",
-  "name": "French Open",
+  "slug": "hylo-open",
+  "name": "Hylo Open",
   "edition": "2026",
-  "fullName": "French Open",
-  "grade": "Super 750",
-  "city": "Tremblay-en-France",
-  "flag": "🇫🇷",
-  "dates": "Oct 20 – Oct 25, 2026",
-  "startsAt": "2026-10-20T00:00:00+02:00",
-  "endsAt": "2026-10-25T22:00:00.000Z",
+  "fullName": "Hylo Open",
+  "grade": "Super 500",
+  "city": "Saarbrücken",
+  "flag": "🇩🇪",
+  "dates": "Oct 27 – Nov 1, 2026",
+  "startsAt": "2026-10-27T09:00:00+01:00",
+  "endsAt": "2026-11-02T08:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5211/yonex-french-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5273/hylo-open-2026/results/",
   "venue": {
-    "name": "Arena Grand Paris",
+    "name": "Saarlandhalle",
     "blurb": ""
   },
   "broadcasters": [
     {
-      "label": "Sony Sports · JioHotstar",
+      "label": "Sony Sports \n JioHotstar",
       "region": "India"
     }
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week offered PV Sindhu a significant Super 750 final appearance, while other Indian shuttlers sought crucial ranking points and momentum ahead of the season's final stretch.",
-  "summary": "India's campaign at the French Open Super 750 event concluded with a mixed bag of results, highlighted by PV Sindhu's impressive run to the women's singles final. Sindhu, ranked 11th, displayed remarkable grit throughout the tournament, ultimately falling to her formidable rival, An Se-young, in a hard-fought championship match. This runner-up finish marks her best-ever performance at the French Open, a significant boost as the season progresses.\n\nHowever, other Indian hopefuls faced early exits. The top men's doubles pair, Satwik & Chirag, ranked 6th, were unable to advance past the Round of 32, a surprising early departure for the usually consistent duo. Young talent Unnati Hooda, ranked 18th in women's singles, also saw her journey end in the opening round. Similarly, the promising women's doubles pair of Treesa & Gayatri, ranked 19th, bowed out in the Round of 32. Attention now shifts to the upcoming Hylo Open, where Sindhu and Lakshya Sen are set to lead the Indian challenge.",
+  "stakes": "This week, India's shuttlers aim to gather crucial ranking points and build momentum on the European circuit, especially for those eyeing a strong finish to the season.",
+  "summary": "India's badminton contingent arrives at the Hylo Open Super 500 event in Saarbrücken looking to make a significant impact. While the full draw is yet to be revealed, the focus will undoubtedly be on the likes of PV Sindhu, who recently faced a tough outing, falling to the formidable An Se Young in what marked her eleventh consecutive loss against the reigning Olympic and world champion. This Super 500 event offers a crucial opportunity for Sindhu to regroup and build momentum.The men's singles challenge will likely be spearheaded by Lakshya Sen and HS Prannoy, both eager to find their rhythm and advance deep into the tournament. In men's doubles, Satwik & Chirag will be aiming to assert their dominance as one of the top pairs globally. Meanwhile, the promising women's doubles duo of Treesa & Gayatri will be looking to continue their ascent and gain valuable experience on the Super 500 circuit. With no specific draw details yet, the Indian shuttlers will be preparing for any challenge that comes their way, hoping to kickstart a strong campaign in Germany.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "rank": 6,
-      "draw": "Exited R32 vs Christo Popov & Toma Junior Popov (FRA)",
-      "note": "Early exit for top Indian pair"
+      "draw": "R32 \n— TBD",
+      "note": "Top Indian doubles pair"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 11,
-      "draw": "Runner-up vs An Se-young (KOR)",
-      "note": "Valiant runner-up finish, best at French Open"
+      "rank": 8,
+      "draw": "R32 \n— TBD",
+      "note": "Seeking strong comeback after recent loss"
     },
     {
-      "name": "Unnati Hooda",
-      "discipline": "Women's Singles",
-      "rank": 18,
-      "draw": "Exited R32 vs Riko Gunji (JPN)",
-      "note": "Young talent falls in opener"
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 14,
+      "draw": "R32 \n— TBD",
+      "note": "Aiming for consistent Super 500 performance"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 19,
-      "draw": "Exited R32",
-      "note": "Early exit for promising duo"
+      "draw": "R32 \n— TBD",
+      "note": "Emerging women's doubles talent"
+    },
+    {
+      "playerSlug": "hs-prannoy",
+      "name": "HS Prannoy",
+      "discipline": "Men's Singles",
+      "rank": 24,
+      "draw": "R32 \n— TBD",
+      "note": "Veteran presence, looking for deep run"
+    },
+    {
+      "playerSlug": "malvika-bansod",
+      "name": "Malvika Bansod",
+      "discipline": "Women's Singles",
+      "rank": 31,
+      "draw": "R32 \n— TBD",
+      "note": "Young talent, gaining experience"
     }
   ]
 }
