@@ -1,62 +1,52 @@
 [
   {
-    "slug": "junior-selection-committee-minutes-released",
-    "kicker": "Domestic",
-    "title": "Junior Selection Committee Minutes Released",
-    "time": "9d ago",
-    "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "This update provides transparency on the selection process for India's promising junior badminton players.",
-    "summary": "The Badminton Association of India (BAI) has published the minutes from its recent Junior Selection Committee meeting, detailing decisions and discussions regarding player selections."
-  },
-  {
-    "slug": "bai-implements-new-service-height-measuring-device-policy",
-    "kicker": "Domestic",
-    "title": "BAI Implements New Service Height Measuring Device Policy",
-    "time": "15d ago",
-    "read": "2 min",
-    "importance_score": 3,
-    "indian_angle": "The new policy ensures consistent application of service rules across domestic tournaments, affecting Indian players.",
-    "summary": "BAI has issued guidelines for the transfer and use of the Service Height Measuring Device (SHMD) to standardize officiating practices in national events."
-  },
-  {
-    "slug": "bai-establishes-new-athletes-committee",
-    "kicker": "Domestic",
-    "title": "BAI Establishes New Athletes Committee",
-    "time": "26d ago",
+    "slug": "aditya-singh-u19-boxing-world-champion",
+    "kicker": "Match Report",
+    "title": "Aditya Singh Crowned U-19 Boxing World Champion",
+    "time": "3h ago",
     "read": "3 min",
+    "importance_score": 10,
+    "indian_angle": "Indian boxer Aditya Singh secured a world title at the U-19 Boxing World Championships, bringing glory to the nation.",
+    "summary": "Aditya Singh outsmarted USA’s Christian Paez to win the under-19 Worlds title in Montenegro, marking a significant achievement for Indian boxing."
+  },
+  {
+    "slug": "neelam-kajal-silver-wrestling-world-championships",
+    "kicker": "Result",
+    "title": "Neelam, Kajal Secure Silver at Wrestling World Championships 2026",
+    "time": "3h ago",
+    "read": "2 min",
+    "importance_score": 9,
+    "indian_angle": "Indian wrestlers Neelam and Kajal added two silver medals to India's tally at the prestigious Wrestling World Championships.",
+    "summary": "Neelam and Kajal joined an elite group of Indian women wrestlers by winning silver medals at the Wrestling World Championships 2026."
+  },
+  {
+    "slug": "bfi-faction-claims-majority-support-oust-ajay-singh",
+    "kicker": "Domestic",
+    "title": "BFI Faction Seeks to Oust President Ajay Singh, Meets MoS Sports",
+    "time": "3h ago",
+    "read": "3 min",
+    "importance_score": 5,
+    "indian_angle": "A faction within the Boxing Federation of India claims majority support to remove its president, Ajay Singh, impacting Indian boxing governance.",
+    "summary": "A BFI faction met with MoS Sports Khadse, asserting majority support to oust president Ajay Singh, while the BFI reported 21 state units attended a meeting in Bagdogra."
+  },
+  {
+    "slug": "neil-tanishka-wtt-feeder-chennai-upset",
+    "kicker": "Match Report",
+    "title": "Neil-Tanishka Achieve Mixed Doubles Upset at WTT Feeder Chennai",
+    "time": "3h ago",
+    "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "The formation of this committee empowers Indian athletes with a direct voice in the governance and development of badminton in the country.",
-    "summary": "The Badminton Association of India announced the formation of its new Athletes Committee, aimed at giving players a greater role in decision-making processes."
+    "indian_angle": "Indian pair Neil and Tanishka delivered a notable upset in the mixed doubles event at the WTT Feeder Chennai.",
+    "summary": "Neil and Tanishka's mixed doubles victory was highlighted in the Indian sports wrap for October 28, marking a significant local result."
   },
   {
-    "slug": "national-coaching-camp-world-junior-championships-guwahati",
-    "kicker": "Domestic",
-    "title": "National Coaching Camp for World Junior Championships Kicks Off in Guwahati",
-    "time": "1m ago",
-    "read": "3 min",
-    "importance_score": 7,
-    "indian_angle": "This camp is crucial for preparing India's top junior talents for the upcoming BWF World Junior Championships, aiming for international success.",
-    "summary": "India's junior badminton squad has gathered at the National Center of Excellence in Guwahati for an intensive coaching camp ahead of the BWF World Junior Championships 2026."
-  },
-  {
-    "slug": "applications-open-players-outstanding-merit",
-    "kicker": "Domestic",
-    "title": "Applications Open for Players of Outstanding Merit",
-    "time": "1m ago",
+    "slug": "abhishek-sharma-world-no-1-t20i-batter",
+    "kicker": "Ranking",
+    "title": "Abhishek Sharma Becomes World No. 1 T20I Batter",
+    "time": "6h ago",
     "read": "2 min",
-    "importance_score": 5,
-    "indian_angle": "This initiative provides a pathway for exceptional Indian badminton players to receive recognition and support from the national body.",
-    "summary": "BAI has invited applications from players demonstrating outstanding merit, offering opportunities for special consideration and support within the national badminton framework."
-  },
-  {
-    "slug": "bai-advanced-coaches-course-guwahati-raipur",
-    "kicker": "Domestic",
-    "title": "BAI Advanced Coaches Course Held in Guwahati and Raipur",
-    "time": "1m ago",
-    "read": "3 min",
-    "importance_score": 4,
-    "indian_angle": "The course aims to elevate the coaching standards across India, directly benefiting the development of future Indian badminton stars.",
-    "summary": "The Badminton Association of India successfully conducted its Level-1 (Advanced) Coaches Course across two centers, Guwahati and Raipur, enhancing coaching expertise nationwide."
+    "importance_score": 8,
+    "indian_angle": "Indian cricketer Abhishek Sharma has achieved the top spot in the T20I batting rankings, surpassing fellow Indian Ishan Kishan.",
+    "summary": "Abhishek Sharma's recent century propelled him to the world number one position in T20I batting rankings, a significant milestone for Indian cricket."
   }
 ]
