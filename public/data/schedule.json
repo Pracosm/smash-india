@@ -1,22 +1,12 @@
 [
   {
-    "slug": "hylo-open",
-    "date": "OCT 27",
-    "name": "Hylo Open",
-    "grade": "Super 500",
-    "city": "Saarbrücken",
-    "flag": "🇩🇪",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5273/hylo-open-2026/results/"
-  },
-  {
     "slug": "korea-open",
     "date": "NOV 03",
     "name": "Korea Open",
     "grade": "Super 500",
     "city": "Yeosu",
     "flag": "🇰🇷",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5597/korea-open-2026/results/"
   },
   {
@@ -48,5 +38,15 @@
     "flag": "🇭🇰",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5218/hong-kong-open-2026/results/"
+  },
+  {
+    "slug": "syed-modi-international",
+    "date": "NOV 24",
+    "name": "Syed Modi International",
+    "grade": "Super 300",
+    "city": "Lucknow",
+    "flag": "🇮🇳",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5274/syed-modi-india-international-2026/results/"
   }
 ]

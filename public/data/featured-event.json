@@ -24,13 +24,14 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week, India's shuttlers aim to gather crucial ranking points and build momentum on the European circuit, especially for those eyeing a strong finish to the season.",
-  "summary": "India's badminton contingent arrives at the Hylo Open Super 500 event in Saarbrücken looking to make a significant impact. While the full draw is yet to be revealed, the focus will undoubtedly be on the likes of PV Sindhu, who recently faced a tough outing, falling to the formidable An Se Young in what marked her eleventh consecutive loss against the reigning Olympic and world champion. This Super 500 event offers a crucial opportunity for Sindhu to regroup and build momentum.The men's singles challenge will likely be spearheaded by Lakshya Sen and HS Prannoy, both eager to find their rhythm and advance deep into the tournament. In men's doubles, Satwik & Chirag will be aiming to assert their dominance as one of the top pairs globally. Meanwhile, the promising women's doubles duo of Treesa & Gayatri will be looking to continue their ascent and gain valuable experience on the Super 500 circuit. With no specific draw details yet, the Indian shuttlers will be preparing for any challenge that comes their way, hoping to kickstart a strong campaign in Germany.",
+  "stakes": "This week is a crucial opportunity for India's shuttlers to gain valuable ranking points and build momentum on the European circuit.",
+  "summary": "India's badminton contingent kicks off its Hylo Open campaign with a mix of high hopes and challenging openers. Top men's doubles pair Satwik & Chirag, currently ranked 6th in the world, enter the Super 500 event as the highest-ranked Indian entry and will be looking to make a deep run, though their initial draw is yet to be announced. Their consistent form makes them a formidable presence.\n\nIn the singles draws, two-time Olympic medalist PV Sindhu, ranked 8th, faces an all-Indian clash in the Round of 32 against Prakriti Bharath, a match she'll be expected to navigate. Meanwhile, Lakshya Sen, ranked 14th, has drawn Joakim Oldorff of Finland for his opening encounter, a test he'll need to overcome to build momentum. Veteran HS Prannoy and young talent Malvika Bansod are also in the fray, seeking to leave their mark. The emerging women's doubles pair of Treesa & Gayatri, ranked 17th, will aim to continue their ascent on the international stage.\n\nWith the tournament already underway, the focus will be on these early matches to see who can establish a strong foothold. The Super 500 status means valuable ranking points are on offer, making every victory crucial for India's top shuttlers.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
+      "seed": 6,
       "rank": 6,
       "draw": "R32 \n— TBD",
       "note": "Top Indian doubles pair"
@@ -39,8 +40,9 @@
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
+      "seed": 8,
       "rank": 8,
-      "draw": "R32 \n— TBD",
+      "draw": "R32 vs Prakriti Bharath (IND)",
       "note": "Seeking strong comeback after recent loss"
     },
     {
@@ -48,14 +50,14 @@
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "R32 \n— TBD",
+      "draw": "R32 vs Joakim Oldorff (FIN)",
       "note": "Aiming for consistent Super 500 performance"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 19,
+      "rank": 17,
       "draw": "R32 \n— TBD",
       "note": "Emerging women's doubles talent"
     },
