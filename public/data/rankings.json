@@ -2,7 +2,7 @@
   {
     "disc": "Men's Doubles",
     "name": "Satwik & Chirag",
-    "rank": 6,
+    "rank": 5,
     "move": "same",
     "pts": "74,831"
   },
@@ -12,6 +12,13 @@
     "rank": 8,
     "move": "same",
     "pts": "70,261"
+  },
+  {
+    "disc": "Women's Doubles",
+    "name": "Treesa & Gayatri",
+    "rank": 12,
+    "move": "same",
+    "pts": "52,422"
   },
   {
     "disc": "Men's Singles",
@@ -26,12 +33,5 @@
     "rank": 19,
     "move": "same",
     "pts": "54,469"
-  },
-  {
-    "disc": "Women's Doubles",
-    "name": "Treesa & Gayatri",
-    "rank": 19,
-    "move": "same",
-    "pts": "52,422"
   }
 ]
