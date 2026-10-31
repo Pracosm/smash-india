@@ -1,42 +1,62 @@
 [
   {
-    "slug": "all-indian-semifinal-sindhu-faces-kharb-at-hylo-open-2026",
-    "kicker": "Preview",
-    "title": "All-Indian Semifinal: Sindhu Faces Kharb at Hylo Open 2026",
-    "time": "3h ago",
+    "slug": "sindhu-defeats-kharb-advances-to-hylo-open-final",
+    "kicker": "Match Report",
+    "title": "Sindhu Defeats Kharb, Advances to Hylo Open Final",
+    "time": "30 min ago",
     "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "Indian fans will be keen to see who emerges victorious from this exciting all-Indian clash in the Hylo Open semifinals.",
-    "summary": "P.V. Sindhu and Anmol Kharb are set to battle in an anticipated all-Indian women's singles semifinal at the Hylo Open 2026, with live streaming details available."
+    "importance_score": 9,
+    "indian_angle": "Two prominent Indian women shuttlers clashed in a Super 500 semifinal, with PV Sindhu securing her spot in the final, highlighting India's strong presence.",
+    "summary": "PV Sindhu defeated fellow Indian Anmol Kharb in straight games at the Hylo Open 2026 semifinal in Saarbrucken, setting up a final match against Mia Blichfeldt."
   },
   {
-    "slug": "lakshya-sen-gears-up-for-hylo-open-2026-semifinal-against-popov",
-    "kicker": "Preview",
-    "title": "Lakshya Sen Gears Up for Hylo Open 2026 Semifinal Against Popov",
-    "time": "3h ago",
+    "slug": "bai-announces-formation-of-athletes-committee",
+    "kicker": "Domestic",
+    "title": "BAI Forms New Athletes Committee",
+    "time": "1m ago",
+    "read": "1 min",
+    "importance_score": 5,
+    "indian_angle": "The establishment of this committee ensures Indian athletes have a direct voice in the governance and future direction of badminton in the country.",
+    "summary": "The Badminton Association of India (BAI) officially announced the formation of its new Athletes Committee on October 2, 2026, aimed at strengthening player representation and welfare."
+  },
+  {
+    "slug": "national-coaching-camp-for-bwf-world-junior-championships",
+    "kicker": "Domestic",
+    "title": "National Camp for World Junior Championships Begins",
+    "time": "1m ago",
     "read": "2 min",
     "importance_score": 6,
-    "indian_angle": "Indian fans will be closely following Lakshya Sen's performance as he aims for a spot in the Hylo Open 2026 final.",
-    "summary": "India's Lakshya Sen is scheduled to play Toma Junior Popov in the Hylo Open 2026 men's singles semifinal, with match and broadcast information provided."
+    "indian_angle": "This camp is crucial for preparing India's top young talents for the BWF World Junior Championships, aiming for strong international performance.",
+    "summary": "A national coaching camp for the BWF World Junior Championships 2026 is underway at the National Center of Excellence in Guwahati, preparing junior players for the global event."
   },
   {
-    "slug": "post-medal-recovery-a-30-day-roadmap-for-indias-athletes",
-    "kicker": "Feature",
-    "title": "Post-Medal Recovery: A 30-Day Roadmap for India's Athletes",
-    "time": "2h ago",
-    "read": "4 min",
+    "slug": "bai-level-1-advanced-coaches-course-concludes",
+    "kicker": "Domestic",
+    "title": "BAI Level-1 Advanced Coaches Course Concludes",
+    "time": "2m ago",
+    "read": "2 min",
+    "importance_score": 4,
+    "indian_angle": "The completion of this advanced course signifies BAI's commitment to enhancing coaching standards, which is vital for developing future Indian badminton stars.",
+    "summary": "The BAI Level-1 (Advanced) Coaches Course was successfully held in Guwahati and Raipur from September 14th to 23rd, 2026, focusing on upgrading coaching expertise."
+  },
+  {
+    "slug": "indian-junior-team-camp-for-asia-u17-u15-championships",
+    "kicker": "Domestic",
+    "title": "Indian Junior Team Camp for Asia U17 & U15 Championships",
+    "time": "2m ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This specialized camp in Guwahati is vital for nurturing India's emerging junior talent, preparing them for significant continental competitions.",
+    "summary": "An Indian team coaching camp for the Badminton Asia U17 & U15 Junior Championships 2026 took place at the National Center of Excellence in Guwahati, focusing on junior player development."
+  },
+  {
+    "slug": "bai-implements-3x15-scoring-system-domestic-juniors",
+    "kicker": "Domestic",
+    "title": "BAI Adopts 3x15 Scoring for Junior Domestic Tournaments",
+    "time": "4m ago",
+    "read": "1 min",
     "importance_score": 5,
-    "indian_angle": "This column offers a crucial recovery roadmap for Indian athletes, helping them build on their recent performances at events like Aichi-Nagoya.",
-    "summary": "A column outlines a 30-day recovery plan for Indian athletes post-competition, emphasizing the importance of recovery for future challenges after events like the Asian Games in Aichi-Nagoya."
-  },
-  {
-    "slug": "the-story-behind-why-athletes-bite-their-gold-medals",
-    "kicker": "Feature",
-    "title": "The Story Behind Why Athletes Bite Their Gold Medals",
-    "time": "2h ago",
-    "read": "3 min",
-    "importance_score": 3,
-    "indian_angle": "This feature explores a universal athlete tradition, relevant to Indian medal winners and sports enthusiasts alike.",
-    "summary": "Delving into a historical tradition, this article explains why athletes bite their gold medals, tracing the practice back to 19th-century gold purity tests."
+    "indian_angle": "This change in scoring format for domestic junior events will influence player strategy and development from a young age within India.",
+    "summary": "The Badminton Association of India has implemented a 3x15 scoring system for domestic ranking tournaments and national championships across the U-13, U-15, and U-17 age groups."
   }
 ]
