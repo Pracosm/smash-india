@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week, India's shuttlers are vying for crucial ranking points and a confidence boost at the Super 500 Hylo Open, aiming to solidify their positions and make a statement on the international stage.",
-  "summary": "India's badminton contingent arrives in Saarbrücken for the Hylo Open, a crucial Super 500 event offering valuable ranking points and momentum as the season progresses. The spotlight will undoubtedly be on the seeded stars, with Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty—seeded sixth and ranked world No. 6—looking to make a deep run. Similarly, Women's Singles ace PV Sindhu, seeded eighth and ranked world No. 8, aims for a strong performance, having already navigated her opening round to face Rosy Pancasari in the R16.\n\nMeanwhile, Lakshya Sen, ranked 14th, faces a challenging R32 opener against Finland's Joakim Oldorff, a match that could set the tone for his tournament. Other Indian hopefuls, including the emerging Women's Doubles pair Treesa Jolly and Gayatri Gopichand, and veteran Men's Singles player HS Prannoy, will be eager to advance past their initial rounds, with their draws yet to be fully determined. This Super 500 event provides a vital platform for the Indian shuttlers to test their mettle against top international competition and build confidence.",
+  "stakes": "With PV Sindhu and Lakshya Sen both reaching the semifinals, this Hylo Open is a crucial test of India's top talent, offering a prime opportunity to secure valuable ranking points and build momentum for the season's close.",
+  "summary": "India's campaign at the Hylo Open has reached a thrilling stage, with two of its brightest stars, **PV Sindhu** and **Lakshya Sen**, making impressive runs to the semifinals. Sindhu, seeded eighth, is set for an intriguing all-Indian clash against Anmol Kharb, highlighting the depth emerging in women's singles. Her journey to the final four marks a significant comeback effort, especially after a recent loss, and she'll be eager to convert this opportunity into a title shot.On the men's singles front, **Lakshya Sen** has also demonstrated strong form, battling his way into the semifinals where he faces Toma Junior Popov. This consistent performance at a Super 500 event is precisely what Sen needs to solidify his standing among the world's elite. Meanwhile, India's top men's doubles pair, **Satwik & Chirag**, entered the tournament as the sixth seeds, though their progress beyond the opening round remains unreported in the latest updates.Other Indian contenders like **HS Prannoy**, **Treesa & Gayatri**, and **Malvika Bansod** also featured in the draw. While their specific results aren't detailed, the focus remains firmly on Sindhu and Sen, who carry the nation's hopes for silverware deep into the tournament in Saarbrücken.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "seed": 6,
       "rank": 6,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n\n\n\n— TBD",
       "note": "Top Indian doubles pair"
     },
     {
@@ -42,23 +42,23 @@
       "discipline": "Women's Singles",
       "seed": 8,
       "rank": 8,
-      "draw": "R16 vs Rosy Pancasari (INA)",
-      "note": "Seeking strong comeback after recent loss"
+      "draw": "Semifinals vs Anmol Kharb (IND)",
+      "note": "All-Indian semifinalist"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "R32 vs Joakim Oldorff (FIN)",
-      "note": "Aiming for consistent Super 500 performance"
+      "draw": "Semifinals vs Toma Junior Popov (FRA)",
+      "note": "Strong run to semifinals"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 19,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n\n\n\n— TBD",
       "note": "Emerging women's doubles talent"
     },
     {
@@ -66,7 +66,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n\n\n\n— TBD",
       "note": "Veteran presence, looking for deep run"
     },
     {
@@ -74,7 +74,7 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n\n\n\n— TBD",
       "note": "Young talent, gaining experience"
     }
   ]
