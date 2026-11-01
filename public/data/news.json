@@ -1,42 +1,62 @@
 [
   {
-    "slug": "sindhu-lakshya-hylo-open-finalists",
+    "slug": "sindhu-lakshya-sen-secure-historic-double-title-hylo-open",
     "kicker": "Match Report",
-    "title": "Sindhu, Lakshya Sen Reach Hylo Open Finals",
-    "time": "Yesterday",
-    "read": "2 min",
-    "importance_score": 8,
-    "indian_angle": "Both P.V. Sindhu and Lakshya Sen have advanced to the finals of the prestigious Hylo Open, showcasing India's strong presence in international badminton.",
-    "summary": "P.V. Sindhu is aiming for her first title of the season in Europe and second overall in 2026, while Lakshya Sen is chasing his first title of the year at the Hylo Open."
-  },
-  {
-    "slug": "pv-sindhu-hylo-open-womens-singles-final-preview",
-    "kicker": "Preview",
-    "title": "PV Sindhu Prepares for Hylo Open Women's Singles Final",
-    "time": "3h ago",
-    "read": "1 min",
-    "importance_score": 7,
-    "indian_angle": "Indian badminton star P.V. Sindhu is set to compete in the Hylo Open women's singles final, with fans eagerly anticipating her performance.",
-    "summary": "This article provides live streaming information for the Hylo Open 2026 women’s singles final between P. V. Sindhu and Line Højmark Kjaersfeldt on Sunday."
-  },
-  {
-    "slug": "lakshya-sen-hylo-open-mens-singles-final-preview",
-    "kicker": "Preview",
-    "title": "Lakshya Sen Readies for Hylo Open Men's Singles Final",
-    "time": "3h ago",
-    "read": "1 min",
-    "importance_score": 7,
-    "indian_angle": "Indian shuttler Lakshya Sen prepares to battle Jonatan Christie in the Hylo Open men's singles final, a significant match for Indian badminton.",
-    "summary": "Here’s where to watch the Hylo Open 2026 men’s singles final between Lakshya Sen and Jonatan Christie on Sunday."
-  },
-  {
-    "slug": "sindhu-defeats-anmol-recent-final-victory",
-    "kicker": "Result",
-    "title": "Sindhu Makes Short Work of Anmol in Final",
+    "title": "Sindhu, Lakshya Sen Secure Historic Double Title at Hylo Open",
     "time": "Today",
+    "read": "3 min",
+    "importance_score": 10,
+    "indian_angle": "This marks a significant achievement for Indian badminton with two top players winning major international titles simultaneously.",
+    "summary": "PV Sindhu and Lakshya Sen both clinched their respective singles titles at the Hylo Open in Saarbrücken, Germany, making it a rare and memorable double triumph for India in a Super 500 event."
+  },
+  {
+    "slug": "lakshya-sen-defeats-christie-to-claim-second-hylo-open-title",
+    "kicker": "Match Report",
+    "title": "Lakshya Sen Defeats Christie to Claim Second Hylo Open Title",
+    "time": "Today",
+    "read": "2 min",
+    "importance_score": 9,
+    "indian_angle": "Lakshya Sen's victory reinforces his position as a leading Indian men's singles player on the international circuit.",
+    "summary": "Indian shuttler Lakshya Sen secured his second Hylo Open title by defeating Indonesia's Jonatan Christie in straight games in the men's singles final."
+  },
+  {
+    "slug": "pv-sindhu-captures-hylo-open-crown-second-bwf-title-season",
+    "kicker": "Match Report",
+    "title": "PV Sindhu Captures Hylo Open Crown, Second BWF Title of Season",
+    "time": "Today",
+    "read": "2 min",
+    "importance_score": 9,
+    "indian_angle": "This win marks PV Sindhu's second BWF title of the year, showcasing her consistent performance at the elite level.",
+    "summary": "Former world champion PV Sindhu triumphed at the Hylo Open, beating Line Højmark Kjadersfelt in straight games to secure her second BWF title of the 2026 season."
+  },
+  {
+    "slug": "formation-of-bai-athletes-committee-to-empower-players",
+    "kicker": "Domestic",
+    "title": "BAI Establishes New Athletes Committee to Empower Players",
+    "time": "29d ago",
     "read": "1 min",
-    "importance_score": 7,
-    "indian_angle": "P.V. Sindhu secured a decisive victory over fellow Indian Anmol in a recent final, highlighting her continued dominance in the sport.",
-    "summary": "P.V. Sindhu made short work of Anmol in a final, with their only previous meeting being at the Syed Modi India International in 2024 where Sindhu also won in straight games."
+    "importance_score": 5,
+    "indian_angle": "The formation of this committee by BAI aims to give Indian athletes a stronger voice in the sport's administration and decision-making.",
+    "summary": "The Badminton Association of India (BAI) announced the formation of its new Athletes Committee, a significant step towards ensuring player representation and welfare within the national federation."
+  },
+  {
+    "slug": "national-coaching-camp-bwf-world-junior-championships-guwahati",
+    "kicker": "Domestic",
+    "title": "National Coaching Camp for BWF World Junior Championships Begins in Guwahati",
+    "time": "1m ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "This camp is crucial for nurturing India's next generation of badminton stars ahead of a major international junior tournament.",
+    "summary": "The National Coaching Camp for the upcoming BWF World Junior Championships 2026 has commenced at the National Center of Excellence in Guwahati, preparing young Indian shuttlers for the global stage."
+  },
+  {
+    "slug": "bai-implements-3x15-scoring-system-junior-domestic-tournaments",
+    "kicker": "Domestic",
+    "title": "BAI Implements 3x15 Scoring System for Junior Domestic Tournaments",
+    "time": "4m ago",
+    "read": "1 min",
+    "importance_score": 4,
+    "indian_angle": "This change in scoring system for domestic junior tournaments will impact how young Indian players develop and compete nationally.",
+    "summary": "The Badminton Association of India has implemented a new 3x15 scoring system for U-13, U-15, and U-17 domestic ranking tournaments and national championships, aiming to adapt to evolving gameplay."
   }
 ]
