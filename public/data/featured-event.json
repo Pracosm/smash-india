@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "With PV Sindhu and Lakshya Sen both reaching the semifinals, this Hylo Open is a crucial test of India's top talent, offering a prime opportunity to secure valuable ranking points and build momentum for the season's close.",
-  "summary": "India's campaign at the Hylo Open has reached a thrilling stage, with two of its brightest stars, **PV Sindhu** and **Lakshya Sen**, making impressive runs to the semifinals. Sindhu, seeded eighth, is set for an intriguing all-Indian clash against Anmol Kharb, highlighting the depth emerging in women's singles. Her journey to the final four marks a significant comeback effort, especially after a recent loss, and she'll be eager to convert this opportunity into a title shot.On the men's singles front, **Lakshya Sen** has also demonstrated strong form, battling his way into the semifinals where he faces Toma Junior Popov. This consistent performance at a Super 500 event is precisely what Sen needs to solidify his standing among the world's elite. Meanwhile, India's top men's doubles pair, **Satwik & Chirag**, entered the tournament as the sixth seeds, though their progress beyond the opening round remains unreported in the latest updates.Other Indian contenders like **HS Prannoy**, **Treesa & Gayatri**, and **Malvika Bansod** also featured in the draw. While their specific results aren't detailed, the focus remains firmly on Sindhu and Sen, who carry the nation's hopes for silverware deep into the tournament in Saarbrücken.",
+  "stakes": "This week offers a golden opportunity for India's badminton contingent to secure significant titles, with PV Sindhu and Lakshya Sen both vying for Super 500 glory in Saarbrücken.",
+  "summary": "India's campaign at the Hylo Open has culminated in a thrilling Sunday, with two of its brightest stars, PV Sindhu and Lakshya Sen, reaching their respective finals. Sindhu, seeded eighth, navigated a challenging draw, including an all-Indian semifinal clash against Anmol Kharb, to set up a title showdown against Denmark's Line Højmark Kjaersfeldt. This marks a crucial opportunity for Sindhu to clinch her first title of the season in Europe, and her second overall for 2026. Lakshya Sen has also impressed, battling his way to the men's singles final where he faces Indonesia's formidable Jonatan Christie. Sen is eager to secure his first title of the year, showcasing a strong return to form. While the focus now shifts to these two high-stakes finals, other Indian hopefuls like Satwik & Chirag, Treesa & Gayatri, HS Prannoy, and Malvika Bansod saw earlier exits from the Super 500 event.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "seed": 6,
       "rank": 6,
-      "draw": "R32 \n\n\n\n— TBD",
+      "draw": "Eliminated",
       "note": "Top Indian doubles pair"
     },
     {
@@ -42,23 +42,23 @@
       "discipline": "Women's Singles",
       "seed": 8,
       "rank": 8,
-      "draw": "Semifinals vs Anmol Kharb (IND)",
-      "note": "All-Indian semifinalist"
+      "draw": "Final vs Line Højmark Kjaersfeldt (DEN)",
+      "note": "Eyes first title of the season"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 14,
-      "draw": "Semifinals vs Toma Junior Popov (FRA)",
-      "note": "Strong run to semifinals"
+      "draw": "Final vs Jonatan Christie (INA)",
+      "note": "Chasing year's first title"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 19,
-      "draw": "R32 \n\n\n\n— TBD",
+      "rank": 18,
+      "draw": "Eliminated",
       "note": "Emerging women's doubles talent"
     },
     {
@@ -66,15 +66,15 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 \n\n\n\n— TBD",
-      "note": "Veteran presence, looking for deep run"
+      "draw": "Eliminated",
+      "note": "Veteran presence, early exit"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 \n\n\n\n— TBD",
+      "draw": "Eliminated",
       "note": "Young talent, gaining experience"
     }
   ]
