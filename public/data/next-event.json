@@ -1,12 +1,12 @@
 {
-  "name": "Korea Open",
+  "name": "Japan Masters",
   "grade": "Super 500",
-  "city": "Yeosu",
-  "venue": "TBC",
-  "dates": "Nov 3 \n– Nov 8, 2026",
-  "startsAt": "2026-11-03T09:00:00+09:00",
-  "indiaInDraw": 8,
+  "city": "Kumamoto",
+  "venue": "Kumamoto Prefectural Gymnasium",
+  "dates": "Nov 10 – Nov 15, 2026",
+  "startsAt": "2026-11-10T09:00:00+09:00",
+  "indiaInDraw": 10,
   "disciplines": 5,
-  "blurb": "Indian shuttlers will aim for strong performances and valuable ranking points at this Super 500 event. A good run here could significantly boost their standing on the BWF World Tour.",
-  "broadcaster": "Sony Sports \n· JioHotstar"
+  "blurb": "India's top shuttlers will aim for crucial ranking points and a strong showing at this Super 500 event in Japan. A good performance here could boost their standing ahead of the year-end finals.",
+  "broadcaster": "Sony Sports · JioHotstar"
 }

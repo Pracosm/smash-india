@@ -1,22 +1,12 @@
 [
   {
-    "slug": "korea-open",
-    "date": "NOV 03",
-    "name": "Korea Open",
-    "grade": "Super 500",
-    "city": "Yeosu",
-    "flag": "🇰🇷",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5597/korea-open-2026/results/"
-  },
-  {
     "slug": "japan-masters",
     "date": "NOV 10",
     "name": "Japan Masters",
     "grade": "Super 500",
     "city": "Kumamoto",
     "flag": "🇯🇵",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
@@ -48,5 +38,15 @@
     "flag": "🇮🇳",
     "soon": false,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5274/syed-modi-india-international-2026/results/"
+  },
+  {
+    "slug": "guwahati-masters",
+    "date": "DEC 01",
+    "name": "Guwahati Masters",
+    "grade": "Super 100",
+    "city": "Guwahati",
+    "flag": "🇮🇳",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   }
 ]

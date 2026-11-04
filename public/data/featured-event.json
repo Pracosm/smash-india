@@ -1,81 +1,30 @@
 {
-  "slug": "hylo-open",
-  "name": "Hylo Open",
+  "slug": "japan-masters",
+  "name": "Japan Masters",
   "edition": "2026",
-  "fullName": "Hylo Open",
+  "fullName": "Japan Masters",
   "grade": "Super 500",
-  "city": "Saarbrücken",
-  "flag": "🇩🇪",
-  "dates": "Oct 27 – Nov 1, 2026",
-  "startsAt": "2026-10-27T09:00:00+01:00",
-  "endsAt": "2026-11-02T08:00:00.000Z",
+  "city": "Kumamoto",
+  "flag": "🇯🇵",
+  "dates": "Nov 10 – Nov 15, 2026",
+  "startsAt": "2026-11-10T09:00:00+09:00",
+  "endsAt": "2026-11-16T00:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5273/hylo-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/",
   "venue": {
-    "name": "Saarlandhalle",
+    "name": "Kumamoto Prefectural Gymnasium",
     "blurb": ""
   },
   "broadcasters": [
     {
-      "label": "Sony Sports \n JioHotstar",
+      "label": "Sony Sports · JioHotstar",
       "region": "India"
     }
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week's Hylo Open delivered a significant boost, with a rare double title victory underscoring India's growing prowess in international badminton.",
-  "summary": "The Hylo Open concluded with a memorable double triumph for India, as both PV Sindhu and Lakshya Sen clinched their respective singles titles. Sindhu's victory marked her second BWF title of the season, a testament to her consistent form and resilience on court. Meanwhile, Lakshya Sen's win was particularly significant, ending a notable title drought and signaling a strong return to form for the young shuttler.\n\nThis rare Indian badminton double in Saarbrücken has certainly injected fresh confidence into the contingent. While Sindhu and Sen celebrated their victories, other Indian players like the men's doubles pair Satwik & Chirag, women's doubles duo Treesa & Gayatri, veteran HS Prannoy, and rising talent Malvika Bansod faced earlier exits. Sen's subsequent decision to pull out of the Korea Open highlights a strategic approach to workload management following his hard-fought success.\n\nOverall, the Hylo Open proved to be a pivotal tournament, showcasing India's depth in singles and offering crucial momentum as the season progresses.",
-  "indiaContingent": [
-    {
-      "playerSlug": "satwik-chirag",
-      "name": "Satwik & Chirag",
-      "discipline": "Men's Doubles",
-      "seed": 6,
-      "rank": 6,
-      "draw": "Eliminated",
-      "note": "Top Indian doubles pair"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "seed": 8,
-      "rank": 8,
-      "draw": "Champion",
-      "note": "Won the title, second of the season"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 14,
-      "draw": "Champion",
-      "note": "Ended title drought with a win"
-    },
-    {
-      "playerSlug": "treesa-gayatri",
-      "name": "Treesa & Gayatri",
-      "discipline": "Women's Doubles",
-      "rank": 19,
-      "draw": "Eliminated",
-      "note": "Emerging women's doubles talent"
-    },
-    {
-      "playerSlug": "hs-prannoy",
-      "name": "HS Prannoy",
-      "discipline": "Men's Singles",
-      "rank": 24,
-      "draw": "Eliminated",
-      "note": "Veteran presence, early exit"
-    },
-    {
-      "playerSlug": "malvika-bansod",
-      "name": "Malvika Bansod",
-      "discipline": "Women's Singles",
-      "rank": 31,
-      "draw": "Eliminated",
-      "note": "Young talent, gaining experience"
-    }
-  ]
+  "stakes": "",
+  "summary": "",
+  "indiaContingent": []
 }
