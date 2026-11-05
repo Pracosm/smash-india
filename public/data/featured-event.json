@@ -24,7 +24,56 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "",
-  "summary": "",
-  "indiaContingent": []
+  "stakes": "This Super 500 event offers crucial ranking points and an opportunity for India's top shuttlers to build momentum ahead of the BWF World Tour Finals.",
+  "summary": "India's badminton contingent heads into the Japan Masters Super 500 with a mix of seasoned campaigners and promising young talent. While specific draw details for the tournament are yet to emerge, the focus remains on key players to make a deep run. PV Sindhu, back in the top-10 world rankings, has expressed renewed confidence, stating \"31 is the new 21\" as she looks to build on her qualification for the BWF World Tour Finals 2026—her first appearance in five years.\n\nMeanwhile, the men's doubles pair of Satwik & Chirag continues to be India's strongest medal prospect, consistently performing at the highest level. Youngsters like Lakshya Sen and Treesa & Gayatri will be eager to find consistent form and climb the rankings, while veteran HS Prannoy will aim to leverage his experience. The event also comes on the heels of Tanvi Patri's historic achievement of reaching the Youth Olympic badminton final, highlighting the depth of emerging talent in Indian badminton.",
+  "indiaContingent": [
+    {
+      "playerSlug": "satwik-chirag",
+      "name": "Satwik & Chirag",
+      "discipline": "Men's Doubles",
+      "rank": 6,
+      "draw": "R32 — TBD",
+      "note": "India's top men's doubles pair"
+    },
+    {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
+      "discipline": "Women's Singles",
+      "rank": 8,
+      "draw": "R32 — TBD",
+      "note": "Back in top-10, qualified for Tour Finals"
+    },
+    {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 14,
+      "draw": "R32 — TBD",
+      "note": "Seeking consistent form"
+    },
+    {
+      "playerSlug": "treesa-gayatri",
+      "name": "Treesa & Gayatri",
+      "discipline": "Women's Doubles",
+      "rank": 18,
+      "draw": "R32 — TBD",
+      "note": "Rising women's doubles talent"
+    },
+    {
+      "playerSlug": "hs-prannoy",
+      "name": "HS Prannoy",
+      "discipline": "Men's Singles",
+      "rank": 24,
+      "draw": "R32 — TBD",
+      "note": "Veteran campaigner aiming for deep run"
+    },
+    {
+      "playerSlug": "malvika-bansod",
+      "name": "Malvika Bansod",
+      "discipline": "Women's Singles",
+      "rank": 31,
+      "draw": "R32 — TBD",
+      "note": "Young talent gaining experience"
+    }
+  ]
 }
