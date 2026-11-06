@@ -10,6 +10,16 @@
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
+    "slug": "kaohsiung-masters",
+    "date": "NOV 10",
+    "name": "Kaohsiung Masters",
+    "grade": "Super 100",
+    "city": "Kaohsiung",
+    "flag": "🇹🇼",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+  },
+  {
     "slug": "hong-kong-open",
     "date": "NOV 17",
     "name": "Hong Kong Open",
@@ -30,13 +40,13 @@
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5274/syed-modi-india-international-2026/results/"
   },
   {
-    "slug": "bwf-world-tour-finals",
-    "date": "DEC 09",
-    "name": "BWF World Tour Finals",
-    "grade": "BWF Finals",
-    "city": "Hangzhou",
-    "flag": "🇨🇳",
+    "slug": "guwahati-masters",
+    "date": "DEC 01",
+    "name": "Guwahati Masters",
+    "grade": "Super 100",
+    "city": "Guwahati",
+    "flag": "🇮🇳",
     "soon": false,
-    "bwfUrl": "https://bwfworldtourfinals.bwfbadminton.com/results/5602/hsbc-bwf-world-tour-finals-2026"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   }
 ]
