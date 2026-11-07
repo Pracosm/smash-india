@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event offers India's shuttlers a crucial opportunity to gain valuable ranking points and build confidence ahead of bigger tournaments.",
-  "summary": "As the Japan Masters, a Super 500 event, approaches, India's top shuttlers are gearing up for what promises to be a challenging week in Kumamoto. While the draw is yet to be released, the Indian contingent features a strong mix of established stars and promising talents.\n\nMen's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, currently ranked 6th in the world, will be looking to assert their dominance and build momentum. In Women's Singles, PV Sindhu, ranked 8th, continues her journey back to peak form, aiming for a deep run. Lakshya Sen, ranked 14th in Men's Singles, seeks consistency, while veteran HS Prannoy (ranked 24th) will be eager to make his mark. The rising Women's Doubles pair of Treesa Jolly and Gayatri Gopichand (ranked 19th) will also be one to watch, as will young Malvika Bansod (ranked 31st) in Women's Singles, who will be gaining crucial experience at this level.\n\nWith no specific draw details available yet, all eyes will be on the matchups once they are announced. The tournament offers a valuable opportunity for India's shuttlers to fine-tune their game and climb the rankings as the season progresses.",
+  "stakes": "This week represents a crucial opportunity for India's badminton stars to consolidate their rankings, build momentum, and challenge for titles on the international circuit.",
+  "summary": "India's badminton contingent heads to the Japan Masters, a Super 500 event, looking to make a significant impact. With the draw yet to be released, the focus remains on individual form and the potential for deep runs. India's top men's doubles pair, Satwiksairaj Rankireddy and Chirag Shetty, currently ranked world No. 6, will be keen to assert their dominance and add another title to their impressive season. Two-time Olympic medalist PV Sindhu, also ranked world No. 6, enters the tournament in strong form, having recently re-entered the top-10 and secured her spot for the Tour Finals. Her campaign will be closely watched as she aims for consistency and a strong finish to the year. The men's singles field sees Lakshya Sen, ranked 13th, striving for more consistent performances against a tough international lineup. Veteran HS Prannoy, ranked 24th, will also be looking to leverage his experience for a strong showing. In women's doubles, the promising duo of Treesa Jolly and Gayatri Gopichand, ranked 17th, continue their ascent, seeking to challenge higher-ranked opponents and gain crucial experience at this level. Young Malvika Bansod (world No. 31) rounds out the Indian challenge, aiming to gain valuable exposure.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -39,7 +39,7 @@
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 8,
+      "rank": 6,
       "draw": "R32 — TBD",
       "note": "Back in top-10, qualified for Tour Finals"
     },
@@ -47,7 +47,7 @@
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 14,
+      "rank": 13,
       "draw": "R32 — TBD",
       "note": "Seeking consistent form"
     },
@@ -55,7 +55,7 @@
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 19,
+      "rank": 17,
       "draw": "R32 — TBD",
       "note": "Rising women's doubles talent"
     },
