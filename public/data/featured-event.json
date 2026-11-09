@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event offers India's top shuttlers a crucial chance to secure valuable ranking points and build confidence as the season approaches its climax.",
-  "summary": "India's badminton contingent heads to the Japan Masters, a Super 500 event, looking to build momentum as the season winds down. With no specific draw details yet released, the focus remains on individual form and the opportunity to gather crucial ranking points. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, currently ranked 6th in the world, are expected to be among the top seeds, carrying the nation's highest hopes for a deep run. Their consistent performances this year make them key contenders.\n\nPV Sindhu, also ranked 6th in Women's Singles, continues her impressive comeback, having recently qualified for the Tour Finals. She'll be aiming to maintain her strong form and challenge for the title. Meanwhile, Lakshya Sen, ranked 13th, is still seeking to rediscover the consistent brilliance that marked his earlier career, and a strong showing here could be a significant step. Veteran HS Prannoy, at world No. 24, will be looking to leverage his experience for a strong performance, while the promising Women's Doubles pair of Treesa Jolly and Gayatri Gopichand (ranked 20th) continue their ascent, gaining valuable experience at this level.\n\nYoung Malvika Bansod (ranked 31st) rounds out the Indian challenge in Women's Singles, with the tournament offering another chance for her to test herself against top international talent. Without the bracket in hand, the initial matchups remain a mystery, but the Indian squad will be eager to make their mark in Kumamoto.",
+  "stakes": "This Super 500 event is a vital opportunity for India's remaining shuttlers to gain crucial ranking points and build confidence as the season nears its climax.",
+  "summary": "India's badminton contingent heads into the Japan Masters, a crucial Super 500 event, with a mix of high hopes and a notable setback. The spotlight will undoubtedly be on the formidable men's doubles pair, **Satwiksairaj Rankireddy and Chirag Shetty**, who enter as the fourth seeds and India's top-ranked duo, looking to assert their dominance. Their consistent form makes them strong contenders for a deep run. \n\nIn women's singles, **PV Sindhu** continues her resurgence, having climbed back into the top-10 and secured her spot in the year-end Tour Finals. This tournament offers her another opportunity to build momentum and fine-tune her game against a strong international field. However, the Indian camp faces a challenge with the withdrawal of **Lakshya Sen** from the men's singles draw, a blow to India's medal prospects in that category. \n\nBeyond the headliners, the rising women's doubles pair of **Treesa Jolly and Gayatri Gopichand** will be eager to make their mark and continue their upward trajectory in the world rankings. Veteran **HS Prannoy** in men's singles and young talent **Malvika Bansod** in women's singles round out the Indian challenge, each aiming for impactful performances in Kumamoto.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "seed": 4,
-      "rank": 6,
+      "rank": 4,
       "draw": "R32 — TBD",
       "note": "India's top men's doubles pair"
     },
@@ -42,21 +42,13 @@
       "discipline": "Women's Singles",
       "rank": 6,
       "draw": "R32 — TBD",
-      "note": "Back in top-10, qualified for Tour Finals"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 13,
-      "draw": "R32 — TBD",
-      "note": "Seeking consistent form"
+      "note": "Qualified for Tour Finals"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 20,
+      "rank": 16,
       "draw": "R32 — TBD",
       "note": "Rising women's doubles talent"
     },
