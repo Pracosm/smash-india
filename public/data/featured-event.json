@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event is a vital opportunity for India's remaining shuttlers to gain crucial ranking points and build confidence as the season nears its climax.",
-  "summary": "India's badminton contingent heads into the Japan Masters, a crucial Super 500 event, with a mix of high hopes and a notable setback. The spotlight will undoubtedly be on the formidable men's doubles pair, **Satwiksairaj Rankireddy and Chirag Shetty**, who enter as the fourth seeds and India's top-ranked duo, looking to assert their dominance. Their consistent form makes them strong contenders for a deep run. \n\nIn women's singles, **PV Sindhu** continues her resurgence, having climbed back into the top-10 and secured her spot in the year-end Tour Finals. This tournament offers her another opportunity to build momentum and fine-tune her game against a strong international field. However, the Indian camp faces a challenge with the withdrawal of **Lakshya Sen** from the men's singles draw, a blow to India's medal prospects in that category. \n\nBeyond the headliners, the rising women's doubles pair of **Treesa Jolly and Gayatri Gopichand** will be eager to make their mark and continue their upward trajectory in the world rankings. Veteran **HS Prannoy** in men's singles and young talent **Malvika Bansod** in women's singles round out the Indian challenge, each aiming for impactful performances in Kumamoto.",
+  "stakes": "This Super 500 event is a vital opportunity for India's shuttlers to gain crucial ranking points and build confidence as the season progresses.",
+  "summary": "The Japan Masters Super 500 event has begun with a promising start for India's contingent, particularly in doubles. The dynamic women's doubles pair of Treesa Jolly and Gayatri Gopichand have confidently sailed into the Round of 16, securing a straight-games victory in their opening match. In men's doubles, Hariharan Amsakarunan and M.R. Arjun also advanced to the next round, benefiting from their opponents' retirement.\n\nIndia's top men's doubles duo, Satwiksairaj Rankireddy and Chirag Shetty, seeded fourth, are poised to begin their campaign, aiming to assert their dominance. Olympic medalist PV Sindhu, a consistent force in women's singles, will be looking for a deep run to gather crucial momentum. Other key players like veteran HS Prannoy and rising talent Malvika Bansod are also in the draw, eager to make their mark in this significant tournament.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "seed": 4,
-      "rank": 4,
+      "rank": 6,
       "draw": "R32 — TBD",
       "note": "India's top men's doubles pair"
     },
@@ -48,8 +48,8 @@
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 16,
-      "draw": "R32 — TBD",
+      "rank": 20,
+      "draw": "R16",
       "note": "Rising women's doubles talent"
     },
     {
