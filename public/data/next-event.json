@@ -1,12 +1,12 @@
 {
-  "name": "Japan Masters",
+  "name": "Hong Kong Open",
   "grade": "Super 500",
-  "city": "Kumamoto",
-  "venue": "Kumamoto Prefectural Gymnasium",
-  "dates": "Nov 10 – Nov 15, 2026",
-  "startsAt": "2026-11-10T09:00:00+09:00",
-  "indiaInDraw": 8,
+  "city": "Hong Kong",
+  "venue": "Kai Tak Arena",
+  "dates": "Nov 17 – Nov 22, 2026",
+  "startsAt": "2026-11-17T09:00:00+08:00",
+  "indiaInDraw": 10,
   "disciplines": 5,
-  "blurb": "Indian shuttlers will aim for a strong performance at this Super 500 event to gather crucial ranking points as the season draws to a close. Expect fierce competition across all categories.",
+  "blurb": "The Hong Kong Open is a crucial Super 500 event where Indian shuttlers will aim for valuable ranking points. Strong performances here are key to solidifying their positions ahead of the year-end BWF World Tour Finals.",
   "broadcaster": "Sony Sports · JioHotstar"
 }

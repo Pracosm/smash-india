@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event is a vital opportunity for India's shuttlers to gain crucial ranking points and build confidence as the season progresses.",
-  "summary": "The Japan Masters Super 500 event has begun with a promising start for India's contingent, particularly in doubles. The dynamic women's doubles pair of Treesa Jolly and Gayatri Gopichand have confidently sailed into the Round of 16, securing a straight-games victory in their opening match. In men's doubles, Hariharan Amsakarunan and M.R. Arjun also advanced to the next round, benefiting from their opponents' retirement.\n\nIndia's top men's doubles duo, Satwiksairaj Rankireddy and Chirag Shetty, seeded fourth, are poised to begin their campaign, aiming to assert their dominance. Olympic medalist PV Sindhu, a consistent force in women's singles, will be looking for a deep run to gather crucial momentum. Other key players like veteran HS Prannoy and rising talent Malvika Bansod are also in the draw, eager to make their mark in this significant tournament.",
+  "stakes": "This week is crucial for India to consolidate ranking points, build momentum, and test their mettle against top international competition ahead of the season's final stretch.",
+  "summary": "India's contingent at the Japan Masters Super 500 event sees a mix of established stars and promising talent looking to make a deep run. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, seeded fourth, lead the charge as India's top-ranked pair, hoping to build on their consistent performances this season. Their R32 opponent is yet to be determined.\n\nIn the Men's Singles, Lakshya Sen arrives with significant momentum, having just clinched the Hylo Open title—he's already secured his spot in the Round of 16 here after defeating Yu Jen. Veteran Kidambi Srikanth also showed his mettle, navigating a tough opening match against Rasmus Gemke to advance to the pre-quarterfinals. PV Sindhu, a consistent presence at the top, will be looking to kickstart her campaign, while Treesa Jolly and Gayatri Gopichand continue their journey as a rising force in Women's Doubles. HS Prannoy and Malvika Bansod round out the Indian challenge, seeking crucial ranking points and valuable experience against a strong international field.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "seed": 4,
       "rank": 6,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n— TBD",
       "note": "India's top men's doubles pair"
     },
     {
@@ -41,8 +41,16 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 6,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n— TBD",
       "note": "Qualified for Tour Finals"
+    },
+    {
+      "playerSlug": "lakshya-sen",
+      "name": "Lakshya Sen",
+      "discipline": "Men's Singles",
+      "rank": 13,
+      "draw": "R16",
+      "note": "Coming off Hylo Open title win"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -57,7 +65,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n— TBD",
       "note": "Veteran campaigner aiming for deep run"
     },
     {
@@ -65,8 +73,14 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
+      "draw": "R32 \n— TBD",
       "note": "Young talent gaining experience"
+    },
+    {
+      "name": "Kidambi Srikanth",
+      "discipline": "Men's Singles",
+      "draw": "R16",
+      "note": "Veteran campaigner, through to R16"
     }
   ]
 }

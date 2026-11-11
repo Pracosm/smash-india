@@ -1,17 +1,17 @@
 [
   {
-    "disc": "Women's Singles",
-    "name": "P. V. Sindhu",
-    "rank": 6,
-    "move": "same",
-    "pts": "74,421"
-  },
-  {
     "disc": "Men's Doubles",
     "name": "Satwik & Chirag",
     "rank": 6,
     "move": "same",
     "pts": "74,831"
+  },
+  {
+    "disc": "Women's Singles",
+    "name": "P. V. Sindhu",
+    "rank": 6,
+    "move": "same",
+    "pts": "74,421"
   },
   {
     "disc": "Men's Singles",
@@ -21,17 +21,17 @@
     "pts": "65,723"
   },
   {
-    "disc": "Men's Singles",
-    "name": "Ayush Shetty",
-    "rank": 20,
-    "move": "same",
-    "pts": "52,179"
-  },
-  {
     "disc": "Women's Doubles",
     "name": "Treesa & Gayatri",
     "rank": 20,
     "move": "same",
     "pts": "52,422"
+  },
+  {
+    "disc": "Men's Singles",
+    "name": "Ayush Shetty",
+    "rank": 20,
+    "move": "same",
+    "pts": "52,179"
   }
 ]
