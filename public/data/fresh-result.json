@@ -1,9 +1,9 @@
 {
-  "tag": "RESULT",
-  "event": "Junior Cricket Match",
+  "tag": "SEMIFINALISTS",
+  "event": "Junior Cricket Tournament",
   "discipline": "Cricket",
-  "winner": "India (Aaryavir Sehwag)",
+  "winner": "India",
   "loser": "UAE",
-  "score": "India 309/7 - UAE 239/10",
-  "when": "Today"
+  "score": "India 309/7, UAE 239 all out",
+  "when": "Yesterday"
 }

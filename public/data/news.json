@@ -1,62 +1,32 @@
 [
   {
-    "slug": "bai-elections-scheduled-for-december-26-in-guwahati",
-    "kicker": "Domestic",
-    "title": "BAI Elections Scheduled for December 26 in Guwahati",
+    "slug": "lakshya-sen-japan-masters-live-streaming-info",
+    "kicker": "Preview",
+    "title": "Lakshya Sen vs Chi Yu Jen: Japan Masters Round-of-32 live streaming details",
     "time": "3h ago",
-    "read": "1 min",
-    "importance_score": 5,
-    "indian_angle": "This news is crucial for Indian badminton fans as it concerns the leadership and future direction of the national governing body, the Badminton Association of India.",
-    "summary": "The Badminton Association of India has announced that its forthcoming elections will be held on December 26, 2026, in Guwahati, Assam."
-  },
-  {
-    "slug": "khelo-india-youth-games-tender-2026-released",
-    "kicker": "Domestic",
-    "title": "Khelo India Youth Games 2026 Tender Released",
-    "time": "1w ago",
-    "read": "1 min",
-    "importance_score": 4,
-    "indian_angle": "The tender release for the Khelo India Youth Games 2026 signifies ongoing government support and development for youth sports, including badminton, across India.",
-    "summary": "The tender for the upcoming Khelo India Youth Games 2026 has been released, indicating the preparatory phase for this significant national multi-sport event."
-  },
-  {
-    "slug": "sikkim-to-host-49th-junior-national-badminton-championships",
-    "kicker": "Domestic",
-    "title": "Sikkim to Host 49th Junior National Badminton Championships",
-    "time": "2w ago",
-    "read": "2 min",
-    "importance_score": 6,
-    "indian_angle": "This event is a key platform for India's rising junior talent to compete nationally, with the championships being held domestically in Sikkim.",
-    "summary": "The eligibility list for the Yonex-Sunrise 49th Junior National Badminton Championships 2026, scheduled to take place in Sikkim from November 14 to 21, has been released."
-  },
-  {
-    "slug": "badminton-association-of-india-forms-new-athletes-committee",
-    "kicker": "Domestic",
-    "title": "Badminton Association of India Forms New Athletes Committee",
-    "time": "1m ago",
     "read": "2 min",
     "importance_score": 5,
-    "indian_angle": "The formation of this committee ensures that Indian badminton players will have a direct voice in the governance and decision-making processes of the BAI.",
-    "summary": "The Badminton Association of India has announced the formation of its new Athletes Committee, a significant step towards ensuring player representation in the sport's administration."
+    "indian_angle": "This story focuses on Indian star Lakshya Sen's upcoming match at a significant international tournament.",
+    "summary": "Details for watching India's Lakshya Sen compete in the Japan Masters Round of 32 against Chinese Taipei's Chi Yu Jen."
   },
   {
-    "slug": "national-camp-underway-for-bwf-world-junior-championships",
-    "kicker": "Domestic",
-    "title": "National Camp Underway for BWF World Junior Championships",
-    "time": "1m ago",
-    "read": "2 min",
-    "importance_score": 7,
-    "indian_angle": "This camp is crucial for preparing India's top junior shuttlers for the upcoming BWF World Junior Championships, aiming for international success.",
-    "summary": "A national coaching camp for the BWF World Junior Championships 2026 is currently being held at the National Centre of Excellence (NCE) in Guwahati, bringing together India's promising young talent."
-  },
-  {
-    "slug": "tanvi-patris-unique-journey-forged-in-china",
+    "slug": "tanvi-patris-unique-badminton-journey-forged-in-china",
     "kicker": "Feature",
-    "title": "Tanvi Patri's Unique Journey Forged in China",
-    "time": "Yesterday",
-    "read": "4 min",
+    "title": "Tanvi Patri's unique badminton journey forged in China, eyes LA Olympics",
+    "time": "2d ago",
+    "read": "3 min",
     "importance_score": 7,
-    "indian_angle": "This feature highlights the inspiring journey of India's new badminton sensation, Tanvi Patri, and her aspirations for a world junior title and Olympic qualification.",
-    "summary": "India's rising badminton star, Tanvi Patri, is featured in an article detailing her unique training journey, which included significant time spent in China, as she targets a world junior title and LA Olympics qualification."
+    "indian_angle": "This feature highlights the unique development of India's new badminton sensation, Tanvi Patri, and her Olympic aspirations.",
+    "summary": "A profile on India's rising badminton star Tanvi Patri, detailing her training background in China and her goals for the world junior title and LA Olympics qualification."
+  },
+  {
+    "slug": "delhi-high-court-disposes-contempt-plea-against-aita-office-bearers",
+    "kicker": "Domestic",
+    "title": "Delhi High Court disposes of contempt plea against AITA office-bearers",
+    "time": "Yesterday",
+    "read": "2 min",
+    "importance_score": 3,
+    "indian_angle": "This news concerns the administrative affairs of a major Indian sports federation, impacting sports governance in the country.",
+    "summary": "The Delhi High Court has dismissed a contempt petition against the interim office-bearers of the All India Tennis Association (AITA), ahead of scheduled elections."
   }
 ]
