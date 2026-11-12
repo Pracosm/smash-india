@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week is crucial for India to consolidate ranking points, build momentum, and test their mettle against top international competition ahead of the season's final stretch.",
-  "summary": "India's contingent at the Japan Masters Super 500 event sees a mix of established stars and promising talent looking to make a deep run. Men's Doubles pair Satwiksairaj Rankireddy and Chirag Shetty, seeded fourth, lead the charge as India's top-ranked pair, hoping to build on their consistent performances this season. Their R32 opponent is yet to be determined.\n\nIn the Men's Singles, Lakshya Sen arrives with significant momentum, having just clinched the Hylo Open title—he's already secured his spot in the Round of 16 here after defeating Yu Jen. Veteran Kidambi Srikanth also showed his mettle, navigating a tough opening match against Rasmus Gemke to advance to the pre-quarterfinals. PV Sindhu, a consistent presence at the top, will be looking to kickstart her campaign, while Treesa Jolly and Gayatri Gopichand continue their journey as a rising force in Women's Doubles. HS Prannoy and Malvika Bansod round out the Indian challenge, seeking crucial ranking points and valuable experience against a strong international field.",
+  "stakes": "This Super 500 event offers a vital opportunity for India's shuttlers to gain momentum, secure crucial ranking points, and fine-tune their game ahead of the season's culminating tournaments.",
+  "summary": "India's campaign at the Super 500 Japan Masters is off to a promising start, with several key shuttlers in action. Lakshya Sen has already made his mark, successfully navigating a tough opening round to secure his spot in the Round of 16. This victory continues his strong run of form, building on his recent Hylo Open title.\n\nLeading the charge are India's top men's doubles pair, Satwik & Chirag, who enter the tournament as the 4th seeds, looking to make a deep run. PV Sindhu, who has already qualified for the prestigious Tour Finals, will also be aiming for a strong performance to fine-tune her game. Veteran campaigners like HS Prannoy and Kidambi Srikanth, along with the rising women's doubles talent of Treesa & Gayatri, are all in the mix, seeking crucial ranking points.\n\nYoung talent Malvika Bansod will be looking to gain valuable experience against top-tier international competition. With the season progressing, every match at this Super 500 event offers a vital opportunity for India's contingent to build momentum and consolidate their positions.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "seed": 4,
       "rank": 6,
-      "draw": "R32 \n— TBD",
+      "draw": "R32 — TBD",
       "note": "India's top men's doubles pair"
     },
     {
@@ -41,7 +41,7 @@
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 6,
-      "draw": "R32 \n— TBD",
+      "draw": "R32 — TBD",
       "note": "Qualified for Tour Finals"
     },
     {
@@ -49,15 +49,15 @@
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 13,
-      "draw": "R16",
+      "draw": "R16 — TBD",
       "note": "Coming off Hylo Open title win"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 20,
-      "draw": "R16",
+      "rank": 18,
+      "draw": "R16 — TBD",
       "note": "Rising women's doubles talent"
     },
     {
@@ -65,7 +65,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 \n— TBD",
+      "draw": "R32 — TBD",
       "note": "Veteran campaigner aiming for deep run"
     },
     {
@@ -73,13 +73,13 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 \n— TBD",
+      "draw": "R32 — TBD",
       "note": "Young talent gaining experience"
     },
     {
       "name": "Kidambi Srikanth",
       "discipline": "Men's Singles",
-      "draw": "R16",
+      "draw": "R16 — TBD",
       "note": "Veteran campaigner, through to R16"
     }
   ]
