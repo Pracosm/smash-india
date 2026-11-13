@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 500 event offers a vital opportunity for India's shuttlers to gain momentum, secure crucial ranking points, and fine-tune their game ahead of the season's culminating tournaments.",
-  "summary": "India's campaign at the Super 500 Japan Masters is off to a promising start, with several key shuttlers in action. Lakshya Sen has already made his mark, successfully navigating a tough opening round to secure his spot in the Round of 16. This victory continues his strong run of form, building on his recent Hylo Open title.\n\nLeading the charge are India's top men's doubles pair, Satwik & Chirag, who enter the tournament as the 4th seeds, looking to make a deep run. PV Sindhu, who has already qualified for the prestigious Tour Finals, will also be aiming for a strong performance to fine-tune her game. Veteran campaigners like HS Prannoy and Kidambi Srikanth, along with the rising women's doubles talent of Treesa & Gayatri, are all in the mix, seeking crucial ranking points.\n\nYoung talent Malvika Bansod will be looking to gain valuable experience against top-tier international competition. With the season progressing, every match at this Super 500 event offers a vital opportunity for India's contingent to build momentum and consolidate their positions.",
+  "stakes": "This week is crucial for India to build momentum and secure vital BWF World Tour ranking points, especially for Lakshya Sen's push towards the season-ending Tour Finals.",
+  "summary": "India's campaign at the Japan Masters has seen mixed fortunes, with **Lakshya Sen** leading the charge into the semifinals. Fresh off his Hylo Open title, Sen—currently ranked 13th—is making a strong push to break into the top eight of the BWF World Tour rankings, a crucial step for qualifying for the season-ending Tour Finals. His quarterfinal win over Japan's Yushi Tanaka was a confident display, setting him up for a potential deep run. However, it wasn't all smooth sailing for the Indian contingent, as veteran **Kidambi Srikanth** bowed out of the tournament. While the specific round of his exit wasn't detailed, his departure means one less Indian presence in the later stages. Top men's doubles pair **Satwik & Chirag** (seeded 4th, world No. 5) and women's singles star **PV Sindhu** (world No. 6) are still in the hunt, with their draws yet to fully unfold. Rising women's doubles pair **Treesa & Gayatri** and men's singles campaigner **HS Prannoy** are also looking to make their mark, alongside young talent **Malvika Bansod**. This Super 500 event offers valuable points and momentum as the season progresses, with the Tour Finals looming large for many.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
       "seed": 4,
-      "rank": 6,
+      "rank": 5,
       "draw": "R32 — TBD",
       "note": "India's top men's doubles pair"
     },
@@ -49,8 +49,8 @@
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
       "rank": 13,
-      "draw": "R16 — TBD",
-      "note": "Coming off Hylo Open title win"
+      "draw": "Semifinals — TBD",
+      "note": "Coming off Hylo Open title, eyes Tour Finals spot"
     },
     {
       "playerSlug": "treesa-gayatri",
@@ -75,12 +75,6 @@
       "rank": 31,
       "draw": "R32 — TBD",
       "note": "Young talent gaining experience"
-    },
-    {
-      "name": "Kidambi Srikanth",
-      "discipline": "Men's Singles",
-      "draw": "R16 — TBD",
-      "note": "Veteran campaigner, through to R16"
     }
   ]
 }
