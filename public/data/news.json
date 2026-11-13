@@ -1,42 +1,52 @@
 [
   {
-    "slug": "president-murmu-national-sports-awards-lalremsiami",
-    "kicker": "Domestic",
-    "title": "President Murmu Presents National Sports Awards; Lalremsiami Honoured",
-    "time": "2h ago",
-    "read": "3 min",
+    "slug": "lakshya-sen-kumamoto-masters-japan-semifinals",
+    "kicker": "Result",
+    "title": "Lakshya Sen Reaches Kumamoto Masters Japan Semifinals",
+    "time": "3h ago",
+    "read": "1 min",
     "importance_score": 8,
-    "indian_angle": "The National Sports Awards recognize top Indian athletes and coaches, with Lalremsiami making history for Mizoram.",
-    "summary": "President Murmu awarded the National Sports Awards, with Lalremsiami becoming the first from Mizoram to receive the Arjuna Award, among 17 recipients and three Dronacharya awardees."
+    "indian_angle": "India's top male shuttler Lakshya Sen has advanced to the semifinals of a significant international tournament.",
+    "summary": "Eighth seed Lakshya Sen, who recently won the Hylo Open, continues his strong form by reaching the semifinals of the Kumamoto Masters Japan, boosting his BWF World Tour ranking."
   },
   {
-    "slug": "lakshya-sen-kumamoto-masters-semifinals",
-    "kicker": "Match Report",
-    "title": "Lakshya Sen Reaches Kumamoto Masters Semifinals, Srikanth Exits",
-    "time": "8h ago",
+    "slug": "bai-elections-scheduled-for-december-26-in-guwahati",
+    "kicker": "Domestic",
+    "title": "BAI Elections Scheduled for December 26 in Guwahati",
+    "time": "3d ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "The Badminton Association of India has announced the date and venue for its forthcoming elections, shaping the future leadership of Indian badminton.",
+    "summary": "The Badminton Association of India (BAI) will hold its elections on December 26, 2026, in Guwahati, as per a recent circular."
+  },
+  {
+    "slug": "88th-senior-national-badminton-championships-set-for-bhubaneswar",
+    "kicker": "Domestic",
+    "title": "88th Senior National Badminton Championships Set for Bhubaneswar",
+    "time": "6d ago",
+    "read": "2 min",
+    "importance_score": 6,
+    "indian_angle": "The premier national badminton event in India, the Senior National Championships, has its venue and dates confirmed, allowing players to prepare.",
+    "summary": "The Yonex-Sunrise 79th Inter State – Inter Zonal & 88th Senior National Badminton Championships 2026 will take place in Bhubaneswar, Odisha, from December 17 to 24, 2026."
+  },
+  {
+    "slug": "49th-junior-national-badminton-championships-to-be-held-in-sikkim",
+    "kicker": "Domestic",
+    "title": "49th Junior National Badminton Championships to be Held in Sikkim",
+    "time": "3w ago",
+    "read": "2 min",
+    "importance_score": 5,
+    "indian_angle": "India's promising young badminton talents will compete in the 49th Junior National Championships in Sikkim, a key event for their development.",
+    "summary": "The eligibility list for the Yonex-Sunrise 49th Junior National Badminton Championships 2026, scheduled from November 14 to 21 in Sikkim, has been released."
+  },
+  {
+    "slug": "national-coaching-camp-for-bwf-world-junior-championships-2026",
+    "kicker": "Domestic",
+    "title": "National Coaching Camp for BWF World Junior Championships 2026",
+    "time": "7w ago",
     "read": "2 min",
     "importance_score": 7,
-    "indian_angle": "Indian shuttler Lakshya Sen's strong performance in a Super 500 tournament keeps his hopes alive for the season-ending BWF World Tour Finals.",
-    "summary": "World No. 13 Lakshya Sen defeated Japan's Yushi Tanaka 21-16, 21-15 to advance to the semifinals of the Kumamoto Masters Japan, while fellow Indian Srikanth bowed out."
-  },
-  {
-    "slug": "vivaan-kapoor-trap-silver-la-2028-olympic-quota",
-    "kicker": "Result",
-    "title": "Vivaan Kapoor Wins Trap Silver, Secures India's LA 2028 Olympic Quota",
-    "time": "16h ago",
-    "read": "3 min",
-    "importance_score": 10,
-    "indian_angle": "Vivaan Kapoor's silver medal performance directly secured an Olympic quota for India in shooting for the LA 2028 Games.",
-    "summary": "Vivaan Kapoor won a trap silver medal, making him the fourth Indian men's trap shooter to secure an Olympic quota for India for the LA 2028 Games."
-  },
-  {
-    "slug": "ambekar-gunjan-youth-olympics-boxing-gold",
-    "kicker": "Result",
-    "title": "Ambekar, Gunjan Win Historic Boxing Golds at Youth Olympics",
-    "time": "16h ago",
-    "read": "3 min",
-    "importance_score": 9,
-    "indian_angle": "Indian boxers Ambekar and Gunjan achieved historic gold medals at the Youth Olympics, with Gunjan becoming the first Indian woman to do so.",
-    "summary": "Ambekar and Gunjan secured gold medals in boxing at the Youth Olympics, with Gunjan becoming India's first woman to achieve this feat."
+    "indian_angle": "Indian junior shuttlers are undergoing intensive training at the National Center of Excellence in Guwahati to prepare for the upcoming BWF World Junior Championships.",
+    "summary": "A national coaching camp is underway at the NCE, Guwahati, to prepare the Indian contingent for the BWF World Junior Championships 2026."
   }
 ]
