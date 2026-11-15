@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This week, India aims to cap off a strong run with a Super 500 title, further solidifying its presence on the global badminton stage and building momentum towards the Tour Finals.",
-  "summary": "India's campaign at the Japan Masters has been electrified by **Lakshya Sen**, who has powered his way into the men's singles final. Coming off a recent triumph at the Hylo Open, Sen has continued his impressive form, overcoming Alwi Farhan in a hard-fought semifinal. He now faces Koni Watanabe in what promises to be a thrilling championship clash, with a Super 500 title firmly in his sights. \n\nWhile Sen carries the flag into the final, the progress of other Indian shuttlers remains to be seen. India's top men's doubles pair, **Satwik & Chirag**, entered the tournament as the fourth seeds, looking to make a deep run. Similarly, **PV Sindhu**, a consistent force on the circuit, aimed for a strong performance to bolster her Tour Finals qualification. \n\nThe tournament also features rising talents like **Treesa & Gayatri** in women's doubles, and veteran **HS Prannoy** in men's singles, all seeking to leave their mark in Kumamoto. With Sen's stellar run, the focus is squarely on the final, hoping for another Indian victory on the BWF Tour.",
+  "stakes": "Lakshya Sen's historic title win at the Japan Masters significantly boosts his — and India's — momentum towards the season-ending BWF World Tour Finals.",
+  "summary": "India's campaign at the Japan Masters concluded on a high note, with **Lakshya Sen** delivering a stellar performance to clinch the men's singles title. This victory marks his second consecutive BWF Tour crown, following his triumph at the Hylo Open, and makes him the first Indian ever to win the Japan Masters. Sen's resurgence in form is timely, placing him in a strong position to qualify for the season-ending BWF World Tour Finals.\n\nWhile Sen shone brightly, it was a quieter week for the rest of the Indian contingent. Top men's doubles pair **Satwik & Chirag**, seeded fourth, along with **PV Sindhu**, **Treesa & Gayatri**, **HS Prannoy**, and **Malvika Bansod**, all faced early exits from the Super 500 event. Despite the mixed results, Sen's breakthrough performance offers a significant boost to Indian badminton, highlighting his potential as a consistent title contender on the global stage.",
   "indiaContingent": [
     {
       "playerSlug": "satwik-chirag",
@@ -33,7 +33,7 @@
       "discipline": "Men's Doubles",
       "seed": 4,
       "rank": 6,
-      "draw": "R32 — TBD",
+      "draw": "R32 — Eliminated",
       "note": "India's top men's doubles pair"
     },
     {
@@ -42,23 +42,23 @@
       "discipline": "Men's Singles",
       "seed": 8,
       "rank": 13,
-      "draw": "Final vs Koni Watanabe (JPN)",
-      "note": "Coming off Hylo Open title, eyes Tour Finals spot"
+      "draw": "Winner",
+      "note": "First Indian to win Japan Masters, back-to-back titles"
     },
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 6,
-      "draw": "R32 — TBD",
+      "draw": "R32 — Eliminated",
       "note": "Qualified for Tour Finals"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 19,
-      "draw": "R16 — TBD",
+      "rank": 18,
+      "draw": "R16 — Eliminated",
       "note": "Rising women's doubles talent"
     },
     {
@@ -66,7 +66,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
+      "draw": "R32 — Eliminated",
       "note": "Veteran campaigner aiming for deep run"
     },
     {
@@ -74,7 +74,7 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
+      "draw": "R32 — Eliminated",
       "note": "Young talent gaining experience"
     }
   ]
