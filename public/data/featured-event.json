@@ -1,81 +1,79 @@
 {
-  "slug": "japan-masters",
-  "name": "Japan Masters",
+  "slug": "hong-kong-open",
+  "name": "Hong Kong Open",
   "edition": "2026",
-  "fullName": "Japan Masters",
+  "fullName": "Hong Kong Open",
   "grade": "Super 500",
-  "city": "Kumamoto",
-  "flag": "🇯🇵",
-  "dates": "Nov 10 – Nov 15, 2026",
-  "startsAt": "2026-11-10T09:00:00+09:00",
-  "endsAt": "2026-11-16T00:00:00.000Z",
+  "city": "Hong Kong",
+  "flag": "🇭🇰",
+  "dates": "Nov 17 \n– Nov 22, 2026",
+  "startsAt": "2026-11-17T00:00:00+08:00",
+  "endsAt": "2026-11-22T16:00:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5218/hong-kong-open-2026/results/",
   "venue": {
-    "name": "Kumamoto Prefectural Gymnasium",
+    "name": "Kai Tak Arena",
     "blurb": ""
   },
   "broadcasters": [
     {
-      "label": "Sony Sports · JioHotstar",
+      "label": "Sony Sports \n· JioHotstar",
       "region": "India"
     }
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "Lakshya Sen's historic Japan Masters title propels him towards a BWF World Tour Finals spot, offering a beacon of hope for India's elite badminton aspirations.",
-  "summary": "India's campaign at the Japan Masters, a Super 500 event, culminated in a spectacular triumph for Lakshya Sen. The 25-year-old Men's Singles star clinched his second consecutive BWF Tour crown, defeating Japan's Koki Watanabe in the final. This victory marks a significant milestone, making Sen the first Indian to ever win the Japan Masters title, and firmly places him in contention for the coveted BWF World Tour Finals. His recent form, including the Hylo Open title, suggests a player hitting his stride at a crucial juncture of the season.\n\nWhile Sen shone brightly, it was a challenging tournament for the rest of the Indian contingent. Top Men's Doubles pair Satwik & Chirag, seeded fourth, faced an early exit in the R32. Similarly, Women's Singles stalwart PV Sindhu, along with Treesa & Gayatri in Women's Doubles, and Men's Singles veteran HS Prannoy, also saw their campaigns end in the initial rounds. Young talent Malvika Bansod too exited in the R32. Despite these early departures, Sen's historic win provides a significant boost for Indian badminton.",
+  "stakes": "For India, this Super 500 event is a vital opportunity to build momentum, secure crucial ranking points, and solidify bids for the BWF World Tour Finals.",
+  "summary": "The Hong Kong Open, a Super 500 event, kicks off today, and India's contingent arrives with a mix of momentum and anticipation. All eyes will undoubtedly be on Lakshya Sen, who has rediscovered his scintillating form, clinching back-to-back titles at the Hylo Open and Japan Masters. This resurgence has significantly boosted his hopes for the BWF World Tour Finals, making this tournament a crucial stepping stone.\n\nIndia's top-ranked women's singles player, P.V. Sindhu, and the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, both currently ranked world No. 6, will be looking to make deep runs. While the draws are yet to be fully revealed, promising talents like Treesa Jolly and Gayatri Gopichand in women's doubles, along with seasoned campaigners like H.S. Prannoy, will also be eager to leave their mark. The Super 500 stage offers valuable ranking points and a chance to build confidence as the season progresses.",
   "indiaContingent": [
+    {
+      "playerSlug": "pv-sindhu",
+      "name": "PV Sindhu",
+      "discipline": "Women's Singles",
+      "rank": 6,
+      "draw": "R32 — TBD",
+      "note": "Top-ranked Indian woman"
+    },
     {
       "playerSlug": "satwik-chirag",
       "name": "Satwik & Chirag",
       "discipline": "Men's Doubles",
-      "seed": 4,
       "rank": 6,
-      "draw": "R32 — Eliminated",
+      "draw": "R32 — TBD",
       "note": "India's top men's doubles pair"
     },
     {
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "seed": 8,
       "rank": 13,
-      "draw": "Winner",
-      "note": "First Indian to win Japan Masters, back-to-back titles"
-    },
-    {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
-      "discipline": "Women's Singles",
-      "rank": 6,
-      "draw": "R32 — Eliminated",
-      "note": "Qualified for Tour Finals"
+      "draw": "R32 — TBD",
+      "note": "Coming off back-to-back titles"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 20,
-      "draw": "R16 — Eliminated",
-      "note": "Rising women's doubles talent"
+      "rank": 18,
+      "draw": "R32 — TBD",
+      "note": "Rising women's doubles pair"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — Eliminated",
-      "note": "Veteran campaigner aiming for deep run"
+      "draw": "R32 — TBD",
+      "note": "Seasoned campaigner"
     },
     {
       "playerSlug": "malvika-bansod",
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — Eliminated",
-      "note": "Young talent gaining experience"
+      "draw": "R32 — TBD",
+      "note": "Young talent looking to impress"
     }
   ]
 }
