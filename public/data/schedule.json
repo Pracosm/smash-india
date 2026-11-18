@@ -1,22 +1,12 @@
 [
   {
-    "slug": "hong-kong-open",
-    "date": "NOV 17",
-    "name": "Hong Kong Open",
-    "grade": "Super 500",
-    "city": "Hong Kong",
-    "flag": "🇭🇰",
-    "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5218/hong-kong-open-2026/results/"
-  },
-  {
     "slug": "syed-modi-international",
     "date": "NOV 24",
     "name": "Syed Modi International",
     "grade": "Super 300",
     "city": "Lucknow",
     "flag": "🇮🇳",
-    "soon": false,
+    "soon": true,
     "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5274/syed-modi-india-international-2026/results/"
   },
   {

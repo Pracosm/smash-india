@@ -24,14 +24,14 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "For India, this Super 500 event is a vital opportunity to build momentum, secure crucial ranking points, and solidify bids for the BWF World Tour Finals.",
-  "summary": "The Hong Kong Open, a Super 500 event, kicks off today, and India's contingent arrives with a mix of momentum and anticipation. All eyes will undoubtedly be on Lakshya Sen, who has rediscovered his scintillating form, clinching back-to-back titles at the Hylo Open and Japan Masters. This resurgence has significantly boosted his hopes for the BWF World Tour Finals, making this tournament a crucial stepping stone.\n\nIndia's top-ranked women's singles player, P.V. Sindhu, and the formidable men's doubles pair of Satwiksairaj Rankireddy and Chirag Shetty, both currently ranked world No. 6, will be looking to make deep runs. While the draws are yet to be fully revealed, promising talents like Treesa Jolly and Gayatri Gopichand in women's doubles, along with seasoned campaigners like H.S. Prannoy, will also be eager to leave their mark. The Super 500 stage offers valuable ranking points and a chance to build confidence as the season progresses.",
+  "stakes": "This week is a vital opportunity for India's shuttlers to gain crucial ranking points and build confidence ahead of the season-ending BWF World Tour Finals.",
+  "summary": "India's campaign at the Hong Kong Open is off to a promising start, with Lakshya Sen and the women's doubles pair of Treesa Jolly and Gayatri Gopichand Pullela successfully navigating their opening rounds. Sen, fresh off back-to-back titles, endured a grueling three-game battle against Frenchman Arnaud Merkle, ultimately prevailing to not only advance but also secure his spot in the prestigious BWF World Tour Finals 2026—a significant milestone for the young shuttler. Treesa and Gayatri, meanwhile, had a more straightforward path, swiftly dispatching a local pair in just 28 minutes to book their place in the Round of 16. Attention now turns to India's other top contenders, including the formidable PV Sindhu and the dynamic men's doubles duo of Satwiksairaj Rankireddy and Chirag Shetty, who are yet to begin their respective draws. Veteran HS Prannoy and rising talent Malvika Bansod also await their initial challenges, hoping to build momentum in this crucial Super 500 event.",
   "indiaContingent": [
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
-      "rank": 6,
+      "rank": 5,
       "draw": "R32 — TBD",
       "note": "Top-ranked Indian woman"
     },
@@ -47,16 +47,16 @@
       "playerSlug": "lakshya-sen",
       "name": "Lakshya Sen",
       "discipline": "Men's Singles",
-      "rank": 13,
-      "draw": "R32 — TBD",
+      "rank": 11,
+      "draw": "R16 — TBD",
       "note": "Coming off back-to-back titles"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 18,
-      "draw": "R32 — TBD",
+      "rank": 20,
+      "draw": "R16 — TBD",
       "note": "Rising women's doubles pair"
     },
     {
