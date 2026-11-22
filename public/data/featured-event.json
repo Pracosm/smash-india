@@ -24,15 +24,15 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "With top contenders exiting in the semifinals, this Hong Kong Open served as a crucial test of form and a valuable gauge of India's standing against global elite ahead of upcoming major tournaments.",
-  "summary": "India's campaign at the Hong Kong Open has seen its top contenders fall in the semifinals, bringing an end to what had been a promising run for some. **Lakshya Sen**, riding a phenomenal 13-match winning streak after clinching back-to-back titles at the Hylo Open and Japan Masters, ultimately found his momentum halted by Anders Antonsen in a straight-games defeat. It’s a tough exit for Sen, who had shown incredible form leading into this Super 500 event.\n\nSimilarly, India's premier men's doubles pair, **Satwik & Chirag**, also saw their journey conclude in the penultimate round. The world No. 6 duo battled hard but ultimately succumbed to Malaysia's eighth-seeded pair, Man Wei Chong and Tee Kai Wun, in a closely contested match. While the semifinals mark the end of the road for these key Indian entries, the experience gained against top-tier opponents at a Super 500 event is invaluable. Other Indian shuttlers like PV Sindhu, HS Prannoy, Treesa & Gayatri, and Malvika Bansod were also part of the contingent, though their paths through the draw were less highlighted in the later stages of the tournament.",
+  "stakes": "This week offered India's top shuttlers a crucial opportunity to build momentum and challenge for a Super 500 title, ultimately seeing strong semifinal runs but no champions.",
+  "summary": "India's campaign at the Hong Kong Open, a Super 500 event, concluded with mixed results, highlighted by strong runs from **Lakshya Sen** and the men's doubles pair of **Satwiksairaj Rankireddy & Chirag Shetty**, both reaching the semifinals. While they ultimately fell short of the final, their consistent performances underscore their growing prowess on the international circuit. Satwik & Chirag, ranked world No. 6, put up a valiant fight against Malaysia's Man Wei Chong and Tee Kai Wun, but couldn't secure their spot in the title clash. Lakshya Sen, world No. 11, also bowed out in the penultimate round, signaling his continued return to top form.For other Indian shuttlers, the tournament proved to be a tougher challenge. Top-ranked Indian woman **PV Sindhu** (world No. 5), along with the promising women's doubles pair of **Treesa Jolly & Gayatri Gopichand** (world No. 19), seasoned campaigner **HS Prannoy** (world No. 24), and young talent **Malvika Bansod** (world No. 31), exited in earlier rounds. While the specific details of their losses weren't highlighted, their campaigns at this Super 500 event have concluded, leaving room for reflection and regrouping as the season progresses.",
   "indiaContingent": [
     {
       "playerSlug": "pv-sindhu",
       "name": "PV Sindhu",
       "discipline": "Women's Singles",
       "rank": 5,
-      "draw": "R32 — TBD",
+      "draw": "Exited",
       "note": "Top-ranked Indian woman"
     },
     {
@@ -49,14 +49,14 @@
       "discipline": "Men's Singles",
       "rank": 11,
       "draw": "Semifinals vs Anders Antonsen (DEN)",
-      "note": "Coming off back-to-back titles"
+      "note": "Strong semifinal run"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 18,
-      "draw": "R16 — TBD",
+      "rank": 19,
+      "draw": "Exited",
       "note": "Rising women's doubles pair"
     },
     {
@@ -64,7 +64,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
+      "draw": "Exited",
       "note": "Seasoned campaigner"
     },
     {
@@ -72,7 +72,7 @@
       "name": "Malvika Bansod",
       "discipline": "Women's Singles",
       "rank": 31,
-      "draw": "R32 — TBD",
+      "draw": "Exited",
       "note": "Young talent looking to impress"
     }
   ]
