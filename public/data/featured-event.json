@@ -1,79 +1,66 @@
 {
-  "slug": "hong-kong-open",
-  "name": "Hong Kong Open",
+  "slug": "syed-modi-international",
+  "name": "Syed Modi International",
   "edition": "2026",
-  "fullName": "Hong Kong Open",
-  "grade": "Super 500",
-  "city": "Hong Kong",
-  "flag": "🇭🇰",
-  "dates": "Nov 17 \n– Nov 22, 2026",
-  "startsAt": "2026-11-17T00:00:00+08:00",
-  "endsAt": "2026-11-22T16:00:00.000Z",
+  "fullName": "Syed Modi International",
+  "grade": "Super 300",
+  "city": "Lucknow",
+  "flag": "🇮🇳",
+  "dates": "Nov 24 – Nov 29, 2026",
+  "startsAt": "2026-11-24T09:00:00+05:30",
+  "endsAt": "2026-11-30T03:30:00.000Z",
   "drawSize": 32,
   "disciplines": 5,
-  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5218/hong-kong-open-2026/results/",
+  "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5274/syed-modi-india-international-2026/results/",
   "venue": {
-    "name": "Kai Tak Arena",
+    "name": "Babu Banarasi Das Indoor Stadium",
     "blurb": ""
   },
   "broadcasters": [
     {
-      "label": "Sony Sports \n· JioHotstar",
+      "label": "Sony Sports · JioHotstar",
       "region": "India"
     }
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Hong Kong Open served as a crucial barometer for India's top talent, affirming their competitive edge and providing valuable momentum for the season ahead.",
-  "summary": "India wrapped up a largely positive campaign at the Hong Kong Open, a Super 500 event that saw two of its key entries reach the semifinals. Men's singles star Lakshya Sen continued his strong form, making a deep run before his streak ended, while the formidable men's doubles pair of Satwik & Chirag also showcased their prowess by reaching the penultimate round. Their consistent performances underscore India's growing presence at the top tiers of international badminton.\n\nWhile PV Sindhu, Treesa & Gayatri, HS Prannoy, and Malvika Bansod exited earlier, the overall takeaway for India is one of encouraging progress. The event also notably featured a stunning upset by 19-year-old Rakshitha Ramraj, who defeated former Olympic champion Chen Yufei—a testament to the emerging talent within the Indian ranks. This Super 500 provided valuable match practice and ranking points, setting the stage for future challenges.",
+  "stakes": "For India's badminton stars, this home Super 300 event is a crucial opportunity to build momentum, secure valuable ranking points, and for Treesa and Gayatri, etch their names in history with a hat-trick of titles.",
+  "summary": "The Syed Modi International, a Super 300 event, kicks off today in Lucknow with a promising Indian contingent looking to make a significant impact on home soil. All eyes will be on the formidable women's doubles pair of **Treesa Jolly and Gayatri Gopichand**, who are aiming for an unprecedented third consecutive title at this tournament—a truly remarkable feat if achieved. Their consistent form makes them strong contenders once again.\n\nIn the women's singles, India boasts two notable entries. **Tanvi Sharma**, seeded second, carries high expectations and will be looking to leverage her seeding for a deep run. Joining her in the main draw is the young talent **Tanvi Patri**, a Youth Olympics silver medallist, who successfully navigated the qualifiers, demonstrating her fighting spirit. On the men's side, **HS Prannoy**, a familiar name, leads the Indian challenge in singles, hoping to find his rhythm and advance. Meanwhile, the men's doubles pair of **Arjun and Hariharan** also fought through a tough qualifying round, securing their spot in the main draw after an \"unexpected scare,\" suggesting they're ready for the main event's challenges.",
   "indiaContingent": [
     {
-      "playerSlug": "pv-sindhu",
-      "name": "PV Sindhu",
+      "name": "Tanvi Sharma",
       "discipline": "Women's Singles",
-      "rank": 5,
-      "draw": "Exited",
-      "note": "Top-ranked Indian woman"
-    },
-    {
-      "playerSlug": "satwik-chirag",
-      "name": "Satwik & Chirag",
-      "discipline": "Men's Doubles",
-      "rank": 6,
-      "draw": "Exited at Semifinals",
-      "note": "India's top men's doubles pair"
-    },
-    {
-      "playerSlug": "lakshya-sen",
-      "name": "Lakshya Sen",
-      "discipline": "Men's Singles",
-      "rank": 11,
-      "draw": "Exited at Semifinals",
-      "note": "Strong semifinal run"
+      "seed": 2,
+      "draw": "R32 — TBD",
+      "note": "Second seed on home turf"
     },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
       "rank": 17,
-      "draw": "Exited",
-      "note": "Rising women's doubles pair"
+      "draw": "R32 — TBD",
+      "note": "Chasing a title hat-trick"
     },
     {
       "playerSlug": "hs-prannoy",
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "Exited",
-      "note": "Seasoned campaigner"
+      "draw": "R32 — TBD",
+      "note": "Best known in men's singles"
     },
     {
-      "playerSlug": "malvika-bansod",
-      "name": "Malvika Bansod",
+      "name": "Tanvi Patri",
       "discipline": "Women's Singles",
-      "rank": 31,
-      "draw": "Exited",
-      "note": "Young talent looking to impress"
+      "draw": "R32 — TBD",
+      "note": "Youth Olympics silver medallist, qualified"
+    },
+    {
+      "name": "Arjun & Hariharan",
+      "discipline": "Men's Doubles",
+      "draw": "R32 — TBD",
+      "note": "Survived qualifiers scare"
     }
   ]
 }
