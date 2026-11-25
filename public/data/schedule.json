@@ -1,13 +1,23 @@
 [
   {
-    "slug": "syed-modi-international",
-    "date": "NOV 24",
-    "name": "Syed Modi International",
-    "grade": "Super 300",
-    "city": "Lucknow",
+    "slug": "guwahati-masters",
+    "date": "DEC 01",
+    "name": "Guwahati Masters",
+    "grade": "Super 100",
+    "city": "Guwahati",
     "flag": "🇮🇳",
     "soon": true,
-    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/tournament/5274/syed-modi-india-international-2026/results/"
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
+  },
+  {
+    "slug": "odisha-masters",
+    "date": "DEC 08",
+    "name": "Odisha Masters",
+    "grade": "Super 100",
+    "city": "Cuttack",
+    "flag": "🇮🇳",
+    "soon": false,
+    "bwfUrl": "https://bwfworldtour.bwfbadminton.com/calendar/"
   },
   {
     "slug": "bwf-world-tour-finals",

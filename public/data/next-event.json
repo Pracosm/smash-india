@@ -1,12 +1,12 @@
 {
-  "name": "Syed Modi International",
-  "grade": "Super 300",
-  "city": "Lucknow",
-  "venue": "Babu Banarasi Das Indoor Stadium",
-  "dates": "Nov 24 – Nov 29, 2026",
-  "startsAt": "2026-11-24T09:00:00+05:30",
+  "name": "Guwahati Masters",
+  "grade": "Super 100",
+  "city": "Guwahati",
+  "venue": "Karmabir Nabin Chandra Bordoloi Indoor Stadium",
+  "dates": "Dec 1 – Dec 6, 2026",
+  "startsAt": "2026-12-01T09:00:00+05:30",
   "indiaInDraw": 18,
   "disciplines": 5,
-  "blurb": "The Syed Modi International offers Indian shuttlers a prime opportunity to earn crucial ranking points on home turf. Expect strong performances from local talent aiming to make a mark.",
-  "broadcaster": "Sony Sports · JioHotstar"
+  "blurb": "The Guwahati Masters offers a crucial opportunity for India's emerging talents to gain valuable BWF ranking points on home soil. Expect fierce competition as local players aim to make a mark.",
+  "broadcaster": "JioCinema · BWF TV"
 }

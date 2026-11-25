@@ -24,8 +24,8 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "For India's badminton stars, this home Super 300 event is a crucial opportunity to build momentum, secure valuable ranking points, and for Treesa and Gayatri, etch their names in history with a hat-trick of titles.",
-  "summary": "The Syed Modi International, a Super 300 event, kicks off today in Lucknow with a promising Indian contingent looking to make a significant impact on home soil. All eyes will be on the formidable women's doubles pair of **Treesa Jolly and Gayatri Gopichand**, who are aiming for an unprecedented third consecutive title at this tournament—a truly remarkable feat if achieved. Their consistent form makes them strong contenders once again.\n\nIn the women's singles, India boasts two notable entries. **Tanvi Sharma**, seeded second, carries high expectations and will be looking to leverage her seeding for a deep run. Joining her in the main draw is the young talent **Tanvi Patri**, a Youth Olympics silver medallist, who successfully navigated the qualifiers, demonstrating her fighting spirit. On the men's side, **HS Prannoy**, a familiar name, leads the Indian challenge in singles, hoping to find his rhythm and advance. Meanwhile, the men's doubles pair of **Arjun and Hariharan** also fought through a tough qualifying round, securing their spot in the main draw after an \"unexpected scare,\" suggesting they're ready for the main event's challenges.",
+  "stakes": "This week is a crucial opportunity for India's shuttlers to claim valuable ranking points, build momentum, and secure a significant home title at the Super 300 Syed Modi International.",
+  "summary": "India's campaign at the Syed Modi International, a home Super 300 event, has begun with a mix of anticipation and early disappointment. Women's Singles second seed Tanvi Sharma carries significant hopes, looking to make a deep run on familiar courts. Meanwhile, the formidable Women's Doubles pair of Treesa & Gayatri, now ranked 19th, are eyeing an impressive third consecutive title at this tournament, a feat that would solidify their growing reputation.\n\nHowever, the home crowd in Lucknow has already seen one of India's prominent names, HS Prannoy, bow out in the opening round. Despite a spirited fight, Prannoy, ranked 24th, fell in straight games to China's Zhe Ying Wu, a result that will undoubtedly sting. Young talents like Tanvi Patri, a Youth Olympics silver medallist, and the Men's Doubles pair of Arjun & Hariharan, who navigated the qualifiers, will be eager to seize their opportunities and make their mark as the tournament progresses.",
   "indiaContingent": [
     {
       "name": "Tanvi Sharma",
@@ -38,7 +38,7 @@
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 17,
+      "rank": 19,
       "draw": "R32 — TBD",
       "note": "Chasing a title hat-trick"
     },
@@ -47,7 +47,7 @@
       "name": "HS Prannoy",
       "discipline": "Men's Singles",
       "rank": 24,
-      "draw": "R32 — TBD",
+      "draw": "R32 lost to Zhe Ying Wu (CHN)",
       "note": "Best known in men's singles"
     },
     {
