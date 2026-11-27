@@ -24,23 +24,24 @@
   ],
   "recentChampions": [],
   "indiaHistory": [],
-  "stakes": "This Super 300 event offers a prime opportunity for India's emerging talents and established stars to claim valuable ranking points and titles on home turf, especially with key players advancing to the quarterfinals.",
-  "summary": "India's campaign at the Syed Modi International, a Super 300 event on home soil, is heating up with some promising performances. Women's Singles second seed Tanvi Sharma navigated a tricky opener, surviving a scare against Puspitasari to secure her spot in the quarterfinals. This deep run is crucial for her as she looks to build momentum and prove her seeding.\n\nIn Women's Doubles, the defending champions Treesa Jolly and Gayatri Gopichand continued their impressive form, comfortably dispatching compatriots Shreya Balaji and Pranavi Natarajan to also reach the quarterfinals. Their pursuit of a third consecutive title here remains firmly on track. Meanwhile, Men's Singles saw HS Prannoy's journey cut short in the Round of 32, a disappointing early exit for the experienced shuttler.\n\nThe tournament, running in Lucknow, offers a valuable opportunity for India's contingent to clinch titles and gain crucial ranking points, especially for the younger talents making their mark. The focus now shifts to the quarterfinal clashes, where the remaining Indian hopes will battle for a place in the semifinals.",
+  "stakes": "This week offers India's emerging talent a prime opportunity to claim a Super 300 title on home turf, while Treesa & Gayatri aim to solidify their legacy with a historic hat-trick.",
+  "summary": "India's contingent at the Syed Modi International is making a strong push on home soil, particularly in the women's events. The spotlight is firmly on the women's singles, where a compelling all-Indian semifinal is set to unfold between the second seed Tanvi Sharma and rising star Unnati Hooda. Tanvi Sharma, after navigating a challenging path through the earlier rounds, will be looking to capitalize on her seeding and home advantage.\n\nIn women's doubles, top seeds Treesa Jolly and Gayatri Gopichand are continuing their impressive run, having secured a spot in the semifinals. They are now just two wins away from achieving a remarkable hat-trick of titles at this Super 300 event, a testament to their consistent performance. While the women's categories are buzzing with Indian success, the men's singles saw an early exit for HS Prannoy, who fell in the Round of 32. Other Indian hopefuls, like Tanvi Patri and the men's doubles pair of Arjun & Hariharan, faced tough draws or early exits, leaving the focus squarely on the semifinalists to carry the flag.",
   "indiaContingent": [
-    {
-      "name": "Tanvi Sharma",
-      "discipline": "Women's Singles",
-      "seed": 2,
-      "draw": "Quarterfinals — TBD",
-      "note": "Second seed on home turf"
-    },
     {
       "playerSlug": "treesa-gayatri",
       "name": "Treesa & Gayatri",
       "discipline": "Women's Doubles",
-      "rank": 19,
-      "draw": "Quarterfinals — TBD",
+      "seed": 1,
+      "rank": 18,
+      "draw": "Semifinals — TBD",
       "note": "Chasing a title hat-trick"
+    },
+    {
+      "name": "Tanvi Sharma",
+      "discipline": "Women's Singles",
+      "seed": 2,
+      "draw": "Semifinals vs Unnati Hooda (IND)",
+      "note": "Second seed on home turf"
     },
     {
       "playerSlug": "hs-prannoy",
